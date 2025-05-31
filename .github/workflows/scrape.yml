@@ -35,13 +35,11 @@ jobs:
     - name: Extract structured info from data.json
       run: python extractInfo.py
 
-    - name: Commit and push changes
+    - name: Commit and push changes with token
       run: |
-        echo "✅ 配置 Git 用户信息"
         git config user.name "TeemoBot"
         git config user.email "teemobot@example.com"
-
-        echo "✅ 添加并提交更新"
-        git add data.json
-        git commit -m "Update data [auto]" || echo "No changes"
+        git add data.json webstore_items_limited.csv webstore_items_limited.json
+        git commit -m "Update data and extracted info [auto]" || echo "No changes"
         git push origin HEAD:${{ github.ref_name }}
+
