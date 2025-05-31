@@ -1,19 +1,24 @@
 import requests
-import json
 import os
-
+import json
 
 headers = {'User-Agent': 'Mozilla/5.0'}
 
+# 从 GitHub Secrets 读取
 user = os.getenv("PROXY_USER")
 pwd = os.getenv("PROXY_PASS")
 host = os.getenv("PROXY_HOST")
 port = os.getenv("PROXY_PORT")
 
+if not all([user, pwd, host, port]):
+    raise Exception("❌ 缺少代理环境变量")
+
+proxy_auth = f"http://{user}:{pwd}@{host}:{port}"
 proxies = {
-    "http": f"http://{user}:{pwd}@{host}:{port}",
-    "https": f"http://{user}:{pwd}@{host}:{port}"
+    "http": proxy_auth,
+    "https": proxy_auth
 }
+
 def get_build_id():
     url = "https://store.pokemongo.com/buildId"
     print(f"Fetching build ID via proxy: {url}")
@@ -24,6 +29,9 @@ def get_build_id():
         return resp.text.strip().strip('"')
     else:
         raise Exception("Failed to fetch build ID")
+
+# 其余逻辑保持不变...
+
 
 def crawl():
     build_id = get_build_id()
