@@ -1,10 +1,10 @@
 import requests
-import os
 import json
+import os
+import re
 
 headers = {'User-Agent': 'Mozilla/5.0'}
 
-# 从 GitHub Secrets 读取
 user = os.getenv("PROXY_USER")
 pwd = os.getenv("PROXY_PASS")
 host = os.getenv("PROXY_HOST")
@@ -14,23 +14,29 @@ if not all([user, pwd, host, port]):
     raise Exception("❌ 缺少代理环境变量")
 
 proxy_auth = f"http://{user}:{pwd}@{host}:{port}"
+print(f"✅ 当前使用代理地址：{proxy_auth}")  # 调试用
+
 proxies = {
     "http": proxy_auth,
     "https": proxy_auth
 }
 
-def get_build_id():
-    url = "https://store.pokemongo.com/buildId"
-    print(f"Fetching build ID via proxy: {url}")
-    resp = requests.get(url, headers=headers, proxies=proxies, timeout=10)
-    print(f"Status code: {resp.status_code}")
-    print(f"Response: {resp.text[:200]}")
-    if resp.status_code == 200:
-        return resp.text.strip().strip('"')
-    else:
-        raise Exception("Failed to fetch build ID")
 
-# 其余逻辑保持不变...
+def get_build_id():
+    url = "https://store.pokemongo.com/en-US"
+    resp = requests.get(url, headers=headers, proxies=proxies, timeout=10)
+
+    if resp.status_code != 200:
+        raise Exception(f"Failed to fetch page, status code: {resp.status_code}")
+
+    # 搜索 buildId（/en-US.json）
+    match = re.search(r'/_next/data/([a-zA-Z0-9\-_]+)/en-US\.json', resp.text)
+    if match:
+        build_id = match.group(1)
+        print(f"✅ build_id = {build_id}")
+        return build_id
+    else:
+        raise Exception("❌ Failed to find build ID in page HTML")
 
 
 def crawl():
