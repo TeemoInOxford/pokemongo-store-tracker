@@ -1,14 +1,19 @@
 import requests
 import json
+import os
+
 
 headers = {'User-Agent': 'Mozilla/5.0'}
 
-# ✅ Rola 静态代理配置
-proxies = {
-    "http": "http://tony1223010910_666-country-us:mtv0WH@proxyus.rola.ip:2000",
-    "https": "http://tony1223010910_666-country-us:mtv0WH@proxyus.rola.ip:2000"
-}
+user = os.getenv("PROXY_USER")
+pwd = os.getenv("PROXY_PASS")
+host = os.getenv("PROXY_HOST")
+port = os.getenv("PROXY_PORT")
 
+proxies = {
+    "http": f"http://{user}:{pwd}@{host}:{port}",
+    "https": f"http://{user}:{pwd}@{host}:{port}"
+}
 def get_build_id():
     url = "https://store.pokemongo.com/buildId"
     print(f"Fetching build ID via proxy: {url}")
