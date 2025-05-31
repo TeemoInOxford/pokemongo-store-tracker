@@ -2,22 +2,24 @@ name: Scrape Pokémon GO Store
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # 每小时执行
+  workflow_dispatch:      # 可手动触发
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    env:  # ✅ 在这里注入 secrets
+    env:
       PROXY_USER: ${{ secrets.PROXY_USER }}
       PROXY_PASS: ${{ secrets.PROXY_PASS }}
       PROXY_HOST: ${{ secrets.PROXY_HOST }}
       PROXY_PORT: ${{ secrets.PROXY_PORT }}
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repository with token
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}  # 用你自己的 PAT 确保可以 push
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -30,18 +32,13 @@ jobs:
     - name: Run scraper
       run: python PokemonGoInfo.py
 
-    - name: Commit and push changes with token
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Commit and push changes
       run: |
-        echo "✅ 设置带 Token 的远程仓库地址"
+        echo "✅ 配置 Git 用户信息"
         git config user.name "TeemoBot"
         git config user.email "teemobot@example.com"
-        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-        
-        echo "✅ 开始提交 data.json"
+
+        echo "✅ 添加并提交更新"
         git add data.json
         git commit -m "Update data [auto]" || echo "No changes"
-        git push origin HEAD:${{ github.ref_name }} --force-with-lease
-
-
+        git push origin HEAD:${{ github.ref_name }}
