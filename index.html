@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pokémon GO Web Store 商品展示</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; }
+    th { background-color: #f2f2f2; }
+    img { max-height: 50px; }
+    .nowrap { white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <h1>Pokémon GO 商店数据</h1>
+  <table id="storeTable">
+    <thead>
+      <tr>
+        <th>分类</th>
+        <th>名称</th>
+        <th>截止时间</th>
+        <th>价格</th>
+        <th>内容物</th>
+        <th>图片</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    fetch('webstore_items_limited.json')
+      .then(response => response.json())
+      .then(data => {
+        const tbody = document.querySelector("#storeTable tbody");
+        data.forEach(item => {
+          const tr = document.createElement("tr");
+
+          const content = item.bundledItems?.map(b => `${b.itemId} × ${b.quantity}`).join("<br>") || "";
+
+          tr.innerHTML = `
+            <td class="nowrap">${item.category}</td>
+            <td>${item.name}</td>
+            <td class="nowrap">${item.endTimeMs || ""}</td>
+            <td>${item.price?.[0]?.priceE6 ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency : ""}</td>
+            <td>${content}</td>
+            <td><img src="${item.imageUrl}" alt=""></td>
+          `;
+          tbody.appendChild(tr);
+        });
+      });
+  </script>
+</body>
+</html>
