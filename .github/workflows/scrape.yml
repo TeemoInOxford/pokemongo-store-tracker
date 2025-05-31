@@ -32,6 +32,9 @@ jobs:
     - name: Run scraper
       run: python PokemonGoInfo.py
 
+    - name: Extract structured info from data.json
+      run: python extractInfo.py
+
     - name: Commit and push changes
       run: |
         echo "✅ 配置 Git 用户信息"
