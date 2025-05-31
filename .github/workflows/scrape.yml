@@ -34,9 +34,12 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
+        echo "✅ 设置带 Token 的远程仓库地址"
         git config user.name "TeemoBot"
         git config user.email "teemobot@example.com"
         git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+    
+        echo "✅ 开始提交 data.json"
         git add data.json
         git commit -m "Update data [auto]" || echo "No changes"
         git push origin HEAD:${{ github.ref_name }}
