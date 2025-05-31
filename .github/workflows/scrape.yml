@@ -30,10 +30,14 @@ jobs:
     - name: Run scraper
       run: python PokemonGoInfo.py
 
-    - name: Commit and push changes
+    - name: Commit and push changes with token
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
+        git config user.name "TeemoBot"
+        git config user.email "teemobot@example.com"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
         git add data.json
-        git commit -m "Update data [auto]" || echo "No changes to commit"
-        git push
+        git commit -m "Update data [auto]" || echo "No changes"
+        git push origin HEAD:${{ github.ref_name }}
+
