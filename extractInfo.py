@@ -64,8 +64,20 @@ name_map_zh = i18n.get("zh-TW", {}).get("common", {}).get("sku", {}).get("name",
 categories = lang_data["pageProps"]["catalog"]["webstoreCategoriesList"]
 items_info = []
 
+# 中英文分类映射
+category_map = {
+    "TICKETS": "门票礼盒",
+    "BUNDLE": "道具礼盒",
+    "LIMITED_TIME": "限时礼盒",
+    "ITEMS": "道具",
+    "POKECOINS": "宝可币"
+}
+
+# 替换原来的 for category in categories[1:]:
 for category in categories[1:]:
-    cat_name = category["category"]
+    raw_cat = category["category"]
+    cat_cn = category_map.get(raw_cat, raw_cat)  # 没匹配上就显示英文
+    cat_name = f"{cat_cn}\n{raw_cat}"  # 中英文一行一行展示
     for item in category.get("itemsList", []):
         imageUrl = item.get("imageUrl")
         localization_key = item.get("localizationNameKey", "")
