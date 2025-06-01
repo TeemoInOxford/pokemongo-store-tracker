@@ -29,20 +29,26 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run scraper
+    - name: Ensure images folder exists
       run: |
-          mkdir -p images
-          touch images/.keep
-          python PokemonGoInfo.py
+        mkdir -p images
+        touch images/.keep
 
-    - name: Extract structured info from data.json
+    - name: Run scraper
+      run: python PokemonGoInfo.py
+
+    - name: Run extractor
       run: python extractInfo.py
 
-    - name: Commit and push changes with token
+    - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config user.name "TeemoBot"
         git config user.email "teemobot@example.com"
-        git add data.json webstore_items_limited.csv webstore_items_limited.json
-        git commit -m "Update data and extracted info [auto]" || echo "No changes"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+
+        git add data.json webstore_items_limited.csv webstore_items_limited.json images/
+        git commit -m "Update store data and images [auto]" || echo "No changes"
         git push origin HEAD:${{ github.ref_name }}
 
