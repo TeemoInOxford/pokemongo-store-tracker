@@ -2944,28 +2944,6 @@
             "startTimeMs": 1741971480000,
             "endTimeMs": 1751245200000,
             "id": "ba759306-ebf7-4d95-bb43-4d340832c6d7"
-          },
-          {
-            "heroImage": {
-              "fileName": "hero_PGO-MCS_RRP_MaxParticle_Bundle_v1-1334x600.jpg",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-3mp-3rrp-bundle",
-              "tag": {
-                "key": "Popular",
-                "value": "sku.tag.popular"
-              }
-            },
-            "startTimeMs": 1747785480000,
-            "endTimeMs": 1748739600000,
-            "id": "50303037-1c74-4a72-b4a3-3f3a83550917"
           }
         ],
         "bannerConfig": {
@@ -6957,28 +6935,6 @@
             "startTimeMs": 1741971480000,
             "endTimeMs": 1751245200000,
             "id": "ba759306-ebf7-4d95-bb43-4d340832c6d7"
-          },
-          {
-            "heroImage": {
-              "fileName": "hero_PGO-MCS_RRP_MaxParticle_Bundle_v1-1334x600.jpg",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-3mp-3rrp-bundle",
-              "tag": {
-                "key": "Popular",
-                "value": "sku.tag.popular"
-              }
-            },
-            "startTimeMs": 1747785480000,
-            "endTimeMs": 1748739600000,
-            "id": "50303037-1c74-4a72-b4a3-3f3a83550917"
           }
         ],
         "bannerConfig": {
