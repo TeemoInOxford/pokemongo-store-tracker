@@ -78,6 +78,7 @@ for category in categories[1:]:
     raw_cat = category["category"]
     cat_cn = category_map.get(raw_cat, raw_cat)  # 没匹配上就显示英文
     cat_name = f"{cat_cn}\n{raw_cat}"  # 中英文一行一行展示
+    print(cat_name)
     for item in category.get("itemsList", []):
         imageUrl = item.get("imageUrl")
         localization_key = item.get("localizationNameKey", "")
