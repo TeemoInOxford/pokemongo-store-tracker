@@ -4,6 +4,7 @@ from datetime import datetime, timezone, timedelta
 import pandas as pd
 from opencc import OpenCC
 import os
+import requests
 
 # 图片保存目录
 IMG_DIR = "images"
