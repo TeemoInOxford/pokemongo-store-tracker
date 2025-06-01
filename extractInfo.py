@@ -1,6 +1,9 @@
 import json
 from datetime import datetime, timezone, timedelta
 import pandas as pd
+from opencc import OpenCC
+
+cc = OpenCC('t2s')
 
 # 转北京时间
 def convert_time(ms):
@@ -30,8 +33,9 @@ for category in categories[1:]:
         imageUrl = item.get("imageUrl")
         key = item.get("localizationNameKey", "").replace("sku.name.", "")
         name_en = name_map_en.get(key, key)
-        name_zh = name_map_zh.get(key, "")
-        full_name = f"{name_en}\n{name_zh}"
+        name_zh_trad = name_map_zh.get(key, "")
+        name_zh_simp = cc.convert(name_zh_trad)
+        full_name = f"{name_en}\n{name_zh_simp}"
         end_time = item.get("webstoreLimitInfo", {}).get("endTimeMs")
         bundle_coin = item.get("bundledCurrencyList", [])
         bundle = item.get("bundledItemList", [])
