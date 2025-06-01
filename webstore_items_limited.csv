@@ -1,53 +1,53 @@
 ﻿category,name,endTimeMs,bundledItems,price,imageUrl
-TICKETS,"sku.name.web-s19-all-monthly-ticket-box
-",2025-06-11 11:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_05', 'quantity': 1}, {'itemId': 'ITEM_EVENT_TICKET_06', 'quantity': 1}, {'itemId': 'ITEM_EVENT_TICKET_09', 'quantity': 1}, {'itemId': 'POKECOIN', 'quantity': 100}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png
-TICKETS,"sku.name.web-gofest-2025-apac-overlay-ticket-box
-",2025-06-04 08:59:00,"[{'itemId': 'ITEM_EVERGREEN_TICKET', 'quantity': 1}, {'itemId': 'ITEM_ULTRA_BALL', 'quantity': 5}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png
-TICKETS,"sku.name.web-s19-june-monthly-ticket-box
-",2025-06-11 11:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_05', 'quantity': 1}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.freebox.small.1.png
-BUNDLE,"sku.name.web-season-19-start-box
-",2025-06-28 08:00:00,"[{'itemId': 'ITEM_POSTCARD_STORAGE_UPGRADE', 'quantity': 1}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 2}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-season-14-start-bundle.png
-BUNDLE,"sku.name.web-raid-box-1223
-",2025-06-04 11:00:00,"[{'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_INCUBATOR_BASIC', 'quantity': 1}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-stg-assets/pgo/sku_assets/bundle.general.remotebox.small.1.png
-BUNDLE,"sku.name.web-tm-elite-master-box
-",2025-06-02 11:00:00,"[{'itemId': 'ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_ELITE_FAST_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_FAST_ATTACK', 'quantity': 6}, {'itemId': 'ITEM_MOVE_REROLL_SPECIAL_ATTACK', 'quantity': 6}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png
-LIMITED_TIME,"sku.name.web-go-fest-2025-ticket
-",2025-06-30 09:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_10', 'quantity': 1}, {'itemId': 'ITEM_MAX_REVIVE', 'quantity': 5}, {'itemId': 'ITEM_RARE_CANDY', 'quantity': 5}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png
-ITEMS,"sku.name.web-1mp-1rrp-bundle
-",,"[{'itemId': 'ITEM_MP_REPLENISH', 'quantity': 1}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 1}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png
-ITEMS,"sku.name.web-3mp-3rrp-bundle
-",,"[{'itemId': 'ITEM_MP_REPLENISH', 'quantity': 3}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 41000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 41000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png
-ITEMS,"sku.name.web-luckyegg-bundle-8
-",,"[{'itemId': 'ITEM_LUCKY_EGG', 'quantity': 8}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/luckyegg.5.png
-ITEMS,"sku.name.web-starpiece-bundle
-",,"[{'itemId': 'ITEM_STAR_PIECE', 'quantity': 8}]","[{'priceE6': 30500000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 30500000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/08_ x3.png
-ITEMS,"sku.name.web-remote-raidpass-bundle
-",,"[{'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 2}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/raid_pass_blue (1).png
-ITEMS,"sku.name.web-pokemon-storage-bundle
-",,"[{'itemId': 'ITEM_POKEMON_STORAGE_UPGRADE', 'quantity': 1}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_pokemon_storage_upgrade.png
-ITEMS,"sku.name.web-item-storage-bundle
-",,"[{'itemId': 'ITEM_ITEM_STORAGE_UPGRADE', 'quantity': 1}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_item_storage_upgrade.png
-ITEMS,"sku.name.web-basic-incubator-3pack
-",,"[{'itemId': 'ITEM_INCUBATOR_BASIC', 'quantity': 3}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png
-ITEMS,"sku.name.web-super-incubator-2pack
-",,"[{'itemId': 'ITEM_INCUBATOR_SUPER', 'quantity': 2}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/Incubator_Super.png
-ITEMS,"sku.name.web-max-revive-6
-",,"[{'itemId': 'ITEM_MAX_REVIVE', 'quantity': 6}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_revive.png
-ITEMS,"sku.name.web-premium-battle-pass-3
-",,"[{'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png
-ITEMS,"sku.name.web-mp-pack.6
+TICKETS,"Eggs-pedition Access Ultra Ticket Box
+孵蛋證究極入場券禮盒",2025-06-11 11:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_05', 'quantity': 1}, {'itemId': 'ITEM_EVENT_TICKET_06', 'quantity': 1}, {'itemId': 'ITEM_EVENT_TICKET_09', 'quantity': 1}, {'itemId': 'POKECOIN', 'quantity': 100}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png
+TICKETS,"Serene Retreat Ultra Ticket Box
+寧靜山莊究極入場券禮盒",2025-06-04 08:59:00,"[{'itemId': 'ITEM_EVERGREEN_TICKET', 'quantity': 1}, {'itemId': 'ITEM_ULTRA_BALL', 'quantity': 5}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png
+TICKETS,"Eggs-pedition Access: June
+6月孵蛋證",2025-06-11 11:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_05', 'quantity': 1}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.freebox.small.1.png
+BUNDLE,"Delightful Days Box
+快樂每一天禮盒",2025-06-28 08:00:00,"[{'itemId': 'ITEM_POSTCARD_STORAGE_UPGRADE', 'quantity': 1}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 2}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-season-14-start-bundle.png
+BUNDLE,"Ultra Raid Box
+高級團體戰禮盒",2025-06-04 11:00:00,"[{'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_INCUBATOR_BASIC', 'quantity': 1}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-stg-assets/pgo/sku_assets/bundle.general.remotebox.small.1.png
+BUNDLE,"TM Elite Master Box
+招式學習器達人禮盒",2025-06-02 11:00:00,"[{'itemId': 'ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_ELITE_FAST_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_FAST_ATTACK', 'quantity': 6}, {'itemId': 'ITEM_MOVE_REROLL_SPECIAL_ATTACK', 'quantity': 6}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png
+LIMITED_TIME,"Pokémon GO Fest 2025: Global Ticket
+Pokémon GO Fest 2025：全球入場券",2025-06-30 09:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_10', 'quantity': 1}, {'itemId': 'ITEM_MAX_REVIVE', 'quantity': 5}, {'itemId': 'ITEM_RARE_CANDY', 'quantity': 5}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png
+ITEMS,"Max Particle Pack + Remote Raid Pass
+極巨粒子組合 + 遠距團體戰入場券",,"[{'itemId': 'ITEM_MP_REPLENISH', 'quantity': 1}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 1}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png
+ITEMS,"3 Max Particle Pack + 3 Remote Raid Pass
+3 極巨粒子組合 + 3 遠距團體戰入場券",,"[{'itemId': 'ITEM_MP_REPLENISH', 'quantity': 3}, {'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 41000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 41000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png
+ITEMS,"Lucky Egg
+幸運蛋",,"[{'itemId': 'ITEM_LUCKY_EGG', 'quantity': 8}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/luckyegg.5.png
+ITEMS,"Star Piece
+星星碎片",,"[{'itemId': 'ITEM_STAR_PIECE', 'quantity': 8}]","[{'priceE6': 30500000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 30500000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/08_ x3.png
+ITEMS,"Remote Raid Pass
+遠距團體戰入場券",,"[{'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 2}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/raid_pass_blue (1).png
+ITEMS,"Pokémon Storage
+寶可夢盒",,"[{'itemId': 'ITEM_POKEMON_STORAGE_UPGRADE', 'quantity': 1}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_pokemon_storage_upgrade.png
+ITEMS,"Item Bag
+升級包包",,"[{'itemId': 'ITEM_ITEM_STORAGE_UPGRADE', 'quantity': 1}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_item_storage_upgrade.png
+ITEMS,"Egg Incubator
+孵化器",,"[{'itemId': 'ITEM_INCUBATOR_BASIC', 'quantity': 3}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png
+ITEMS,"Super Incubator
+超級孵化器",,"[{'itemId': 'ITEM_INCUBATOR_SUPER', 'quantity': 2}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/Incubator_Super.png
+ITEMS,"Max Revive
+活力塊",,"[{'itemId': 'ITEM_MAX_REVIVE', 'quantity': 6}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_revive.png
+ITEMS,"Premium Battle Pass
+特級對戰入場券",,"[{'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 15000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 15000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png
+ITEMS,"web-mp-pack.6
 ",,"[{'itemId': 'ITEM_MP_REPLENISH', 'quantity': 6}]","[{'priceE6': 41000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 41000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_mp_replenish.png
-ITEMS,"sku.name.web-max-mushroom-3
-",,"[{'itemId': 'ITEM_MAX_BOOST', 'quantity': 3}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_boost.png
-POKECOINS,"sku.name.coin-bundle-xxsmall
-",,"[{'itemId': 'POKECOIN', 'quantity': 110}]","[{'priceE6': 5000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 5000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png
-POKECOINS,"sku.name.coin-bundle-xsmall
-",,"[{'itemId': 'POKECOIN', 'quantity': 600}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png
-POKECOINS,"sku.name.coin-bundle-small_v2
-",,"[{'itemId': 'POKECOIN', 'quantity': 1300}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png
-POKECOINS,"sku.name.coin-bundle-medium_v2
-",,"[{'itemId': 'POKECOIN', 'quantity': 2700}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png
-POKECOINS,"sku.name.coin-bundle-large-v2
-",,"[{'itemId': 'POKECOIN', 'quantity': 5600}]","[{'priceE6': 200000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 200000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png
-POKECOINS,"sku.name.coin-bundle-xlarge
-",,"[{'itemId': 'POKECOIN', 'quantity': 15500}]","[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png
+ITEMS,"Max Mushroom
+極巨菇菇",,"[{'itemId': 'ITEM_MAX_BOOST', 'quantity': 3}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_boost.png
+POKECOINS,"110 PokéCoins
+110寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 110}]","[{'priceE6': 5000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 5000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png
+POKECOINS,"600 PokéCoins
+600寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 600}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png
+POKECOINS,"1,300 PokéCoins
+1,300寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 1300}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png
+POKECOINS,"2,700 PokéCoins
+2,700寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 2700}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png
+POKECOINS,"5,600 PokéCoins
+5,600寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 5600}]","[{'priceE6': 200000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 200000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png
+POKECOINS,"15,500 PokéCoins
+15,500寶可幣",,"[{'itemId': 'POKECOIN', 'quantity': 15500}]","[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png

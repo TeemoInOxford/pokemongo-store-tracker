@@ -1,7 +1,7 @@
 [
   {
     "category":"TICKETS",
-    "name":"sku.name.web-s19-all-monthly-ticket-box\n",
+    "name":"Eggs-pedition Access Ultra Ticket Box\n孵蛋證究極入場券禮盒",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
@@ -36,7 +36,7 @@
   },
   {
     "category":"TICKETS",
-    "name":"sku.name.web-gofest-2025-apac-overlay-ticket-box\n",
+    "name":"Serene Retreat Ultra Ticket Box\n寧靜山莊究極入場券禮盒",
     "endTimeMs":"2025-06-04 08:59:00",
     "bundledItems":[
       {
@@ -63,7 +63,7 @@
   },
   {
     "category":"TICKETS",
-    "name":"sku.name.web-s19-june-monthly-ticket-box\n",
+    "name":"Eggs-pedition Access: June\n6月孵蛋證",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
@@ -86,7 +86,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-season-19-start-box\n",
+    "name":"Delightful Days Box\n快樂每一天禮盒",
     "endTimeMs":"2025-06-28 08:00:00",
     "bundledItems":[
       {
@@ -117,7 +117,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-raid-box-1223\n",
+    "name":"Ultra Raid Box\n高級團體戰禮盒",
     "endTimeMs":"2025-06-04 11:00:00",
     "bundledItems":[
       {
@@ -148,7 +148,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-tm-elite-master-box\n",
+    "name":"TM Elite Master Box\n招式學習器達人禮盒",
     "endTimeMs":"2025-06-02 11:00:00",
     "bundledItems":[
       {
@@ -183,7 +183,7 @@
   },
   {
     "category":"LIMITED_TIME",
-    "name":"sku.name.web-go-fest-2025-ticket\n",
+    "name":"Pokémon GO Fest 2025: Global Ticket\nPokémon GO Fest 2025：全球入場券",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
@@ -218,7 +218,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-1mp-1rrp-bundle\n",
+    "name":"Max Particle Pack + Remote Raid Pass\n極巨粒子組合 + 遠距團體戰入場券",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -245,7 +245,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-3mp-3rrp-bundle\n",
+    "name":"3 Max Particle Pack + 3 Remote Raid Pass\n3 極巨粒子組合 + 3 遠距團體戰入場券",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -272,7 +272,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-luckyegg-bundle-8\n",
+    "name":"Lucky Egg\n幸運蛋",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -295,7 +295,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-starpiece-bundle\n",
+    "name":"Star Piece\n星星碎片",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -318,7 +318,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-remote-raidpass-bundle\n",
+    "name":"Remote Raid Pass\n遠距團體戰入場券",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -341,7 +341,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-pokemon-storage-bundle\n",
+    "name":"Pokémon Storage\n寶可夢盒",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -364,7 +364,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-item-storage-bundle\n",
+    "name":"Item Bag\n升級包包",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -387,7 +387,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-basic-incubator-3pack\n",
+    "name":"Egg Incubator\n孵化器",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -410,7 +410,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-super-incubator-2pack\n",
+    "name":"Super Incubator\n超級孵化器",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -433,7 +433,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-max-revive-6\n",
+    "name":"Max Revive\n活力塊",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -456,7 +456,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-premium-battle-pass-3\n",
+    "name":"Premium Battle Pass\n特級對戰入場券",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -479,7 +479,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-mp-pack.6\n",
+    "name":"web-mp-pack.6\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -502,7 +502,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-max-mushroom-3\n",
+    "name":"Max Mushroom\n極巨菇菇",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -525,7 +525,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xxsmall\n",
+    "name":"110 PokéCoins\n110寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -548,7 +548,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xsmall\n",
+    "name":"600 PokéCoins\n600寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -571,7 +571,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-small_v2\n",
+    "name":"1,300 PokéCoins\n1,300寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -594,7 +594,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-medium_v2\n",
+    "name":"2,700 PokéCoins\n2,700寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -617,7 +617,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-large-v2\n",
+    "name":"5,600 PokéCoins\n5,600寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -640,7 +640,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xlarge\n",
+    "name":"15,500 PokéCoins\n15,500寶可幣",
     "endTimeMs":null,
     "bundledItems":[
       {
