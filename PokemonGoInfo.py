@@ -3,6 +3,23 @@ import re
 import json
 import requests
 
+# 图片保存目录
+IMG_DIR = "images"
+os.makedirs(IMG_DIR, exist_ok=True)
+
+# 下载图片函数
+def download_image(url):
+    filename = os.path.basename(url)
+    local_path = os.path.join(IMG_DIR, filename)
+    if not os.path.exists(local_path):  # 避免重复下载
+        try:
+            response = requests.get(url, timeout=10)
+            with open(local_path, "wb") as f:
+                f.write(response.content)
+        except Exception as e:
+            print(f"❌ Failed to download image: {url} - {e}")
+    return local_path
+    
 headers = {
     'User-Agent': 'Mozilla/5.0'
 }
