@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
   <meta charset="UTF-8" />
-  <title>Pokémon GO Web Store 商品展示</title>
+  <title>Pokémon GO 商店数据</title>
   <style>
     body { font-family: Arial, sans-serif; padding: 20px; }
     table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; }
+    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; vertical-align: top; }
     th { background-color: #f2f2f2; }
     img { max-height: 50px; }
-    .nowrap { white-space: nowrap; }
+    td.name { white-space: pre-line; }  /* 允许换行 */
   </style>
 </head>
 <body>
@@ -18,10 +18,10 @@
     <thead>
       <tr>
         <th>分类</th>
-        <th>名称</th>
+        <th class="name">名称（中英）</th>
         <th>截止时间</th>
         <th>价格</th>
-        <th>内容物</th>
+        <th>包含物品</th>
         <th>图片</th>
       </tr>
     </thead>
@@ -36,15 +36,21 @@
         data.forEach(item => {
           const tr = document.createElement("tr");
 
-          const content = item.bundledItems?.map(b => `${b.itemId} × ${b.quantity}`).join("<br>") || "";
+          const bundled = (item.bundledItems || [])
+            .map(b => `${b.itemId} × ${b.quantity}`)
+            .join("<br>");
+
+          const price = item.price?.[0]?.priceE6
+            ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency
+            : '';
 
           tr.innerHTML = `
-            <td class="nowrap">${item.category}</td>
-            <td>${item.name}</td>
-            <td class="nowrap">${item.endTimeMs || ""}</td>
-            <td>${item.price?.[0]?.priceE6 ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency : ""}</td>
-            <td>${content}</td>
-            <td><img src="${item.imageUrl}" alt=""></td>
+            <td>${item.category}</td>
+            <td class="name">${item.name}</td>
+            <td>${item.endTimeMs || ""}</td>
+            <td>${price}</td>
+            <td>${bundled}</td>
+            <td><img src="${item.imageUrl || ''}" alt=""></td>
           `;
           tbody.appendChild(tr);
         });
