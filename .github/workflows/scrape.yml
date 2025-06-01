@@ -29,11 +29,6 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Ensure images folder exists
-      run: |
-        mkdir -p images
-        touch images/.keep
-
     - name: Run scraper
       run: python PokemonGoInfo.py
 
