@@ -16,7 +16,7 @@ with open("data.json", "r", encoding="utf-8") as f:
 lang_data = data.get("en")
 
 # 加载中英文映射
-i18n = lang_data["pageProps"].get("__nextI18Next", {}).get("initialI18nStore", {})
+i18n = lang_data["pageProps"].get("_nextI18Next", {}).get("initialI18nStore", {})
 name_map_en = i18n.get("en-US", {}).get("common", {}).get("name", {})
 name_map_zh = i18n.get("zh-TW", {}).get("common", {}).get("name", {})
 
