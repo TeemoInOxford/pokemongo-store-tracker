@@ -30,7 +30,10 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run scraper
-      run: python PokemonGoInfo.py
+      run: |
+          mkdir -p images
+          touch images/.keep
+          python PokemonGoInfo.py
 
     - name: Extract structured info from data.json
       run: python extractInfo.py
