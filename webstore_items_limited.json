@@ -1,7 +1,7 @@
 [
   {
     "category":"TICKETS",
-    "name":"sku.name.web-s19-all-monthly-ticket-box",
+    "name":"sku.name.web-s19-all-monthly-ticket-box\n",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
@@ -36,7 +36,7 @@
   },
   {
     "category":"TICKETS",
-    "name":"sku.name.web-gofest-2025-apac-overlay-ticket-box",
+    "name":"sku.name.web-gofest-2025-apac-overlay-ticket-box\n",
     "endTimeMs":"2025-06-04 08:59:00",
     "bundledItems":[
       {
@@ -63,7 +63,7 @@
   },
   {
     "category":"TICKETS",
-    "name":"sku.name.web-s19-june-monthly-ticket-box",
+    "name":"sku.name.web-s19-june-monthly-ticket-box\n",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
@@ -86,7 +86,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-season-19-start-box",
+    "name":"sku.name.web-season-19-start-box\n",
     "endTimeMs":"2025-06-28 08:00:00",
     "bundledItems":[
       {
@@ -117,7 +117,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-raid-box-1223",
+    "name":"sku.name.web-raid-box-1223\n",
     "endTimeMs":"2025-06-04 11:00:00",
     "bundledItems":[
       {
@@ -148,7 +148,7 @@
   },
   {
     "category":"BUNDLE",
-    "name":"sku.name.web-tm-elite-master-box",
+    "name":"sku.name.web-tm-elite-master-box\n",
     "endTimeMs":"2025-06-02 11:00:00",
     "bundledItems":[
       {
@@ -183,7 +183,7 @@
   },
   {
     "category":"LIMITED_TIME",
-    "name":"sku.name.web-go-fest-2025-ticket",
+    "name":"sku.name.web-go-fest-2025-ticket\n",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
@@ -218,7 +218,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-1mp-1rrp-bundle",
+    "name":"sku.name.web-1mp-1rrp-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -245,7 +245,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-3mp-3rrp-bundle",
+    "name":"sku.name.web-3mp-3rrp-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -272,7 +272,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-luckyegg-bundle-8",
+    "name":"sku.name.web-luckyegg-bundle-8\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -295,7 +295,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-starpiece-bundle",
+    "name":"sku.name.web-starpiece-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -318,7 +318,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-remote-raidpass-bundle",
+    "name":"sku.name.web-remote-raidpass-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -341,7 +341,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-pokemon-storage-bundle",
+    "name":"sku.name.web-pokemon-storage-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -364,7 +364,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-item-storage-bundle",
+    "name":"sku.name.web-item-storage-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -387,7 +387,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-basic-incubator-3pack",
+    "name":"sku.name.web-basic-incubator-3pack\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -410,7 +410,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-super-incubator-2pack",
+    "name":"sku.name.web-super-incubator-2pack\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -433,7 +433,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-max-revive-6",
+    "name":"sku.name.web-max-revive-6\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -456,7 +456,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-premium-battle-pass-3",
+    "name":"sku.name.web-premium-battle-pass-3\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -479,7 +479,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-mp-pack.6",
+    "name":"sku.name.web-mp-pack.6\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -502,7 +502,7 @@
   },
   {
     "category":"ITEMS",
-    "name":"sku.name.web-max-mushroom-3",
+    "name":"sku.name.web-max-mushroom-3\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -525,7 +525,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xxsmall",
+    "name":"sku.name.coin-bundle-xxsmall\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -548,7 +548,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xsmall",
+    "name":"sku.name.coin-bundle-xsmall\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -571,7 +571,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-small_v2",
+    "name":"sku.name.coin-bundle-small_v2\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -594,7 +594,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-medium_v2",
+    "name":"sku.name.coin-bundle-medium_v2\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -617,7 +617,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-large-v2",
+    "name":"sku.name.coin-bundle-large-v2\n",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -640,7 +640,7 @@
   },
   {
     "category":"POKECOINS",
-    "name":"sku.name.coin-bundle-xlarge",
+    "name":"sku.name.coin-bundle-xlarge\n",
     "endTimeMs":null,
     "bundledItems":[
       {
