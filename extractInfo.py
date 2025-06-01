@@ -13,7 +13,7 @@ def convert_time(ms):
 with open("data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-lang_data = data.get("en")
+lang_data = data.get("zh")
 
 # 加载中英文映射
 i18n = lang_data["pageProps"].get("_nextI18Next", {}).get("initialI18nStore", {})
@@ -28,11 +28,10 @@ for category in categories[1:]:
     cat_name = category["category"]
     for item in category.get("itemsList", []):
         imageUrl = item.get("imageUrl")
-        key = item.get("localizationNameKey", "")
+        key = item.get("localizationNameKey", "").replace("sku.name.", "")
         name_en = name_map_en.get(key, key)
         name_zh = name_map_zh.get(key, "")
         full_name = f"{name_en}\n{name_zh}"
-
         end_time = item.get("webstoreLimitInfo", {}).get("endTimeMs")
         bundle_coin = item.get("bundledCurrencyList", [])
         bundle = item.get("bundledItemList", [])
