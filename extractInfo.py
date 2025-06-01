@@ -3,7 +3,25 @@ import re
 from datetime import datetime, timezone, timedelta
 import pandas as pd
 from opencc import OpenCC
+import os
 
+# 图片保存目录
+IMG_DIR = "images"
+os.makedirs(IMG_DIR, exist_ok=True)
+
+# 下载图片函数
+def download_image(url):
+    filename = os.path.basename(url)
+    local_path = os.path.join(IMG_DIR, filename)
+    if not os.path.exists(local_path):  # 避免重复下载
+        try:
+            response = requests.get(url, timeout=10)
+            with open(local_path, "wb") as f:
+                f.write(response.content)
+        except Exception as e:
+            print(f"❌ Failed to download image: {url} - {e}")
+    return local_path
+    
 cc = OpenCC('t2s')  # 繁体转简体
 
 # 把毫秒时间戳转为北京时间字符串
@@ -175,14 +193,14 @@ for category in categories[1:]:
 
 
         bundle_info += bundle_coin_info
-
+        image_path = download_image(imageUrl)
         items_info.append({
             "category": cat_name,
+            "imageUrl": image_path.replace("\\", "/"),  # Windows 兼容
             "name": full_name,
             "endTimeMs": convert_time(end_time),
             "bundledItems": bundle_info,
-            "price": price,
-            "imageUrl": imageUrl
+            "price": price
         })
 
 # 导出为 CSV + JSON
