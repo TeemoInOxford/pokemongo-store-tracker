@@ -74,6 +74,9 @@ category_map = {
     "POKECOIN": "宝可币"
 }
 
+# 设计售价公式
+
+
 # 替换原来的 for category in categories[1:]:
 for category in categories[1:]:
     raw_cat = category["category"]
@@ -120,6 +123,7 @@ for category in categories[1:]:
             "name": full_name,
             "endTimeMs": convert_time(end_time),
             "bundledItems": bundle_info,
+            # "sellingPrice": selling_price,
             "price": price,
             "imageUrl": imageUrl
         })
