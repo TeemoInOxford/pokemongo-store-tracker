@@ -101,6 +101,11 @@ for category in categories[1:]:
         bundle = item.get("bundledItemList", [])
         price = item.get("priceList")
 
+
+        idr_price_micros = int(price[0]["priceE6"])
+            idr_price = idr_price_micros / 1_000_000
+            selling_price = calc_price_rmb(idr_price)
+        
         # 打包货币内容
         bundle_coin_info = [
             {"itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"),b.get("currency")), "quantity": b.get("quantity")}
