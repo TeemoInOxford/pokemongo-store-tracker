@@ -102,7 +102,7 @@ for category in categories[1:]:
         price = item.get("priceList")
 
 
-        idr_price_micros = int(price[0]["priceE6"])
+        idr_price_micros = int(price[0].get("priceE6"))
         idr_price = idr_price_micros / 1_000_000
         selling_price = suggest_price(idr_price)
         
