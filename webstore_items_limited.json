@@ -37,7 +37,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general.adventure.1.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general.adventure.1.png",
+    "localImage":"images\/main_web-s19-all-monthly-ticket-box.png"
   },
   {
     "category":"TICKETS\n门票礼盒",
@@ -67,7 +68,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.d.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.d.png",
+    "localImage":"images\/main_web-gofest-2025-apac-overlay-ticket-box.png"
   },
   {
     "category":"TICKETS\n门票礼盒",
@@ -92,7 +94,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general.freebox.small.1.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general.freebox.small.1.png",
+    "localImage":"images\/main_web-s19-june-monthly-ticket-box.png"
   },
   {
     "category":"BUNDLE\n道具礼盒",
@@ -127,7 +130,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-season-14-start-bundle.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-season-14-start-bundle.png",
+    "localImage":"images\/main_web-season-19-start-box.png"
   },
   {
     "category":"BUNDLE\n道具礼盒",
@@ -162,7 +166,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-stg-assets\/pgo\/sku_assets\/bundle.general.remotebox.small.1.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-stg-assets\/pgo\/sku_assets\/bundle.general.remotebox.small.1.png",
+    "localImage":"images\/main_web-raid-box-1223.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
@@ -212,7 +217,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
+    "localImage":"images\/main_web-event-pass-softlaunch-plusrank-june.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
@@ -272,7 +278,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png",
+    "localImage":"images\/main_web-event-pass-softlaunch-plusrank-june-ultra.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
@@ -317,7 +324,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
+    "localImage":"images\/main_web-event-pass-softlaunch-base-june.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
@@ -357,7 +365,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-boost-box-1223.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-boost-box-1223.png",
+    "localImage":"images\/main_web-go-fest-2025-ticket.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -387,7 +396,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
+    "localImage":"images\/main_web-1mp-1rrp-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -417,7 +427,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
+    "localImage":"images\/main_web-3mp-3rrp-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -442,7 +453,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
+    "localImage":"images\/main_web-luckyegg-bundle-8.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -467,7 +479,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
+    "localImage":"images\/main_web-starpiece-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -492,7 +505,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/raid_pass_blue (1).png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/raid_pass_blue (1).png",
+    "localImage":"images\/main_web-remote-raidpass-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -517,7 +531,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png",
+    "localImage":"images\/main_web-pokemon-storage-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -542,7 +557,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_item_storage_upgrade.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_item_storage_upgrade.png",
+    "localImage":"images\/main_web-item-storage-bundle.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -567,7 +583,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_incubator_basic.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_incubator_basic.png",
+    "localImage":"images\/main_web-basic-incubator-3pack.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -592,7 +609,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/Incubator_Super.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/Incubator_Super.png",
+    "localImage":"images\/main_web-super-incubator-2pack.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -617,7 +635,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
+    "localImage":"images\/main_web-max-revive-6.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -642,7 +661,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
+    "localImage":"images\/main_web-premium-battle-pass-3.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -667,7 +687,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
+    "localImage":"images\/main_web-mp-pack.png"
   },
   {
     "category":"ITEMS\n道具",
@@ -692,7 +713,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_boost.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_boost.png",
+    "localImage":"images\/main_web-max-mushroom-3.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -717,7 +739,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xxsmall.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xxsmall.png",
+    "localImage":"images\/main_coin-bundle-xxsmall.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -742,7 +765,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xsmall.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xsmall.png",
+    "localImage":"images\/main_coin-bundle-xsmall.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -767,7 +791,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-small_v2.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-small_v2.png",
+    "localImage":"images\/main_coin-bundle-small_v2.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -792,7 +817,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_v2.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_v2.png",
+    "localImage":"images\/main_coin-bundle-medium_v2.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -817,7 +843,8 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large-v2.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large-v2.png",
+    "localImage":"images\/main_coin-bundle-large-v2.png"
   },
   {
     "category":"POKECOINS\n宝可币",
@@ -842,6 +869,7 @@
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xlarge.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xlarge.png",
+    "localImage":"images\/main_coin-bundle-xlarge.png"
   }
 ]
