@@ -39,11 +39,11 @@
 
           const bundled = (item.bundledItems || [])
             .map(b => {
-              const id = b.itemId.toLowerCase();  // 转小写
-              const imgUrl = `https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${id}.png?w=48&q=48`;
-              return `<img src="${imgUrl}" alt="${id}" style="height:24px; vertical-align:middle; margin-right:4px;"> ${id} × ${b.quantity}`;
+              const imgUrl = `https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${b.rawId}.png?w=48&q=48`;
+              return `<img src="${imgUrl}" alt="${b.rawId}" style="height:24px; vertical-align:middle; margin-right:4px;"> ${b.itemId} × ${b.quantity}`;
             })
             .join("<br>");
+
 
           const price = item.price?.[0]?.priceE6
             ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency
