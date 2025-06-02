@@ -108,7 +108,11 @@ for category in categories[1:]:
         
         # 打包货币内容
         bundle_coin_info = [
-            {"itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"),b.get("currency")), "quantity": b.get("quantity")}
+            {
+                "itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"), b.get("currency")),
+                "rawId": b.get("currency").lower(),
+                "quantity": b.get("quantity")
+            }
             for b in bundle_coin
         ]
 
@@ -122,6 +126,7 @@ for category in categories[1:]:
             b_name_zh_simp = cc.convert(b_name_zh_trad)
             bundle_info.append({
                 "itemId": f"{b_name_en}\n{b_name_zh_simp}",
+                "rawId": raw_id.lower(),
                 "quantity": b.get("quantity")
             })
 
