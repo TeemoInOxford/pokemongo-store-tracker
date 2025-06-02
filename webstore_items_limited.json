@@ -5,15 +5,15 @@
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_05",
+        "itemId":"Eggs-pedition Access: June\n6月孵蛋证",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_TICKET_06",
+        "itemId":"Eggs-pedition Access: July\n7月孵蛋证",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_TICKET_09",
+        "itemId":"Eggs-pedition Access: August\n8月孵蛋证",
         "quantity":1
       },
       {
@@ -40,11 +40,11 @@
     "endTimeMs":"2025-06-04 08:59:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVERGREEN_TICKET",
+        "itemId":"Ticket\n入场券",
         "quantity":1
       },
       {
-        "itemId":"ITEM_ULTRA_BALL",
+        "itemId":"Ultra Ball\n高级球",
         "quantity":5
       }
     ],
@@ -67,7 +67,7 @@
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_05",
+        "itemId":"Eggs-pedition Access: June\n6月孵蛋证",
         "quantity":1
       }
     ],
@@ -90,15 +90,15 @@
     "endTimeMs":"2025-06-28 08:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_POSTCARD_STORAGE_UPGRADE",
+        "itemId":"Postcard Pages\n明信片内页",
         "quantity":1
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "quantity":2
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "quantity":3
       }
     ],
@@ -121,15 +121,15 @@
     "endTimeMs":"2025-06-04 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "quantity":3
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "quantity":3
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC",
+        "itemId":"Egg Incubator\n孵化器",
         "quantity":1
       }
     ],
@@ -152,19 +152,19 @@
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_10",
+        "itemId":"Ticket\n入场券",
         "quantity":1
       },
       {
-        "itemId":"ITEM_MAX_REVIVE",
+        "itemId":"Max Revive\n活力块",
         "quantity":5
       },
       {
-        "itemId":"ITEM_RARE_CANDY",
+        "itemId":"Rare Candy\n神奇糖果",
         "quantity":5
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "quantity":3
       }
     ],
@@ -187,11 +187,11 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "quantity":1
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "quantity":1
       }
     ],
@@ -214,11 +214,11 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "quantity":3
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "quantity":3
       }
     ],
@@ -241,7 +241,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_LUCKY_EGG",
+        "itemId":"Lucky Egg\n幸运蛋",
         "quantity":8
       }
     ],
@@ -264,7 +264,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_STAR_PIECE",
+        "itemId":"Star Piece\n星星碎片",
         "quantity":8
       }
     ],
@@ -287,7 +287,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "quantity":2
       }
     ],
@@ -310,7 +310,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_POKEMON_STORAGE_UPGRADE",
+        "itemId":"Pokémon Storage\n宝可梦盒",
         "quantity":1
       }
     ],
@@ -333,7 +333,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_ITEM_STORAGE_UPGRADE",
+        "itemId":"Item Bag\n升级包包",
         "quantity":1
       }
     ],
@@ -356,7 +356,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_BASIC",
+        "itemId":"Egg Incubator\n孵化器",
         "quantity":3
       }
     ],
@@ -379,7 +379,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_SUPER",
+        "itemId":"Super Incubator\n超级孵化器",
         "quantity":2
       }
     ],
@@ -402,7 +402,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MAX_REVIVE",
+        "itemId":"Max Revive\n活力块",
         "quantity":6
       }
     ],
@@ -425,7 +425,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_PAID_RAID_TICKET",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "quantity":3
       }
     ],
@@ -448,7 +448,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "quantity":6
       }
     ],
@@ -471,7 +471,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MAX_BOOST",
+        "itemId":"Max Mushroom\n极巨菇菇",
         "quantity":3
       }
     ],
