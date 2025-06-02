@@ -1,28 +1,24 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <title>Pokémon GO 商店数据</title>
+  <title>Webstore Items</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
     table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; vertical-align: top; }
-    th { background-color: #f2f2f2; }
-    img { max-height: 50px; }
-    td.name { white-space: pre-line; }  /* 允许换行 */
+    td, th { border: 1px solid #ccc; padding: 8px; }
+    img { max-height: 48px; }
   </style>
 </head>
 <body>
-  <h1>Pokémon GO 商店数据</h1>
   <table id="storeTable">
     <thead>
       <tr>
         <th>分类</th>
-        <th class="name">图片</th>
+        <th>图片</th>
         <th>名称</th>
-        <th>截止时间</th>
+        <th>结束时间</th>
         <th>我们的售价</th>
-        <th>价格</th>
+        <th>官方价格</th>
         <th>包含物品</th>
       </tr>
     </thead>
@@ -37,13 +33,10 @@
         data.forEach(item => {
           const tr = document.createElement("tr");
 
-          const bundled = (item.bundledItems || [])
-            .map(b => {
-              const imgUrl = `https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${b.rawId}.png?w=48&q=48`;
-              return `<img src="${imgUrl}" alt="${b.rawId}" style="height:24px; vertical-align:middle; margin-right:4px;"> ${b.itemId} × ${b.quantity}`;
-            })
-            .join("<br>");
-
+          const bundled = (item.bundledItems || []).map(b => {
+            const imgUrl = `images/icon_${b.rawId}.png`;
+            return `<img src="${imgUrl}" alt="${b.rawId}" style="height:24px; vertical-align:middle; margin-right:4px;"> ${b.itemId} × ${b.quantity}`;
+          }).join("<br>");
 
           const price = item.price?.[0]?.priceE6
             ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency
@@ -51,10 +44,10 @@
 
           tr.innerHTML = `
             <td>${item.category}</td>
-            <td><img src="${item.imageUrl || ''}" alt=""></td>
+            <td><img src="${item.localImage}" alt=""></td>
             <td class="name">${item.name}</td>
             <td>${item.endTimeMs || ""}</td>
-            <td>${item.sellingPrice || ''}</td>
+            <td>${item.sellingPrice}</td>
             <td>${price}</td>
             <td>${bundled}</td>
           `;
