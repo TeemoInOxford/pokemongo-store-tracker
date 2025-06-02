@@ -171,57 +171,6 @@
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: June + 10 Ranks\nGO Pass豪华版：6月＋10级",
-    "endTimeMs":"2025-07-01 09:00:00",
-    "bundledItems":[
-      {
-        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
-        "rawId":"badge_event_0128",
-        "quantity":1
-      },
-      {
-        "itemId":" + 10 Ranks\n +10 级",
-        "rawId":"item_event_pass_point_live_ops_01",
-        "quantity":1000
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"38.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":50000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":50000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
-    "localImage":"images\/main_web-event-pass-softlaunch-plusrank-june.png"
-  },
-  {
-    "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
     "endTimeMs":"2025-07-01 09:00:00",
     "bundledItems":[
@@ -280,6 +229,57 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png",
     "localImage":"images\/main_web-event-pass-softlaunch-plusrank-june-ultra.png"
+  },
+  {
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Pass Deluxe: June + 10 Ranks\nGO Pass豪华版：6月＋10级",
+    "endTimeMs":"2025-07-01 09:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
+        "rawId":"badge_event_0128",
+        "quantity":1
+      },
+      {
+        "itemId":" + 10 Ranks\n +10 级",
+        "rawId":"item_event_pass_point_live_ops_01",
+        "quantity":1000
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"38.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
+    "localImage":"images\/main_web-event-pass-softlaunch-plusrank-june.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
