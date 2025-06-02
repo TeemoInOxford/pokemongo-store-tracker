@@ -39,7 +39,7 @@
 
           const bundled = (item.bundledItems || [])
             .map(b => {
-              const imgUrl = `https://store.pokemongo.com/_next/image?url=${encodeURIComponent(`https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${b.itemId}.png`)}&w=48&q=75`;
+              const imgUrl = `${encodeURIComponent(`https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${b.itemId}.png`)}&w=48&q=75`;
               return `<img src="${imgUrl}" alt="${b.itemId}" style="height:24px; vertical-align:middle; margin-right:4px;"> ${b.itemId} × ${b.quantity}`;
             })
             .join("<br>");
