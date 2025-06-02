@@ -129,7 +129,6 @@ for category in categories[1:]:
                 "rawId": raw_id.lower(),
                 "quantity": b.get("quantity")
             })
-            print(raw_id)
 
         bundle_info += bundle_coin_info
 
