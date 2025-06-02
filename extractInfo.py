@@ -100,10 +100,17 @@ for category in categories[1:]:
         ]
 
         # 打包道具内容
-        bundle_info = [
-            {"itemId": b.get("itemId"), "quantity": b.get("quantity")}
-            for b in bundle
-        ]
+        bundle_info = []
+        for b in bundle:
+            raw_id = b.get("itemId")
+            b_main_key, b_sub_key = extract_key_parts(raw_id)
+            b_name_en = resolve_name(name_map_en, b_main_key, b_sub_key) or raw_id
+            b_name_zh_trad = resolve_name(name_map_zh, b_main_key, b_sub_key)
+            b_name_zh_simp = cc.convert(b_name_zh_trad)
+            bundle_info.append({
+                "itemId": f"{b_name_en}\n{b_name_zh_simp}",
+                "quantity": b.get("quantity")
+            })
 
         bundle_info += bundle_coin_info
 
