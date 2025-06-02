@@ -17,7 +17,7 @@
         "quantity":1
       },
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":100
       }
     ],
@@ -494,7 +494,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":110
       }
     ],
@@ -517,7 +517,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":600
       }
     ],
@@ -540,7 +540,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":1300
       }
     ],
@@ -563,7 +563,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":2700
       }
     ],
@@ -586,7 +586,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":5600
       }
     ],
@@ -609,7 +609,7 @@
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"POKECOIN",
+        "itemId":"POKECOIN\n宝可币",
         "quantity":15500
       }
     ],

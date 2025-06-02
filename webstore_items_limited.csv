@@ -1,7 +1,7 @@
 ﻿category,name,endTimeMs,bundledItems,price,imageUrl
 "TICKETS
 门票礼盒","Eggs-pedition Access Ultra Ticket Box
-孵蛋证究极入场券礼盒",2025-06-11 11:00:00,"[{'itemId': 'Eggs-pedition Access: June\n6月孵蛋证', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: July\n7月孵蛋证', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: August\n8月孵蛋证', 'quantity': 1}, {'itemId': 'POKECOIN', 'quantity': 100}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png
+孵蛋证究极入场券礼盒",2025-06-11 11:00:00,"[{'itemId': 'Eggs-pedition Access: June\n6月孵蛋证', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: July\n7月孵蛋证', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: August\n8月孵蛋证', 'quantity': 1}, {'itemId': 'POKECOIN\n宝可币', 'quantity': 100}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png
 "TICKETS
 门票礼盒","Serene Retreat Ultra Ticket Box
 宁静山庄究极入场券礼盒",2025-06-04 08:59:00,"[{'itemId': 'Ticket\n入场券', 'quantity': 1}, {'itemId': 'Ultra Ball\n高级球', 'quantity': 5}]","[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png
@@ -58,19 +58,19 @@ Pokémon GO Fest 2025：全球入场券",2025-06-30 09:00:00,"[{'itemId': 'Ticke
 极巨菇菇",,"[{'itemId': 'Max Mushroom\n极巨菇菇', 'quantity': 3}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_boost.png
 "POKECOINS
 宝可币","110 PokéCoins
-110宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 110}]","[{'priceE6': 5000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 5000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png
+110宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 110}]","[{'priceE6': 5000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 5000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png
 "POKECOINS
 宝可币","600 PokéCoins
-600宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 600}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png
+600宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 600}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png
 "POKECOINS
 宝可币","1,300 PokéCoins
-1,300宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 1300}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png
+1,300宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 1300}]","[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png
 "POKECOINS
 宝可币","2,700 PokéCoins
-2,700宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 2700}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png
+2,700宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 2700}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png
 "POKECOINS
 宝可币","5,600 PokéCoins
-5,600宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 5600}]","[{'priceE6': 200000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 200000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png
+5,600宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 5600}]","[{'priceE6': 200000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 200000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png
 "POKECOINS
 宝可币","15,500 PokéCoins
-15,500宝可币",,"[{'itemId': 'POKECOIN', 'quantity': 15500}]","[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png
+15,500宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'quantity': 15500}]","[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png
