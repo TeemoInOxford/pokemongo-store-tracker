@@ -132,7 +132,7 @@ for category in categories[1:]:
             "name": full_name,
             "endTimeMs": convert_time(end_time),
             "bundledItems": bundle_info,
-            "sellingPrice": f"￥{selling_price:.2f}",
+            "sellingPrice": f"{selling_price} RMB",
             "price": price,
             "imageUrl": imageUrl
         })
