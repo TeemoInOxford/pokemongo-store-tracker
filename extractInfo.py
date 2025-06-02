@@ -70,7 +70,8 @@ category_map = {
     "BUNDLE": "道具礼盒",
     "LIMITED_TIME": "限时礼盒",
     "ITEMS": "道具",
-    "POKECOINS": "宝可币"
+    "POKECOINS": "宝可币",
+    "POKECOIN": "宝可币"
 }
 
 # 替换原来的 for category in categories[1:]:
@@ -95,7 +96,7 @@ for category in categories[1:]:
 
         # 打包货币内容
         bundle_coin_info = [
-            {"itemId": b.get("currency"), "quantity": b.get("quantity")}
+            {"itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"),b.get("currency")), "quantity": b.get("quantity")}
             for b in bundle_coin
         ]
 
