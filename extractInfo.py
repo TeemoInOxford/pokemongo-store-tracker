@@ -75,6 +75,10 @@ category_map = {
 }
 
 # 设计售价公式
+def suggest_price(idr, premium=0.15):
+    base = 0.00048 * idr + 10
+    bundle_price = base * (1 + premium)
+    return round(bundle_price) - 0.01 if bundle_price > 10 else round(bundle_price, 2)
 
 
 # 替换原来的 for category in categories[1:]:
@@ -123,7 +127,7 @@ for category in categories[1:]:
             "name": full_name,
             "endTimeMs": convert_time(end_time),
             "bundledItems": bundle_info,
-            # "sellingPrice": selling_price,
+            "sellingPrice": selling_price,
             "price": price,
             "imageUrl": imageUrl
         })
