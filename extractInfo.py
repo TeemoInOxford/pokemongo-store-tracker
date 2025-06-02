@@ -103,8 +103,8 @@ for category in categories[1:]:
 
 
         idr_price_micros = int(price[0]["priceE6"])
-            idr_price = idr_price_micros / 1_000_000
-            selling_price = calc_price_rmb(idr_price)
+        idr_price = idr_price_micros / 1_000_000
+        selling_price = suggest_price(idr_price)
         
         # 打包货币内容
         bundle_coin_info = [
