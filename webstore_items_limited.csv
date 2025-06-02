@@ -14,9 +14,6 @@
 "BUNDLE
 道具礼盒","Ultra Raid Box
 高级团体战礼盒",2025-06-04 11:00:00,"[{'itemId': 'ITEM_REMOTE_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}, {'itemId': 'ITEM_INCUBATOR_BASIC', 'quantity': 1}]","[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-stg-assets/pgo/sku_assets/bundle.general.remotebox.small.1.png
-"BUNDLE
-道具礼盒","TM Elite Master Box
-招式学习器达人礼盒",2025-06-02 11:00:00,"[{'itemId': 'ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_ELITE_FAST_ATTACK', 'quantity': 2}, {'itemId': 'ITEM_MOVE_REROLL_FAST_ATTACK', 'quantity': 6}, {'itemId': 'ITEM_MOVE_REROLL_SPECIAL_ATTACK', 'quantity': 6}]","[{'priceE6': 101000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 101000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png
 "LIMITED_TIME
 限时礼盒","Pokémon GO Fest 2025: Global Ticket
 Pokémon GO Fest 2025：全球入场券",2025-06-30 09:00:00,"[{'itemId': 'ITEM_EVENT_TICKET_10', 'quantity': 1}, {'itemId': 'ITEM_MAX_REVIVE', 'quantity': 5}, {'itemId': 'ITEM_RARE_CANDY', 'quantity': 5}, {'itemId': 'ITEM_PAID_RAID_TICKET', 'quantity': 3}]","[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png
