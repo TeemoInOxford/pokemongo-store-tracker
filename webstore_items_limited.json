@@ -153,6 +153,142 @@
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Pass Deluxe: June + 10 Ranks\nGO Pass豪华版：6月＋10级",
+    "endTimeMs":"2025-07-01 09:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
+        "quantity":1
+      },
+      {
+        "itemId":" + 10 Ranks\n +10 级",
+        "quantity":1000
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":38.99,
+    "price":[
+      {
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png"
+  },
+  {
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
+    "endTimeMs":"2025-07-01 09:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
+        "quantity":1
+      },
+      {
+        "itemId":" + 10 Ranks\n +10 级",
+        "quantity":1000
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "quantity":20
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "quantity":10
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "quantity":2
+      },
+      {
+        "itemId":"Egg Incubator\n孵化器",
+        "quantity":1
+      },
+      {
+        "itemId":"Super Incubator\n超级孵化器",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":52.99,
+    "price":[
+      {
+        "priceE6":76000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":76000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png"
+  },
+  {
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
+    "endTimeMs":"2025-07-01 09:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":33.99,
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp"
+  },
+  {
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"Pokémon GO Fest 2025: Global Ticket\nPokémon GO Fest 2025：全球入场券",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
