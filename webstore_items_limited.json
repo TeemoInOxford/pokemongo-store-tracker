@@ -42,37 +42,6 @@
   },
   {
     "category":"TICKETS\n门票礼盒",
-    "name":"Serene Retreat Ultra Ticket Box\n宁静山庄究极入场券礼盒",
-    "endTimeMs":"2025-06-04 08:59:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_evergreen_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":5
-      }
-    ],
-    "sellingPrice":"16.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.d.png",
-    "localImage":"images\/main_web-gofest-2025-apac-overlay-ticket-box.png"
-  },
-  {
-    "category":"TICKETS\n门票礼盒",
     "name":"Eggs-pedition Access: June\n6月孵蛋证",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
@@ -168,6 +137,47 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-stg-assets\/pgo\/sku_assets\/bundle.general.remotebox.small.1.png",
     "localImage":"images\/main_web-raid-box-1223.png"
+  },
+  {
+    "category":"BUNDLE\n道具礼盒",
+    "name":"TM Elite Master Box\n招式学习器达人礼盒",
+    "endTimeMs":"2025-07-01 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Elite Charged TM\n厉害特殊招式学习器",
+        "rawId":"item_move_reroll_elite_special_attack",
+        "quantity":2
+      },
+      {
+        "itemId":"Elite Fast TM\n厉害一般招式学习器",
+        "rawId":"item_move_reroll_elite_fast_attack",
+        "quantity":2
+      },
+      {
+        "itemId":"Fast TM\n一般招式学习器",
+        "rawId":"item_move_reroll_fast_attack",
+        "quantity":6
+      },
+      {
+        "itemId":"Charged TM\n特殊招式学习器",
+        "rawId":"item_move_reroll_special_attack",
+        "quantity":6
+      }
+    ],
+    "sellingPrice":"66.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":101000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":101000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-celebi-ticket-box-0724.png",
+    "localImage":"images\/main_web-tm-elite-master-box.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",

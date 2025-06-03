@@ -557,82 +557,6 @@
                 "lastUpdateTimeMs": 1748454445145
               },
               {
-                "skuId": "web-gofest-2025-apac-overlay-ticket-box",
-                "localizationNameKey": "sku.name.web-gofest-2025-apac-overlay-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1748998740000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVERGREEN_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/global-events-gofest2025-overlays\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 24,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748379491466
-              },
-              {
                 "skuId": "web-s19-june-monthly-ticket-box",
                 "localizationNameKey": "sku.name.web-s19-june-monthly-ticket-box",
                 "description": " ",
@@ -859,6 +783,90 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1745884840424
+              },
+              {
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751338800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1748984064899
               }
             ]
           },
@@ -2373,8 +2381,8 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/community-day/map",
-                    "labelKey": "common.community_day_map",
+                    "url": "https://pokemongo.com/find-your-community",
+                    "labelKey": "common.community",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -2595,8 +2603,8 @@
               "localesToIgnoreList": []
             },
             {
-              "url": "https://pokemongo.com/community-day/map",
-              "labelKey": "community_day_map",
+              "url": "https://pokemongo.com/find-your-community",
+              "labelKey": "community",
               "iconName": "",
               "isInternal": false,
               "useLanguageCode": false,
@@ -4013,7 +4021,8 @@
                   "web-event-pass-softlaunch-plusrank-june": "GO Pass Deluxe: June + 10 Ranks",
                   "BADGE_EVENT_0128": "GO Pass Deluxe: June",
                   "ITEM_EVENT_PASS_POINT_LIVE_OPS_01": " + 10 Ranks",
-                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box"
+                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box",
+                  "web-gofest-2025-amer-overlay-ticket-box": "Instrumental Wonders Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -4766,82 +4775,6 @@
                 "lastUpdateTimeMs": 1748454445145
               },
               {
-                "skuId": "web-gofest-2025-apac-overlay-ticket-box",
-                "localizationNameKey": "sku.name.web-gofest-2025-apac-overlay-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1748998740000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVERGREEN_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/global-events-gofest2025-overlays\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 24,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748379491466
-              },
-              {
                 "skuId": "web-s19-june-monthly-ticket-box",
                 "localizationNameKey": "sku.name.web-s19-june-monthly-ticket-box",
                 "description": " ",
@@ -5068,6 +5001,90 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1745884840424
+              },
+              {
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751338800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1748984064899
               }
             ]
           },
@@ -6582,8 +6599,8 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/community-day/map",
-                    "labelKey": "common.community_day_map",
+                    "url": "https://pokemongo.com/find-your-community",
+                    "labelKey": "common.community",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -6804,8 +6821,8 @@
               "localesToIgnoreList": []
             },
             {
-              "url": "https://pokemongo.com/community-day/map",
-              "labelKey": "community_day_map",
+              "url": "https://pokemongo.com/find-your-community",
+              "labelKey": "community",
               "iconName": "",
               "isInternal": false,
               "useLanguageCode": false,
@@ -8222,7 +8239,8 @@
                   "web-event-pass-softlaunch-plusrank-june": "GO Pass豪華版：6月＋10級",
                   "BADGE_EVENT_0128": "GO Pass豪華版：6月",
                   "ITEM_EVENT_PASS_POINT_LIVE_OPS_01": " +10 級",
-                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass豪華版：6月＋10級 高級禮盒"
+                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass豪華版：6月＋10級 高級禮盒",
+                  "web-gofest-2025-amer-overlay-ticket-box": "器械奇跡究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9050,7 +9068,8 @@
                   "web-event-pass-softlaunch-plusrank-june": "GO Pass Deluxe: June + 10 Ranks",
                   "BADGE_EVENT_0128": "GO Pass Deluxe: June",
                   "ITEM_EVENT_PASS_POINT_LIVE_OPS_01": " + 10 Ranks",
-                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box"
+                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box",
+                  "web-gofest-2025-amer-overlay-ticket-box": "Instrumental Wonders Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
