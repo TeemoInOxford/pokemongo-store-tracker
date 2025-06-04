@@ -1,6 +1,37 @@
 [
   {
     "category":"TICKETS\n门票礼盒",
+    "name":"Instrumental Wonders Ultra Ticket Box\n器械奇迹究极入场券礼盒",
+    "endTimeMs":"2025-06-12 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_pink",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"16.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.a.png",
+    "localImage":"images\/main_web-gofest-2025-amer-overlay-ticket-box.png"
+  },
+  {
+    "category":"TICKETS\n门票礼盒",
     "name":"Eggs-pedition Access Ultra Ticket Box\n孵蛋证究极入场券礼盒",
     "endTimeMs":"2025-06-11 11:00:00",
     "bundledItems":[
