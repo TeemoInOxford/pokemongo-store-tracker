@@ -732,7 +732,7 @@
         "quantity":110
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"5000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":5000000000,
@@ -758,7 +758,7 @@
         "quantity":600
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"25000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":25000000000,
@@ -784,7 +784,7 @@
         "quantity":1300
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"50000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":50000000000,
@@ -810,7 +810,7 @@
         "quantity":2700
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"101000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":101000000000,
@@ -836,7 +836,7 @@
         "quantity":5600
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"200000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":200000000000,
@@ -862,7 +862,7 @@
         "quantity":15500
       }
     ],
-    "sellingPrice":" CNY 人民币 CNY 人民币",
+    "sellingPrice":"505000.00 CNY（未定价） CNY 人民币",
     "price":[
       {
         "priceE6":505000000000,
