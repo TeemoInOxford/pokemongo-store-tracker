@@ -6,6 +6,39 @@ from opencc import OpenCC
 import os
 import requests
 
+# 售价映射表（非金币）
+idr_price_map = {
+    5000: 8.99,
+    10000: 9.99,
+    15000: 12.99,
+    25000: 22.22,
+    30500: 25.55,
+    41000: 29.99,
+    50000: 33.33,
+    76000: 55.55,
+    101000: 59.99
+}
+
+# 金币定价表（只有金币商品用）
+coin_price_map = {
+    600: 18.99,
+    1300: 29.99,
+    2700: 54.99,
+    5600: 104.99,
+    15500: 249.99
+}
+
+# 判断金币商品
+def is_coin_item(category, name_en):
+    return category.startswith("POKECOIN") or "coin" in name_en.lower()
+
+# 获取售价
+def get_final_price(idr_price, category, name_en, quantity):
+    idr = int(idr_price)
+    if is_coin_item(category, name_en):
+        return f"{coin_price_map.get(quantity, '')} CNY 人民币"
+    return f"{idr_price_map.get(idr, '')} CNY 人民币"
+
 # 图片保存目录
 IMG_DIR = "images"
 os.makedirs(IMG_DIR, exist_ok=True)
@@ -95,7 +128,9 @@ for category in categories[1:]:
         bundle = item.get("bundledItemList", [])
         price = item.get("priceList")
         idr_price = int(price[0].get("priceE6")) / 1_000_000
-        selling_price = suggest_price(idr_price)
+        quantity = price[0].get("quantity", 0)
+        selling_price = get_final_price(idr_price, raw_cat, name_en, quantity)
+
 
         # 下载主图
         if imageUrl:
