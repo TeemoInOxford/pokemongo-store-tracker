@@ -36,8 +36,12 @@ def is_coin_item(category, name_en):
 def get_final_price(idr_price, category, name_en, quantity):
     idr = int(idr_price)
     if is_coin_item(category, name_en):
-        return f"{coin_price_map.get(quantity, '')} CNY 人民币"
-    return f"{idr_price_map.get(idr, '')} CNY 人民币"
+        price = coin_price_map.get(quantity)
+        return f"{price} CNY 人民币" if price else f"{idr_price:.2f} CNY（未定价）"
+    else:
+        price = idr_price_map.get(idr)
+        return f"{price} CNY 人民币" if price else f"{idr_price:.2f} CNY（未定价）"
+
 
 # 图片保存目录
 IMG_DIR = "images"
