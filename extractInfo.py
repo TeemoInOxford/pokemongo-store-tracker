@@ -34,9 +34,9 @@ def is_coin_item(category, name_en):
 
 def get_selling_price(category, idr, coin_quantity):
     if category == "POKECOINS":
-        return f"{coin_quantity} 宝可币" if coin_quantity in coin_price_map else "未知金币数量"
+        return f"{coin_price_map.get(coin_quantity, '未知定价')}"
     else:
-        return f"{idr_price_map.get(int(idr), f'{idr:.2f}（未定价）')} CNY 人民币"
+        return f"{idr_price_map.get(int(idr), f'{idr:.2f}（未定价）')}"
 
 
 
