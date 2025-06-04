@@ -32,15 +32,12 @@ coin_price_map = {
 def is_coin_item(category, name_en):
     return category.startswith("POKECOIN") or "coin" in name_en.lower()
 
-# 获取售价
-def get_final_price(idr_price, category, name_en, quantity):
-    idr = int(idr_price)
-    if is_coin_item(category, name_en):
-        price = coin_price_map.get(quantity)
-        return f"{price} CNY 人民币" if price else f"{idr_price:.2f} CNY（未定价）"
+def get_selling_price(category, idr, coin_quantity):
+    if category == "POKECOINS":
+        return f"{coin_quantity} 宝可币" if coin_quantity in coin_price_map else "未知金币数量"
     else:
-        price = idr_price_map.get(idr)
-        return f"{price} CNY 人民币" if price else f"{idr_price:.2f} CNY（未定价）"
+        return f"{idr_price_map.get(int(idr), f'{idr:.2f}（未定价）')} CNY 人民币"
+
 
 
 # 图片保存目录
@@ -131,9 +128,10 @@ for category in categories[1:]:
         bundle_coin = item.get("bundledCurrencyList", [])
         bundle = item.get("bundledItemList", [])
         price = item.get("priceList")
-        idr_price = int(price[0].get("priceE6")) / 1_000_000
-        quantity = price[0].get("quantity", 0)
-        selling_price = get_final_price(idr_price, raw_cat, name_en, quantity)
+        idr_price = int(price[0].get("priceE6", 0)) / 1_000_000
+        coin_quantity = bundle_coin[0].get("quantity") if raw_cat == "POKECOINS" and bundle_coin else 0
+        selling_price = get_selling_price(raw_cat, idr_price, coin_quantity)
+
 
 
         # 下载主图
