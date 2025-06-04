@@ -104,42 +104,6 @@
   },
   {
     "category":"BUNDLE\n道具礼盒",
-    "name":"Ultra Raid Box\n高级团体战礼盒",
-    "endTimeMs":"2025-06-04 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Remote Raid Pass\n远距团体战入场券",
-        "rawId":"item_remote_raid_ticket",
-        "quantity":3
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":3
-      },
-      {
-        "itemId":"Egg Incubator\n孵化器",
-        "rawId":"item_incubator_basic",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"24.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-stg-assets\/pgo\/sku_assets\/bundle.general.remotebox.small.1.png",
-    "localImage":"images\/main_web-raid-box-1223.png"
-  },
-  {
-    "category":"BUNDLE\n道具礼盒",
     "name":"TM Elite Master Box\n招式学习器达人礼盒",
     "endTimeMs":"2025-07-01 11:00:00",
     "bundledItems":[
