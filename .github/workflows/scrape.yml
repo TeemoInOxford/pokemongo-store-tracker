@@ -43,7 +43,7 @@ jobs:
         git config user.email "teemobot@example.com"
         git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
 
-        git add data.json webstore_items_limited.csv webstore_items_limited.json images/
+        git add data.json webstore_items_limited.csv webstore_items_limited.json build_id.json images/
         git commit -m "Update store data and images [auto]" || echo "No changes"
         git push origin HEAD:${{ github.ref_name }}
 
