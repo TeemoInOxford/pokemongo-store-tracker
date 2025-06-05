@@ -2,6 +2,7 @@ import os
 import re
 import json
 import requests
+from datetime import datetime
     
 headers = {
     'User-Agent': 'Mozilla/5.0'
@@ -38,6 +39,12 @@ def get_build_id(proxies):
     if match:
         build_id = match.group(1)
         print(f"✅ 成功提取 buildId: {build_id}")
+        with open("build_id.json", "w", encoding="utf-8") as f:
+            json.dump({
+                "buildId": build_id,
+                "timestamp": datetime.now().astimezone().isoformat()
+            }, f, ensure_ascii=False, indent=2)
+        print("📄 已写入 build_id.json")
         return build_id
     else:
         raise Exception("❌ 无法在 HTML 中找到 buildId")
