@@ -160,13 +160,14 @@ for category in categories[1:]:
 
         # 打包货币内容
         for b in bundle_coin:
-            currency_id = b.get("currency").lower()
-            bundle_info.append({
-                "itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"), b.get("currency")),
-                "rawId": currency_id,
-                "quantity": b.get("quantity")
-            })
-            icon_ids.add(currency_id)
+            if b.get("quantity") != 110:
+                currency_id = b.get("currency").lower()
+                bundle_info.append({
+                    "itemId": b.get("currency") + "\n" + category_map.get(b.get("currency"), b.get("currency")),
+                    "rawId": currency_id,
+                    "quantity": b.get("quantity")
+                })
+                icon_ids.add(currency_id)
 
         # 下载所有小图
         for rid in icon_ids:
