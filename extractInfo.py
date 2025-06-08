@@ -123,9 +123,9 @@ for category in categories[1:]:
         name_zh_trad = resolve_name(name_map_zh, main_key, sub_key)
         name_zh_simp = cc.convert(name_zh_trad)
         full_name = f"{name_en}\n{name_zh_simp}"
-
+        
         # 🚫 跳过 110 PokéCoins
-        if name_en.strip().lower() == "110 pokecoins":
+        if name_en.strip() == "110 PokéCoins":
             continue
 
         end_time = item.get("webstoreLimitInfo", {}).get("endTimeMs")
