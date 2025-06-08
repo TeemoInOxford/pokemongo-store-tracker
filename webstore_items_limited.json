@@ -723,32 +723,6 @@
   },
   {
     "category":"POKECOINS\n宝可币",
-    "name":"110 PokéCoins\n110宝可币",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"POKECOIN\n宝可币",
-        "rawId":"pokecoin",
-        "quantity":110
-      }
-    ],
-    "sellingPrice":"未知定价 CNY 人民币",
-    "price":[
-      {
-        "priceE6":5000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":5000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xxsmall.png",
-    "localImage":"images\/main_coin-bundle-xxsmall.png"
-  },
-  {
-    "category":"POKECOINS\n宝可币",
     "name":"600 PokéCoins\n600宝可币",
     "endTimeMs":null,
     "bundledItems":[
