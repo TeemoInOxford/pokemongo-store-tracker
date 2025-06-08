@@ -726,11 +726,7 @@
     "name":"110 PokéCoins\n110宝可币",
     "endTimeMs":null,
     "bundledItems":[
-      {
-        "itemId":"POKECOIN\n宝可币",
-        "rawId":"pokecoin",
-        "quantity":110
-      }
+
     ],
     "sellingPrice":"未知定价 CNY 人民币",
     "price":[
