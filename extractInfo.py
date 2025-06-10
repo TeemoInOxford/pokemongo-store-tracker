@@ -142,7 +142,7 @@ for category in categories[1:]:
         if imageUrl:
             image_filename = f"main_{main_key.lower()}.png"
             download_image(imageUrl, image_filename)
-            local_main_image_path = imageUrl
+            local_main_image_path = image_filename
         else:
             local_main_image_path = ""
 
