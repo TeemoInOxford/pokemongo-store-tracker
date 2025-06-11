@@ -2,12 +2,6 @@
 "TICKETS
 门票礼盒","Instrumental Wonders Ultra Ticket Box
 器械奇迹究极入场券礼盒",2025-06-12 11:00:00,"[{'itemId': 'Ticket\n入场券', 'rawId': 'item_event_ticket_pink', 'quantity': 1}, {'itemId': 'Ultra Ball\n高级球', 'rawId': 'item_ultra_ball', 'quantity': 5}]",9.99 CNY 人民币,"[{'priceE6': 10000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 10000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.a.png,main_web-gofest-2025-amer-overlay-ticket-box.png
-"TICKETS
-门票礼盒","Eggs-pedition Access Ultra Ticket Box
-孵蛋证究极入场券礼盒",2025-06-11 11:00:00,"[{'itemId': 'Eggs-pedition Access: June\n6月孵蛋证', 'rawId': 'item_event_ticket_05', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: July\n7月孵蛋证', 'rawId': 'item_event_ticket_06', 'quantity': 1}, {'itemId': 'Eggs-pedition Access: August\n8月孵蛋证', 'rawId': 'item_event_ticket_09', 'quantity': 1}, {'itemId': 'POKECOIN\n宝可币', 'rawId': 'pokecoin', 'quantity': 100}]",55.55 CNY 人民币,"[{'priceE6': 76000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 76000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png,main_web-s19-all-monthly-ticket-box.png
-"TICKETS
-门票礼盒","Eggs-pedition Access: June
-6月孵蛋证",2025-06-11 11:00:00,"[{'itemId': 'Eggs-pedition Access: June\n6月孵蛋证', 'rawId': 'item_event_ticket_05', 'quantity': 1}]",22.22 CNY 人民币,"[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.freebox.small.1.png,main_web-s19-june-monthly-ticket-box.png
 "BUNDLE
 道具礼盒","Delightful Days Box
 快乐每一天礼盒",2025-06-28 08:00:00,"[{'itemId': 'Postcard Pages\n明信片内页', 'rawId': 'item_postcard_storage_upgrade', 'quantity': 1}, {'itemId': 'Premium Battle Pass\n特级对战入场券', 'rawId': 'item_paid_raid_ticket', 'quantity': 2}, {'itemId': 'Remote Raid Pass\n远距团体战入场券', 'rawId': 'item_remote_raid_ticket', 'quantity': 3}]",22.22 CNY 人民币,"[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-season-14-start-bundle.png,main_web-season-19-start-box.png
