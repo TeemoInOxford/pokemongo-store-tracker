@@ -239,6 +239,60 @@
                 "lastUpdateTimeMs": 1749499163644
               },
               {
+                "skuId": "web-community-ambassador-bonus-bundle-2025",
+                "localizationNameKey": "sku.name.web-community-ambassador-bonus-bundle-2025",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 505000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 505000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "DEFAULT",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 0,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749678160901
+              },
+              {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
                 "localizationNameKey": "sku.name.web-go-fest-bonus-bundle-2025-2",
                 "description": " ",
@@ -4430,6 +4484,60 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1749499163644
+              },
+              {
+                "skuId": "web-community-ambassador-bonus-bundle-2025",
+                "localizationNameKey": "sku.name.web-community-ambassador-bonus-bundle-2025",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 505000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 505000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "DEFAULT",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 0,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749678160901
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
