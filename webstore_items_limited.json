@@ -176,6 +176,57 @@
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Special Box\n特别礼盒",
+    "endTimeMs":"2025-06-16 13:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Elite Charged TM\n厉害特殊招式学习器",
+        "rawId":"item_move_reroll_elite_special_attack",
+        "quantity":2
+      },
+      {
+        "itemId":"Elite Fast TM\n厉害一般招式学习器",
+        "rawId":"item_move_reroll_elite_fast_attack",
+        "quantity":2
+      },
+      {
+        "itemId":"Charged TM\n特殊招式学习器",
+        "rawId":"item_move_reroll_special_attack",
+        "quantity":10
+      },
+      {
+        "itemId":"Fast TM\n一般招式学习器",
+        "rawId":"item_move_reroll_fast_attack",
+        "quantity":10
+      },
+      {
+        "itemId":"Lucky Egg\n幸运蛋",
+        "rawId":"item_lucky_egg",
+        "quantity":1
+      },
+      {
+        "itemId":"Star Piece\n星星碎片",
+        "rawId":"item_star_piece",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"59.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":101000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":101000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.xmas.medium.1.png",
+    "localImage":"main_web-naic-2025-box.png"
+  },
+  {
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
     "endTimeMs":"2025-07-01 09:00:00",
     "bundledItems":[
