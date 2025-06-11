@@ -932,7 +932,7 @@
                 "skuId": "web-naic-2025-box",
                 "localizationNameKey": "sku.name.web-naic-2025-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.b.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -1022,7 +1022,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749599190602
+                "lastUpdateTimeMs": 1749600909727
               },
               {
                 "skuId": "web-event-pass-softlaunch-plusrank-june-ultra",
@@ -4178,7 +4178,9 @@
                   "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box",
                   "web-gofest-2025-amer-overlay-ticket-box": "Instrumental Wonders Ultra Ticket Box",
                   "web-bonus-2025-twitch-steam": "Premium Battle Pass",
-                  "web-naic-2025-box": "Special Box"
+                  "web-naic-2025-box": "Special Box",
+                  "web-gofest-2025-battle-box": "GO Fest Battler Box",
+                  "web-gofest-2025-emea-overlay-ticket-box": "Phantom Ruins Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -5306,7 +5308,7 @@
                 "skuId": "web-naic-2025-box",
                 "localizationNameKey": "sku.name.web-naic-2025-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.b.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -5396,7 +5398,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749599190602
+                "lastUpdateTimeMs": 1749600909727
               },
               {
                 "skuId": "web-event-pass-softlaunch-plusrank-june-ultra",
@@ -8552,7 +8554,9 @@
                   "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass豪華版：6月＋10級 高級禮盒",
                   "web-gofest-2025-amer-overlay-ticket-box": "器械奇跡究極入場券禮盒",
                   "web-bonus-2025-twitch-steam": "特級對戰入場券",
-                  "web-naic-2025-box": "特別禮盒"
+                  "web-naic-2025-box": "特別禮盒",
+                  "web-gofest-2025-battle-box": "GO Fest對戰者禮盒",
+                  "web-gofest-2025-emea-overlay-ticket-box": "幻影遺跡究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9383,7 +9387,9 @@
                   "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box",
                   "web-gofest-2025-amer-overlay-ticket-box": "Instrumental Wonders Ultra Ticket Box",
                   "web-bonus-2025-twitch-steam": "Premium Battle Pass",
-                  "web-naic-2025-box": "Special Box"
+                  "web-naic-2025-box": "Special Box",
+                  "web-gofest-2025-battle-box": "GO Fest Battler Box",
+                  "web-gofest-2025-emea-overlay-ticket-box": "Phantom Ruins Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
