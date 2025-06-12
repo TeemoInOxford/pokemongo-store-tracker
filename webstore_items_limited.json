@@ -1,6 +1,47 @@
 [
   {
     "category":"BUNDLE\n道具礼盒",
+    "name":"GO Fest Battler Box\nGO Fest对战者礼盒",
+    "endTimeMs":"2025-06-30 13:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":10
+      },
+      {
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
+        "rawId":"item_remote_raid_ticket",
+        "quantity":3
+      },
+      {
+        "itemId":"Silver Pinap Berry\n银色凰梨果",
+        "rawId":"item_golden_pinap_berry",
+        "quantity":1
+      },
+      {
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.xmas.medium.1.png",
+    "localImage":"images\/main_web-gofest-2025-battle-box.png"
+  },
+  {
+    "category":"BUNDLE\n道具礼盒",
     "name":"Delightful Days Box\n快乐每一天礼盒",
     "endTimeMs":"2025-06-28 08:00:00",
     "bundledItems":[
@@ -75,6 +116,37 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-celebi-ticket-box-0724.png",
     "localImage":"images\/main_web-tm-elite-master-box.png"
+  },
+  {
+    "category":"TICKETS\n门票礼盒",
+    "name":"Phantom Ruins Ultra Ticket Box\n幻影遗迹究极入场券礼盒",
+    "endTimeMs":"2025-06-19 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_evergreen_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"9.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.xmas.large.1.png",
+    "localImage":"images\/main_web-gofest-2025-emea-overlay-ticket-box.png"
   },
   {
     "category":"LIMITED_TIME\n限时礼盒",

@@ -572,6 +572,86 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-gofest-2025-battle-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-battle-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751259600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_GOLDEN_PINAP_BERRY",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749601981415
+              },
+              {
                 "skuId": "web-season-19-start-box",
                 "localizationNameKey": "sku.name.web-season-19-start-box",
                 "description": " ",
@@ -732,6 +812,88 @@
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748984064899
+              }
+            ]
+          },
+          {
+            "category": "TICKETS",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "web-gofest-2025-emea-overlay-ticket-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-emea-overlay-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.large.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1750302000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/global-events-gofest2025-overlays\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749602505136
               }
             ]
           },
@@ -4737,6 +4899,86 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-gofest-2025-battle-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-battle-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751259600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_GOLDEN_PINAP_BERRY",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749601981415
+              },
+              {
                 "skuId": "web-season-19-start-box",
                 "localizationNameKey": "sku.name.web-season-19-start-box",
                 "description": " ",
@@ -4897,6 +5139,88 @@
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748984064899
+              }
+            ]
+          },
+          {
+            "category": "TICKETS",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "web-gofest-2025-emea-overlay-ticket-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-emea-overlay-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.large.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1750302000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/global-events-gofest2025-overlays\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1749602505136
               }
             ]
           },
