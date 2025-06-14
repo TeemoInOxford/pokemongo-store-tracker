@@ -223,7 +223,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b"
+                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -236,7 +236,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749499163644
+                "lastUpdateTimeMs": 1749860534446
               },
               {
                 "skuId": "web-community-ambassador-bonus-bundle-2025",
@@ -335,7 +335,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-gofest-2025-apac-overlay-ticket-box,web-season-19-start-box,web-raid-box-1223,web-go-fest-2025-ticket,web-1mp-1rrp-bundle,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-remote-raidpass-bundle,web-pokemon-storage-bundle,web-item-storage-bundle,web-basic-incubator-3pack,web-super-incubator-2pack,web-max-revive-6,web-premium-battle-pass-3,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-s19-all-monthly-ticket-box,jh-test-coin-priced-sku,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-zzraid-box,web-tm-elite-master-box,web-s19-june-monthly-ticket-box,web-event-pass-softlaunch-base-june,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-s19-all-monthly-ticket-boxweb-world-championship2025-box,web-gofest-2025-amer-overlay-ticket-box,web-naic-2025-box"
+                    "value": "web-gofest-2025-apac-overlay-ticket-box,web-season-19-start-box,web-raid-box-1223,web-go-fest-2025-ticket,web-1mp-1rrp-bundle,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-remote-raidpass-bundle,web-pokemon-storage-bundle,web-item-storage-bundle,web-basic-incubator-3pack,web-super-incubator-2pack,web-max-revive-6,web-premium-battle-pass-3,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-s19-all-monthly-ticket-box,jh-test-coin-priced-sku,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-zzraid-box,web-tm-elite-master-box,web-s19-june-monthly-ticket-box,web-event-pass-softlaunch-base-june,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-s19-all-monthly-ticket-boxweb-world-championship2025-box,web-gofest-2025-amer-overlay-ticket-box,web-naic-2025-box,web-gofest-2025-emea-overlay-ticket-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -348,7 +348,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749599486940
+                "lastUpdateTimeMs": 1749860502333
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -4550,7 +4550,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b"
+                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -4563,7 +4563,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749499163644
+                "lastUpdateTimeMs": 1749860534446
               },
               {
                 "skuId": "web-community-ambassador-bonus-bundle-2025",
@@ -4662,7 +4662,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-gofest-2025-apac-overlay-ticket-box,web-season-19-start-box,web-raid-box-1223,web-go-fest-2025-ticket,web-1mp-1rrp-bundle,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-remote-raidpass-bundle,web-pokemon-storage-bundle,web-item-storage-bundle,web-basic-incubator-3pack,web-super-incubator-2pack,web-max-revive-6,web-premium-battle-pass-3,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-s19-all-monthly-ticket-box,jh-test-coin-priced-sku,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-zzraid-box,web-tm-elite-master-box,web-s19-june-monthly-ticket-box,web-event-pass-softlaunch-base-june,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-s19-all-monthly-ticket-boxweb-world-championship2025-box,web-gofest-2025-amer-overlay-ticket-box,web-naic-2025-box"
+                    "value": "web-gofest-2025-apac-overlay-ticket-box,web-season-19-start-box,web-raid-box-1223,web-go-fest-2025-ticket,web-1mp-1rrp-bundle,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-remote-raidpass-bundle,web-pokemon-storage-bundle,web-item-storage-bundle,web-basic-incubator-3pack,web-super-incubator-2pack,web-max-revive-6,web-premium-battle-pass-3,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-s19-all-monthly-ticket-box,jh-test-coin-priced-sku,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-zzraid-box,web-tm-elite-master-box,web-s19-june-monthly-ticket-box,web-event-pass-softlaunch-base-june,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-s19-all-monthly-ticket-boxweb-world-championship2025-box,web-gofest-2025-amer-overlay-ticket-box,web-naic-2025-box,web-gofest-2025-emea-overlay-ticket-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -4675,7 +4675,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1749599486940
+                "lastUpdateTimeMs": 1749860502333
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
