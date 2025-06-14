@@ -3004,7 +3004,9 @@
           "ogDescriptionLocKey": "common.site_description",
           "ogImage": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/site_assets/pokemongo_opengraph.png"
         },
-        "remoteConfigFlagsList": [],
+        "remoteConfigFlagsList": [
+          "WEBSTORE_UI_NO_BADGE_TEST"
+        ],
         "heroLinksList": [
           {
             "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/94-how-can-i-purchase-items-and-pokecoins/",
@@ -7329,7 +7331,9 @@
           "ogDescriptionLocKey": "common.site_description",
           "ogImage": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/site_assets/pokemongo_opengraph.png"
         },
-        "remoteConfigFlagsList": [],
+        "remoteConfigFlagsList": [
+          "WEBSTORE_UI_NO_BADGE_TEST"
+        ],
         "heroLinksList": [
           {
             "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/94-how-can-i-purchase-items-and-pokecoins/",
