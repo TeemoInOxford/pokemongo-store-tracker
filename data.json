@@ -4062,7 +4062,12 @@
                   "web-june-2025-encounter-ticket-box": "Yamper’s Paw Prints Ultra Ticket Box",
                   "web-2025-anniversary-ticket-box": "9th Anniversary Ultra Ticket Box",
                   "N_AVATAR_n_hat_partyhat_0": "Party Hat",
-                  "web-gofest-2025-gbird-ticket-box": "Fleeting Legends Ultra Ticket Box"
+                  "web-gofest-2025-gbird-ticket-box": "Fleeting Legends Ultra Ticket Box",
+                  "web-event-pass-ancients-recovered": "Go Pass Deluxe: Ancients Recovered",
+                  "web-event-pass-ancients-recovered-plus-10rank": "Go Pass Deluxe: Ancients Recovered + 10 Ranks",
+                  "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
+                  "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8326,7 +8331,12 @@
                   "web-june-2025-encounter-ticket-box": "來電汪的庭院究極入場券禮盒",
                   "web-2025-anniversary-ticket-box": "9週年紀念究極入場券禮盒",
                   "N_AVATAR_n_hat_partyhat_0": "派對帽",
-                  "web-gofest-2025-gbird-ticket-box": "大空究極入場券禮盒"
+                  "web-gofest-2025-gbird-ticket-box": "大空究極入場券禮盒",
+                  "web-event-pass-ancients-recovered": "GO Pass豪華版：昔日殘影",
+                  "web-event-pass-ancients-recovered-plus-10rank": "GO Pass豪華版：昔日殘影＋10級",
+                  "web-event-pass-ancients-recovered-plus-10rank-webonly": "GO Pass豪華版：昔日殘影＋10級究極入場券禮盒",
+                  "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "GO Pass豪華版：昔日殘影",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " +10 級"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9170,7 +9180,12 @@
                   "web-june-2025-encounter-ticket-box": "Yamper’s Paw Prints Ultra Ticket Box",
                   "web-2025-anniversary-ticket-box": "9th Anniversary Ultra Ticket Box",
                   "N_AVATAR_n_hat_partyhat_0": "Party Hat",
-                  "web-gofest-2025-gbird-ticket-box": "Fleeting Legends Ultra Ticket Box"
+                  "web-gofest-2025-gbird-ticket-box": "Fleeting Legends Ultra Ticket Box",
+                  "web-event-pass-ancients-recovered": "Go Pass Deluxe: Ancients Recovered",
+                  "web-event-pass-ancients-recovered-plus-10rank": "Go Pass Deluxe: Ancients Recovered + 10 Ranks",
+                  "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
+                  "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
