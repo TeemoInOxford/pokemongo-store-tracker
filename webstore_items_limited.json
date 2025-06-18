@@ -150,6 +150,37 @@
   },
   {
     "category":"TICKETS\n门票礼盒",
+    "name":"Yamper’s Paw Prints Ultra Ticket Box\n来电汪的庭院究极入场券礼盒",
+    "endTimeMs":"2025-06-23 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_pink",
+        "quantity":1
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"8.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":5000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":5000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.large.1.png",
+    "localImage":"images\/main_web-june-2025-encounter-ticket-box.png"
+  },
+  {
+    "category":"TICKETS\n门票礼盒",
     "name":"Phantom Ruins Ultra Ticket Box\n幻影遗迹究极入场券礼盒",
     "endTimeMs":"2025-06-19 11:00:00",
     "bundledItems":[
