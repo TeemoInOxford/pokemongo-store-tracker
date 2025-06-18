@@ -180,37 +180,6 @@
     "localImage":"images\/main_web-june-2025-encounter-ticket-box.png"
   },
   {
-    "category":"TICKETS\n门票礼盒",
-    "name":"Phantom Ruins Ultra Ticket Box\n幻影遗迹究极入场券礼盒",
-    "endTimeMs":"2025-06-19 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_evergreen_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":5
-      }
-    ],
-    "sellingPrice":"9.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.xmas.large.1.png",
-    "localImage":"images\/main_web-gofest-2025-emea-overlay-ticket-box.png"
-  },
-  {
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
     "endTimeMs":"2025-07-01 09:00:00",
