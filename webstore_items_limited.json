@@ -379,6 +379,47 @@
     "localImage":"images\/main_web-go-fest-2025-ticket.png"
   },
   {
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Pokémon GO Fest 2025: Global Ticket\nPokémon GO Fest 2025：全球入场券",
+    "endTimeMs":"2025-06-30 09:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_10",
+        "quantity":1
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Rare Candy\n神奇糖果",
+        "rawId":"item_rare_candy",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":3
+      }
+    ],
+    "sellingPrice":"55.55 CNY 人民币",
+    "price":[
+      {
+        "priceE6":76000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":76000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-boost-box-1223.png",
+    "localImage":"images\/main_web-go-fest-2025-ticket-b.png"
+  },
+  {
     "category":"ITEMS\n道具",
     "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
     "endTimeMs":null,
