@@ -5,6 +5,8 @@ import pandas as pd
 from opencc import OpenCC
 import os
 import requests
+from openpyxl import Workbook
+from openpyxl.styles import PatternFill, Font, Alignment
 
 # 售价映射表（非金币）
 idr_price_map = {
@@ -37,8 +39,6 @@ def get_selling_price(category, idr, coin_quantity):
         return f"{coin_price_map.get(coin_quantity, '未知定价')}"
     else:
         return f"{idr_price_map.get(int(idr), f'{idr:.2f}（未定价）')}"
-
-
 
 # 图片保存目录
 IMG_DIR = "images"
@@ -136,8 +136,6 @@ for category in categories[1:]:
         coin_quantity = bundle_coin[0].get("quantity") if raw_cat == "POKECOINS" and bundle_coin else 0
         selling_price = get_selling_price(raw_cat, idr_price, coin_quantity)
 
-
-
         # 下载主图
         if imageUrl:
             image_filename = f"main_{main_key.lower()}.png"
@@ -179,6 +177,7 @@ for category in categories[1:]:
             download_image(icon_url, icon_filename)
 
         items_info.append({
+            "raw_category": raw_cat,  # 添加原始类别用于排序
             "category": cat_name,
             "name": full_name,
             "endTimeMs": convert_time(end_time),
@@ -189,7 +188,98 @@ for category in categories[1:]:
             "localImage": local_main_image_path
         })
 
+# 创建DataFrame
 df = pd.DataFrame(items_info)
+
+# 定义排序顺序
+category_order = {
+    "BUNDLE": 1,      # 道具礼盒 - 第一组，排在前
+    "ITEMS": 2,       # 道具 - 第一组，排在后
+    "LIMITED_TIME": 3, # 限时礼盒 - 第二组，排在前
+    "TICKETS": 4,     # 门票礼盒 - 第二组，排在后
+    "POKECOINS": 5,   # 宝可币 - 不需要DLC
+    "POKECOIN": 5     # 宝可币 - 不需要DLC
+}
+
+# 排序
+df['sort_order'] = df['raw_category'].map(category_order)
+df = df.sort_values('sort_order')
+
+# 分配DLC编号
+dlc_counter = {
+    "group1": 1,  # BUNDLE和ITEMS
+    "group2": 1   # LIMITED_TIME和TICKETS
+}
+
+def assign_dlc(row):
+    if row['raw_category'] in ['POKECOINS', 'POKECOIN']:
+        return ""  # 金币不需要DLC
+    elif row['raw_category'] in ['BUNDLE', 'ITEMS']:
+        dlc = dlc_counter["group1"]
+        dlc_counter["group1"] += 1
+        return dlc
+    elif row['raw_category'] in ['LIMITED_TIME', 'TICKETS']:
+        dlc = dlc_counter["group2"]
+        dlc_counter["group2"] += 1
+        return dlc
+    return ""
+
+df['DLC'] = df.apply(assign_dlc, axis=1)
+
+# 删除辅助列
+df = df.drop(['raw_category', 'sort_order'], axis=1)
+
+# 重新排列列，DLC在最前面
+cols = ['DLC'] + [col for col in df.columns if col != 'DLC']
+df = df[cols]
+
+# 导出CSV（不含颜色）
 df.to_csv("webstore_items_limited.csv", index=False, encoding="utf-8-sig")
+
+# 导出带颜色的Excel文件
+with pd.ExcelWriter("webstore_items_limited.xlsx", engine='openpyxl') as writer:
+    df.to_excel(writer, index=False, sheet_name='Sheet1')
+    workbook = writer.book
+    worksheet = writer.sheets['Sheet1']
+    
+    # 定义颜色
+    color_group1 = PatternFill(start_color="B4E7CE", end_color="B4E7CE", fill_type="solid")  # 浅绿色
+    color_group2 = PatternFill(start_color="FFE5B4", end_color="FFE5B4", fill_type="solid")  # 浅橙色
+    
+    # 应用颜色到DLC列
+    for row in range(2, len(df) + 2):  # Excel行从1开始，第1行是标题
+        cell = worksheet.cell(row=row, column=1)  # DLC在第1列
+        category_cell = worksheet.cell(row=row, column=2)  # category在第2列
+        
+        # 根据category判断颜色
+        if "道具礼盒" in category_cell.value or "道具" in category_cell.value:
+            if "道具礼盒" not in category_cell.value or "道具" in category_cell.value:
+                cell.fill = color_group1
+        elif "限时礼盒" in category_cell.value or "门票礼盒" in category_cell.value:
+            cell.fill = color_group2
+    
+    # 调整列宽
+    for column in worksheet.columns:
+        max_length = 0
+        column_letter = column[0].column_letter
+        for cell in column:
+            try:
+                if len(str(cell.value)) > max_length:
+                    max_length = len(str(cell.value))
+            except:
+                pass
+        adjusted_width = min(max_length + 2, 50)
+        worksheet.column_dimensions[column_letter].width = adjusted_width
+
+# 导出JSON
 df.to_json("webstore_items_limited.json", orient="records", force_ascii=False, indent=2)
+
 print("✅ 导出完成")
+print("📊 DLC分配说明：")
+print("   - 道具礼盒(BUNDLE)和道具(ITEMS)：使用浅绿色标注")
+print("   - 限时礼盒(LIMITED_TIME)和门票礼盒(TICKETS)：使用浅橙色标注")
+print("   - 宝可币(POKECOINS)：无DLC编号")
+print("📁 已生成文件：")
+print("   - webstore_items_limited.csv (无颜色)")
+print("   - webstore_items_limited.xlsx (带颜色标注)")
+print("   - webstore_items_limited.json")
