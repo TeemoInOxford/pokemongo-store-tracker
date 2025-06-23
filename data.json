@@ -766,18 +766,18 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-june-2025-encounter-ticket-box",
-                "localizationNameKey": "sku.name.web-june-2025-encounter-ticket-box",
+                "skuId": "web-gofest-2025-gbird-ticket-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-gbird-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general3.large.1.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
+                    "priceE6": 41000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 5000000000,
+                      "originalPriceE6": 41000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -786,19 +786,31 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1750647600000
+                  "endTimeMs": 1751252400000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_PINK",
+                    "itemId": "ITEM_EVENT_TICKET_02",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_MAX_REVIVE",
+                    "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": []
                   }
@@ -826,7 +838,7 @@
                   },
                   {
                     "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/yampers-paw-prints-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_PINK\"}"
+                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/2025-ancients-recovered\",\"associatedItemId\":\"ITEM_EVENT_TICKET_02\"}"
                   }
                 ],
                 "category": "TICKETS",
@@ -837,9 +849,9 @@
                   5
                 ],
                 "catalogType": 2,
-                "rewardedSpendPoints": 12,
+                "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750110271118
+                "lastUpdateTimeMs": 1750116154561
               }
             ]
           },
@@ -5295,18 +5307,18 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-june-2025-encounter-ticket-box",
-                "localizationNameKey": "sku.name.web-june-2025-encounter-ticket-box",
+                "skuId": "web-gofest-2025-gbird-ticket-box",
+                "localizationNameKey": "sku.name.web-gofest-2025-gbird-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general3.large.1.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
+                    "priceE6": 41000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 5000000000,
+                      "originalPriceE6": 41000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -5315,19 +5327,31 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1750647600000
+                  "endTimeMs": 1751252400000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_PINK",
+                    "itemId": "ITEM_EVENT_TICKET_02",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_MAX_REVIVE",
+                    "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": []
                   }
@@ -5355,7 +5379,7 @@
                   },
                   {
                     "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/yampers-paw-prints-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_PINK\"}"
+                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/2025-ancients-recovered\",\"associatedItemId\":\"ITEM_EVENT_TICKET_02\"}"
                   }
                 ],
                 "category": "TICKETS",
@@ -5366,9 +5390,9 @@
                   5
                 ],
                 "catalogType": 2,
-                "rewardedSpendPoints": 12,
+                "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750110271118
+                "lastUpdateTimeMs": 1750116154561
               }
             ]
           },

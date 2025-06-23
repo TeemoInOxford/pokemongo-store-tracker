@@ -873,34 +873,44 @@
   {
     "DLC":8,
     "category":"TICKETS\n门票礼盒",
-    "name":"Yamper’s Paw Prints Ultra Ticket Box\n来电汪的庭院究极入场券礼盒",
-    "endTimeMs":"2025-06-23 11:00:00",
+    "name":"Fleeting Legends Ultra Ticket Box\n大空究极入场券礼盒",
+    "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
         "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_pink",
+        "rawId":"item_event_ticket_02",
         "quantity":1
       },
       {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
         "quantity":1
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
       }
     ],
-    "sellingPrice":"8.99 CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":5000000000,
+        "priceE6":41000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":5000000000,
+          "originalPriceE6":41000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.large.1.png",
-    "localImage":"images\/main_web-june-2025-encounter-ticket-box.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.a.png",
+    "localImage":"images\/main_web-gofest-2025-gbird-ticket-box.png"
   },
   {
     "DLC":"",
