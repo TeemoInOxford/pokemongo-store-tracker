@@ -184,7 +184,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740700159682
+                "lastUpdateTimeMs": 1740700159682,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -236,7 +237,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115719733
+                "lastUpdateTimeMs": 1750115719733,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -294,7 +296,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115271560
+                "lastUpdateTimeMs": 1750115271560,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -337,7 +340,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740198424286
+                "lastUpdateTimeMs": 1740198424286,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -380,7 +384,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1745617265591
+                "lastUpdateTimeMs": 1745617265591,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -423,7 +428,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1738276376447
+                "lastUpdateTimeMs": 1738276376447,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -466,7 +472,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1743011156550
+                "lastUpdateTimeMs": 1743011156550,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -509,7 +516,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1746578094014
+                "lastUpdateTimeMs": 1746578094014,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -627,7 +635,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698266127
+                "lastUpdateTimeMs": 1750698266127,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-softlaunch-plusrank-june",
@@ -727,7 +736,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698304101
+                "lastUpdateTimeMs": 1750698304101,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-softlaunch-base-june",
@@ -821,7 +831,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698326705
+                "lastUpdateTimeMs": 1750698326705,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gofest-2025-gbird-ticket-box",
@@ -909,7 +920,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750116154561
+                "lastUpdateTimeMs": 1750116154561,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -993,7 +1005,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747871633230
+                "lastUpdateTimeMs": 1747871633230,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-tm-elite-master-box",
@@ -1077,7 +1090,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748984064899
+                "lastUpdateTimeMs": 1748984064899,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -1195,7 +1209,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 300,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750199310233
+                "lastUpdateTimeMs": 1750199310233,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-ancients-recovered-plus-10rank-webonly",
@@ -1300,7 +1315,7 @@
                   },
                   {
                     "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"sku.name.ITEM_EVENT_PASS_POINT_GO_FEST_01\",\"associatedItemId\":\"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\"}"
+                    "value": "{\"eventLink\":\"https://pokemongo.com/post/go-pass-ancients-recovered-2025\",\"associatedItemId\":\"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -1313,7 +1328,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 360,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750199283893
+                "lastUpdateTimeMs": 1750798193871,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-ancients-recovered",
@@ -1419,7 +1435,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750198352391
+                "lastUpdateTimeMs": 1750198352391,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-ultra-raid-box-0724",
@@ -1487,7 +1504,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195658885
+                "lastUpdateTimeMs": 1750195658885,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gofest-2025-battle-box",
@@ -1567,7 +1585,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698366631
+                "lastUpdateTimeMs": 1750698366631,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-ultra-storage-box-gofest-25",
@@ -1663,7 +1682,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750790962260
+                "lastUpdateTimeMs": 1750790962260,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gowa-2024-box-2",
@@ -1737,7 +1757,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195538976
+                "lastUpdateTimeMs": 1750195538976,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gowa-2024-box-3",
@@ -1823,7 +1844,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195689282
+                "lastUpdateTimeMs": 1750195689282,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-go-fest-2025-ticket",
@@ -1911,7 +1933,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260712573
+                "lastUpdateTimeMs": 1747260712573,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -1975,7 +1998,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432470014
+                "lastUpdateTimeMs": 1747432470014,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -2033,7 +2057,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432447899
+                "lastUpdateTimeMs": 1747432447899,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -2081,7 +2106,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747350697768
+                "lastUpdateTimeMs": 1747350697768,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -2129,7 +2155,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 72,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747350775734
+                "lastUpdateTimeMs": 1747350775734,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -2181,7 +2208,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383552137
+                "lastUpdateTimeMs": 1748383552137,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -2233,7 +2261,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383596314
+                "lastUpdateTimeMs": 1748383596314,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -2285,7 +2314,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383479469
+                "lastUpdateTimeMs": 1748383479469,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -2333,7 +2363,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748385491753
+                "lastUpdateTimeMs": 1748385491753,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -2381,7 +2412,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748385504683
+                "lastUpdateTimeMs": 1748385504683,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-max-revive-6",
@@ -2429,7 +2461,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383497940
+                "lastUpdateTimeMs": 1748383497940,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -2477,7 +2510,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383565241
+                "lastUpdateTimeMs": 1748383565241,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -2525,7 +2559,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260879683
+                "lastUpdateTimeMs": 1747260879683,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -2573,7 +2608,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260892552
+                "lastUpdateTimeMs": 1747260892552,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -2629,7 +2665,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 10,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256331002
+                "lastUpdateTimeMs": 1747256331002,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -2676,7 +2713,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256337859
+                "lastUpdateTimeMs": 1747256337859,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -2723,7 +2761,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256372995
+                "lastUpdateTimeMs": 1747256372995,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -2770,7 +2809,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256378484
+                "lastUpdateTimeMs": 1747256378484,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -2817,7 +2857,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256383772
+                "lastUpdateTimeMs": 1747256383772,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -2864,7 +2905,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256401547
+                "lastUpdateTimeMs": 1747256401547,
+                "linkedSkuId": ""
               }
             ]
           }
@@ -2886,7 +2928,9 @@
           "enablePwaShortcut": true,
           "enableOrderReviewRevamp": false,
           "featureFlagsList": [],
-          "enableHeroVideo": true
+          "enableHeroVideo": true,
+          "enableWebfusionFooter": false,
+          "enableFirstLoginBonus": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -4000,12 +4044,862 @@
       },
       "webstoreAuthenticationProps": {
         "user": null,
-        "paystationToken": null,
         "nianticUserToken": null
       },
       "_nextI18Next": {
         "initialI18nStore": {
           "en-US": {
+            "common": {
+              "app_download_banner": {
+                "message": "Get up and GO! Download Today"
+              },
+              "common": {
+                "already_purchased": "Already Purchased",
+                "already_purchased_sku": "Looks like you've already purchased this item! <1></1> can only be purchased one time.",
+                "apple_pay": "Apple Pay",
+                "apply": "Apply",
+                "back_to_store": "Back to Store",
+                "buy": "Buy",
+                "buy_tickets": "Buy Tickets",
+                "buy_with_coins": "Complete Purchase",
+                "close": "Close",
+                "coming_soon": "Coming Soon!",
+                "community_day_map": "Community Day Map",
+                "completed": "Complete",
+                "consumption_tax": "Consumption Tax",
+                "continue": "Continue",
+                "copyright_policy": "Copyright Policy",
+                "country": "Country",
+                "credit_card": "Bank Card",
+                "date": "Date",
+                "enter_passcode": "Enter code",
+                "events": "Events",
+                "failed": "Failed",
+                "footer": {
+                  "game_disclaimer": "Pokémon GO is playable in English, French, German, Italian, Russian, Japanese, Spanish, Traditional Chinese, Korean, Thai, Brazillian Portuguese, Turkish, and Indonesian.",
+                  "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely.",
+                  "legal_disclaimer_dynamic_year": "©{{year}} Niantic, Inc. ©{{year}} Pokémon. ©1995–{{year}} Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely."
+                },
+                "free_next_purchase": "GET A FREE {{item}} WITH YOUR NEXT PURCHASE!",
+                "google_pay": "Google Pay",
+                "includes_web_store_bonus_pokecoins": "Includes {{amount}} Web Store bonus PokéCoins",
+                "item": "Item",
+                "leaderboard": "Leaderboard",
+                "learn_more": "Learn More",
+                "level": "Level {{level}}",
+                "max_rrp_reached": "You have reached the max number of Remote Raid Passes (<1></1>). Please try again when you have fewer Remote Raid Passes.",
+                "news": "News",
+                "niantic_kids": "Child accounts cannot purchase on Web Store",
+                "none": "None",
+                "offer_redemption": "Code Redemption",
+                "okay": "OK",
+                "order_date": "Order Date",
+                "order_id": "Order ID",
+                "order_review": "Order Review",
+                "paid": "Paid",
+                "payment_method": "Payment Method",
+                "paypal": "Paypal",
+                "paypay": "PayPay",
+                "paypay_login": "PayPay Login",
+                "pending": "Pending",
+                "player_guidelines": "Player Guidelines",
+                "pokemon_go_live": "Pokémon GO Live",
+                "privacy_policy": "Privacy Policy",
+                "profile": "Profile",
+                "promo_code": "Promo Code",
+                "promo_code_enter": "Enter Promo Code",
+                "promo_code_error": "There was an error redeeming your promo code. Please try again.",
+                "promo_code_expired": "This promo code is either invalid or has expired.",
+                "promo_code_percent_off": "{{code}} applied ({{percent}}% off)",
+                "promo_percent_off_items": "{{percent}}% OFF ALL ITEMS!",
+                "promo_success": "Promo code was applied successfully!",
+                "purchase": "Purchase",
+                "purchase_confirmation": "Purchase Confirmation",
+                "purchase_limit_few": "Can only be purchased {{limit}} times.",
+                "purchase_limit_many": "Can only be purchased {{limit}} times.",
+                "purchase_limit_one": "Can only be purchased 1 time.",
+                "purchase_limit_other": "Can only be purchased {{limit}} times.",
+                "purchase_limit_two": "Can only be purchased 2 times.",
+                "purchase_limit_zero": "Can only be purchased 0 times.",
+                "purchased": "Purchased",
+                "redeem_offer": "Redeem Offer",
+                "redirect_success": "Check out the Web Store and get additional bonus coins on every purchase",
+                "redirection_notice": "Page Redirection Notice",
+                "refunded": "Refunded",
+                "remove": "Remove",
+                "sign_in": "Sign In",
+                "sign_in_to_redeem": "Sign in to Redeem",
+                "sign_in_to_view": "Sign in to view",
+                "sign_out": "Sign Out",
+                "site_name": "Web Store",
+                "sku_days_left": "{{days}} day(s) left",
+                "status": "Status",
+                "storage_upgrades": "Storage Upgrades",
+                "store": "Store",
+                "store_unavailable": "Store Unavailable",
+                "subtotal": "Subtotal",
+                "support": "Support",
+                "support_page": "Support Page",
+                "support_page_note": "If you have any questions, please view our",
+                "take_me_there": "Take Me There",
+                "team_instinct": "Team Instinct",
+                "team_mystic": "Team Mystic",
+                "team_valor": "Team Valor",
+                "tos": "Terms of Service",
+                "total": "Total",
+                "transaction_date": "Transaction date",
+                "transaction_id": "Transaction Number",
+                "user": "User",
+                "virtual_currency_name": "PokéCoins",
+                "virtual_currency_quantity": "{{amount}} PokéCoins",
+                "virtual_currency_quantity_japan": "<0><0></0></0> <1>(<1></1> + <3></3> Bonus PokéCoins)</1>",
+                "want_percent_discount": "WANT {{percent}}% OFF? USE CODE {{code}}.",
+                "web_store": "Web Store",
+                "daily_bundles": "Daily Bundles",
+                "3_daily_bundles": "3 Daily Bundles",
+                "about": "About",
+                "in_progress": "In progress",
+                "not_started": "Not started",
+                "server_error_try_again": "Try Again",
+                "event_ticketing": "Event Ticketing",
+                "best_deal": "BEST DEAL",
+                "gotour": "Go Tour",
+                "go_wild_area": "Go Wild Area",
+                "go_fest": "Go Fest",
+                "seasons": "Seasons",
+                "shop": "Shop",
+                "order_history": "Order History",
+                "go_fest_about_2025": "About Go Fest 2025",
+                "go_fest_city_osaka": "Osaka",
+                "go_fest_city_jersey": "Jersey City",
+                "go_fest_city_paris": "Paris",
+                "go_fest_global": "Global",
+                "event_gameplay": "Event Gameplay",
+                "event_features": "Event Features",
+                "event_plan_trip": "Plan Your Trip",
+                "event_ticket_info": "Ticket Info",
+                "log_in_with_rewards": "Login To See Rewards",
+                "sign_in_with_rewards": "Sign In To See Rewards",
+                "nav_more": "More...",
+                "shortcut": "Add Shortcut",
+                "safari_shortcut_title_desktop": "Save a shortcut to the Pokémon GO Web Store to your desktop for quick access!",
+                "safari_shortcut_title_mobile": "Save a shortcut to the Pokémon GO Web Store to your home screen for quick access!",
+                "earn_rewards": "Earn Rewards",
+                "safari_shortcut_instruction_1_desktop": "Click the <icon/> in the toolbar",
+                "safari_shortcut_instruction_2_desktop": "Select <icon/> Add to Dock",
+                "safari_shortcut_instruction_1_mobile": "Tap the <icon/> in the toolbar",
+                "safari_shortcut_instruction_2_mobile": "Select Add to Home Screen <icon/>",
+                "pokemon_go": "Pokémon GO",
+                "trainers_purchase_ticket_bonus": "Trainers who purchase their ticket from the Pokémon GO Web Store will also receive the following at no additional cost:",
+                "payment_checkout_load_error": "Failed to load payment checkout.",
+                "payment_checkout_load_error_description": "Unfortunately, we were unable to load the payment checkout. Please try again by clicking the button below.",
+                "revamp": {
+                  "heading": "The <highlight>official</highlight> Web Store for Pokémon GO",
+                  "discover-offers": "Discover exclusive offers and earn points with every purchase to unlock special rewards.",
+                  "learn-more": "Learn more."
+                },
+                "in_person_experiences": "In-Person Experiences",
+                "tickets": "Tickets",
+                "tax_included": "Tax Included",
+                "back": "Back",
+                "site_description": "Discover exclusive offers and get the best value on PokéCoins on the Pokémon GO Web Store! Get extra PokéCoins and find exclusive deals at the Pokémon GO Web Store!",
+                "community": "Community",
+                "web_only": "Web Only",
+                "available_only_webstore": "Available only on the Pokémon GO Web Store",
+                "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}"
+              },
+              "confirmation": {
+                "failed": {
+                  "description": "Please contact <1>Xsolla Support</1> to request a refund, and make sure to provide the Transaction Number below in your request. We apologize for the inconvenience.",
+                  "heading": "Your payment was submitted successfully, but due to an unexpected error, we were unable to add the items you purchased to your Pokémon GO account.",
+                  "title": "Order Failed"
+                },
+                "pending": {
+                  "description": "If you don't receive your order within 15 minutes, you will be refunded the full amount paid. If you still are experiencing issues, please <1>contact support</1>. Thank you for your patience.",
+                  "heading": "Your payment was submitted successfully, but we are still working on adding the items you purchased to your Pokémon GO account.",
+                  "title": "Order Pending"
+                },
+                "refunded": {
+                  "description": "A refund was issued to the payment method below. We apologize for the inconvenience.",
+                  "heading": "Your payment was submitted successfully, but due to an unexpected error, we were unable to add the items you purchased to your Pokémon GO account.",
+                  "title": "Order Refunded"
+                },
+                "success": {
+                  "description": "Please save this information for future reference.",
+                  "heading": "Order Summary",
+                  "keep_shopping": "Keep Shopping",
+                  "order_date": "Order Date",
+                  "order_id_is": "Your Order ID is {{id}}.",
+                  "payment_method": "Payment Method",
+                  "title": "Thanks for your order, {{name}}!",
+                  "updated_balance": "Updated PokéCoin Balance:"
+                }
+              },
+              "disclaimer": {
+                "copyright": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely.",
+                "total_number_of_bonus": "*Total number of bonus PokéCoins received will vary based on the PokéCoin bundle purchased. Visit the listing for each bundle to see details."
+              },
+              "error": {
+                "401": "We can’t show this to you because you aren’t signed in! Please sign in and try again.",
+                "404": "We couldn’t find the page you're looking for! Please check that you’ve entered the correct URL or return to the {store}.",
+                "500": "There was an unexpected error. Please try again later.",
+                "maintenance": {
+                  "description": "Sorry, the Pokémon GO Web Store is down for maintenance, and we are working on getting the store back online. Please check back again later! We apologize for the inconvenience.",
+                  "title": "Be right back!"
+                }
+              },
+              "global": {
+                "label": {
+                  "caps": {
+                    "web_exclusive": "WEB-EXCLUSIVE"
+                  }
+                },
+                "event_link": "View event details"
+              },
+              "hero": {
+                "gofest_exclusive_deals": "Exclusive deals for Pokémon GO Fest 2023 ticket holders!",
+                "gofest_in_person_can_get": "In-person GO Fest 2023 ticket holders can get exclusive deals!",
+                "gofest_in_person_will_get": "Pokémon GO Fest 2023 in-person ticket holders will get access to these exclusive deals on the Pokémon GO Web Store!",
+                "message": "Discover exclusive offers and get the best value on PokéCoins on the Pokémon GO Web Store!",
+                "message_default": "Get extra PokéCoins with every purchase!*",
+                "message_thanksgiving": "Limited time only! x2 bonus coins on select Web Store purchases!",
+                "webstore_message": "Discover exclusive offers and get the best value on PokéCoins on the Pokémon GO Web Store!",
+                "webstore_message_2": "Get extra PokéCoins and find exclusive deals at the Pokémon GO Web Store!",
+                "webstore_message_3": "15% discount for your first Web Store purchase on any item $9.99 or more!"
+              },
+              "home": {
+                "unsupported": {
+                  "message": "We are not yet supporting purchases in this region. Please stay tuned for updates!"
+                }
+              },
+              "offer_redemption": {
+                "already_redeemed": "This code has already been redeemed.",
+                "heading": "Code Redemption",
+                "offer_redeemed": "You have successfully redeemed this offer or this Pokémon GO Gift Card!     Check out the Web Store or Pokémon GO Gift Cards and get additional bonus coins on eligible purchases.",
+                "offer_sign_in_faq_note": "Note that some offers are not available for redemption via this website. Only offers that list this site as a redemption option may be redeemed below. Please check the terms and conditions of your offer. If you have any questions, please refer to the <1>Offer Redemption FAQ.</1>",
+                "offer_sign_in_note": "Sign in with your Pokémon GO account to redeem offers. To create a game account, please download the app. If you have any questions, please refer to the <1>Offer Redemption FAQ.</1>",
+                "passcode_sign_in": "Sign in to Redeem",
+                "redeem_error_invalid": "This Gift Card code or promotional code is invalid, or you do not qualify for the promotion.",
+                "gift_card_unavailable": "Pokémon GO Gift Card redemption is temporarily unavailable. Please try again later.",
+                "gift_card_sign_in_note": "Sign in with your Pokémon GO account to redeem offer or gift card codes. To redeem an offer or gift card code, you must be logged in to your Pokémon GO account. To create a game account, please download the app. If you have any questions, please refer to the <1>Code Redemption FAQ</1> or the <3>Pokémon GO Gift Card FAQ</3>.",
+                "gift_card_sign_in_faq_note": "Note that some offers are not available for redemption via this website. Only offers that list this site as a redemption option may be redeemed above. Please check the terms and conditions of your offer or gift card. By redeeming your gift card, you agree (or if you are under 18, your parent or guardian agrees) to the Niantic Terms of Service and the Gift Card Terms and Conditions. If you have any questions, please refer to the <1>Code Redemption FAQ</1> or the <3>Pokémon GO Gift Card FAQ</3>.",
+                "gift_card_sign_in_faq_note_updated": "Note that some offers are not available for redemption via this website. Only offers that list this site as a redemption option may be redeemed above. Please check the terms and conditions of your offer or gift card. By redeeming your gift card, you agree (or if you are under 18, your parent or guardian agrees) to the <1>Niantic Terms of Service</1> and the <3>Gift Card Terms and Conditions</3> . If you have any questions, please refer to the <5>Code Redemption FAQ</5> or the <7>Pokémon GO Gift Card FAQ </7>.",
+                "redeem_error_expired": "This Gift Card code has expired."
+              },
+              "order_review": {
+                "proceed_to_payment": "Proceed to Payment",
+                "promo_code_info": "{{code}} applied ({{sku}}).",
+                "promotion_detail": "<0>promo code</0> applied (<2>name</2>).",
+                "sign_in_to_purchase": "Sign in to Purchase",
+                "title": "Order Review"
+              },
+              "page_title": {
+                "default": "Pokémon GO Web Store",
+                "home": "Home : Pokémon GO Web Store",
+                "niantic_kids": "Niantic Kids : Pokémon GO Web Store",
+                "offer_redemption": "Code Redemption : Pokémon GO Web Store",
+                "order_confirmation": "Order Confirmation : Pokémon GO Web Store",
+                "profile": "Profile : Pokémon GO Web Store",
+                "review_order": "Review Order : Pokémon GO Web Store",
+                "review_sbps_order": "Review Sbps Order : Pokémon GO Web Store",
+                "support": "Support : Pokémon GO Web Store",
+                "unsupported": "Unsupported : Pokémon GO Web Store"
+              },
+              "profile": {
+                "no_orders_yet": "No orders yet",
+                "order_history": "Order History"
+              },
+              "sbps": {
+                "back_to_order_review": "Back to Order Review",
+                "redirection_notice_note": "You are being redirected to https://www.sbpayment.co.jp/ to complete your payment. If you changed your mind you can Return to Payment Method Selection",
+                "select_payment_method": "Select your payment method",
+                "terms_of_service": "By proceeding, I confirm I am an adult and agree to Niantic's Terms of Service.",
+                "checkbox_error": "Please confirm your age and agree to Niantic’s Terms of Service before proceeding to payment.",
+                "settings": "Settings"
+              },
+              "sku": {
+                "description": {
+                  "currency_bundle": "{{fiatBaseAmount}} + {{webstoreBonus}} Web Store Bonus = {{total}} total PokéCoins.",
+                  "currency_bundle_japan": "{{fiatBaseAmount}} + {{webstoreBonus}} Bonus = {{total}} total PokéCoins.",
+                  "storage_items": "Increases the max number of items you can carry by {{amount}}.",
+                  "storage_pokeballs": "Increases the max number of Pokémon you can carry by {{amount}}.",
+                  "percent_bonus": "{{percent}}% Web Store Bonus"
+                },
+                "error": {
+                  "item_storage_over_limit": "Purchasing this Item Bag upgrade would put you beyond the current maximum item storage limit.",
+                  "poke_storage_over_limit": "Purchasing this Pokémon Storage upgrade would put you beyond the current maximum Pokémon storage limit.",
+                  "unable_to_purchase": "If you are unable to purchase this item, please refer to this <1>article</1> for possible explanations."
+                },
+                "name": {
+                  "1106": "Sinnoh Stone",
+                  "1107": "Unova Stone",
+                  "3-personalized-bundles": "3 personalized bundles",
+                  "anniversary-box-2023": "Anniversary Box",
+                  "AVATAR_f_hat_lasecuritycorps": "Security Corps Woven Hat",
+                  "avatar_f_hat_lasecuritycorps": "Security Corps Woven Hat",
+                  "AVATAR_f_shirt_lasecuritycorps": "Security Corps Outfit",
+                  "avatar_f_shirt_lasecuritycorps": "Security Corps Outfit",
+                  "AVATAR_m_hat_lasecuritycorps": "Security Corps Woven Hat",
+                  "avatar_m_hat_lasecuritycorps": "Security Corps Woven Hat",
+                  "AVATAR_m_shirt_gofest2024gray": "GO Fest 2024 Tee (Gray)",
+                  "AVATAR_m_shirt_lasecuritycorps": "Security Corps Outfit",
+                  "avatar_m_shirt_lasecuritycorps": "Security Corps Outfit",
+                  "coin-bundle-large-v2": "5,600 PokéCoins",
+                  "coin-bundle-medium_v2": "2,700 PokéCoins",
+                  "coin-bundle-small_v2": "1,300 PokéCoins",
+                  "coin-bundle-xlarge": "15,500 PokéCoins",
+                  "coin-bundle-xlarge-v2": "15,500 PokéCoins",
+                  "coin-bundle-xsmall": "600 PokéCoins",
+                  "egg_incubator": "Egg Incubator",
+                  "elite_tm_charged": "Elite Charged TM",
+                  "elite_tm_fast": "Elite Fast TM",
+                  "go-rocket-box-0623": "GO Rocket Box",
+                  "golden_razz_berry": "Golden Razz Berry",
+                  "great-hatch-box-0723": "Great Hatch Box",
+                  "great-storage-box": "Great Storage Box",
+                  "great-voyager-box": "Great Voyager Box",
+                  "incense_basic": "Incense",
+                  "incubator_super": "Super Incubator",
+                  "ITEM_BAG": "Item Bag",
+                  "ITEM_EVENT_TICKET_06": "Eggs-pedition Access: July",
+                  "ITEM_GLOBAL_EVENT_TICKET": "Ticket",
+                  "ITEM_GOLDEN_PINAP_BERRY": "Silver Pinap Berry",
+                  "ITEM_GOLDEN_RAZZ_BERRY": "Golden Razz Berry",
+                  "ITEM_GREAT_BALL": "Great Ball",
+                  "ITEM_INCENSE_ORDINARY": "Incense",
+                  "web-basic-incubator-3pack": "Egg Incubator",
+                  "web-super-incubator-2pack": "Super Incubator",
+                  "ITEM_ITEM_STORAGE_UPGRADE": "Item Bag",
+                  "ITEM_LEADER_MAP": "Rocket Radar",
+                  "ITEM_LUCKY_EGG": "Lucky Egg",
+                  "ITEM_PAID_RAID_TICKET": "Premium Battle Pass",
+                  "ITEM_PINAP_BERRY": "Pinap Berry",
+                  "ITEM_POFFIN": "Poffin",
+                  "ITEM_POKE_BALL": "Poké Ball",
+                  "ITEM_POKEMON_STORAGE_UPGRADE": "Pokémon Storage",
+                  "ITEM_RARE_CANDY": "Rare Candy",
+                  "ITEM_REMOTE_RAID_TICKET": "Remote Raid Pass",
+                  "ITEM_STAR_PIECE": "Star Piece",
+                  "ITEM_TROY_DISK": "Lure Module",
+                  "ITEM_ULTRA_BALL": "Ultra Ball",
+                  "web-luckyegg-bundle-8": "Lucky Egg",
+                  "mystery_boxes": "Mystery Boxes",
+                  "n_item_bags": "{{amount}} Item Bags",
+                  "n_poke_storage": "{{amount}} Pokémon Storage",
+                  "PAID_RAID_TICKET": "Premium Battle Pass",
+                  "personalized_bundles": "Personalized Bundles",
+                  "poffin": "Poffin",
+                  "poke_ball": "Poké Ball",
+                  "pokecoins": "{{amount}} PokéCoins",
+                  "pokémon_storage": "Pokémon Storage",
+                  "premium_battle_pass": "Premium Battle Pass",
+                  "rare_candy": "Rare Candy",
+                  "remote_raid_pass": "Remote Raid Pass",
+                  "remote_raid_passes": "Remote Raid Passes",
+                  "rocket_radar": "Rocket Radar",
+                  "silver_pinap_berry": "Silver Pinap Berry",
+                  "solstice-box": "Solstice Box",
+                  "web-starpiece-bundle": "Star Piece",
+                  "ultra-community-day-box": "Ultra Community Day Box",
+                  "ultra-community-day-box-0723": "Ultra Community Day Box",
+                  "ultra-hatch-box-0723": "Ultra Hatch Box",
+                  "ultra-legend-box": "Ultra Legend Box",
+                  "ultra-raid-box-0823": "Ultra Raid Box",
+                  "ultra-voyager-box-0723": "Ultra Voyager Box",
+                  "ultra_ball": "Ultra Ball",
+                  "virtual_currency_amount": "{{amount}} PokéCoins",
+                  "voyager-box-0623": "Voyager Box",
+                  "web-boost-box-1223": "Boost Box",
+                  "web-feb-monthly-ticket-bundle": "Eggs-pedition Access: February",
+                  "web-go-fest-2024-ticket": "Pokémon GO Fest 2024: Global Ticket",
+                  "web-go-fest-bonus-bundle-2024": "1x Premium Battle Passes, 1x Egg Incubator",
+                  "web-go-fest-bonus-raid-pass-bundle-2023": "5 Premium Battle Passes",
+                  "web-go-fest-hatch-box-2023": "GO Fest Hatch Box",
+                  "web-go-fest-raid-box-2023": "GO Fest Raid Box",
+                  "web-go-tour-hatch-box-2024": "Great Voyager Box",
+                  "web-go-tour-raid-box-2024": "Master Raid Box",
+                  "web-go-tour-ticket-bundle": "Road to Sinnoh Ticket Box",
+                  "web-halloween-box-2023-1": "Creepy Crate",
+                  "web-halloween-box-2023-2": "Pumpkin Pack",
+                  "web-halloween-box-2023-3": "Boo Bundle",
+                  "web-lunar-new-year-box-2024": "New Year’s Box",
+                  "web-primal-raid-day-ticket-bundle": "Primal Raid Day Ticket Box",
+                  "web-raid-box-071323": "Ultra Raid Box",
+                  "web-raid-box-1123": "Ultra Raid Box",
+                  "web-raid-box-1223": "Ultra Raid Box",
+                  "web-rockruffboost2023": "Boost Box",
+                  "web-routes-box-1223": "Ultra Hatch Box",
+                  "web-season-14-start-bundle": "Ultra Legend Box",
+                  "web-season-14-ticket-bundle": "Wonder Ticket",
+                  "web-storage-box-1223": "Ultra Storage Box",
+                  "web-thanksgiving-box-2023": "Seasonal Delights Box",
+                  "web-ultra-catch-box-2023": "Ultra Catch Box",
+                  "web-ultra-storage-box-090423": "Ultra Storage Box",
+                  "web-voyager-box-071323": "Ultra Voyager Box",
+                  "ITEM_EVENT_TICKET_PINK": "Ticket",
+                  "web-ultra-cd-ticket-box": "Ultra Community Day Box",
+                  "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK": "Elite Charged TM",
+                  "web-ultra-heracross-ticket-box": "Heracross Raid Ultra Ticket Box",
+                  "web-zarude-ticket-box": "Rogue of the Jungle (Web Version)",
+                  "ITEM_HYPER_POTION": "Hyper Potion",
+                  "ITEM_MAX_POTION": "Max Potion",
+                  "ITEM_REVIVE": "Revive",
+                  "ITEM_MAX_REVIVE": "Max Revive",
+                  "ITEM_POTION": "Potion",
+                  "ITEM_RAZZ_BERRY": "Razz Berry",
+                  "ITEM_SPECIAL_CAMERA": "Camera",
+                  "ITEM_SUPER_POTION": "Super Potion",
+                  "ITEM_X_ATTACK": "X Attack",
+                  "ITEM_X_DEFENSE": "X Defense",
+                  "ITEM_X_MIRACLE": "UNDEFINED",
+                  "ITEM_BLUK_BERRY": "Bluk Berry",
+                  "ITEM_WEPAR_BERRY": "Wepear Berry",
+                  "ITEM_NANAB_BERRY": "Nanab Berry",
+                  "ITEM_POKEMON_BAG": "Pokémon Box Upgrade",
+                  "ITEM_ITEM_PACK": "Item Pack",
+                  "ITEM_INCUBATOR_BASIC_UNLIMITED": "Egg Incubator ∞",
+                  "ITEM_SUN_STONE": "Sun Stone",
+                  "ITEM_KINGS_ROCK": "King's Rock",
+                  "ITEM_METAL_COAT": "Metal Coat",
+                  "ITEM_DRAGON_SCALE": "Dragon Scale",
+                  "ITEM_UP_GRADE": "Upgrade",
+                  "ITEM_GEN4_EVOLUTION_STONE": "Sinnoh Stone",
+                  "ITEM_TEAM_CHANGE": "Team Medallion",
+                  "ITEM_TROY_DISK_GLACIAL": "Glacial Lure Module",
+                  "ITEM_TROY_DISK_MOSSY": "Mossy Lure Module",
+                  "ITEM_TROY_DISK_MAGNETIC": "Magnetic Lure Module",
+                  "ITEM_GEN5_EVOLUTION_STONE": "Unova Stone",
+                  "ITEM_TROY_DISK_RAINY": "Rainy Lure Module",
+                  "ITEM_GLOBAL_EVENT_TICKET_TO_GIFT": "Ticket",
+                  "ITEM_INCENSE_DAILY_ADVENTURE": "Daily Adventure Incense",
+                  "IAP_BATTLE_PASS_TICKET": "GO Battle League Timed Research Pass",
+                  "ITEM_BATTLE_PASS_TICKET": "GO Battle League Timed Research Pass",
+                  "ITEM_EVENT_TICKET_GRAY_TO_GIFT": "Extra Ticket",
+                  "ITEM_MOVE_REROLL_FAST_ATTACK": "Fast TM",
+                  "ITEM_MOVE_REROLL_SPECIAL_ATTACK": "Charged TM",
+                  "ITEM_FREE_RAID_TICKET": "Raid Pass",
+                  "TEAM_PICKER_DEFAULT_TEAM": "Battle party {0}",
+                  "TEAM_PICKER_SET_TEAM": "Set battle party name",
+                  "ITEM_LEGENDARY_RAID_TICKET": "EX Raid Pass",
+                  "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK": "Elite Fast TM",
+                  "ITEM_XL_RARE_CANDY": "Rare Candy XL",
+                  "ITEM_EVENT_TICKET_PINK_TO_GIFT": "Extra Ticket",
+                  "ITEM_BEAST_BALL": "Beast Ball",
+                  "ITEM_PREMIER_BALL": "Premier Ball",
+                  "ITEM_EVENT_TICKET_01": "Ticket",
+                  "ITEM_EVENT_TICKET_03": "Ticket",
+                  "ITEM_EVENT_TICKET_04": "Ticket",
+                  "ml_bundle_explorer_box_title": "Explorer Box",
+                  "ml_bundle_bundle": {
+                    "general1": {
+                      "tiny": {
+                        "4_title": "Training Box",
+                        "2_title": "Beginner Box",
+                        "3_title": "Starter Box"
+                      },
+                      "rocket": {
+                        "1_title": "GO Rocket Box"
+                      },
+                      "small": {
+                        "1_title": "Special Box"
+                      },
+                      "medium": {
+                        "1_title": "Great Box"
+                      }
+                    }
+                  },
+                  "ml_bundle_hatch_box": "Hatch Box",
+                  "ml_bundle_ace_box_title": "Ace Box",
+                  "ml_bundle_trainee_box_title": "Trainee Box",
+                  "ml_bundle_boost_box_title": "Boost Box",
+                  "ml_bundle_veteran_box_title": "Veteran Box",
+                  "ml_bundle_expert_box_title": "Expert Box",
+                  "ml_bundle_gold_box_title": "Gold Box",
+                  "ml_bundle_legend_box_title": "Legend Box",
+                  "ml_bundle_voyager_box_title": "Voyager Box",
+                  "ml_bundle_remote_raid_pass_box": "Remote Raid Box",
+                  "ITEM_EVENT_TICKET_09": "Eggs-pedition Access: August",
+                  "ml_bundle_great_raid_box_title": "Great Raid Box",
+                  "web-atlantica-box-2023-1": "Great Hatch Box",
+                  "web-atlantica-box-2023-2": "Great Hatch Box",
+                  "AVATAR_f_shirt_gofest2024gray": "GO Fest 2024 Tee (Gray)",
+                  "n_shirt_gofest2024gray_0": "Go Fest 2024 Tee (Gray)",
+                  "web-ultra-raid-box-0524": "Ultra Raid Box",
+                  "web-ultra-beast-ticket-box": "Ultra Space Wonders",
+                  "web-celebi-ticket-box-0724": "Whispers in the Woods Masterwork Research Ticket",
+                  "web-ultra-raid-box-0724": "GO Fest Ultra Raid Box",
+                  "web-ultra-hatch-box-0724": "Ultra Hatch Box",
+                  "web-ultra-storage-box-0724": "GO Fest Storage Box",
+                  "item_leader_map_fragment": "Mysterious Component",
+                  "web-raid-box-1223-anniversary": "Anniversary Box",
+                  "web-go-fest-raid-ticket-24-box": "Inbound from Ultra Space Premium Timed Research Ticket",
+                  "web-grow-together-ticket-box": "Grow Together Premium Timed Research Ticket",
+                  "web-mega-lucario-ticket-24-box": "Mega Lucario Raid Day Ticket",
+                  "N_AVATAR_n_hat_lucariomask_0": "Lucario Mask",
+                  "web-wcs-24-ticket-box": "2024 Worlds Premium Timed Research Ticket",
+                  "web-tm-fanatic-box": "TM Fanatic Box",
+                  "web-tm-elite-master-box": "TM Elite Master Box",
+                  "web-triumph-finale-ticket-box": "Triumph Together Premium Timed Research Ticket",
+                  "web-all-s16monthly-ticket-box": "Daily PokéCoin Bounty Ultra Ticket Box",
+                  "web-falinks-raid-ticket-box": "Falinks Raid Day Ultra Ticket Box",
+                  "AVATAR_f_backpack_lunalaitems": "Lunala Wings",
+                  "web-mp-pack": {
+                    "6": "Max Particle Pack"
+                  },
+                  "ITEM_MP_REPLENISH": "Max Particle Pack",
+                  "3x_rare_candy": "3x Rare Candy",
+                  "1x_star_piece": "1x Star Piece",
+                  "1x_lure_module": "1x Lure Module",
+                  "2x_incense": "2x Incense",
+                  "web-bonus-rare-candy-2024": "3x Rare Candies",
+                  "web-bonus-star-piece-2024": "1x Star Piece",
+                  "web-bonus-lure-module-2024": "1x Lure Module",
+                  "web-bonus-incense-2024": "2x Incense",
+                  "web-bonus-rare-candy-2025": "3x Rare Candies",
+                  "web-bonus-star-piece-2025": "1x Star Piece",
+                  "web-bonus-lure-module-2025": "1x Lure Module",
+                  "web-bonus-incense-2025": "2x Incense",
+                  "web-masterball-ticket-24-box": "Master Ball Ultra Ticket Box",
+                  "web-gowa-ticket-24-box": "GO Wild Area Ultra Ticket Box",
+                  "web-mega-mawile-ticket-24-box": "Mega Mawile Raid Day Ultra Ticket Box",
+                  "web-halloween-24-box-1": "Creepy Crate",
+                  "web-halloween-24-box-2": "Pumpkin Pack",
+                  "web-halloween-24-box-3": "Boo Bundle",
+                  "web-halloween-ticket-24-box": "Halloween Ultra Ticket Box",
+                  "web-nov-s16monthly-ticket-box": "Daily PokéCoin Bounty Part 3 Ticket",
+                  "web-ultra-harvest-ticket-box": "Harvest Festival Ultra Ticket Box",
+                  "web-gowa-2024-box-1": "GO Wild Area Battler Box",
+                  "web-gowa-2024-box-2": "GO Fest Hatcher Box",
+                  "web-gowa-2024-box-3": "GO Fest Ultimate Box",
+                  "web-gowa-lead-up-ticket-box": "Into the Wild Ultra Ticket Box",
+                  "web-go-safari-ball-ticket": "GO Safari Ball: Extra Access Ticket",
+                  "ITEM_TICKET_CITY_SAFARI_04": "GO Safari Ball: Extra Access Ticket",
+                  "coin-bundle-medium_thanksgiving": "2,900 PokéCoins",
+                  "coin-bundle-large_thanksgiving": "6,000 PokéCoins",
+                  "coin-bundle-xlarge_thanksgiving": "16,500 PokéCoins",
+                  "web-seasonal-delights-2024-box": "Seasonal Delights Box",
+                  "web-max-out-finale-ticket-box": "Max Out Finale Ultra Ticket Box",
+                  "ITEM_POSTCARD_STORAGE_UPGRADE": "Postcard Pages",
+                  "web-season-17-start-box": "Dual Destiny Box",
+                  "web-eggspedition-december-2024": "Eggs-pedition Access Ultra Ticket Box",
+                  "ITEM_EVERGREEN_TICKET": "Ticket",
+                  "ITEM_EVENT_TICKET_05": "Eggs-pedition Access: June",
+                  "ITEM_MAX_BOOST": "Max Mushroom",
+                  "web-dragon-ticket-box": "Double Feature Ticket Box",
+                  "item_evergreen_ticket": "Aspiring Dragons Research Day Premium Timed Research",
+                  "web-max-mushroom-3": "Max Mushroom",
+                  "web-necrozma-fusion-box": "Necrozma Raid Day Ultra Ticket Box",
+                  "web-holiday-2024-box": "Ultra Holiday Box",
+                  "web-holiday-2024-ultra-ticket-box": "Holiday Part 1 Ultra Ticket Box",
+                  "web-new-years-2025-ticket-box": "New Years 2025 Ultra Ticket Box",
+                  "AVATAR_m_backpack_egg-incubator": "Egg Incubator Backpack",
+                  "AVATAR_f_backpack_egg-incubator": "Egg Incubator Backpack",
+                  "N_AVATAR_n_backpack_egg-incubator_0": "Egg Incubator Backpack",
+                  "web-mega-gallade-raid-day-ticket": "Mega Gallade Raid Day Ultra Ticket Box",
+                  "web-fashion-week-2025-ticket": "Fashion Week Ultra Ticket Box",
+                  "web-shadow-ho-oh-raid-day-ticket": "Ho-Oh Shadow Raid Day Ultra Ticket Box",
+                  "pokecoin": {
+                    "23500": "23,500 PokéCoins"
+                  },
+                  "web-gbl-jan-2025-ticket": "Steeled Resolve Ultra Ticket Box",
+                  "web-lunar-new-year-ticket-box": "Lunar New Year Ultra Ticket Box",
+                  "web-gmax-raid-day-ticket-box": "Gigantamax Kingler Max Battle Day",
+                  "coin-bundle-xxsmall": "110 PokéCoins",
+                  "web-go-fest-bonus-bundle-2025": "1x Premium Battle Passes, 1x Egg Incubator",
+                  "web-hoopa-raid-day-ticket": "Hoopa Unbound Raid Day Ultra Ticket Box",
+                  "web-avatar-feb-2025-ticket": "Scattered to the Winds Ultra Ticket Box",
+                  "kazuki-test": "sku.name.kazuki-test",
+                  "web-gotour-2025-box-1": "GO Tour Battler Box",
+                  "web-gotour-2025-box-2": "GO Tour Hatcher Box",
+                  "web-gotour-2025-box-3": "GO Tour Ultimate Box",
+                  "web-gotour-2025-box-4": "GO Tour Storage Box",
+                  "web-gotour-2025-box-5": "Tour Pass Ultra Box",
+                  "BADGE_EVENT_0105": "Tour Pass Deluxe",
+                  "web-go-tour-25-bundle-ticket-box": "Road to Unova Ultra Ticket Box",
+                  "web-master-work-25-ticket-box": "Masterwork Research: A Dazzling Aria",
+                  "ITEM_EVENT_PASS_POINT_GO_TOUR_01": "Tour Points (+10 Ranks)",
+                  "web-gotour-2025-box-6": "Tour Pass Deluxe + 10 Ranks",
+                  "ITEM_EVENT_TICKET_02": "Ticket",
+                  "ITEM_EVENT_TICKET_10": "Ticket",
+                  "web-go-fest-2025-ticket": "Pokémon GO Fest 2025: Global Ticket",
+                  "web-s18-all-monthly-ticket-box": "Power Up Ticket Ultra Ticket Box",
+                  "ITEM_EVENT_TICKET_GRAY": "Ticket",
+                  "ITEM_EVENT_TICKET_07": "Ticket",
+                  "ITEM_EVENT_TICKET_08": "Power Up Ticket: May",
+                  "web-kubfu-ticket-box": "Powerful Potential Ultra Ticket Box",
+                  "web-season-18-start-box": "Might and Mastery Box",
+                  "web-festival-colors-ticket-box": "Festival of Colors Ultra Ticket Box",
+                  "web-catch-mastery-ticket": "Catch Mastery Ultra Ticket Box",
+                  "web-dmax-raikou-bundle": "Dynamax Raikou Max Battle Weekend Ultra Box",
+                  "web-deep-depths-ticket-box": "Deep Depths Ultra Ticket Box",
+                  "web-march-cdc-ticket-box": "Ultra Community Day Box",
+                  "web-mega-absol-raid-day-ticket-box": "Mega Absol Raid Day Ultra Ticket Box",
+                  "web-fuzzy-buddy-ticket-box": "Fuzzy Buddy Research Day Ultra Ticket Box",
+                  "web-bug-out-ticket-box": "Bug Out Ultra Ticket Box",
+                  "web-event-pass-softlaunch-base": "GO Pass Deluxe: April",
+                  "web-event-pass-softlaunch-plusrank": "GO Pass Deluxe: April + 10 Ranks",
+                  "BADGE_EVENT_0114": "GO Pass Deluxe: April",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_02": " + 10 Ranks",
+                  "web-striking-styles-ticket-box": "Stunning Styles Ultra Ticket Box",
+                  "web-mega-audino-raid-ticket-box": "Mega Audino Raid Day Ultra Ticket Box",
+                  "web-tyrogue-hatch-day-ticket-box": "Tyrogue Hatch Day Ultra Ticket Box",
+                  "web-go-fest-2025-ticket-b": "Pokémon GO Fest 2025: Global Ticket",
+                  "web-event-pass-testing": "Web Event Pass Testing",
+                  "web-sparring-raid-ticket-box": "Sparring Partners Raid Day Ultra Ticket Box",
+                  "web-spring-ticket-box": "Spring into Spring Ultra Ticket Box",
+                  "web-anime-collab-ticket-box": "Celebration Event Ultra Ticket Box",
+                  "web-snorlax-max-battle-ticket-box": "Max Battle Day Ultra Ticket Box",
+                  "web-sweet-discoveries-ticket-box": "Sweet Discoveries Ultra Ticket Box",
+                  "web-vanillite-cd-ticket-box": "Vanillite Community Day Ultra Ticket Box",
+                  "web-dmax-entei-bundle": "Entei Max Battle Weekend Ultra Box",
+                  "web-bonus-star-piece-2025-2": "1x Star Piece",
+                  "web-mega-kanghskan-raid-ticket-box": "Mega Kangaskhan Raid Day Ultra Ticket Box",
+                  "web-growing-up-ticket-box": "Growing Up Ultra Ticket Box",
+                  "sku": {
+                    "name": {
+                      "web-spring-ticket-box-2": "sku.name.sku.name.web-spring-ticket-box-2"
+                    }
+                  },
+                  "web-event-pass-softlaunch-base-may": "GO Pass Deluxe: May",
+                  "web-event-pass-softlaunch-plusrank-may": "GO Pass Deluxe: May + 10 Ranks",
+                  "BADGE_EVENT_0115": "GO Pass Deluxe: May",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_03": " + 10 Ranks",
+                  "web-pawmi-cd-ticket-box": "Pawmi Community Day Ultra Ticket Box",
+                  "web-community-ambassador-bonus-bundle-2025": "1x Premium Battle Passes, 1x Egg Incubator",
+                  "web-dmax-suicune-bundle": "Suicune Max Battle Weekend Ultra Box",
+                  "web-regigigas-ticket-box": "Regigigas Shadow Raid Day Ultra Ticket Box",
+                  "web-crown-clash-ticket-box": "Crown Clash Ultra Ticket Box",
+                  "web-go-fest-bonus-bundle-2025-2": "1x Premium Battle Passes, 1x Egg Incubator",
+                  "web-kubfu-ticket-2-box": "Fuzzy Fighter Ultra Ticket Box",
+                  "web-final-strike-ticket-box": "Final Strike Ultra Ticket Box",
+                  "web-3mp-3rrp-bundle": "3 Max Particle Pack + 3 Remote Raid Pass",
+                  "web-1mp-1rrp-bundle": "Max Particle Pack + Remote Raid Pass",
+                  "web-gmax-machamp-ticket-box": "G-Max Machamp Max Battle Day Ultra Ticket Box",
+                  "web-cdc-machop-ticket-box": "Machop Community Day Ultra Ticket Box",
+                  "web-season-19-start-box": "Delightful Days Box",
+                  "web-gofest-2025-apac-overlay-ticket-box": "Serene Retreat Ultra Ticket Box",
+                  "web-item-storage-bundle": "Item Bag",
+                  "web-max-revive-6": "Max Revive",
+                  "web-pokemon-storage-bundle": "Pokémon Storage",
+                  "web-premium-battle-pass-3": "Premium Battle Pass",
+                  "web-remote-raidpass-bundle": "Remote Raid Pass",
+                  "ITEM_INCUBATOR_BASIC": "Egg Incubator",
+                  "ITEM_INCUBATOR_SUPER": "Super Incubator",
+                  "web-s19-all-monthly-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
+                  "web-s19-june-monthly-ticket-box": "Eggs-pedition Access: June",
+                  "web-event-pass-softlaunch-base-june": "GO Pass Deluxe: June",
+                  "web-event-pass-softlaunch-plusrank-june": "GO Pass Deluxe: June + 10 Ranks",
+                  "BADGE_EVENT_0128": "GO Pass Deluxe: June",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_01": " + 10 Ranks",
+                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass Deluxe: June + 10 Ranks Ultra Box",
+                  "web-gofest-2025-amer-overlay-ticket-box": "Instrumental Wonders Ultra Ticket Box",
+                  "web-bonus-2025-twitch-steam": "Premium Battle Pass",
+                  "web-naic-2025-box": "Special Box",
+                  "web-gofest-2025-battle-box": "GO Fest Battler Box",
+                  "web-gofest-2025-emea-overlay-ticket-box": "Phantom Ruins Ultra Ticket Box",
+                  "web-june-2025-cd-ticket-box": "Jangmo-o Community Day Ultra Ticket Box",
+                  "web-june-2025-encounter-ticket-box": "Yamper’s Paw Prints Ultra Ticket Box",
+                  "web-2025-anniversary-ticket-box": "9th Anniversary Ultra Ticket Box",
+                  "N_AVATAR_n_hat_partyhat_0": "Party Hat",
+                  "web-gofest-2025-gbird-ticket-box": "Fleeting Legends Ultra Ticket Box",
+                  "web-event-pass-ancients-recovered": "Go Pass Deluxe: Ancients Recovered",
+                  "web-event-pass-ancients-recovered-plus-10rank": "Go Pass Deluxe: Ancients Recovered + 10 Ranks",
+                  "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
+                  "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks",
+                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box"
+                },
+                "percent_off": "{{percent}}% OFF",
+                "section": {
+                  "exclusive_item_boxes": "Web Store Exclusive Item Boxes",
+                  "item_boxes": "Item Boxes",
+                  "limited_time": "LIMITED TIME",
+                  "limited_time_title_case": "Limited Time",
+                  "limited_time_upper_case": "LIMITED TIME"
+                },
+                "tag": {
+                  "additional_item_storage": "{{amount}} ITEM STORAGE",
+                  "additional_pokemon_storage": "{{amount}} POKÉMON STORAGE",
+                  "best_value": "BEST VALUE",
+                  "black_friday_banner": "Limited time only! x2 bonus coins on select Web Store purchases!",
+                  "black_friday_deal": "Limited-Time Black Friday Deal!",
+                  "capital": {
+                    "additional_item_storage": "<1></1> ITEM STORAGE",
+                    "additional_pokemon_storage": "<1></1> POKÉMON STORAGE",
+                    "best_value": "BEST VALUE",
+                    "black_friday_banner": "Limited time only! x2 bonus coins on select Web Store purchases!",
+                    "black_friday_deal": "Limited-Time Black Friday Deal!",
+                    "extra": "EXTRA",
+                    "featured": "FEATURED",
+                    "gofest_in_person": "ONLY FOR IN-PERSON GO FEST 2023 TICKET HOLDERS",
+                    "limited_time_only": "LIMITED-TIME ONLY",
+                    "most_popular": "MOST POPULAR",
+                    "one_time_only": "ONE TIME ONLY",
+                    "store_more_items": "CARRY <1></1> MORE ITEMS",
+                    "store_more_pokemon": "CARRY <1></1> MORE POKÉMON",
+                    "updates_at_midnight": "UPDATES AT MIDNIGHT",
+                    "web_store_bonus_coins": "<0></0> WEB STORE BONUS COINS",
+                    "x2_bonus_coins": "x2 WEB STORE BONUS",
+                    "x2_bonus_coins_included": "x2 WEB STORE BONUS COINS INCLUDED"
+                  },
+                  "event": {
+                    "gofest_in_person": "GO FEST 2023 EXCLUSIVE"
+                  },
+                  "extra": "EXTRA",
+                  "featured": "FEATURED",
+                  "gofest_in_person": "ONLY FOR IN-PERSON GO FEST 2023 TICKET HOLDERS",
+                  "limited_time_only": "LIMITED-TIME ONLY",
+                  "most_popular": "Most Popular",
+                  "one_time_only": "ONE TIME ONLY",
+                  "percent_off": "{{percent}}% OFF",
+                  "store_more_items": "CARRY {{amount}} MORE ITEMS",
+                  "store_more_pokemon": "CARRY {{amount}} MORE POKÉMON",
+                  "updates_at_midnight": "UPDATES AT MIDNIGHT",
+                  "web_exclusive": "WEB-EXCLUSIVE",
+                  "webstore_bonus": "{{webstoreBonus}} Web Store Bonus Coins",
+                  "x2_bonus_coins": "x2 WEB STORE BONUS",
+                  "x2_bonus_coins_included": "x2 WEB STORE BONUS COINS INCLUDED",
+                  "popular": "POPULAR",
+                  "includes_bonus_rewards": "Includes Bonus Rewards"
+                },
+                "section_nav": {
+                  "limited_time_offers": "Limited-time Offers"
+                },
+                "timer": {
+                  "days_left_other": "{{time}} DAYS LEFT",
+                  "hours_left_other": "{{time}} HOURS LEFT",
+                  "minutes_left_other": "{{time}} MINUTES LEFT",
+                  "one_minute_left": "ONE MINUTE LEFT"
+                },
+                "section_title": {
+                  "tickets": "Ticket Bundles",
+                  "items": "Items",
+                  "item_bundles": "Item Bundles"
+                },
+                "tag_subtitle": {
+                  "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
+                  "webstore_bonus_colored": "<0>{{webstoreBonus}}</0> Web Store Bonus Coins"
+                },
+                "section_subtitle": {
+                  "daily_bundles": "Personalized bundles for you! Resets everyday at midnight"
+                },
+                "section_title_bundles": "Bundles"
+              },
+              "": "GO Fest 2024 Tee (Gray)",
+              "support": {
+                "description": "Having trouble? See below for who to contact when experiencing issues.",
+                "fraud_or_unauthorized": "Fraud or Unauthorized Purchases",
+                "general_troubleshoot": "General Troubleshooting",
+                "item_delivery": "Item Delivery",
+                "login_issues": "Login Issues",
+                "niantic_disclaimer": "For login issues, problems with receiving your items, and general troubleshooting, visit the quick links below or Niantic Support",
+                "payment_issues": "Payment Issues",
+                "refunds": "Refunds",
+                "report_an_issue": "Report an Issue",
+                "support": "Support",
+                "transactions": "Transactions",
+                "visit_payment_website": "Visit payment support website",
+                "visit_support_website": "Visit support website",
+                "xsolla_disclaimer": "Xsolla is an authorized global distributor of Niantic digital goods. For help with web store purchases made from Xsolla, please visit Xsolla's general support website or the quick links below.",
+                "global_transactions": "Global Transactions",
+                "transactions_disclaimer": "The Pokémon GO Web Store uses Xsolla and Fastspring to distribute Niantic digital goods. For help with Web Store purchases, please visit the quick links below.",
+                "xsolla_support_link": "Xsolla Support",
+                "fastspring_support_link": "FastSpring Support",
+                "japan_only": "Japan Only",
+                "sbps_support_link": "SB Payment Service",
+                "sbps_disclosure_payment_services": "Disclosure based on the Payment Services Act",
+                "sbps_disclosure_transactions": "Disclosure based on the Specified Commercial Transactions Act",
+                "need_help": "Need Help With a Purchase?",
+                "more_questions": "More Questions?",
+                "need_help_description": "If you’re unable to find the information you need regarding your purchases, please visit our Transaction Support page for further assistance.",
+                "more_questions_description": "Visit the Web Store Help Center for more information.",
+                "web_store_help_center": "Web Store Help Center",
+                "visit_transaction_support": "Visit Transaction Support",
+                "how_to_webstore": "How to use the Web Store"
+              },
+              "banner": {
+                "message": "15% discount for your first Web Store purchase on any item $9.99 or more!",
+                "message_jp": "15% discount for your first Web Store purchase on any item ¥1,400 or more!"
+              },
+              "s": "s",
+              "featured": {
+                "section_title": "Featured"
+              },
+              "rewarded_spend": {
+                "rewarded_spend_information_message_intro": "The Reward Road is a monthly reward program where every month, Trainers can earn Reward Points with eligible purchases on the Pokémon GO Web Store or in-game shop* Earn a certain amount of Reward Points to increase the Reward Road level and unlock rewards!",
+                "rewarded_spend_information_message_bullet1": "Make a purchase on the Pokémon GO Web Store or in-game shop to earn Reward Points*",
+                "rewarded_spend_information_message_bullet2": "Earn enough Reward Points and Trainers can unlock rewards",
+                "rewarded_spend_information_message_bullet3": "Visit the Pokémon GO Web Store to claim unlocked rewards**",
+                "rewarded_spend_information_message_asterisks1": "*Please note that purchases must be made with real money. Purchases made using PokéCoins will not grant Reward Points.",
+                "rewarded_spend_information_message_asterisks2": "**Rewards can be claimed on the Pokémon GO Web Store when a Trainer is logged into their Pokémon GO account. An account must be in good standing to claim Rewards.",
+                "rewarded_spend_information_message_body1": "Each Reward Road lasts for one calendar month. Reward Points and Reward Road levels will reset on the last day of the month at 11:59 PM UTC so be sure to claim your rewards before the end of the month!***",
+                "rewarded_spend_information_message_body2": "While Trainers can earn Reward Points in the Pokémon GO app, Trainers receive additional points for purchases within the Pokémon GO Web Store.",
+                "rewarded_spend_information_message_asterisks3": "***Please note, Reward Points expire at the end of the calendar month. Even if a Trainer claims every reward, Reward Points will not carry over between months. Trainers using child accounts are not eligible to participate in the Rewards Road program. Reward Points are not cash or any other currency, and are non-transferable between accounts. Reward Road program availability and terms are subject to change.",
+                "section_title": "{{month}} Reward Road",
+                "section_title_no_month": "Reward Road",
+                "resets_in_days": "Resets in {{days}} days",
+                "resets_in_1_day": "Resets in 1 day",
+                "resets_today": "Resets today",
+                "current_progress": "Current Progress:",
+                "points": "{{points}} pts",
+                "level": "Level {{level no.}}",
+                "sign_in": "Sign in to view progress",
+                "claim": "Claim!",
+                "all_levels_complete": "All levels complete",
+                "congrats_claimed_rewards": "Congrats! You’ve claimed all the milestone rewards offered during this period!",
+                "server_error_title": "Error",
+                "server_error_description": "There was an error fetching data.",
+                "get_rewards_purchasing_web_store": "What is Reward Road?",
+                "rewarded_spend_information_message_timer": "Current period resets on {{date}} at {{time}}.",
+                "ready_to_claim": "Ready to claim",
+                "claim_error_try_again": "Error claiming reward. Please try again.",
+                "reward_points": "{{points}} Reward Points",
+                "info_dialog_title": "Get rewards for purchasing from the web store!",
+                "monthly_cap": "You have reached the monthly level earning cap. Claim your rewards before they reset!",
+                "MAX": "MAX",
+                "if_eligible_disclaimer": "{{points}} Reward Points (if eligible)",
+                "claim_rewards": "Claim Rewards!",
+                "reward_points_text": "Reward Points",
+                "thanks_for_signing_in": "Thanks for signing in!",
+                "reward_for_signing_in": "Here's your reward for signing in for the first time.",
+                "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
+                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "only_first_time_sign_in": "*Only applies to first-time sign ins"
+              },
+              "ITEM_EVENT_TICKET_07": "Ticket",
+              "test": "Boo Bundle",
+              "test1": "Creepy Crate",
+              "test2": "Pumpkin Pack",
+              "dummy-key": "test",
+              "email": {
+                "heading": "Email Address (optional)",
+                "invalid_email": "Please enter a valid email address.",
+                "placeholder": "Type your email here",
+                "preferred_email": "Please provide the preferred email address to receive a receipt of your purchase."
+              },
+              "sbps_settings": {
+                "back_to_payment": "Back to Payment Method",
+                "credit_card_settings": "SB Payment Service allows you to store credit card data in order to expedite your payment process.",
+                "manage_stored_card_data": "Manage Stored Card data",
+                "no_paypay_login": "You are not logged in to PayPay.",
+                "no_stored_card": "You don't have stored credit card info.",
+                "payment_method_settings": "Payment Method Settings",
+                "paypay_settings": "PayPay sessions will time out after 30 days. You may end your PayPay session early and sign out.",
+                "redirection_notice_note": "You are being redirected to {{redirectURL}} to delete stored credit card information. If you wish to cancel, you can return to payment settings page."
+              },
+              "sbps_review": {
+                "back_to_order_review": "Back to Order Review",
+                "redirection_notice_note": "You are being redirected to {{redirectURL}} to complete your payment. If you wish to cancel, you can return to selecting your payment method.",
+                "select_payment_method": "Select your payment method",
+                "settings": "Settings",
+                "signout_paypay": "Sign Out of PayPay",
+                "signout_paypay_fail": "Failed to sign out of PayPay.",
+                "signout_paypay_success": "Successfully signed out of PayPay.",
+                "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
+              }
+            }
+          },
+          "en": {
             "common": {
               "app_download_banner": {
                 "message": "Get up and GO! Download Today"
@@ -5051,7 +5945,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740700159682
+                "lastUpdateTimeMs": 1740700159682,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -5103,7 +5998,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115719733
+                "lastUpdateTimeMs": 1750115719733,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -5161,7 +6057,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115271560
+                "lastUpdateTimeMs": 1750115271560,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -5204,7 +6101,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740198424286
+                "lastUpdateTimeMs": 1740198424286,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -5247,7 +6145,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1745617265591
+                "lastUpdateTimeMs": 1745617265591,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -5290,7 +6189,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1738276376447
+                "lastUpdateTimeMs": 1738276376447,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -5333,7 +6233,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1743011156550
+                "lastUpdateTimeMs": 1743011156550,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -5376,7 +6277,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1746578094014
+                "lastUpdateTimeMs": 1746578094014,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -5494,7 +6396,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698266127
+                "lastUpdateTimeMs": 1750698266127,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-softlaunch-plusrank-june",
@@ -5594,7 +6497,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698304101
+                "lastUpdateTimeMs": 1750698304101,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-softlaunch-base-june",
@@ -5688,7 +6592,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698326705
+                "lastUpdateTimeMs": 1750698326705,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gofest-2025-gbird-ticket-box",
@@ -5776,7 +6681,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750116154561
+                "lastUpdateTimeMs": 1750116154561,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -5860,7 +6766,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747871633230
+                "lastUpdateTimeMs": 1747871633230,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-tm-elite-master-box",
@@ -5944,7 +6851,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748984064899
+                "lastUpdateTimeMs": 1748984064899,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -6062,7 +6970,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 300,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750199310233
+                "lastUpdateTimeMs": 1750199310233,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-ancients-recovered-plus-10rank-webonly",
@@ -6167,7 +7076,7 @@
                   },
                   {
                     "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"sku.name.ITEM_EVENT_PASS_POINT_GO_FEST_01\",\"associatedItemId\":\"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\"}"
+                    "value": "{\"eventLink\":\"https://pokemongo.com/post/go-pass-ancients-recovered-2025\",\"associatedItemId\":\"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -6180,7 +7089,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 360,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750199283893
+                "lastUpdateTimeMs": 1750798193871,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-event-pass-ancients-recovered",
@@ -6286,7 +7196,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750198352391
+                "lastUpdateTimeMs": 1750198352391,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-ultra-raid-box-0724",
@@ -6354,7 +7265,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195658885
+                "lastUpdateTimeMs": 1750195658885,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gofest-2025-battle-box",
@@ -6434,7 +7346,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698366631
+                "lastUpdateTimeMs": 1750698366631,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-ultra-storage-box-gofest-25",
@@ -6530,7 +7443,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750790962260
+                "lastUpdateTimeMs": 1750790962260,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gowa-2024-box-2",
@@ -6604,7 +7518,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195538976
+                "lastUpdateTimeMs": 1750195538976,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-gowa-2024-box-3",
@@ -6690,7 +7605,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195689282
+                "lastUpdateTimeMs": 1750195689282,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-go-fest-2025-ticket",
@@ -6778,7 +7694,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260712573
+                "lastUpdateTimeMs": 1747260712573,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -6842,7 +7759,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432470014
+                "lastUpdateTimeMs": 1747432470014,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -6900,7 +7818,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432447899
+                "lastUpdateTimeMs": 1747432447899,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -6948,7 +7867,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747350697768
+                "lastUpdateTimeMs": 1747350697768,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -6996,7 +7916,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 72,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747350775734
+                "lastUpdateTimeMs": 1747350775734,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -7048,7 +7969,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383552137
+                "lastUpdateTimeMs": 1748383552137,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -7100,7 +8022,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383596314
+                "lastUpdateTimeMs": 1748383596314,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -7152,7 +8075,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383479469
+                "lastUpdateTimeMs": 1748383479469,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -7200,7 +8124,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748385491753
+                "lastUpdateTimeMs": 1748385491753,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -7248,7 +8173,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748385504683
+                "lastUpdateTimeMs": 1748385504683,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-max-revive-6",
@@ -7296,7 +8222,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383497940
+                "lastUpdateTimeMs": 1748383497940,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -7344,7 +8271,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748383565241
+                "lastUpdateTimeMs": 1748383565241,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -7392,7 +8320,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260879683
+                "lastUpdateTimeMs": 1747260879683,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -7440,7 +8369,8 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260892552
+                "lastUpdateTimeMs": 1747260892552,
+                "linkedSkuId": ""
               }
             ]
           },
@@ -7496,7 +8426,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 10,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256331002
+                "lastUpdateTimeMs": 1747256331002,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -7543,7 +8474,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256337859
+                "lastUpdateTimeMs": 1747256337859,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -7590,7 +8522,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256372995
+                "lastUpdateTimeMs": 1747256372995,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -7637,7 +8570,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256378484
+                "lastUpdateTimeMs": 1747256378484,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -7684,7 +8618,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256383772
+                "lastUpdateTimeMs": 1747256383772,
+                "linkedSkuId": ""
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -7731,7 +8666,8 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256401547
+                "lastUpdateTimeMs": 1747256401547,
+                "linkedSkuId": ""
               }
             ]
           }
@@ -7753,7 +8689,9 @@
           "enablePwaShortcut": true,
           "enableOrderReviewRevamp": false,
           "featureFlagsList": [],
-          "enableHeroVideo": true
+          "enableHeroVideo": true,
+          "enableWebfusionFooter": false,
+          "enableFirstLoginBonus": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -8867,7 +9805,6 @@
       },
       "webstoreAuthenticationProps": {
         "user": null,
-        "paystationToken": null,
         "nianticUserToken": null
       },
       "_nextI18Next": {
@@ -9723,7 +10660,858 @@
               }
             }
           },
-          "en-US": {
+          "zh-Hant": {
+            "common": {
+              "app_download_banner": {
+                "message": "現在就起身出門GO一下！立即下載！"
+              },
+              "common": {
+                "already_purchased": "已購買",
+                "already_purchased_sku": "似乎購買過此道具！<1></1> 只能購買1次。",
+                "apple_pay": "Apple Pay",
+                "apply": "套用",
+                "back_to_store": "回到商店",
+                "buy": "購買",
+                "buy_tickets": "購買入場券",
+                "buy_with_coins": "完成購買",
+                "close": "結束",
+                "coming_soon": "即將推出！",
+                "community_day_map": "社群日地圖",
+                "completed": "完成",
+                "consumption_tax": "消費稅",
+                "continue": "繼續",
+                "copyright_policy": "著作權政策",
+                "country": "國家",
+                "credit_card": "金融卡／信用卡",
+                "date": "時間",
+                "enter_passcode": "輸入代碼",
+                "events": "活動",
+                "failed": "無效",
+                "footer": {
+                  "game_disclaimer": "可使用英文、法文、德文、義大利文、俄文、日文、西班牙文、繁體中文、韓文、泰文、巴西葡萄牙文、土耳其文及印尼文遊玩Pokémon GO。",
+                  "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。",
+                  "legal_disclaimer_dynamic_year": "©{{year}} Niantic, Inc. ©{{year}} Pokémon. ©1995–{{year}} Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。"
+                },
+                "free_next_purchase": "SONRAKİ ALIŞVERİŞİNİZLE BİRLİKTE ÜCRETSİZ BİR {{item}} ALIN!",
+                "google_pay": "Google Play",
+                "includes_web_store_bonus_pokecoins": "內含{{amount}}Web Store獎勵加碼寶可幣",
+                "item": "道具",
+                "leaderboard": "排行榜",
+                "learn_more": "詳細資訊",
+                "level": "等級{{level}}",
+                "max_rrp_reached": "你的遠距團體戰入場券數量已達上限（<1></1>個）。請在遠距團體戰入場券較少時重試。",
+                "news": "快訊",
+                "niantic_kids": "使用兒童帳號無法於Web Store消費",
+                "none": "無",
+                "offer_redemption": "兌換代碼",
+                "okay": "OK",
+                "order_date": "訂單日期",
+                "order_id": "訂單ID",
+                "order_review": "購買紀錄",
+                "paid": "已付款",
+                "payment_method": "付款方式",
+                "paypal": "Paypal",
+                "paypay": "PayPay",
+                "paypay_login": "PayPay 登入",
+                "pending": "待處理",
+                "player_guidelines": "玩家指南",
+                "pokemon_go_live": "Pokémon GO Live",
+                "privacy_policy": "隱私權政策",
+                "profile": "個人資料",
+                "promo_code": "促銷代碼",
+                "promo_code_enter": "請輸入促銷代碼",
+                "promo_code_error": "兌換促銷代碼時發生錯誤，請再試一次。",
+                "promo_code_expired": "促銷代碼無效或到期。",
+                "promo_code_percent_off": "已套用{{code}}（{{percent}}%折扣）",
+                "promo_percent_off_items": "所有道具享{{percent}}%優惠！",
+                "promo_success": "已成功兌換促銷代碼！",
+                "purchase": "購買",
+                "purchase_confirmation": "購買確認",
+                "purchase_limit_few": "僅限購買{{limit}}次。",
+                "purchase_limit_many": "僅限購買{{limit}}次。",
+                "purchase_limit_one": "僅限購買1次。",
+                "purchase_limit_other": "僅限購買{{limit}}次。",
+                "purchase_limit_two": "Can only be purchased 2 times.",
+                "purchase_limit_zero": "Can only be purchased 0 times.",
+                "purchased": "已購買",
+                "redeem_offer": "Redeem Offer",
+                "redirect_success": "快來逛逛Web Store，每筆消費可獲得額外獎勵寶可幣",
+                "redirection_notice": "網頁重新導向通知",
+                "refunded": "已退款",
+                "remove": "刪除",
+                "sign_in": "登入",
+                "sign_in_to_redeem": "登入並使用",
+                "sign_in_to_view": "登入以查看",
+                "sign_out": "登出",
+                "site_name": "Web Store",
+                "sku_days_left": "倒數{{days}}天",
+                "status": "狀態",
+                "storage_upgrades": "容量升級",
+                "store": "商店",
+                "store_unavailable": "無法使用商店",
+                "subtotal": "小計",
+                "support": "常見問題",
+                "support_page": "支援頁面",
+                "support_page_note": "如有任何問題，請瀏覽我們的",
+                "take_me_there": "帶我過去",
+                "team_instinct": "靈犀隊",
+                "team_mystic": "叡智隊",
+                "team_valor": "武勇隊",
+                "tos": "服務條款",
+                "total": "總計",
+                "transaction_date": "交易日期",
+                "transaction_id": "交易序號",
+                "user": "使用者",
+                "virtual_currency_name": "寶可幣",
+                "virtual_currency_quantity": "{{amount}}寶可幣",
+                "virtual_currency_quantity_japan": "<0><0></0></0> <1>(<1></1> + <3></3> 獎勵寶可幣)</1>",
+                "want_percent_discount": "想要享有{{percent}}%優惠嗎？快使用代碼{{code}}。",
+                "web_store": "Web Store",
+                "daily_bundles": "每日禮盒",
+                "3_daily_bundles": "3個每日禮盒",
+                "about": "關於",
+                "in_progress": "進行中",
+                "not_started": "尚未開始",
+                "server_error_try_again": "再試一次",
+                "event_ticketing": "活動票務",
+                "best_deal": "最優惠的價格",
+                "gotour": "GO Tour",
+                "go_wild_area": "GO 曠野地帶",
+                "go_fest": "GO Fest",
+                "seasons": "季節",
+                "shop": "商店",
+                "order_history": "購買紀錄",
+                "go_fest_about_2025": "瞭解「Pokémon GO Fest 2025」的更多資訊",
+                "go_fest_city_osaka": "大阪",
+                "go_fest_city_jersey": "澤西市",
+                "go_fest_city_paris": "巴黎",
+                "go_fest_global": "全球",
+                "event_gameplay": "現場活動",
+                "event_features": "活動內容",
+                "event_plan_trip": "旅行規劃",
+                "event_ticket_info": "入場券資訊",
+                "log_in_with_rewards": "登入以瞭解更多獎勵",
+                "sign_in_with_rewards": "註冊以瞭解更多獎勵",
+                "nav_more": "更多資訊",
+                "shortcut": "新增捷徑",
+                "safari_shortcut_title_desktop": "在桌面新增Pokémon GO Web Store捷徑，一鍵進入商店！",
+                "safari_shortcut_title_mobile": "在桌面新增Pokémon GO Web Store捷徑，一鍵進入商店！",
+                "earn_rewards": "Earn Rewards",
+                "safari_shortcut_instruction_1_desktop": "點擊工具列中的 <icon/>",
+                "safari_shortcut_instruction_2_desktop": "選擇 <icon/> 加入Dock中",
+                "safari_shortcut_instruction_1_mobile": "點擊工具列中的 <icon/>",
+                "safari_shortcut_instruction_2_mobile": "選擇加入主畫面 <icon/>",
+                "pokemon_go": "Pokémon GO",
+                "trainers_purchase_ticket_bonus": "從 Pokémon GO 網路商店購買門票的訓練員，還可免費獲得以下內容：",
+                "payment_checkout_load_error": "付款結帳載入失敗。",
+                "payment_checkout_load_error_description": "非常抱歉，付款結帳出現了錯誤。請點擊下方按鈕重試。",
+                "revamp": {
+                  "heading": "《Pokémon GO》<highlight>官方</highlight>Web Store",
+                  "discover-offers": "快來發掘獨家優惠，且消費即可獲得點數，解鎖特別獎勵。",
+                  "learn-more": "瞭解詳情。"
+                },
+                "in_person_experiences": "現場活動",
+                "tickets": "Tickets",
+                "tax_included": "含稅",
+                "back": "上一步",
+                "site_description": "到Pokémon GO網路商店尋找限定優惠，以最實惠的價格購買寶可幣吧！ 立即造訪Pokémon GO Web Store，獲得額外的寶可幣與專屬優惠！",
+                "community": "社群",
+                "web_only": "網路限定",
+                "available_only_webstore": "Pokémon GO Web Store限定",
+                "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}"
+              },
+              "confirmation": {
+                "failed": {
+                  "description": "請聯繫<1>Xsolla支援</1>申請退款，並在申請信件中，提供購買時的交易序號。造成不便，敬請見諒。",
+                  "heading": "您已成功付款，然而因發生未預期的錯誤，我們無法將購買的道具新增至您的Pokémon GO帳號。",
+                  "title": "訂單無效"
+                },
+                "pending": {
+                  "description": "您已成功付款，然而因發生未預期的錯誤，我們無法將購買的道具新增至您的Pokémon GO帳號。",
+                  "heading": "您已成功付款，但我們仍在努力將購買的道具新增至您的Pokémon GO帳號。",
+                  "title": "訂單待處理"
+                },
+                "refunded": {
+                  "description": "已由下列付款方式進行退款。造成不便，敬請見諒。",
+                  "heading": "您已成功付款，然而因發生未預期的錯誤，我們無法將購買的道具新增至您的Pokémon GO帳號。",
+                  "title": "訂單已退款"
+                },
+                "success": {
+                  "description": "請留存此頁面以供未來使用。",
+                  "heading": "訂單資訊",
+                  "keep_shopping": "繼續購物",
+                  "order_date": "訂單日期",
+                  "order_id_is": "你的訂單ID是{{id}}。",
+                  "payment_method": "付款方式",
+                  "title": "{{name}}，感謝你的購買！",
+                  "updated_balance": "更新後的寶可幣餘額："
+                }
+              },
+              "disclaimer": {
+                "copyright": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。",
+                "total_number_of_bonus": "*獲得的寶可幣數量將依購買的寶可幣禮盒而定。詳情請見各禮盒的列表。"
+              },
+              "error": {
+                "401": "因為你尚未登入，我們無法顯示此頁面！請登入後再重試。",
+                "404": "找不到指定的頁面！請確認網址是否輸入正確或返回{商店}。",
+                "500": "出現了意想不到的錯誤，請稍後再試一次。",
+                "maintenance": {
+                  "description": "非常抱歉，Pokémon GO Web Store正在進行系統維護。我們正努力讓商店重新上線，請稍後再回來！造成不便，敬請見諒。",
+                  "title": "系統維護中"
+                }
+              },
+              "global": {
+                "label": {
+                  "caps": {
+                    "web_exclusive": "Web Store限定"
+                  }
+                },
+                "event_link": "查看活動詳情"
+              },
+              "hero": {
+                "gofest_exclusive_deals": "持有Pokémon GO Fest 2023入場券的訓練家享有專屬優惠！",
+                "gofest_in_person_can_get": "持有GO Fest 2023現場入場券的訓練家可享有專屬優惠！",
+                "gofest_in_person_will_get": "持有Pokémon GO Fest 2023現場入場券的訓練家可於Pokémon GO Web Store享有這些專屬優惠！",
+                "message": "到Pokémon GO網路商店尋找限定優惠，以最實惠的價格購買寶可幣吧！",
+                "message_default": "每次購買道具都能獲得額外的寶可幣！*",
+                "message_thanksgiving": "期間限定！購買指定Web Store商品即可獲得雙倍獎勵寶可幣！",
+                "webstore_message": "到Pokémon GO網路商店尋找限定優惠，以最實惠的價格購買寶可幣吧！",
+                "webstore_message_2": "立即造訪Pokémon GO Web Store，獲得額外的寶可幣與專屬優惠！",
+                "webstore_message_3": "首次於Web Store購買任何9.99美元（含）以上的道具，即可享85折優惠！"
+              },
+              "home": {
+                "unsupported": {
+                  "message": "我們尚未支援此地區的付費，敬請關注最新消息！"
+                }
+              },
+              "offer_redemption": {
+                "already_redeemed": "这个代码已经被使用了",
+                "heading": "兌換代碼",
+                "offer_redeemed": "您已成功兌換這項優惠或這張 Pokémon GO 禮品卡！\n\n快去看看 Web Store 或 Pokémon GO 禮品卡。如有購買品項符合條件，即可獲得額外的獎勵寶可幣。",
+                "offer_sign_in_faq_note": "請留意，可能會有無法於本網頁使用的宣傳代碼。僅記載著可於本網頁使用的宣傳代碼才可使用，還請確認宣傳代碼的使用條件。若有不明白之處，請參照<1>宣傳代碼相關FAQ</1>。",
+                "offer_sign_in_note": "使用宣傳代碼時，需先登入Pokémon GO帳號。請下載應用程式後建立遊戲帳號。若有不明白之處，請參照<1>宣傳代碼相關FAQ</1>。",
+                "passcode_sign_in": "登入並使用",
+                "redeem_error_invalid": "此為無效的禮品卡代碼或促銷代碼，或者您不符合促銷活動資格。",
+                "gift_card_unavailable": "Pokémon GO 禮品卡兌換功能暫時無法使用。請稍後再試。",
+                "gift_card_sign_in_note": "請登入您的《Pokémon GO》帳號來兌換優惠或禮品卡代碼。欲兌換這些代碼，您必須先登入您的《Pokémon GO》帳號。若要註冊帳號，請下載應用程式。如有任何疑問，<1>請參閱代碼兌換常見問題</1>或<3>《Pokémon GO》禮品卡常見問題</3>。",
+                "gift_card_sign_in_faq_note": "請注意，並非所有優惠代碼都能於本網頁兌換。只有特別註明可在本網頁兌換的優惠代碼，才可於上方兌換，還請確認兌換優惠或禮品卡的使用條件。兌換禮品卡即代表您同意（若您未滿18歲，則為您的父母或監護人同意）Niantic的服務條款及禮品卡條款與細則。若有任何疑問，<1>請參閱代碼兌換常見問題</1>或<3>《Pokémon GO》禮品卡常見問題</3>。",
+                "gift_card_sign_in_faq_note_updated": "請注意，並非所有優惠代碼都能於本網頁兌換。只有特別註明可在本網頁兌換的優惠代碼，才可於上方兌換，還請確認兌換優惠或禮品卡的使用條件。兌換禮品卡即代表您同意（若您未滿18歲，則為您的父母或監護人同意）<1>Niantic的服務條款</1> 及<3>禮品卡條款與細則（英文）</3>。若有任何疑問，<5>請參閱代碼兌換常見問題</5> 或<7>《Pokémon GO》禮品卡常見問題</7> 。",
+                "redeem_error_expired": "此禮品卡代碼已過期。"
+              },
+              "order_review": {
+                "proceed_to_payment": "前往結帳",
+                "promo_code_info": "已兌換{{code}}（{{sku}}）。",
+                "promotion_detail": "已兌換<0>促銷代碼</0>（<2>名稱</2>）。",
+                "sign_in_to_purchase": "登入以購買",
+                "title": "購買紀錄"
+              },
+              "page_title": {
+                "default": "Pokémon GO Web Store",
+                "home": "首頁—Pokémon GO Web Store",
+                "niantic_kids": "Niantic Kids—Pokémon GO Web Store",
+                "offer_redemption": "兌換代碼：Pokemon GO Web Store",
+                "order_confirmation": "訂單確認—Pokémon GO Web Store",
+                "profile": "個人檔案—Pokémon GO Web Store",
+                "review_order": "購買紀錄—Pokémon GO Web Store",
+                "review_sbps_order": "軟銀付款服務購買紀錄—Pokémon GO Web Store",
+                "support": "支援—Pokémon GO Web Store",
+                "unsupported": "不支援—Pokémon GO Web Store"
+              },
+              "profile": {
+                "no_orders_yet": "沒有訂單",
+                "order_history": "訂單紀錄"
+              },
+              "sbps": {
+                "back_to_order_review": "返回購買紀錄",
+                "redirection_notice_note": "網頁將重新導向至 https://www.sbpayment.co.jp/ 以完成交易。如欲更改付款方式，請返回「選擇付款方式」頁面。",
+                "select_payment_method": "選擇付款方式",
+                "terms_of_service": "我已年滿18歲，並已閱讀、了解且同意《Niantic服務條款》之所有內容。",
+                "checkbox_error": "請確認年齡並同意Niantic公司的使用條款後，再前往付款。",
+                "settings": "設定"
+              },
+              "sku": {
+                "description": {
+                  "currency_bundle": "{{fiatBaseAmount}} + {{webstoreBonus}} Web Store獎勵＝共 {{total}} 寶可幣。",
+                  "currency_bundle_japan": "{{fiatBaseAmount}} + {{webstoreBonus}} 獎勵＝共 {{total}} 寶可幣。",
+                  "storage_items": "讓你可攜帶的道具數量增加{{amount}} 。",
+                  "storage_pokeballs": "讓你可攜帶的寶可夢數量增加{{amount}} 。",
+                  "percent_bonus": "Web Store獎勵{{percent}}%"
+                },
+                "error": {
+                  "item_storage_over_limit": "購買升級包包能讓你提升目前的道具容量上限。",
+                  "poke_storage_over_limit": "購買升級寶可夢盒子能讓你提升目前的寶可夢盒子容量上限。",
+                  "unable_to_purchase": "如果你無法購買該道具，請參閱此篇<1>文章</1>。"
+                },
+                "name": {
+                  "1106": "神奧之石",
+                  "1107": "合眾之石",
+                  "3-personalized-bundles": "3個個人專屬禮盒",
+                  "anniversary-box-2023": "週年慶禮盒",
+                  "AVATAR_f_hat_lasecuritycorps": "銀河隊警衛組 草帽",
+                  "avatar_f_hat_lasecuritycorps": "銀河隊警衛組 草帽",
+                  "AVATAR_f_shirt_lasecuritycorps": "銀河隊警衛組 組合",
+                  "avatar_f_shirt_lasecuritycorps": "銀河隊警衛組 組合",
+                  "AVATAR_m_hat_lasecuritycorps": "銀河隊警衛組 草帽",
+                  "avatar_m_hat_lasecuritycorps": "銀河隊警衛組 草帽",
+                  "AVATAR_m_shirt_gofest2024gray": "GO Fest\n2024 T恤\n灰",
+                  "AVATAR_m_shirt_lasecuritycorps": "銀河隊警衛組 組合",
+                  "avatar_m_shirt_lasecuritycorps": "銀河隊警衛組 組合",
+                  "coin-bundle-large-v2": "5,600寶可幣",
+                  "coin-bundle-medium_v2": "2,700寶可幣",
+                  "coin-bundle-small_v2": "1,300寶可幣",
+                  "coin-bundle-xlarge": "15,500寶可幣",
+                  "coin-bundle-xlarge-v2": "15,500寶可幣",
+                  "coin-bundle-xsmall": "600寶可幣",
+                  "egg_incubator": "孵化器",
+                  "elite_tm_charged": "厲害特殊招式學習器",
+                  "elite_tm_fast": "厲害一般招式學習器",
+                  "go-rocket-box-0623": "GO火箭隊禮盒",
+                  "golden_razz_berry": "金色蔓莓果",
+                  "great-hatch-box-0723": "超級孵蛋禮盒",
+                  "great-storage-box": "超級擴充禮盒",
+                  "great-voyager-box": "超級旅行者禮盒",
+                  "incense_basic": "薰香",
+                  "incubator_super": "超級孵化器",
+                  "ITEM_BAG": "包包",
+                  "ITEM_EVENT_TICKET_06": "7月孵蛋證",
+                  "ITEM_GLOBAL_EVENT_TICKET": "入場券",
+                  "ITEM_GOLDEN_PINAP_BERRY": "銀色凰梨果",
+                  "ITEM_GOLDEN_RAZZ_BERRY": "金色蔓莓果",
+                  "ITEM_GREAT_BALL": "超級球",
+                  "ITEM_INCENSE_ORDINARY": "薰香",
+                  "web-basic-incubator-3pack": "孵化器",
+                  "web-super-incubator-2pack": "超級孵化器",
+                  "ITEM_ITEM_STORAGE_UPGRADE": "升級包包",
+                  "ITEM_LEADER_MAP": "火箭隊雷達",
+                  "ITEM_LUCKY_EGG": "幸運蛋",
+                  "ITEM_PAID_RAID_TICKET": "特級對戰入場券",
+                  "ITEM_PINAP_BERRY": "凰梨果",
+                  "ITEM_POFFIN": "寶芬",
+                  "ITEM_POKE_BALL": "精靈球",
+                  "ITEM_POKEMON_STORAGE_UPGRADE": "寶可夢盒",
+                  "ITEM_RARE_CANDY": "神奇糖果",
+                  "ITEM_REMOTE_RAID_TICKET": "遠距團體戰入場券",
+                  "ITEM_STAR_PIECE": "星星碎片",
+                  "ITEM_TROY_DISK": "誘餌模組",
+                  "ITEM_ULTRA_BALL": "高級球",
+                  "web-luckyegg-bundle-8": "幸運蛋",
+                  "mystery_boxes": "神秘盒子",
+                  "n_item_bags": "{{amount}}包包",
+                  "n_poke_storage": "{{amount}}寶可夢盒子",
+                  "PAID_RAID_TICKET": "特級對戰入場券",
+                  "personalized_bundles": "個人專屬禮盒",
+                  "poffin": "寶芬",
+                  "poke_ball": "精靈球",
+                  "pokecoins": "{{amount}}寶可幣",
+                  "pokémon_storage": "寶可夢盒",
+                  "premium_battle_pass": "特級對戰入場券",
+                  "rare_candy": "神奇糖果",
+                  "remote_raid_pass": "遠距團體戰入場券",
+                  "remote_raid_passes": "遠距團體戰入場券",
+                  "rocket_radar": "火箭隊雷達",
+                  "silver_pinap_berry": "銀色凰梨果",
+                  "solstice-box": "至點禮盒",
+                  "web-starpiece-bundle": "星星碎片",
+                  "ultra-community-day-box": "高級社群日禮盒",
+                  "ultra-community-day-box-0723": "高級社群日禮盒",
+                  "ultra-hatch-box-0723": "高級孵蛋禮盒",
+                  "ultra-legend-box": "高級傳說禮盒",
+                  "ultra-raid-box-0823": "高級團體戰禮盒",
+                  "ultra-voyager-box-0723": "高級旅行者禮盒",
+                  "ultra_ball": "高級球",
+                  "virtual_currency_amount": "{{amount}}寶可幣",
+                  "voyager-box-0623": "旅行者禮盒",
+                  "web-boost-box-1223": "加成禮盒",
+                  "web-feb-monthly-ticket-bundle": "孵蛋證：2月",
+                  "web-go-fest-2024-ticket": "Pokémon GO Fest 2024：全球入場券",
+                  "web-go-fest-bonus-bundle-2024": "特級對戰入場券 x 1, 孵化器 x 1",
+                  "web-go-fest-bonus-raid-pass-bundle-2023": "特級對戰入場券 x 5",
+                  "web-go-fest-hatch-box-2023": "GO Fest 孵蛋禮盒",
+                  "web-go-fest-raid-box-2023": "GO Fest 團體戰禮盒",
+                  "web-go-tour-hatch-box-2024": "超級旅行者禮盒",
+                  "web-go-tour-raid-box-2024": "大師團體戰禮盒",
+                  "web-go-tour-ticket-bundle": "前往神奧之路 券禮盒",
+                  "web-halloween-box-2023-1": "寒毛直豎箱",
+                  "web-halloween-box-2023-2": "南瓜南瓜組",
+                  "web-halloween-box-2023-3": "嚇一跳禮盒",
+                  "web-lunar-new-year-box-2024": "新年禮盒",
+                  "web-primal-raid-day-ticket-bundle": "原始團體戰日入場券禮盒",
+                  "web-raid-box-071323": "高級團體戰禮盒",
+                  "web-raid-box-1123": "高級團體戰禮盒",
+                  "web-raid-box-1223": "高級團體戰禮盒",
+                  "web-rockruffboost2023": "加成禮盒",
+                  "web-routes-box-1223": "高級孵蛋禮盒",
+                  "web-season-14-start-bundle": "高級傳說禮盒",
+                  "web-season-14-ticket-bundle": "驚奇入場券",
+                  "web-storage-box-1223": "高級擴充禮盒",
+                  "web-thanksgiving-box-2023": "冬季特別禮盒",
+                  "web-ultra-catch-box-2023": "高級捕捉禮盒",
+                  "web-ultra-storage-box-090423": "高級擴充禮盒",
+                  "web-voyager-box-071323": "高級旅行者禮盒",
+                  "ITEM_EVENT_TICKET_PINK": "入場券",
+                  "web-ultra-cd-ticket-box": "高級社群日禮盒",
+                  "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK": "厲害特殊招式學習器",
+                  "web-ultra-heracross-ticket-box": "赫拉克羅斯團體戰高級入場券禮盒",
+                  "web-zarude-ticket-box": "密林流氓（Web版）",
+                  "ITEM_HYPER_POTION": "厲害傷藥",
+                  "ITEM_MAX_POTION": "全滿藥",
+                  "ITEM_REVIVE": "活力碎片",
+                  "ITEM_MAX_REVIVE": "活力塊",
+                  "ITEM_POTION": "傷藥",
+                  "ITEM_RAZZ_BERRY": "蔓莓果",
+                  "ITEM_SPECIAL_CAMERA": "照相機",
+                  "ITEM_SUPER_POTION": "好傷藥",
+                  "ITEM_X_ATTACK": "力量強化",
+                  "ITEM_X_DEFENSE": "防禦強化",
+                  "ITEM_X_MIRACLE": "未定",
+                  "ITEM_BLUK_BERRY": "墨莓果",
+                  "ITEM_WEPAR_BERRY": "西梨果",
+                  "ITEM_NANAB_BERRY": "蕉香果",
+                  "ITEM_POKEMON_BAG": "升級寶可夢盒子",
+                  "ITEM_ITEM_PACK": "道具",
+                  "ITEM_INCUBATOR_BASIC_UNLIMITED": "無限孵化器",
+                  "ITEM_SUN_STONE": "日之石",
+                  "ITEM_KINGS_ROCK": "王者之證",
+                  "ITEM_METAL_COAT": "金屬膜",
+                  "ITEM_DRAGON_SCALE": "龍之麟片",
+                  "ITEM_UP_GRADE": "升級資料",
+                  "ITEM_GEN4_EVOLUTION_STONE": "神奧之石",
+                  "ITEM_TEAM_CHANGE": "轉隊獎章",
+                  "ITEM_TROY_DISK_GLACIAL": "冰寒誘餌模組",
+                  "ITEM_TROY_DISK_MOSSY": "藥草誘餌模組",
+                  "ITEM_TROY_DISK_MAGNETIC": "磁鐵誘餌模組",
+                  "ITEM_GEN5_EVOLUTION_STONE": "合眾之石",
+                  "ITEM_TROY_DISK_RAINY": "雨露誘餌模組",
+                  "ITEM_GLOBAL_EVENT_TICKET_TO_GIFT": "入場券",
+                  "ITEM_INCENSE_DAILY_ADVENTURE": "散步小薰香",
+                  "IAP_BATTLE_PASS_TICKET": "GO對戰聯盟限時挑戰入場券",
+                  "ITEM_BATTLE_PASS_TICKET": "GO對戰聯盟限時挑戰入場券",
+                  "ITEM_EVENT_TICKET_GRAY_TO_GIFT": "額外入場券",
+                  "ITEM_MOVE_REROLL_FAST_ATTACK": "一般招式學習器",
+                  "ITEM_MOVE_REROLL_SPECIAL_ATTACK": "特殊招式學習器",
+                  "ITEM_FREE_RAID_TICKET": "團體戰入場券",
+                  "TEAM_PICKER_DEFAULT_TEAM": "對戰小隊 {0}",
+                  "TEAM_PICKER_SET_TEAM": "設定名稱",
+                  "ITEM_LEGENDARY_RAID_TICKET": "VIP團體戰入場券",
+                  "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK": "厲害一般招式學習器",
+                  "ITEM_XL_RARE_CANDY": "神奇糖果XL",
+                  "ITEM_EVENT_TICKET_PINK_TO_GIFT": "額外入場券",
+                  "ITEM_BEAST_BALL": "Beast Ball",
+                  "ITEM_PREMIER_BALL": "Premier Ball",
+                  "ITEM_EVENT_TICKET_01": "Pokémon GO Fest 2022",
+                  "ITEM_EVENT_TICKET_03": "入場券",
+                  "ITEM_EVENT_TICKET_04": "入場券",
+                  "ml_bundle_explorer_box_title": "探險家禮盒",
+                  "ml_bundle_bundle": {
+                    "general1": {
+                      "tiny": {
+                        "4_title": "訓練禮盒",
+                        "2_title": "新手禮盒",
+                        "3_title": "入門禮盒"
+                      },
+                      "rocket": {
+                        "1_title": "GO火箭隊禮盒"
+                      },
+                      "small": {
+                        "1_title": "特別禮盒"
+                      },
+                      "medium": {
+                        "1_title": "超級禮盒"
+                      }
+                    }
+                  },
+                  "ml_bundle_hatch_box": "孵蛋禮盒",
+                  "ml_bundle_ace_box_title": "菁英禮盒",
+                  "ml_bundle_trainee_box_title": "訓練家禮盒",
+                  "ml_bundle_boost_box_title": "加成禮盒",
+                  "ml_bundle_veteran_box_title": "老手禮盒",
+                  "ml_bundle_expert_box_title": "達人禮盒",
+                  "ml_bundle_gold_box_title": "金禮盒",
+                  "ml_bundle_legend_box_title": "傳說禮盒",
+                  "ml_bundle_voyager_box_title": "旅行者禮盒",
+                  "ml_bundle_remote_raid_pass_box": "遠距團體戰禮盒",
+                  "ITEM_EVENT_TICKET_09": "8月孵蛋證",
+                  "ml_bundle_great_raid_box_title": "超級團體戰禮盒",
+                  "web-atlantica-box-2023-1": "超級孵蛋禮盒",
+                  "web-atlantica-box-2023-2": "超級孵蛋禮盒",
+                  "AVATAR_f_shirt_gofest2024gray": "GO Fest\n2024 T恤\n灰",
+                  "n_shirt_gofest2024gray_0": "GO Fest\n2024 T恤\n灰",
+                  "web-ultra-raid-box-0524": "高級團體戰禮盒",
+                  "web-ultra-beast-ticket-box": "究極空間驚奇",
+                  "web-celebi-ticket-box-0724": "森林細語長期調查入場券",
+                  "web-ultra-raid-box-0724": "GO Fest高級團體戰禮盒",
+                  "web-ultra-hatch-box-0724": "高級孵蛋禮盒",
+                  "web-ultra-storage-box-0724": "GO Fest擴充禮盒",
+                  "item_leader_map_fragment": "神秘零件",
+                  "web-raid-box-1223-anniversary": "週年慶禮盒",
+                  "web-go-fest-raid-ticket-24-box": "究極異獸大舉入侵特級限時調查入場券",
+                  "web-grow-together-ticket-box": "一起茁壯特級限時調查入場券",
+                  "web-mega-lucario-ticket-24-box": "超級路卡利歐團體戰日入場券",
+                  "N_AVATAR_n_hat_lucariomask_0": "路卡利歐面具",
+                  "web-wcs-24-ticket-box": "WCS 2024特級限時調查入場券",
+                  "web-tm-fanatic-box": "招式學習器禮盒",
+                  "web-tm-elite-master-box": "招式學習器達人禮盒",
+                  "web-triumph-finale-ticket-box": "隊長的決心特級限時調查入場券",
+                  "web-all-s16monthly-ticket-box": "每日寶可幣獎勵究極入場券禮盒",
+                  "web-falinks-raid-ticket-box": "列陣兵團體戰日高級入場券禮盒",
+                  "AVATAR_f_backpack_lunalaitems": "露奈雅拉雙翼",
+                  "web-mp-pack": {
+                    "6": "極巨粒子組合"
+                  },
+                  "ITEM_MP_REPLENISH": "極巨粒子組合",
+                  "3x_rare_candy": "3x 稀有糖果",
+                  "1x_star_piece": "1x 星星碎片",
+                  "1x_lure_module": "1x 誘餌模組",
+                  "2x_incense": "2x 薰香",
+                  "web-bonus-rare-candy-2024": "3x Rare Candies",
+                  "web-bonus-star-piece-2024": "1x Star Piece",
+                  "web-bonus-lure-module-2024": "1x Lure Module",
+                  "web-bonus-incense-2024": "2x Incense",
+                  "web-bonus-rare-candy-2025": "3x Rare Candies",
+                  "web-bonus-star-piece-2025": "1x Star Piece",
+                  "web-bonus-lure-module-2025": "1x Lure Module",
+                  "web-bonus-incense-2025": "2x Incense",
+                  "web-masterball-ticket-24-box": "長期調查：大師球",
+                  "web-gowa-ticket-24-box": "GO曠野地帶究極入場券禮盒",
+                  "web-mega-mawile-ticket-24-box": "超級大嘴娃團體戰日究極入場券禮盒",
+                  "web-halloween-24-box-1": "寒毛直豎箱",
+                  "web-halloween-24-box-2": "南瓜南瓜組",
+                  "web-halloween-24-box-3": "嚇一跳禮盒",
+                  "web-halloween-ticket-24-box": "萬聖節高級入場券禮盒",
+                  "web-nov-s16monthly-ticket-box": "每日寶可幣獎勵Part3入場券",
+                  "web-ultra-harvest-ticket-box": "豐收節究極入場券禮盒",
+                  "web-gowa-2024-box-1": "GO曠野地帶對戰者禮盒",
+                  "web-gowa-2024-box-2": "GO Fest孵蛋禮盒",
+                  "web-gowa-2024-box-3": "GO Fest究極禮盒",
+                  "web-gowa-lead-up-ticket-box": "曠野週究極入場券禮盒",
+                  "web-go-safari-ball-ticket": "GO狩獵球：額外入場券",
+                  "ITEM_TICKET_CITY_SAFARI_04": "GO狩獵球：額外入場券",
+                  "coin-bundle-medium_thanksgiving": "2,900寶可幣",
+                  "coin-bundle-large_thanksgiving": "6,000寶可幣",
+                  "coin-bundle-xlarge_thanksgiving": "16,500寶可幣",
+                  "web-seasonal-delights-2024-box": "冬季特別禮盒",
+                  "web-max-out-finale-ticket-box": "極巨一堂最終章究極入場券禮盒",
+                  "ITEM_POSTCARD_STORAGE_UPGRADE": "明信片內頁",
+                  "web-season-17-start-box": "交疊的命運禮盒",
+                  "web-eggspedition-december-2024": "孵蛋證究極入場券禮盒",
+                  "ITEM_EVERGREEN_TICKET": "入場券",
+                  "ITEM_EVENT_TICKET_05": "6月孵蛋證",
+                  "ITEM_MAX_BOOST": "極巨菇菇",
+                  "web-dragon-ticket-box": "雙重精選禮盒",
+                  "item_evergreen_ticket": "昇龍調查日特級限時調查",
+                  "web-max-mushroom-3": "極巨菇菇",
+                  "web-necrozma-fusion-box": "奈克洛茲瑪團體戰日究極入場券禮盒",
+                  "web-holiday-2024-box": "高級佳節禮盒",
+                  "web-holiday-2024-ultra-ticket-box": "歲末節慶Part 1究極入場券禮盒",
+                  "web-new-years-2025-ticket-box": "新年2025究極入場券禮盒",
+                  "AVATAR_m_backpack_egg-incubator": "孵化器背包",
+                  "AVATAR_f_backpack_egg-incubator": "孵化器背包",
+                  "N_AVATAR_n_backpack_egg-incubator_0": "孵化器背包",
+                  "web-mega-gallade-raid-day-ticket": "超級艾路雷朵團體戰日究極入場券禮盒",
+                  "web-fashion-week-2025-ticket": "[時裝週]究極入場券禮盒",
+                  "web-shadow-ho-oh-raid-day-ticket": "鳳王暗影團體戰日究極入場券禮盒",
+                  "pokecoin": {
+                    "23500": "23,500寶可幣"
+                  },
+                  "web-gbl-jan-2025-ticket": "[鋼之決心]究極入場券禮盒",
+                  "web-lunar-new-year-ticket-box": "[農曆春節活動]究極入場券禮盒",
+                  "web-gmax-raid-day-ticket-box": "超極巨化巨鉗蟹極巨對戰日",
+                  "coin-bundle-xxsmall": "110寶可幣",
+                  "web-go-fest-bonus-bundle-2025": "特級對戰入場券 x 1, 孵化器 x 1",
+                  "web-hoopa-raid-day-ticket": "解放胡帕團體戰日究極入場券禮盒",
+                  "web-avatar-feb-2025-ticket": "乘風傳遞的心意究極入場券禮盒",
+                  "kazuki-test": "sku.name.kazuki-test",
+                  "web-gotour-2025-box-1": "GO Tour對戰者禮盒",
+                  "web-gotour-2025-box-2": "GO Tour孵蛋禮盒",
+                  "web-gotour-2025-box-3": "GO Tour究極禮盒",
+                  "web-gotour-2025-box-4": "GO Tour擴充禮盒",
+                  "web-gotour-2025-box-5": "Tour入場券高級禮盒",
+                  "BADGE_EVENT_0105": "Tour入場券豪華版",
+                  "web-go-tour-25-bundle-ticket-box": "前往合眾之路究極入場券禮盒",
+                  "web-master-work-25-ticket-box": "長期調查：美妙的旋律",
+                  "ITEM_EVENT_PASS_POINT_GO_TOUR_01": "Tour點數 (+10 級/級別)",
+                  "web-gotour-2025-box-6": "Tour入場券豪華版 + 10級",
+                  "ITEM_EVENT_TICKET_02": "入場券",
+                  "ITEM_EVENT_TICKET_10": "入場券",
+                  "web-go-fest-2025-ticket": "Pokémon GO Fest 2025：全球入場券",
+                  "web-s18-all-monthly-ticket-box": "強化入場券究極入場券禮盒",
+                  "ITEM_EVENT_TICKET_GRAY": "強化入場券：3月",
+                  "ITEM_EVENT_TICKET_07": "入場券",
+                  "ITEM_EVENT_TICKET_08": "強化入場券：5月",
+                  "web-kubfu-ticket-box": "力量潛能究極入場券禮盒",
+                  "web-season-18-start-box": "強大與極致禮盒",
+                  "web-festival-colors-ticket-box": "色彩節究極入場券禮盒",
+                  "web-catch-mastery-ticket": "捕捉達人究極入場券禮盒",
+                  "web-dmax-raikou-bundle": "極巨化雷公極巨對戰週末高級禮盒",
+                  "web-deep-depths-ticket-box": "出深入化究極入場券禮盒",
+                  "web-march-cdc-ticket-box": "高級社群日禮盒",
+                  "web-mega-absol-raid-day-ticket-box": "超級阿勃梭魯團體戰日究極入場券禮盒",
+                  "web-fuzzy-buddy-ticket-box": "毛茸茸夥伴調查日究極入場券禮盒",
+                  "web-bug-out-ticket-box": "蟲屬性寶可夢活動究極入場券禮盒",
+                  "web-event-pass-softlaunch-base": "GO入場券豪華版：4月",
+                  "web-event-pass-softlaunch-plusrank": "GO入場券豪華版：4月＋10級",
+                  "BADGE_EVENT_0114": "GO入場券豪華版：4月",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_02": " +10 級/級別",
+                  "web-striking-styles-ticket-box": "獨特風格究極入場券禮盒",
+                  "web-mega-audino-raid-ticket-box": "超級差不多娃娃團體戰日究極入場券禮盒",
+                  "web-tyrogue-hatch-day-ticket-box": "無畏小子孵化日究極入場券禮盒",
+                  "web-go-fest-2025-ticket-b": "Pokémon GO Fest 2025：全球入場券",
+                  "web-event-pass-testing": "Web Event Pass Testing",
+                  "web-sparring-raid-ticket-box": "陪練夥伴團體戰日究極入場券禮盒",
+                  "web-spring-ticket-box": "春季活動究極入場券禮盒",
+                  "web-anime-collab-ticket-box": "慶典究極入場券禮盒",
+                  "web-snorlax-max-battle-ticket-box": "極巨對戰日究極入場券禮盒",
+                  "web-sweet-discoveries-ticket-box": "甘甜果實究極入場券禮盒",
+                  "web-vanillite-cd-ticket-box": "迷你冰社群日究極入場券禮盒",
+                  "web-dmax-entei-bundle": "炎帝極巨對戰週末高級禮盒",
+                  "web-bonus-star-piece-2025-2": "1x 星星碎片",
+                  "web-mega-kanghskan-raid-ticket-box": "超級袋獸團體戰日究極入場券禮盒",
+                  "web-growing-up-ticket-box": "頭好壯壯長大大究極入場券禮盒",
+                  "sku": {
+                    "name": {
+                      "web-spring-ticket-box-2": "陪練夥伴團體戰日究極入場券禮盒"
+                    }
+                  },
+                  "web-event-pass-softlaunch-base-may": "GO入場券豪華版：5月",
+                  "web-event-pass-softlaunch-plusrank-may": "GO入場券豪華版：5月＋10級",
+                  "BADGE_EVENT_0115": "GO入場券豪華版：5月",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_03": " +10 級/級別",
+                  "web-pawmi-cd-ticket-box": "布撥社群日究極入場券禮盒",
+                  "web-community-ambassador-bonus-bundle-2025": "特級對戰入場券 x 1, 孵化器 x 1",
+                  "web-dmax-suicune-bundle": "水君極巨對戰週末高級禮盒",
+                  "web-regigigas-ticket-box": "雷吉奇卡斯暗影團體戰日究極入場券禮盒",
+                  "web-crown-clash-ticket-box": "大展王者風範究極入場券禮盒",
+                  "web-go-fest-bonus-bundle-2025-2": "特級對戰入場券 x 1, 孵化器 x 1",
+                  "web-kubfu-ticket-2-box": "毛茸茸鬥士究極入場券禮盒",
+                  "web-final-strike-ticket-box": "最後一擊究極入場券禮盒",
+                  "web-3mp-3rrp-bundle": "3 極巨粒子組合 + 3 遠距團體戰入場券",
+                  "web-1mp-1rrp-bundle": "極巨粒子組合 + 遠距團體戰入場券",
+                  "web-gmax-machamp-ticket-box": "G-Max 怪力極巨對戰日究極入場券禮盒",
+                  "web-cdc-machop-ticket-box": "腕力社群日究極入場券禮盒",
+                  "web-season-19-start-box": "快樂每一天禮盒",
+                  "web-gofest-2025-apac-overlay-ticket-box": "寧靜山莊究極入場券禮盒",
+                  "web-item-storage-bundle": "升級包包",
+                  "web-max-revive-6": "活力塊",
+                  "web-pokemon-storage-bundle": "寶可夢盒",
+                  "web-premium-battle-pass-3": "特級對戰入場券",
+                  "web-remote-raidpass-bundle": "遠距團體戰入場券",
+                  "ITEM_INCUBATOR_BASIC": "孵化器",
+                  "ITEM_INCUBATOR_SUPER": "超級孵化器",
+                  "web-s19-all-monthly-ticket-box": "孵蛋證究極入場券禮盒",
+                  "web-s19-june-monthly-ticket-box": "6月孵蛋證",
+                  "web-event-pass-softlaunch-base-june": "GO Pass豪華版：6月",
+                  "web-event-pass-softlaunch-plusrank-june": "GO Pass豪華版：6月＋10級",
+                  "BADGE_EVENT_0128": "GO Pass豪華版：6月",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_01": " +10 級",
+                  "web-event-pass-softlaunch-plusrank-june-ultra": "GO Pass豪華版：6月＋10級 高級禮盒",
+                  "web-gofest-2025-amer-overlay-ticket-box": "器械奇跡究極入場券禮盒",
+                  "web-bonus-2025-twitch-steam": "特級對戰入場券",
+                  "web-naic-2025-box": "特別禮盒",
+                  "web-gofest-2025-battle-box": "GO Fest對戰者禮盒",
+                  "web-gofest-2025-emea-overlay-ticket-box": "幻影遺跡究極入場券禮盒",
+                  "web-june-2025-cd-ticket-box": "心鱗寶社群日究極入場券禮盒",
+                  "web-june-2025-encounter-ticket-box": "來電汪的庭院究極入場券禮盒",
+                  "web-2025-anniversary-ticket-box": "9週年紀念究極入場券禮盒",
+                  "N_AVATAR_n_hat_partyhat_0": "派對帽",
+                  "web-gofest-2025-gbird-ticket-box": "大空究極入場券禮盒",
+                  "web-event-pass-ancients-recovered": "GO Pass豪華版：昔日殘影",
+                  "web-event-pass-ancients-recovered-plus-10rank": "GO Pass豪華版：昔日殘影＋10級",
+                  "web-event-pass-ancients-recovered-plus-10rank-webonly": "GO Pass豪華版：昔日殘影＋10級究極入場券禮盒",
+                  "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "GO Pass豪華版：昔日殘影",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " +10 級",
+                  "web-ultra-storage-box-gofest-25": "GO Fest擴充禮盒"
+                },
+                "percent_off": "{{percent}}%優惠",
+                "section": {
+                  "exclusive_item_boxes": "Web Store限定道具禮盒",
+                  "item_boxes": "道具禮盒",
+                  "limited_time": "LIMITED TIME",
+                  "limited_time_title_case": "限時",
+                  "limited_time_upper_case": "限時"
+                },
+                "tag": {
+                  "additional_item_storage": "{{amount}}道具包包容量",
+                  "additional_pokemon_storage": "{{amount}}寶可夢盒子容量",
+                  "best_value": "超值優惠",
+                  "black_friday_banner": "期間限定！購買指定Web Store商品即可獲得雙倍獎勵寶可幣！",
+                  "black_friday_deal": "黑色星期五限時優惠！",
+                  "capital": {
+                    "additional_item_storage": "<1></1>道具包包容量",
+                    "additional_pokemon_storage": "<1></1>寶可夢盒子容量",
+                    "best_value": "超值優惠",
+                    "black_friday_banner": "期間限定！購買指定Web Store商品即可獲得雙倍獎勵寶可幣！",
+                    "black_friday_deal": "黑色星期五限時優惠！",
+                    "extra": "額外內容",
+                    "featured": "主打商品",
+                    "gofest_in_person": "僅限持有GO Fest 2023現場入場券的訓練家",
+                    "limited_time_only": "限時優惠",
+                    "most_popular": "最熱門",
+                    "one_time_only": "限購1次",
+                    "store_more_items": "多攜帶<1></1>個道具",
+                    "store_more_pokemon": "多攜帶<1></1>隻寶可夢",
+                    "updates_at_midnight": "於午夜更新",
+                    "web_store_bonus_coins": "<0></0> Web Store獎勵寶可幣",
+                    "x2_bonus_coins": "雙倍Web Store獎勵加碼內容",
+                    "x2_bonus_coins_included": "內含雙倍Web Store獎勵寶可幣"
+                  },
+                  "event": {
+                    "gofest_in_person": "GO Fest 2023專屬"
+                  },
+                  "extra": "額外內容",
+                  "featured": "主打商品",
+                  "gofest_in_person": "僅限持有GO Fest 2023現場入場券的訓練家",
+                  "limited_time_only": "限時優惠",
+                  "most_popular": "最熱門",
+                  "one_time_only": "限購1次",
+                  "percent_off": "{{percent}}%優惠",
+                  "store_more_items": "多攜帶{{amount}}個道具",
+                  "store_more_pokemon": "多攜帶{{amount}}隻寶可夢",
+                  "updates_at_midnight": "於午夜更新",
+                  "web_exclusive": "Web Store限定",
+                  "webstore_bonus": "{{webstoreBonus}} Web Store獎勵寶可幣",
+                  "x2_bonus_coins": "雙倍Web Store獎勵加碼內容",
+                  "x2_bonus_coins_included": "內含雙倍Web Store獎勵寶可幣",
+                  "popular": "熱門",
+                  "includes_bonus_rewards": "包括紅利獎勵"
+                },
+                "section_nav": {
+                  "limited_time_offers": "Limited-time Offers"
+                },
+                "timer": {
+                  "days_left_other": "只剩{{time}}天",
+                  "hours_left_other": "只剩{{time}}小時",
+                  "minutes_left_other": "只剩{{time}}分鐘",
+                  "one_minute_left": "只剩1分鐘"
+                },
+                "section_title": {
+                  "tickets": "套票",
+                  "items": "道具",
+                  "item_bundles": "道具套組"
+                },
+                "tag_subtitle": {
+                  "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store獎勵",
+                  "webstore_bonus_colored": "<0>{{webstoreBonus}}</0> Web Store獎勵寶可幣"
+                },
+                "section_subtitle": {
+                  "daily_bundles": "為您量身設計的個人化套組！每日午夜重設"
+                },
+                "section_title_bundles": "套組"
+              },
+              "": "GO Fest\n2024 T恤\n灰",
+              "support": {
+                "description": "遇到問題了嗎？請往下滑動，查看聯繫哪裡能夠解決您的困擾。",
+                "fraud_or_unauthorized": "非正當或未經授權的購買行為",
+                "general_troubleshoot": "一般問題",
+                "item_delivery": "道具發送",
+                "login_issues": "登入問題",
+                "niantic_disclaimer": "登入、領取道具遇到問題，或發生一般問題時，請點擊下方連結，或前往Niantic支援服務。",
+                "payment_issues": "付款問題",
+                "refunds": "退款",
+                "report_an_issue": "回報問題",
+                "support": "支援服務",
+                "transactions": "交易問題",
+                "visit_payment_website": "前往付款支援網站",
+                "visit_support_website": "前往支援網站",
+                "xsolla_disclaimer": "Xsolla是Niantic數位商品的全球授權經銷商。在Xsolla進行網路商店購物時，若遇到問題，請造訪Xsolla一般問題支援網站，或點擊下方連結。",
+                "global_transactions": "全球交易",
+                "transactions_disclaimer": "Pokémon GO Web Store透過Xsollam與Fastspring銷售Niantic數位商品。任何與Web Store相關的問題，請造訪下方的快速連結。",
+                "xsolla_support_link": "Xsollam支援服務",
+                "fastspring_support_link": "Fastspring支援服務",
+                "japan_only": "僅限日本",
+                "sbps_support_link": "SB Payment Services",
+                "sbps_disclosure_payment_services": "根據《付款服務法》披露",
+                "sbps_disclosure_transactions": "根據《特定商業交易法》披露",
+                "need_help": "消費時遇到困難了嗎？",
+                "more_questions": "還碰上了其他問題嗎？",
+                "need_help_description": "如果您需要任何消費相關的資訊，請造訪我們的交易支援服務頁面以獲得進一步協助。",
+                "more_questions_description": "前往Web Store協助中心查看更多資訊。",
+                "web_store_help_center": "Web Store協助中心",
+                "visit_transaction_support": "造訪交易支援服務頁面",
+                "how_to_webstore": "如何使用Web Store"
+              },
+              "banner": {
+                "message": "首次於Web Store購買任何9.99美元（含）以上的道具，即可享85折優惠！",
+                "message_jp": "首次於Web Store購買任何¥1,400（含）以上的道具，即可享85折優惠！"
+              },
+              "s": "s",
+              "featured": {
+                "section_title": "精選"
+              },
+              "rewarded_spend": {
+                "rewarded_spend_information_message_intro": "「獎勵之路」是每月獎勵系統，訓練家於每月在Pokémon GO Web Store或遊戲內商店*消費達到特定條件，就可以獲得「獎勵點數」。累積一定數量的獎勵點數，提高獎勵之路等級，就能解鎖獎勵！",
+                "rewarded_spend_information_message_bullet1": "在Pokémon GO Web Store或遊戲內商店消費來獲得獎勵點數*",
+                "rewarded_spend_information_message_bullet2": "獲得足夠的獎勵點數，訓練家就能解鎖獎勵",
+                "rewarded_spend_information_message_bullet3": "前往Pokémon GO Web Store領取解鎖的獎勵吧**",
+                "rewarded_spend_information_message_asterisks1": "* 請注意，必須使用現實貨幣消費才能獲得獎勵點數。使用寶可幣消費則無法獲得點數。",
+                "rewarded_spend_information_message_asterisks2": "** 登入《Pokémon GO》帳號後，訓練家可以在Pokémon GO Web Store領取獎勵。無重大不良紀錄的帳號才能取得獎勵。",
+                "rewarded_spend_information_message_body1": "每次獎勵之路將會持續1個月，獎勵點數和獎勵之路等級將會在台灣時間每月第1天的07:59重置，所以請在下個月開始前取得你的獎勵！***",
+                "rewarded_spend_information_message_body2": "雖然訓練家可以在《Pokémon GO》遊戲內商店的消費中取得獎勵點數，但在Pokémon GO Web Store消費可以取得額外的獎勵點數。",
+                "rewarded_spend_information_message_asterisks3": "*** 請注意，獎勵點數會於台灣時間每月第1天重置。就算訓練家已經取得所有獎勵，也無法將獎勵點數保存到下個月。使用兒童帳號的訓練家無法參與獎勵之路。獎勵點數並非現金或任何貨幣，且無法轉移到其他帳號。獎勵之路的相關規定與條款可能會有所變動。",
+                "section_title": "{{month}}獎勵之路",
+                "section_title_no_month": "獎勵之路",
+                "resets_in_days": "將在{{days}}天內重置",
+                "resets_in_1_day": "將在1天內重置",
+                "resets_today": "將於今天重置",
+                "current_progress": "目前進度：",
+                "points": "{{points}}點",
+                "level": "等級{{level no.}}",
+                "sign_in": "登入以查看進度",
+                "claim": "現在領取！",
+                "all_levels_complete": "已完成所有等級",
+                "congrats_claimed_rewards": "恭喜！你已獲得本次獎勵之路的所有里程碑獎勵！",
+                "server_error_title": "錯誤",
+                "server_error_description": "讀取數據時發生錯誤。",
+                "get_rewards_purchasing_web_store": "獎勵之路是什麼？",
+                "rewarded_spend_information_message_timer": "本次獎勵之路將於{{date}}日{{time}}重置。",
+                "ready_to_claim": "可領取獎勵",
+                "claim_error_try_again": "領取獎勵時發生錯誤。請再試一次",
+                "reward_points": "{{points}} 獎勵點數",
+                "info_dialog_title": "從Web Store購買商品，即可取得獎勵！",
+                "monthly_cap": "您已達到等級獎勵點數的每月上限。在重設前，趕快領取獎勵吧！",
+                "MAX": "最大值",
+                "if_eligible_disclaimer": "{{points}} 獎勵點數（若符合資格）",
+                "claim_rewards": "Claim Rewards!",
+                "reward_points_text": "{{points}} 獎勵點數",
+                "thanks_for_signing_in": "Thanks for signing in!",
+                "reward_for_signing_in": "Here's your reward for signing in for the first time.",
+                "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
+                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "only_first_time_sign_in": "*只適用於首次登入"
+              },
+              "ITEM_EVENT_TICKET_07": "入場券",
+              "test": "Boo Bundle",
+              "test1": "Creepy Crate",
+              "test2": "Pumpkin Pack",
+              "dummy-key": "test",
+              "email": {
+                "heading": "電子郵件地址（任意）",
+                "invalid_email": "請輸入有效的電子郵件地址。",
+                "placeholder": "請輸入電子郵件地址",
+                "preferred_email": "若欲索取收據，請填入收取用的電子郵件地址。"
+              },
+              "sbps_settings": {
+                "back_to_payment": "返回付款方式",
+                "credit_card_settings": "SB Payment的代收代付服務，可透過保存信用卡資料，快速完成付款。",
+                "manage_stored_card_data": "管理已保存的信用卡資料",
+                "no_paypay_login": "未登入PayPay。",
+                "no_stored_card": "尚未保存信用卡資料。",
+                "payment_method_settings": "設定付款方式",
+                "paypay_settings": "PayPay工作階段會在30天後逾時。您也可以提前結束PayPay的工作階段，進行登出。",
+                "redirection_notice_note": "若要刪除已保存的信用卡資料，將會跳轉至{{redirectURL}}。想取消此動作時，請返回付款方式設定頁面。"
+              },
+              "sbps_review": {
+                "back_to_order_review": "返回訂單確認",
+                "redirection_notice_note": "為了完成付款，將轉至{{redirectURL}}。若您改變心意，可返回選擇支付方法。",
+                "select_payment_method": "請選擇付款方式",
+                "settings": "設定",
+                "signout_paypay": "登出PayPay",
+                "signout_paypay_fail": "登出PayPay失敗。",
+                "signout_paypay_success": "已成功登出PayPay。",
+                "terms_of_service": "若要前往下個步驟，請先確認您已成年並同意<1>Niantic的使用條款</1>與<3>隱私權策略</3>。"
+              }
+            }
+          },
+          "en": {
             "common": {
               "app_download_banner": {
                 "message": "Get up and GO! Download Today"
