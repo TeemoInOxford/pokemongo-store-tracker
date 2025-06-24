@@ -744,6 +744,90 @@
   {
     "DLC":7,
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Fest Ultimate Box\nGO Fest究极礼盒",
+    "endTimeMs":"2025-06-30 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Egg Incubator\n孵化器",
+        "rawId":"item_incubator_basic",
+        "quantity":60
+      },
+      {
+        "itemId":"Super Incubator\n超级孵化器",
+        "rawId":"item_incubator_super",
+        "quantity":60
+      },
+      {
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
+        "rawId":"item_remote_raid_ticket",
+        "quantity":3
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":30
+      },
+      {
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
+        "quantity":3
+      }
+    ],
+    "sellingPrice":"219.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":505000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":505000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.c.png",
+    "localImage":"images\/main_web-gowa-2024-box-3.png"
+  },
+  {
+    "DLC":8,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Fest Hatcher Box\nGO Fest孵蛋礼盒",
+    "endTimeMs":"2025-06-30 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Egg Incubator\n孵化器",
+        "rawId":"item_incubator_basic",
+        "quantity":25
+      },
+      {
+        "itemId":"Super Incubator\n超级孵化器",
+        "rawId":"item_incubator_super",
+        "quantity":30
+      },
+      {
+        "itemId":"Poffin\n宝芬",
+        "rawId":"item_poffin",
+        "quantity":2
+      }
+    ],
+    "sellingPrice":"99.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":200000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":200000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.a.png",
+    "localImage":"images\/main_web-gowa-2024-box-2.png"
+  },
+  {
+    "DLC":9,
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Fest Storage Box\nGO Fest扩充礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
@@ -791,91 +875,7 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle3.sprite.d.png",
-    "localImage":"images\/main_web-ultra-storage-box-0724.png"
-  },
-  {
-    "DLC":8,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Fest Ultimate Box\nGO Fest究极礼盒",
-    "endTimeMs":"2025-06-30 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Egg Incubator\n孵化器",
-        "rawId":"item_incubator_basic",
-        "quantity":60
-      },
-      {
-        "itemId":"Super Incubator\n超级孵化器",
-        "rawId":"item_incubator_super",
-        "quantity":60
-      },
-      {
-        "itemId":"Remote Raid Pass\n远距团体战入场券",
-        "rawId":"item_remote_raid_ticket",
-        "quantity":3
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":30
-      },
-      {
-        "itemId":"Max Particle Pack\n极巨粒子组合",
-        "rawId":"item_mp_replenish",
-        "quantity":3
-      }
-    ],
-    "sellingPrice":"219.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":505000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":505000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.c.png",
-    "localImage":"images\/main_web-gowa-2024-box-3.png"
-  },
-  {
-    "DLC":9,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Fest Hatcher Box\nGO Fest孵蛋礼盒",
-    "endTimeMs":"2025-06-30 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Egg Incubator\n孵化器",
-        "rawId":"item_incubator_basic",
-        "quantity":25
-      },
-      {
-        "itemId":"Super Incubator\n超级孵化器",
-        "rawId":"item_incubator_super",
-        "quantity":30
-      },
-      {
-        "itemId":"Poffin\n宝芬",
-        "rawId":"item_poffin",
-        "quantity":2
-      }
-    ],
-    "sellingPrice":"99.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":200000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":200000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.a.png",
-    "localImage":"images\/main_web-gowa-2024-box-2.png"
+    "localImage":"images\/main_web-ultra-storage-box-gofest-25.png"
   },
   {
     "DLC":10,

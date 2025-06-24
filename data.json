@@ -1570,6 +1570,102 @@
                 "lastUpdateTimeMs": 1750698366631
               },
               {
+                "skuId": "web-ultra-storage-box-gofest-25",
+                "localizationNameKey": "sku.name.web-ultra-storage-box-gofest-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751252400000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1750790962260
+              },
+              {
                 "skuId": "web-gowa-2024-box-2",
                 "localizationNameKey": "sku.name.web-gowa-2024-box-2",
                 "description": " ",
@@ -1728,102 +1824,6 @@
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1750195689282
-              },
-              {
-                "skuId": "web-ultra-storage-box-0724",
-                "localizationNameKey": "sku.name.web-ultra-storage-box-0724",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751252400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195198615
               },
               {
                 "skuId": "web-go-fest-2025-ticket",
@@ -4663,7 +4663,8 @@
                   "web-event-pass-ancients-recovered-plus-10rank": "Go Pass Deluxe: Ancients Recovered + 10 Ranks",
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks",
+                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -4819,7 +4820,8 @@
                 "thanks_for_signing_in": "Thanks for signing in!",
                 "reward_for_signing_in": "Here's your reward for signing in for the first time.",
                 "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
-                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!"
+                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "only_first_time_sign_in": "*Only applies to first-time sign ins"
               },
               "ITEM_EVENT_TICKET_07": "Ticket",
               "test": "Boo Bundle",
@@ -6435,6 +6437,102 @@
                 "lastUpdateTimeMs": 1750698366631
               },
               {
+                "skuId": "web-ultra-storage-box-gofest-25",
+                "localizationNameKey": "sku.name.web-ultra-storage-box-gofest-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1751252400000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1750790962260
+              },
+              {
                 "skuId": "web-gowa-2024-box-2",
                 "localizationNameKey": "sku.name.web-gowa-2024-box-2",
                 "description": " ",
@@ -6593,102 +6691,6 @@
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1750195689282
-              },
-              {
-                "skuId": "web-ultra-storage-box-0724",
-                "localizationNameKey": "sku.name.web-ultra-storage-box-0724",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751252400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750195198615
               },
               {
                 "skuId": "web-go-fest-2025-ticket",
@@ -9528,7 +9530,8 @@
                   "web-event-pass-ancients-recovered-plus-10rank": "GO Pass豪華版：昔日殘影＋10級",
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "GO Pass豪華版：昔日殘影＋10級究極入場券禮盒",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "GO Pass豪華版：昔日殘影",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " +10 級"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " +10 級",
+                  "web-ultra-storage-box-gofest-25": "GO Fest擴充禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9684,7 +9687,8 @@
                 "thanks_for_signing_in": "Thanks for signing in!",
                 "reward_for_signing_in": "Here's your reward for signing in for the first time.",
                 "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
-                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!"
+                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "only_first_time_sign_in": "*只適用於首次登入"
               },
               "ITEM_EVENT_TICKET_07": "入場券",
               "test": "Boo Bundle",
@@ -10377,7 +10381,8 @@
                   "web-event-pass-ancients-recovered-plus-10rank": "Go Pass Deluxe: Ancients Recovered + 10 Ranks",
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks",
+                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -10533,7 +10538,8 @@
                 "thanks_for_signing_in": "Thanks for signing in!",
                 "reward_for_signing_in": "Here's your reward for signing in for the first time.",
                 "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
-                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!"
+                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "only_first_time_sign_in": "*Only applies to first-time sign ins"
               },
               "ITEM_EVENT_TICKET_07": "Ticket",
               "test": "Boo Bundle",
