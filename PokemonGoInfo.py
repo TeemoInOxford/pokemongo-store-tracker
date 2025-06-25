@@ -56,8 +56,8 @@ def crawl():
 
     base_url = f"https://store.pokemongo.com/_next/data/{build_id}"
     urls = {
-        "en": f"{base_url}/en-US.json",
-        "zh": f"{base_url}/zh-TW.json"
+        "en": f"{base_url}/en.json",
+        "zh": f"{base_url}/zh-Hant.json"
     }
 
     data = {}
