@@ -2,26 +2,26 @@
   {
     "DLC":1,
     "category":"BUNDLE\n道具礼盒",
-    "name":"web-tm-elite-master-box\n招式学习器达人礼盒",
+    "name":"TM Elite Master Box\n招式学习器达人礼盒",
     "endTimeMs":"2025-07-01 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK\n厉害特殊招式学习器",
+        "itemId":"Elite Charged TM\n厉害特殊招式学习器",
         "rawId":"item_move_reroll_elite_special_attack",
         "quantity":2
       },
       {
-        "itemId":"ITEM_MOVE_REROLL_ELITE_FAST_ATTACK\n厉害一般招式学习器",
+        "itemId":"Elite Fast TM\n厉害一般招式学习器",
         "rawId":"item_move_reroll_elite_fast_attack",
         "quantity":2
       },
       {
-        "itemId":"ITEM_MOVE_REROLL_FAST_ATTACK\n一般招式学习器",
+        "itemId":"Fast TM\n一般招式学习器",
         "rawId":"item_move_reroll_fast_attack",
         "quantity":6
       },
       {
-        "itemId":"ITEM_MOVE_REROLL_SPECIAL_ATTACK\n特殊招式学习器",
+        "itemId":"Charged TM\n特殊招式学习器",
         "rawId":"item_move_reroll_special_attack",
         "quantity":6
       }
@@ -44,21 +44,21 @@
   {
     "DLC":2,
     "category":"BUNDLE\n道具礼盒",
-    "name":"web-season-19-start-box\n快乐每一天礼盒",
+    "name":"Delightful Days Box\n快乐每一天礼盒",
     "endTimeMs":"2025-06-28 08:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_POSTCARD_STORAGE_UPGRADE\n明信片内页",
+        "itemId":"Postcard Pages\n明信片内页",
         "rawId":"item_postcard_storage_upgrade",
         "quantity":1
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":2
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":3
       }
@@ -81,16 +81,16 @@
   {
     "DLC":3,
     "category":"ITEMS\n道具",
-    "name":"web-1mp-1rrp-bundle\n极巨粒子组合 + 远距团体战入场券",
+    "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":1
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":1
       }
@@ -113,11 +113,11 @@
   {
     "DLC":4,
     "category":"ITEMS\n道具",
-    "name":"web-pokemon-storage-bundle\n宝可梦盒",
+    "name":"Pokémon Storage\n宝可梦盒",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_POKEMON_STORAGE_UPGRADE\n宝可梦盒",
+        "itemId":"Pokémon Storage\n宝可梦盒",
         "rawId":"item_pokemon_storage_upgrade",
         "quantity":1
       }
@@ -140,11 +140,11 @@
   {
     "DLC":5,
     "category":"ITEMS\n道具",
-    "name":"web-max-mushroom-3\n极巨菇菇",
+    "name":"Max Mushroom\n极巨菇菇",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MAX_BOOST\n极巨菇菇",
+        "itemId":"Max Mushroom\n极巨菇菇",
         "rawId":"item_max_boost",
         "quantity":3
       }
@@ -167,11 +167,11 @@
   {
     "DLC":6,
     "category":"ITEMS\n道具",
-    "name":"web-mp-pack\n极巨粒子组合",
+    "name":"Max Particle Pack\n极巨粒子组合",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":6
       }
@@ -194,11 +194,11 @@
   {
     "DLC":7,
     "category":"ITEMS\n道具",
-    "name":"web-premium-battle-pass-3\n特级对战入场券",
+    "name":"Premium Battle Pass\n特级对战入场券",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":3
       }
@@ -221,11 +221,11 @@
   {
     "DLC":8,
     "category":"ITEMS\n道具",
-    "name":"web-max-revive-6\n活力块",
+    "name":"Max Revive\n活力块",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":6
       }
@@ -248,11 +248,11 @@
   {
     "DLC":9,
     "category":"ITEMS\n道具",
-    "name":"web-super-incubator-2pack\n超级孵化器",
+    "name":"Super Incubator\n超级孵化器",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":2
       }
@@ -275,11 +275,11 @@
   {
     "DLC":10,
     "category":"ITEMS\n道具",
-    "name":"web-basic-incubator-3pack\n孵化器",
+    "name":"Egg Incubator\n孵化器",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":3
       }
@@ -302,11 +302,11 @@
   {
     "DLC":11,
     "category":"ITEMS\n道具",
-    "name":"web-item-storage-bundle\n升级包包",
+    "name":"Item Bag\n升级包包",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_ITEM_STORAGE_UPGRADE\n升级包包",
+        "itemId":"Item Bag\n升级包包",
         "rawId":"item_item_storage_upgrade",
         "quantity":1
       }
@@ -329,16 +329,16 @@
   {
     "DLC":12,
     "category":"ITEMS\n道具",
-    "name":"web-3mp-3rrp-bundle\n3 极巨粒子组合 + 3 远距团体战入场券",
+    "name":"3 Max Particle Pack + 3 Remote Raid Pass\n3 极巨粒子组合 + 3 远距团体战入场券",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":3
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":3
       }
@@ -361,11 +361,11 @@
   {
     "DLC":13,
     "category":"ITEMS\n道具",
-    "name":"web-remote-raidpass-bundle\n远距团体战入场券",
+    "name":"Remote Raid Pass\n远距团体战入场券",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":2
       }
@@ -388,11 +388,11 @@
   {
     "DLC":14,
     "category":"ITEMS\n道具",
-    "name":"web-starpiece-bundle\n星星碎片",
+    "name":"Star Piece\n星星碎片",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_STAR_PIECE\n星星碎片",
+        "itemId":"Star Piece\n星星碎片",
         "rawId":"item_star_piece",
         "quantity":8
       }
@@ -415,11 +415,11 @@
   {
     "DLC":15,
     "category":"ITEMS\n道具",
-    "name":"web-luckyegg-bundle-8\n幸运蛋",
+    "name":"Lucky Egg\n幸运蛋",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_LUCKY_EGG\n幸运蛋",
+        "itemId":"Lucky Egg\n幸运蛋",
         "rawId":"item_lucky_egg",
         "quantity":8
       }
@@ -442,51 +442,51 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-event-pass-ancients-recovered-plus-10rank-webonly\nGO Pass豪华版：昔日残影＋10级究极入场券礼盒",
+    "name":"Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box\nGO Pass豪华版：昔日残影＋10级究极入场券礼盒",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\nGO Pass豪华版：昔日残影",
+        "itemId":"Go Pass Deluxe: Ancients Recovered\nGO Pass豪华版：昔日残影",
         "rawId":"badge_gofest_2025_event_pass_deluxe",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_GO_FEST_01\n +10 级",
+        "itemId":" + 10 Ranks\n +10 级",
         "rawId":"item_event_pass_point_go_fest_01",
         "quantity":1000
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":10
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MAX_BOOST\n极巨菇菇",
+        "itemId":"Max Mushroom\n极巨菇菇",
         "rawId":"item_max_boost",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":5
       },
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":5
       }
@@ -509,46 +509,46 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-event-pass-ancients-recovered-plus-10rank\nGO Pass豪华版：昔日残影＋10级",
+    "name":"Go Pass Deluxe: Ancients Recovered + 10 Ranks\nGO Pass豪华版：昔日残影＋10级",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\nGO Pass豪华版：昔日残影",
+        "itemId":"Go Pass Deluxe: Ancients Recovered\nGO Pass豪华版：昔日残影",
         "rawId":"badge_gofest_2025_event_pass_deluxe",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_GO_FEST_01\n +10 级",
+        "itemId":" + 10 Ranks\n +10 级",
         "rawId":"item_event_pass_point_go_fest_01",
         "quantity":1000
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":10
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MAX_BOOST\n极巨菇菇",
+        "itemId":"Max Mushroom\n极巨菇菇",
         "rawId":"item_max_boost",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":1
       }
@@ -571,41 +571,41 @@
   {
     "DLC":3,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-event-pass-ancients-recovered\nGO Pass豪华版：昔日残影",
+    "name":"Go Pass Deluxe: Ancients Recovered\nGO Pass豪华版：昔日残影",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_GOFEST_2025_EVENT_PASS_DELUXE\nGO Pass豪华版：昔日残影",
+        "itemId":"Go Pass Deluxe: Ancients Recovered\nGO Pass豪华版：昔日残影",
         "rawId":"badge_gofest_2025_event_pass_deluxe",
         "quantity":1
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":10
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MAX_BOOST\n极巨菇菇",
+        "itemId":"Max Mushroom\n极巨菇菇",
         "rawId":"item_max_boost",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":1
       }
@@ -628,26 +628,26 @@
   {
     "DLC":4,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-gofest-2025-battle-box\nGO Fest对战者礼盒",
+    "name":"GO Fest Battler Box\nGO Fest对战者礼盒",
     "endTimeMs":"2025-06-30 13:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":10
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":3
       },
       {
-        "itemId":"ITEM_GOLDEN_PINAP_BERRY\n银色凰梨果",
+        "itemId":"Silver Pinap Berry\n银色凰梨果",
         "rawId":"item_golden_pinap_berry",
         "quantity":1
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":1
       }
@@ -670,16 +670,16 @@
   {
     "DLC":5,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-ultra-raid-box-0724\nGO Fest高级团体战礼盒",
+    "name":"GO Fest Ultra Raid Box\nGO Fest高级团体战礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":40
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":3
       }
@@ -702,26 +702,26 @@
   {
     "DLC":6,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-go-fest-2025-ticket\nPokémon GO Fest 2025：全球入场券",
+    "name":"Pokémon GO Fest 2025: Global Ticket\nPokémon GO Fest 2025：全球入场券",
     "endTimeMs":"2025-06-30 09:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_10\n入场券",
+        "itemId":"Ticket\n入场券",
         "rawId":"item_event_ticket_10",
         "quantity":1
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":5
       },
       {
-        "itemId":"ITEM_RARE_CANDY\n神奇糖果",
+        "itemId":"Rare Candy\n神奇糖果",
         "rawId":"item_rare_candy",
         "quantity":5
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":3
       }
@@ -744,31 +744,31 @@
   {
     "DLC":7,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-gowa-2024-box-3\nGO Fest究极礼盒",
+    "name":"GO Fest Ultimate Box\nGO Fest究极礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":60
       },
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":60
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":3
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":30
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":3
       }
@@ -791,21 +791,21 @@
   {
     "DLC":8,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-gowa-2024-box-2\nGO Fest孵蛋礼盒",
+    "name":"GO Fest Hatcher Box\nGO Fest孵蛋礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":25
       },
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":30
       },
       {
-        "itemId":"ITEM_POFFIN\n宝芬",
+        "itemId":"Poffin\n宝芬",
         "rawId":"item_poffin",
         "quantity":2
       }
@@ -828,36 +828,36 @@
   {
     "DLC":9,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-ultra-storage-box-gofest-25\nGO Fest扩充礼盒",
+    "name":"GO Fest Storage Box\nGO Fest扩充礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_ITEM_STORAGE_UPGRADE\n升级包包",
+        "itemId":"Item Bag\n升级包包",
         "rawId":"item_item_storage_upgrade",
         "quantity":1
       },
       {
-        "itemId":"ITEM_POKEMON_STORAGE_UPGRADE\n宝可梦盒",
+        "itemId":"Pokémon Storage\n宝可梦盒",
         "rawId":"item_pokemon_storage_upgrade",
         "quantity":1
       },
       {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n远距团体战入场券",
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
         "rawId":"item_remote_raid_ticket",
         "quantity":1
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":1
       }
@@ -880,26 +880,26 @@
   {
     "DLC":10,
     "category":"TICKETS\n门票礼盒",
-    "name":"web-gofest-2025-gbird-ticket-box\n大空究极入场券礼盒",
+    "name":"Fleeting Legends Ultra Ticket Box\n大空究极入场券礼盒",
     "endTimeMs":"2025-06-30 11:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_02\n入场券",
+        "itemId":"Ticket\n入场券",
         "rawId":"item_event_ticket_02",
         "quantity":1
       },
       {
-        "itemId":"ITEM_MP_REPLENISH\n极巨粒子组合",
+        "itemId":"Max Particle Pack\n极巨粒子组合",
         "rawId":"item_mp_replenish",
         "quantity":1
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":1
       },
       {
-        "itemId":"ITEM_ULTRA_BALL\n高级球",
+        "itemId":"Ultra Ball\n高级球",
         "rawId":"item_ultra_ball",
         "quantity":5
       }
@@ -922,31 +922,31 @@
   {
     "DLC":11,
     "category":"TICKETS\n门票礼盒",
-    "name":"web-event-pass-softlaunch-base-june\nGO Pass豪华版：6月",
+    "name":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
     "endTimeMs":"2025-07-01 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_EVENT_0128\nGO Pass豪华版：6月",
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
         "rawId":"badge_event_0128",
         "quantity":1
       },
       {
-        "itemId":"ITEM_ULTRA_BALL\n高级球",
+        "itemId":"Ultra Ball\n高级球",
         "rawId":"item_ultra_ball",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":5
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":1
       }
@@ -969,36 +969,36 @@
   {
     "DLC":12,
     "category":"TICKETS\n门票礼盒",
-    "name":"web-event-pass-softlaunch-plusrank-june\nGO Pass豪华版：6月＋10级",
+    "name":"GO Pass Deluxe: June + 10 Ranks\nGO Pass豪华版：6月＋10级",
     "endTimeMs":"2025-07-01 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_EVENT_0128\nGO Pass豪华版：6月",
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
         "rawId":"badge_event_0128",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_01\n +10 级",
+        "itemId":" + 10 Ranks\n +10 级",
         "rawId":"item_event_pass_point_live_ops_01",
         "quantity":1000
       },
       {
-        "itemId":"ITEM_ULTRA_BALL\n高级球",
+        "itemId":"Ultra Ball\n高级球",
         "rawId":"item_ultra_ball",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":5
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":5
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":1
       }
@@ -1021,46 +1021,46 @@
   {
     "DLC":13,
     "category":"TICKETS\n门票礼盒",
-    "name":"web-event-pass-softlaunch-plusrank-june-ultra\nGO Pass豪华版：6月＋10级 高级礼盒",
+    "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
     "endTimeMs":"2025-07-01 09:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_EVENT_0128\nGO Pass豪华版：6月",
+        "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
         "rawId":"badge_event_0128",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_01\n +10 级",
+        "itemId":" + 10 Ranks\n +10 级",
         "rawId":"item_event_pass_point_live_ops_01",
         "quantity":1000
       },
       {
-        "itemId":"ITEM_ULTRA_BALL\n高级球",
+        "itemId":"Ultra Ball\n高级球",
         "rawId":"item_ultra_ball",
         "quantity":20
       },
       {
-        "itemId":"ITEM_MAX_REVIVE\n活力块",
+        "itemId":"Max Revive\n活力块",
         "rawId":"item_max_revive",
         "quantity":10
       },
       {
-        "itemId":"ITEM_MAX_POTION\n全满药",
+        "itemId":"Max Potion\n全满药",
         "rawId":"item_max_potion",
         "quantity":10
       },
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n特级对战入场券",
+        "itemId":"Premium Battle Pass\n特级对战入场券",
         "rawId":"item_paid_raid_ticket",
         "quantity":2
       },
       {
-        "itemId":"ITEM_INCUBATOR_BASIC\n孵化器",
+        "itemId":"Egg Incubator\n孵化器",
         "rawId":"item_incubator_basic",
         "quantity":1
       },
       {
-        "itemId":"ITEM_INCUBATOR_SUPER\n超级孵化器",
+        "itemId":"Super Incubator\n超级孵化器",
         "rawId":"item_incubator_super",
         "quantity":1
       }
@@ -1083,34 +1083,7 @@
   {
     "DLC":"",
     "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-xxsmall\n110宝可币",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"POKECOIN\n宝可币",
-        "rawId":"pokecoin",
-        "quantity":110
-      }
-    ],
-    "sellingPrice":"未知定价 CNY 人民币",
-    "price":[
-      {
-        "priceE6":5000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":5000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xxsmall.png",
-    "localImage":"images\/main_coin-bundle-xxsmall.png"
-  },
-  {
-    "DLC":"",
-    "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-xsmall\n600宝可币",
+    "name":"600 PokéCoins\n600宝可币",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -1137,7 +1110,7 @@
   {
     "DLC":"",
     "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-small_v2\n1,300宝可币",
+    "name":"1,300 PokéCoins\n1,300宝可币",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -1164,7 +1137,7 @@
   {
     "DLC":"",
     "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-medium_v2\n2,700宝可币",
+    "name":"2,700 PokéCoins\n2,700宝可币",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -1191,7 +1164,7 @@
   {
     "DLC":"",
     "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-large-v2\n5,600宝可币",
+    "name":"5,600 PokéCoins\n5,600宝可币",
     "endTimeMs":null,
     "bundledItems":[
       {
@@ -1218,7 +1191,7 @@
   {
     "DLC":"",
     "category":"POKECOINS\n宝可币",
-    "name":"coin-bundle-xlarge\n15,500宝可币",
+    "name":"15,500 PokéCoins\n15,500宝可币",
     "endTimeMs":null,
     "bundledItems":[
       {
