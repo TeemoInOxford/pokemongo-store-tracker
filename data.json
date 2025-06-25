@@ -3712,28 +3712,6 @@
           },
           {
             "heroImage": {
-              "fileName": "PGO-MCS_GOWA_Boxes_nmo.jpg",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "label.image_name_here",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-gowa-2024-box-3",
-              "tag": {
-                "key": "sku.tag.limited_time_only",
-                "value": "sku.tag.limited_time_only"
-              }
-            },
-            "startTimeMs": 0,
-            "endTimeMs": 0,
-            "id": "b2c3d4e5-f6a7-8b9c-0d1e-f2a3b4c5d6e7"
-          },
-          {
-            "heroImage": {
               "fileName": "key_art_gowa.png",
               "widthPx": 1344,
               "heightPx": 600,
@@ -9470,28 +9448,6 @@
             "startTimeMs": 0,
             "endTimeMs": 0,
             "id": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6"
-          },
-          {
-            "heroImage": {
-              "fileName": "PGO-MCS_GOWA_Boxes_nmo.jpg",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "label.image_name_here",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-gowa-2024-box-3",
-              "tag": {
-                "key": "sku.tag.limited_time_only",
-                "value": "sku.tag.limited_time_only"
-              }
-            },
-            "startTimeMs": 0,
-            "endTimeMs": 0,
-            "id": "b2c3d4e5-f6a7-8b9c-0d1e-f2a3b4c5d6e7"
           },
           {
             "heroImage": {
