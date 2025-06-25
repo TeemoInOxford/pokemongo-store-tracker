@@ -923,7 +923,7 @@
     "DLC":11,
     "category":"TICKETS\n门票礼盒",
     "name":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
-    "endTimeMs":"2025-07-01 09:00:00",
+    "endTimeMs":"2025-07-01 00:59:00",
     "bundledItems":[
       {
         "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
@@ -970,7 +970,7 @@
     "DLC":12,
     "category":"TICKETS\n门票礼盒",
     "name":"GO Pass Deluxe: June + 10 Ranks\nGO Pass豪华版：6月＋10级",
-    "endTimeMs":"2025-07-01 09:00:00",
+    "endTimeMs":"2025-07-01 00:59:00",
     "bundledItems":[
       {
         "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",
@@ -1022,7 +1022,7 @@
     "DLC":13,
     "category":"TICKETS\n门票礼盒",
     "name":"GO Pass Deluxe: June + 10 Ranks Ultra Box\nGO Pass豪华版：6月＋10级 高级礼盒",
-    "endTimeMs":"2025-07-01 09:00:00",
+    "endTimeMs":"2025-07-01 00:59:00",
     "bundledItems":[
       {
         "itemId":"GO Pass Deluxe: June\nGO Pass豪华版：6月",

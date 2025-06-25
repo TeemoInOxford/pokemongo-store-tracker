@@ -546,7 +546,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -635,7 +635,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698266127,
+                "lastUpdateTimeMs": 1750890222935,
                 "linkedSkuId": ""
               },
               {
@@ -659,7 +659,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -736,7 +736,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698304101,
+                "lastUpdateTimeMs": 1750890199624,
                 "linkedSkuId": ""
               },
               {
@@ -760,7 +760,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -831,7 +831,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698326705,
+                "lastUpdateTimeMs": 1750890176225,
                 "linkedSkuId": ""
               },
               {
@@ -4685,7 +4685,11 @@
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
                   "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks",
-                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box"
+                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box",
+                  "web-event-pass-base-july": "Go Pass Deluxe: July",
+                  "web-event-pass-plusrank-july": "Go Pass Deluxe: July + 10 Rank",
+                  "web-event-pass-plusrank-july-webonly": "Go Pass Deluxe: July + 10 Rank Ultra Ticket Box",
+                  "BADGE_EVENT_0129": "Go Pass Deluxe: July"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -5434,7 +5438,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -5523,7 +5527,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698266127,
+                "lastUpdateTimeMs": 1750890222935,
                 "linkedSkuId": ""
               },
               {
@@ -5547,7 +5551,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -5624,7 +5628,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698304101,
+                "lastUpdateTimeMs": 1750890199624,
                 "linkedSkuId": ""
               },
               {
@@ -5648,7 +5652,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751331600000
+                  "endTimeMs": 1751302740000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -5719,7 +5723,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750698326705,
+                "lastUpdateTimeMs": 1750890176225,
                 "linkedSkuId": ""
               },
               {
@@ -9573,7 +9577,11 @@
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "GO Pass豪華版：昔日殘影＋10級究極入場券禮盒",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "GO Pass豪華版：昔日殘影",
                   "ITEM_EVENT_PASS_POINT_GO_FEST_01": " +10 級",
-                  "web-ultra-storage-box-gofest-25": "GO Fest擴充禮盒"
+                  "web-ultra-storage-box-gofest-25": "GO Fest擴充禮盒",
+                  "web-event-pass-base-july": "GO Pass豪華版：7月",
+                  "web-event-pass-plusrank-july": "GO Pass豪華版：7月 +10 級",
+                  "web-event-pass-plusrank-july-webonly": "GO Pass豪華版：7月 +10 級 究極入場券禮盒",
+                  "BADGE_EVENT_0129": "GO Pass豪華版：7月"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10424,7 +10432,11 @@
                   "web-event-pass-ancients-recovered-plus-10rank-webonly": "Go Pass Deluxe: Ancients Recovered + 10 Ranks Ultra Ticket Box",
                   "BADGE_GOFEST_2025_EVENT_PASS_DELUXE": "Go Pass Deluxe: Ancients Recovered",
                   "ITEM_EVENT_PASS_POINT_GO_FEST_01": " + 10 Ranks",
-                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box"
+                  "web-ultra-storage-box-gofest-25": "GO Fest Storage Box",
+                  "web-event-pass-base-july": "Go Pass Deluxe: July",
+                  "web-event-pass-plusrank-july": "Go Pass Deluxe: July + 10 Rank",
+                  "web-event-pass-plusrank-july-webonly": "Go Pass Deluxe: July + 10 Rank Ultra Ticket Box",
+                  "BADGE_EVENT_0129": "Go Pass Deluxe: July"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
