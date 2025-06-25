@@ -95,8 +95,8 @@ with open("data.json", "r", encoding="utf-8") as f:
 
 lang_data = data.get("zh")
 i18n = lang_data["pageProps"].get("_nextI18Next", {}).get("initialI18nStore", {})
-name_map_en = i18n.get("en-US", {}).get("common", {}).get("sku", {}).get("name", {})
-name_map_zh = i18n.get("zh-TW", {}).get("common", {}).get("sku", {}).get("name", {})
+name_map_en = i18n.get("en", {}).get("common", {}).get("sku", {}).get("name", {})
+name_map_zh = i18n.get("zh-Hant", {}).get("common", {}).get("sku", {}).get("name", {})
 
 categories = lang_data["pageProps"]["catalog"]["webstoreCategoriesList"]
 items_info = []
