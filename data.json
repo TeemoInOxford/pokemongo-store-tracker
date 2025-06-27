@@ -927,7 +927,7 @@
                 "skuId": "web-2025-anniversary-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-anniversary-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-raid-box-1223-anniversary.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -1015,7 +1015,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750890735702,
+                "lastUpdateTimeMs": 1751044380617,
                 "linkedSkuId": ""
               }
             ]
@@ -5916,7 +5916,7 @@
                 "skuId": "web-2025-anniversary-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-anniversary-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-raid-box-1223-anniversary.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -6004,7 +6004,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750890735702,
+                "lastUpdateTimeMs": 1751044380617,
                 "linkedSkuId": ""
               }
             ]
