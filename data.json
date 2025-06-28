@@ -224,7 +224,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box,web-gofest-2025-battle-box,web-ultra-storage-box-0724,web-gowa-2024-box-2,web-gowa-2024-box-3,web-ultra-raid-box-0724,web-event-pass-ancients-recovered,web-event-pass-ancients-recovered-plus-10rank,web-event-pass-ancients-recovered-plus-10rank-webonly"
+                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box,web-gofest-2025-battle-box,web-ultra-storage-box-0724,web-gowa-2024-box-2,web-gowa-2024-box-3,web-ultra-raid-box-0724,web-event-pass-ancients-recovered,web-event-pass-ancients-recovered-plus-10rank,web-event-pass-ancients-recovered-plus-10rank-webonly,web-2025-anniversary-ticket-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -237,7 +237,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115719733,
+                "lastUpdateTimeMs": 1751065975261,
                 "linkedSkuId": ""
               },
               {
@@ -1024,85 +1024,6 @@
             "category": "BUNDLE",
             "metadataList": [],
             "itemsList": [
-              {
-                "skuId": "web-season-19-start-box",
-                "localizationNameKey": "sku.name.web-season-19-start-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-season-14-start-bundle.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751068800000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_POSTCARD_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "BUNDLE",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747871633230,
-                "linkedSkuId": ""
-              },
               {
                 "skuId": "web-tm-elite-master-box",
                 "localizationNameKey": "sku.name.web-tm-elite-master-box",
@@ -5213,7 +5134,7 @@
                   },
                   {
                     "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box,web-gofest-2025-battle-box,web-ultra-storage-box-0724,web-gowa-2024-box-2,web-gowa-2024-box-3,web-ultra-raid-box-0724,web-event-pass-ancients-recovered,web-event-pass-ancients-recovered-plus-10rank,web-event-pass-ancients-recovered-plus-10rank-webonly"
+                    "value": "web-go-fest-bonus-bundle-2025,web-bonus-2025-twitch-steam,web-go-fest-bonus-bundle-2025-2,web-bonus-star-piece-2025,web-bonus-incense-2025,web-bonus-rare-candy-2025,web-bonus-lure-module-2025,web-bonus-star-piece-2025-2,web-gofest-2025-amer-overlay-ticket-box,web-s19-all-monthly-ticket-box,web-s19-june-monthly-ticket-box,web-season-19-start-box,web-tm-elite-master-box,web-event-pass-softlaunch-plusrank-june-ultra,web-event-pass-softlaunch-plusrank-june,web-event-pass-softlaunch-base-june,web-go-fest-2025-ticket,web-3mp-3rrp-bundle,web-luckyegg-bundle-8,web-starpiece-bundle,web-mp-pack.6,web-max-mushroom-3,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-go-fest-2025-ticket-b,web-naic-2025-box,web-gofest-2025-battle-box,web-ultra-storage-box-0724,web-gowa-2024-box-2,web-gowa-2024-box-3,web-ultra-raid-box-0724,web-event-pass-ancients-recovered,web-event-pass-ancients-recovered-plus-10rank,web-event-pass-ancients-recovered-plus-10rank-webonly,web-2025-anniversary-ticket-box"
                   }
                 ],
                 "category": "DEFAULT",
@@ -5226,7 +5147,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750115719733,
+                "lastUpdateTimeMs": 1751065975261,
                 "linkedSkuId": ""
               },
               {
@@ -6013,85 +5934,6 @@
             "category": "BUNDLE",
             "metadataList": [],
             "itemsList": [
-              {
-                "skuId": "web-season-19-start-box",
-                "localizationNameKey": "sku.name.web-season-19-start-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-season-14-start-bundle.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751068800000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_POSTCARD_STORAGE_UPGRADE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "BUNDLE",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747871633230,
-                "linkedSkuId": ""
-              },
               {
                 "skuId": "web-tm-elite-master-box",
                 "localizationNameKey": "sku.name.web-tm-elite-master-box",
