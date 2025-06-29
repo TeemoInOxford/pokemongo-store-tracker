@@ -1021,97 +1021,6 @@
             ]
           },
           {
-            "category": "BUNDLE",
-            "metadataList": [],
-            "itemsList": [
-              {
-                "skuId": "web-tm-elite-master-box",
-                "localizationNameKey": "sku.name.web-tm-elite-master-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 101000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751338800000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
-                    "quantity": 6,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
-                    "quantity": 6,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "BUNDLE",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 240,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748984064899,
-                "linkedSkuId": ""
-              }
-            ]
-          },
-          {
             "category": "LIMITED_TIME",
             "metadataList": [],
             "itemsList": [
@@ -1862,20 +1771,26 @@
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1750195689282,
                 "linkedSkuId": ""
-              },
+              }
+            ]
+          },
+          {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
               {
-                "skuId": "web-go-fest-2025-ticket",
-                "localizationNameKey": "sku.name.web-go-fest-2025-ticket",
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 101000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 101000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -1884,31 +1799,31 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751245200000
+                  "endTimeMs": 1751338800000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_10",
-                    "quantity": 1,
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_RARE_CANDY",
-                    "quantity": 5,
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 3,
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": []
                   }
@@ -1916,7 +1831,7 @@
                 "metadataList": [
                   {
                     "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{\"\":\"\"}}"
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
                   },
                   {
                     "key": "FRONTEND_ENABLE_TIMER",
@@ -1924,7 +1839,7 @@
                   },
                   {
                     "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
+                    "value": "3"
                   },
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -1933,23 +1848,19 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/go-fest-2025-events-announcement#global\",\"associatedItemId\":\"ITEM_EVENT_TICKET_10\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "BUNDLE",
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
-                "rewardedSpendPoints": 180,
+                "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260712573,
+                "lastUpdateTimeMs": 1748984064899,
                 "linkedSkuId": ""
               }
             ]
@@ -5931,97 +5842,6 @@
             ]
           },
           {
-            "category": "BUNDLE",
-            "metadataList": [],
-            "itemsList": [
-              {
-                "skuId": "web-tm-elite-master-box",
-                "localizationNameKey": "sku.name.web-tm-elite-master-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 101000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1751338800000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
-                    "quantity": 6,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
-                    "quantity": 6,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "3"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "BUNDLE",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 240,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1748984064899,
-                "linkedSkuId": ""
-              }
-            ]
-          },
-          {
             "category": "LIMITED_TIME",
             "metadataList": [],
             "itemsList": [
@@ -6772,20 +6592,26 @@
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1750195689282,
                 "linkedSkuId": ""
-              },
+              }
+            ]
+          },
+          {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
               {
-                "skuId": "web-go-fest-2025-ticket",
-                "localizationNameKey": "sku.name.web-go-fest-2025-ticket",
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-celebi-ticket-box-0724.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 101000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 101000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -6794,31 +6620,31 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1751245200000
+                  "endTimeMs": 1751338800000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_10",
-                    "quantity": 1,
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_RARE_CANDY",
-                    "quantity": 5,
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": []
                   },
                   {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 3,
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": []
                   }
@@ -6826,7 +6652,7 @@
                 "metadataList": [
                   {
                     "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{\"\":\"\"}}"
+                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
                   },
                   {
                     "key": "FRONTEND_ENABLE_TIMER",
@@ -6834,7 +6660,7 @@
                   },
                   {
                     "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
+                    "value": "3"
                   },
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -6843,23 +6669,19 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/go-fest-2025-events-announcement#global\",\"associatedItemId\":\"ITEM_EVENT_TICKET_10\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "BUNDLE",
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
-                "rewardedSpendPoints": 180,
+                "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747260712573,
+                "lastUpdateTimeMs": 1748984064899,
                 "linkedSkuId": ""
               }
             ]
