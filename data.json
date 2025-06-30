@@ -3922,7 +3922,9 @@
                   "web-event-pass-plusrank-july-webonly": "Go Pass Deluxe: July + 10 Rank Ultra Ticket Box",
                   "BADGE_EVENT_0129": "Go Pass Deluxe: July",
                   "web-s19-july-august-ticket-box": "Eggs-pedition Access: July",
-                  "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box"
+                  "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box",
+                  "web-2025-road-trip-storage-box": "Pokémon GO Road Trip Ultra Ticket Box",
+                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8047,7 +8049,9 @@
                   "web-event-pass-plusrank-july-webonly": "GO Pass豪華版：7月 +10 級 究極入場券禮盒",
                   "BADGE_EVENT_0129": "GO Pass豪華版：7月",
                   "web-s19-july-august-ticket-box": "孵蛋證究極入場券禮盒",
-                  "web-jirachi-master-work-ticket-box": "長期調查：心願成真 究極入場券禮盒"
+                  "web-jirachi-master-work-ticket-box": "長期調查：心願成真 究極入場券禮盒",
+                  "web-2025-road-trip-storage-box": "Pokémon GO 公路旅行 究極入場券禮盒",
+                  "web-july-2025-cdc-ticket-box": "伊布經典社群日究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8904,7 +8908,9 @@
                   "web-event-pass-plusrank-july-webonly": "Go Pass Deluxe: July + 10 Rank Ultra Ticket Box",
                   "BADGE_EVENT_0129": "Go Pass Deluxe: July",
                   "web-s19-july-august-ticket-box": "Eggs-pedition Access: July",
-                  "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box"
+                  "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box",
+                  "web-2025-road-trip-storage-box": "Pokémon GO Road Trip Ultra Ticket Box",
+                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
