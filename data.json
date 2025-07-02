@@ -2165,7 +2165,7 @@
           "enableEventTicketLink": true,
           "enableWebfusionNavbar": true,
           "enablePwaShortcut": true,
-          "enableOrderReviewRevamp": false,
+          "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
@@ -3895,7 +3895,8 @@
                   "web-s19-july-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
                   "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box",
                   "web-2025-road-trip-storage-box": "Pokémon GO Road Trip Ultra Ticket Box",
-                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box"
+                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box",
+                  "web-lilligant-raidday-ticket-box": "Hisuian Lilligant Raid Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -6263,7 +6264,7 @@
           "enableEventTicketLink": true,
           "enableWebfusionNavbar": true,
           "enablePwaShortcut": true,
-          "enableOrderReviewRevamp": false,
+          "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
@@ -7993,7 +7994,8 @@
                   "web-s19-july-august-ticket-box": "孵蛋證究極入場券禮盒",
                   "web-jirachi-master-work-ticket-box": "長期調查：心願成真 究極入場券禮盒",
                   "web-2025-road-trip-storage-box": "Pokémon GO 公路旅行 究極入場券禮盒",
-                  "web-july-2025-cdc-ticket-box": "伊布經典社群日究極入場券禮盒"
+                  "web-july-2025-cdc-ticket-box": "伊布經典社群日究極入場券禮盒",
+                  "web-lilligant-raidday-ticket-box": "裙兒小姐團體戰日究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8852,7 +8854,8 @@
                   "web-s19-july-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
                   "web-jirachi-master-work-ticket-box": "Masterwork Research: Wish Granted Ultra Ticket Box",
                   "web-2025-road-trip-storage-box": "Pokémon GO Road Trip Ultra Ticket Box",
-                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box"
+                  "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box",
+                  "web-lilligant-raidday-ticket-box": "Hisuian Lilligant Raid Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
