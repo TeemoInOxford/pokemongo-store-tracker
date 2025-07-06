@@ -2,37 +2,59 @@
   {
     "DLC":1,
     "category":"ITEMS\n道具",
-    "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
+    "name":"Star Piece\n星星碎片",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"Max Particle Pack\n极巨粒子组合",
-        "rawId":"item_mp_replenish",
-        "quantity":1
-      },
-      {
-        "itemId":"Remote Raid Pass\n远距团体战入场券",
-        "rawId":"item_remote_raid_ticket",
-        "quantity":1
+        "itemId":"Star Piece\n星星碎片",
+        "rawId":"item_star_piece",
+        "quantity":8
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"25.55 CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
+        "priceE6":30500000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":30500000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
-    "localImage":"images\/main_web-1mp-1rrp-bundle.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
+    "localImage":"images\/main_web-starpiece-bundle.png"
   },
   {
     "DLC":2,
+    "category":"ITEMS\n道具",
+    "name":"Lucky Egg\n幸运蛋",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Lucky Egg\n幸运蛋",
+        "rawId":"item_lucky_egg",
+        "quantity":8
+      }
+    ],
+    "sellingPrice":"22.22 CNY 人民币",
+    "price":[
+      {
+        "priceE6":25000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":25000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
+    "localImage":"images\/main_web-luckyegg-bundle-8.png"
+  },
+  {
+    "DLC":3,
     "category":"ITEMS\n道具",
     "name":"3 Max Particle Pack + 3 Remote Raid Pass\n3 极巨粒子组合 + 3 远距团体战入场券",
     "endTimeMs":null,
@@ -64,7 +86,39 @@
     "localImage":"images\/main_web-3mp-3rrp-bundle.png"
   },
   {
-    "DLC":3,
+    "DLC":4,
+    "category":"ITEMS\n道具",
+    "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
+        "quantity":1
+      },
+      {
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
+        "rawId":"item_remote_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"12.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
+    "localImage":"images\/main_web-1mp-1rrp-bundle.png"
+  },
+  {
+    "DLC":5,
     "category":"ITEMS\n道具",
     "name":"Egg Incubator\n孵化器",
     "endTimeMs":null,
@@ -91,7 +145,7 @@
     "localImage":"images\/main_web-basic-incubator-3pack.png"
   },
   {
-    "DLC":4,
+    "DLC":6,
     "category":"ITEMS\n道具",
     "name":"Item Bag\n升级包包",
     "endTimeMs":null,
@@ -118,7 +172,7 @@
     "localImage":"images\/main_web-item-storage-bundle.png"
   },
   {
-    "DLC":5,
+    "DLC":7,
     "category":"ITEMS\n道具",
     "name":"Pokémon Storage\n宝可梦盒",
     "endTimeMs":null,
@@ -145,7 +199,7 @@
     "localImage":"images\/main_web-pokemon-storage-bundle.png"
   },
   {
-    "DLC":6,
+    "DLC":8,
     "category":"ITEMS\n道具",
     "name":"Remote Raid Pass\n远距团体战入场券",
     "endTimeMs":null,
@@ -170,60 +224,6 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/raid_pass_blue (1).png",
     "localImage":"images\/main_web-remote-raidpass-bundle.png"
-  },
-  {
-    "DLC":7,
-    "category":"ITEMS\n道具",
-    "name":"Star Piece\n星星碎片",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Star Piece\n星星碎片",
-        "rawId":"item_star_piece",
-        "quantity":8
-      }
-    ],
-    "sellingPrice":"25.55 CNY 人民币",
-    "price":[
-      {
-        "priceE6":30500000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":30500000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
-    "localImage":"images\/main_web-starpiece-bundle.png"
-  },
-  {
-    "DLC":8,
-    "category":"ITEMS\n道具",
-    "name":"Lucky Egg\n幸运蛋",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Lucky Egg\n幸运蛋",
-        "rawId":"item_lucky_egg",
-        "quantity":8
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
-    "localImage":"images\/main_web-luckyegg-bundle-8.png"
   },
   {
     "DLC":9,
@@ -282,33 +282,6 @@
   {
     "DLC":11,
     "category":"ITEMS\n道具",
-    "name":"Max Particle Pack\n极巨粒子组合",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Max Particle Pack\n极巨粒子组合",
-        "rawId":"item_mp_replenish",
-        "quantity":6
-      }
-    ],
-    "sellingPrice":"29.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":41000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":41000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
-    "localImage":"images\/main_web-mp-pack.png"
-  },
-  {
-    "DLC":12,
-    "category":"ITEMS\n道具",
     "name":"Premium Battle Pass\n特级对战入场券",
     "endTimeMs":null,
     "bundledItems":[
@@ -332,6 +305,33 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
     "localImage":"images\/main_web-premium-battle-pass-3.png"
+  },
+  {
+    "DLC":12,
+    "category":"ITEMS\n道具",
+    "name":"Max Particle Pack\n极巨粒子组合",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
+        "quantity":6
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
+    "localImage":"images\/main_web-mp-pack.png"
   },
   {
     "DLC":13,
@@ -362,58 +362,6 @@
   },
   {
     "DLC":1,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Go Pass Deluxe: July + 10 Rank\nGO Pass豪华版：7月 +10 级",
-    "endTimeMs":"2025-08-01 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
-        "rawId":"badge_event_0129",
-        "quantity":1
-      },
-      {
-        "itemId":" + 10 Ranks\n +10 级\/级别",
-        "rawId":"item_event_pass_point_live_ops_02",
-        "quantity":1000
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"33.33 CNY 人民币",
-    "price":[
-      {
-        "priceE6":50000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":50000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
-    "localImage":"images\/main_web-event-pass-plusrank-july.png"
-  },
-  {
-    "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"Go Pass Deluxe: July + 10 Rank Ultra Ticket Box\nGO Pass豪华版：7月 +10 级 究极入场券礼盒",
     "endTimeMs":"2025-08-01 11:00:00",
@@ -475,6 +423,58 @@
     "localImage":"images\/main_web-event-pass-plusrank-july-webonly.png"
   },
   {
+    "DLC":2,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Go Pass Deluxe: July + 10 Rank\nGO Pass豪华版：7月 +10 级",
+    "endTimeMs":"2025-08-01 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
+        "rawId":"badge_event_0129",
+        "quantity":1
+      },
+      {
+        "itemId":" + 10 Ranks\n +10 级\/级别",
+        "rawId":"item_event_pass_point_live_ops_02",
+        "quantity":1000
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"33.33 CNY 人民币",
+    "price":[
+      {
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
+    "localImage":"images\/main_web-event-pass-plusrank-july.png"
+  },
+  {
     "DLC":3,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
@@ -523,85 +523,6 @@
   },
   {
     "DLC":4,
-    "category":"TICKETS\n门票礼盒",
-    "name":"Masterwork Research: Wish Granted Ultra Ticket Box\n长期调查：心愿成真 究极入场券礼盒",
-    "endTimeMs":"2025-07-07 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_global_event_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Silver Pinap Berry\n银色凰梨果",
-        "rawId":"item_golden_pinap_berry",
-        "quantity":5
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.b.png",
-    "localImage":"images\/main_web-jirachi-master-work-ticket-box.png"
-  },
-  {
-    "DLC":5,
-    "category":"TICKETS\n门票礼盒",
-    "name":"9th Anniversary Ultra Ticket Box\n9周年纪念究极入场券礼盒",
-    "endTimeMs":"2025-07-07 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_04",
-        "quantity":1
-      },
-      {
-        "itemId":"Party Hat\n派对帽",
-        "rawId":"n_avatar_n_hat_partyhat_0",
-        "quantity":1
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":3
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":3
-      },
-      {
-        "itemId":"Star Piece\n星星碎片",
-        "rawId":"item_star_piece",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general1.small.2.png",
-    "localImage":"images\/main_web-2025-anniversary-ticket-box.png"
-  },
-  {
-    "DLC":6,
     "category":"TICKETS\n门票礼盒",
     "name":"Eggs-pedition Access Ultra Ticket Box\n孵蛋证究极入场券礼盒",
     "endTimeMs":"2025-07-11 11:00:00",
