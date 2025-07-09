@@ -3726,7 +3726,9 @@
                   "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box",
                   "web-lilligant-raidday-ticket-box": "Hisuian Lilligant Raid Day Ultra Ticket Box",
                   "ml_bundle_ultra_raid_box_title": "Ultra Raid Box",
-                  "ml_bundle_raiding_box": "Raid Box"
+                  "ml_bundle_raiding_box": "Raid Box",
+                  "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
+                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7655,7 +7657,9 @@
                   "web-july-2025-cdc-ticket-box": "伊布經典社群日究極入場券禮盒",
                   "web-lilligant-raidday-ticket-box": "裙兒小姐團體戰日究極入場券禮盒",
                   "ml_bundle_ultra_raid_box_title": "高級團體戰禮盒",
-                  "ml_bundle_raiding_box": "團體戰禮盒"
+                  "ml_bundle_raiding_box": "團體戰禮盒",
+                  "web-july-2025-avatar-ticket-box": "潑水節究極入場券禮盒",
+                  "web-july-2025-cd-ticket-box": "潤水鴨社群日究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8517,7 +8521,9 @@
                   "web-july-2025-cdc-ticket-box": "Eevee Community Day Classic Ultra Ticket Box",
                   "web-lilligant-raidday-ticket-box": "Hisuian Lilligant Raid Day Ultra Ticket Box",
                   "ml_bundle_ultra_raid_box_title": "Ultra Raid Box",
-                  "ml_bundle_raiding_box": "Raid Box"
+                  "ml_bundle_raiding_box": "Raid Box",
+                  "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
+                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
