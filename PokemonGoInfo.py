@@ -27,7 +27,7 @@ def get_proxies():
 
 # 从页面源码中提取 buildId（来自 /_next/static/.../_buildManifest.js）
 def get_build_id(proxies):
-    url = "https://store.pokemongo.com/en-US"
+    url = "https://store.pokemongo.com/"
     print(f"🔍 正在访问页面获取 buildId: {url}")
     resp = requests.get(url, headers=headers, proxies=proxies, timeout=10)
 
