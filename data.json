@@ -526,92 +526,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-s19-july-august-ticket-box",
-                "localizationNameKey": "sku.name.web-s19-july-august-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1752202800000
-                },
-                "bundledCurrencyList": [
-                  {
-                    "currency": "POKECOIN",
-                    "quantity": 100,
-                    "webstoreBonus": 0,
-                    "contentTagsList": [],
-                    "fiatBaseAmount": 1000,
-                    "fiatBonus": 0
-                  }
-                ],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_06",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_09",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/post/eggs-pedition-access-july-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750980696647,
-                "linkedSkuId": ""
-              },
-              {
                 "skuId": "web-lilligant-raidday-ticket-box",
                 "localizationNameKey": "sku.name.web-lilligant-raidday-ticket-box",
                 "description": " ",
@@ -679,13 +593,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1751413545416,
+                "lastUpdateTimeMs": 1752202824117,
                 "linkedSkuId": ""
               }
             ]
@@ -4457,92 +4371,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-s19-july-august-ticket-box",
-                "localizationNameKey": "sku.name.web-s19-july-august-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1752202800000
-                },
-                "bundledCurrencyList": [
-                  {
-                    "currency": "POKECOIN",
-                    "quantity": 100,
-                    "webstoreBonus": 0,
-                    "contentTagsList": [],
-                    "fiatBaseAmount": 1000,
-                    "fiatBonus": 0
-                  }
-                ],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_06",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_09",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/post/eggs-pedition-access-july-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750980696647,
-                "linkedSkuId": ""
-              },
-              {
                 "skuId": "web-lilligant-raidday-ticket-box",
                 "localizationNameKey": "sku.name.web-lilligant-raidday-ticket-box",
                 "description": " ",
@@ -4610,13 +4438,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1751413545416,
+                "lastUpdateTimeMs": 1752202824117,
                 "linkedSkuId": ""
               }
             ]
@@ -7562,7 +7390,7 @@
                   "ITEM_EVENT_TICKET_10": "入場券",
                   "web-go-fest-2025-ticket": "Pokémon GO Fest 2025：全球入場券",
                   "web-s18-all-monthly-ticket-box": "強化入場券究極入場券禮盒",
-                  "ITEM_EVENT_TICKET_GRAY": "強化入場券：3月",
+                  "ITEM_EVENT_TICKET_GRAY": "入場券",
                   "ITEM_EVENT_TICKET_07": "入場券",
                   "ITEM_EVENT_TICKET_08": "強化入場券：5月",
                   "web-kubfu-ticket-box": "力量潛能究極入場券禮盒",
