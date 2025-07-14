@@ -3624,7 +3624,7 @@
                   "web-s18-all-monthly-ticket-box": "Power Up Ticket Ultra Ticket Box",
                   "ITEM_EVENT_TICKET_GRAY": "Ticket",
                   "ITEM_EVENT_TICKET_07": "Ticket",
-                  "ITEM_EVENT_TICKET_08": "Power Up Ticket: May",
+                  "ITEM_EVENT_TICKET_08": "Ticket",
                   "web-kubfu-ticket-box": "Powerful Potential Ultra Ticket Box",
                   "web-season-18-start-box": "Might and Mastery Box",
                   "web-festival-colors-ticket-box": "Festival of Colors Ultra Ticket Box",
@@ -3719,7 +3719,9 @@
                   "ml_bundle_ultra_raid_box_title": "Ultra Raid Box",
                   "ml_bundle_raiding_box": "Raid Box",
                   "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
-                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box"
+                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box",
+                  "web-gmax-lapras-bundle": "Lapras Max Battle Weekend Ultra Box",
+                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7473,13 +7475,13 @@
                   "1x_lure_module": "1x 誘餌模組",
                   "2x_incense": "2x 薰香",
                   "web-bonus-rare-candy-2024": "3x Rare Candies",
-                  "web-bonus-star-piece-2024": "1x Star Piece",
-                  "web-bonus-lure-module-2024": "1x Lure Module",
-                  "web-bonus-incense-2024": "2x Incense",
+                  "web-bonus-star-piece-2024": "1x 星星碎片",
+                  "web-bonus-lure-module-2024": "1x 誘餌模組",
+                  "web-bonus-incense-2024": "2x 薰香",
                   "web-bonus-rare-candy-2025": "3x Rare Candies",
-                  "web-bonus-star-piece-2025": "1x Star Piece",
-                  "web-bonus-lure-module-2025": "1x Lure Module",
-                  "web-bonus-incense-2025": "2x Incense",
+                  "web-bonus-star-piece-2025": "1x 星星碎片",
+                  "web-bonus-lure-module-2025": "1x 誘餌模組",
+                  "web-bonus-incense-2025": "2x 薰香",
                   "web-masterball-ticket-24-box": "長期調查：大師球",
                   "web-gowa-ticket-24-box": "GO曠野地帶究極入場券禮盒",
                   "web-mega-mawile-ticket-24-box": "超級大嘴娃團體戰日究極入場券禮盒",
@@ -7641,13 +7643,15 @@
                   "ml_bundle_ultra_raid_box_title": "高級團體戰禮盒",
                   "ml_bundle_raiding_box": "團體戰禮盒",
                   "web-july-2025-avatar-ticket-box": "潑水節究極入場券禮盒",
-                  "web-july-2025-cd-ticket-box": "潤水鴨社群日究極入場券禮盒"
+                  "web-july-2025-cd-ticket-box": "潤水鴨社群日究極入場券禮盒",
+                  "web-gmax-lapras-bundle": "拉普拉斯極巨對戰週末高級禮盒",
+                  "web-lapras-max-battle-ticket-box": "拉普拉斯極巨對戰日究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
                   "exclusive_item_boxes": "Web Store限定道具禮盒",
                   "item_boxes": "道具禮盒",
-                  "limited_time": "LIMITED TIME",
+                  "limited_time": "限時",
                   "limited_time_title_case": "限時",
                   "limited_time_upper_case": "限時"
                 },
@@ -7801,9 +7805,9 @@
                 "only_first_time_sign_in": "*只適用於首次登入"
               },
               "ITEM_EVENT_TICKET_07": "入場券",
-              "test": "Boo Bundle",
-              "test1": "Creepy Crate",
-              "test2": "Pumpkin Pack",
+              "test": "嚇一跳禮盒",
+              "test1": "寒毛直豎箱",
+              "test2": "南瓜南瓜組",
               "dummy-key": "test",
               "email": {
                 "heading": "電子郵件地址（任意）",
@@ -8410,7 +8414,7 @@
                   "web-s18-all-monthly-ticket-box": "Power Up Ticket Ultra Ticket Box",
                   "ITEM_EVENT_TICKET_GRAY": "Ticket",
                   "ITEM_EVENT_TICKET_07": "Ticket",
-                  "ITEM_EVENT_TICKET_08": "Power Up Ticket: May",
+                  "ITEM_EVENT_TICKET_08": "Ticket",
                   "web-kubfu-ticket-box": "Powerful Potential Ultra Ticket Box",
                   "web-season-18-start-box": "Might and Mastery Box",
                   "web-festival-colors-ticket-box": "Festival of Colors Ultra Ticket Box",
@@ -8505,7 +8509,9 @@
                   "ml_bundle_ultra_raid_box_title": "Ultra Raid Box",
                   "ml_bundle_raiding_box": "Raid Box",
                   "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
-                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box"
+                  "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box",
+                  "web-gmax-lapras-bundle": "Lapras Max Battle Weekend Ultra Box",
+                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
