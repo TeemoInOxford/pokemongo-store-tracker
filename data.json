@@ -2845,7 +2845,8 @@
                 "community": "Community",
                 "web_only": "Web Only",
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
-                "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}"
+                "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
+                "payment_vendor": "Payment Vendor"
               },
               "confirmation": {
                 "failed": {
@@ -3361,7 +3362,10 @@
                   "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
                   "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box",
                   "web-gmax-lapras-bundle": "Lapras Max Battle Weekend Ultra Box",
-                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box"
+                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box",
+                  "web-adventure-week-2025-ticket-box": "Adventure Week Ultra Ticket Box",
+                  "web-s19-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
+                  "web-max-latios-latias-bundle": "Max Battle Boost Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -6411,7 +6415,8 @@
                 "community": "社群",
                 "web_only": "網路限定",
                 "available_only_webstore": "Pokémon GO Web Store限定",
-                "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}"
+                "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}",
+                "payment_vendor": "Payment Vendor"
               },
               "confirmation": {
                 "failed": {
@@ -6927,7 +6932,10 @@
                   "web-july-2025-avatar-ticket-box": "潑水節究極入場券禮盒",
                   "web-july-2025-cd-ticket-box": "潤水鴨社群日究極入場券禮盒",
                   "web-gmax-lapras-bundle": "拉普拉斯極巨對戰週末高級禮盒",
-                  "web-lapras-max-battle-ticket-box": "拉普拉斯極巨對戰日究極入場券禮盒"
+                  "web-lapras-max-battle-ticket-box": "拉普拉斯極巨對戰日究極入場券禮盒",
+                  "web-adventure-week-2025-ticket-box": "驚奇冒險週究極入場券禮盒",
+                  "web-s19-august-ticket-box": "孵蛋證究極入場券禮盒",
+                  "web-max-latios-latias-bundle": "極巨對戰加成禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -7083,10 +7091,10 @@
                 "thanks_for_signing_in": "Thanks for signing in!",
                 "reward_for_signing_in": "Here's your reward for signing in for the first time.",
                 "sign_in_reward_footer": "*This reward only applies to first time sign ins.",
-                "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
+                "sign_in_for_first_time": "初次登入可領取紅利獎勵！",
                 "only_first_time_sign_in": "*只適用於首次登入",
-                "reward_unlocked": "You've unlocked a bonus reward!",
-                "only_once_per_account": "*This bonus reward can only be claimed once per account"
+                "reward_unlocked": "您已解鎖紅利獎勵！",
+                "only_once_per_account": "*每個帳號只能領取一次此紅利獎勵"
               },
               "ITEM_EVENT_TICKET_07": "入場券",
               "test": "嚇一跳禮盒",
@@ -7279,7 +7287,8 @@
                 "community": "Community",
                 "web_only": "Web Only",
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
-                "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}"
+                "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
+                "payment_vendor": "Payment Vendor"
               },
               "confirmation": {
                 "failed": {
@@ -7795,7 +7804,10 @@
                   "web-july-2025-avatar-ticket-box": "Water Festival Ultra Ticket Box",
                   "web-july-2025-cd-ticket-box": "Quaxly Community Day Ultra Ticket Box",
                   "web-gmax-lapras-bundle": "Lapras Max Battle Weekend Ultra Box",
-                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box"
+                  "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box",
+                  "web-adventure-week-2025-ticket-box": "Adventure Week Ultra Ticket Box",
+                  "web-s19-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
+                  "web-max-latios-latias-bundle": "Max Battle Boost Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
