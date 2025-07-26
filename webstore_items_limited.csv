@@ -1,7 +1,7 @@
 ﻿DLC,category,name,endTimeMs,bundledItems,sellingPrice,price,imageUrl,localImage
 1,"BUNDLE
-道具礼盒","Max Battle Boost Box
-极巨对战加成礼盒",2025-07-28 13:00:00,"[{'itemId': 'Max Particle Pack\n极巨粒子组合', 'rawId': 'item_mp_replenish', 'quantity': 7}, {'itemId': 'Max Mushroom\n极巨菇菇', 'rawId': 'item_max_boost', 'quantity': 1}]",33.33 CNY 人民币,"[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png,images/main_web-max-latios-latias-bundle.png
+道具礼盒","Dynamax Eon Max Battle Weekend Ultra Box
+极巨化无限极巨对战周末高级礼盒",2025-07-28 13:00:00,"[{'itemId': 'Max Particle Pack\n极巨粒子组合', 'rawId': 'item_mp_replenish', 'quantity': 7}, {'itemId': 'Max Mushroom\n极巨菇菇', 'rawId': 'item_max_boost', 'quantity': 1}]",33.33 CNY 人民币,"[{'priceE6': 50000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 50000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png,images/main_web-max-latios-latias-bundle.png
 2,"ITEMS
 道具","Lucky Egg
 幸运蛋",,"[{'itemId': 'Lucky Egg\n幸运蛋', 'rawId': 'item_lucky_egg', 'quantity': 8}]",22.22 CNY 人民币,"[{'priceE6': 25000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 25000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/luckyegg.5.png,images/main_web-luckyegg-bundle-8.png
