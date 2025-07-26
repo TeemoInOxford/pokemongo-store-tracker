@@ -35,7 +35,7 @@ def get_build_id(proxies):
     if resp.status_code != 200:
         raise Exception(f"❌ 页面获取失败 status={resp.status_code}")
 
-    match = re.search(r'/_next/static/([a-zA-Z0-9\-_]+)/_buildManifest\.js', resp.text)
+    match = re.search(r'/_next/static/([a-zA-Z0-9\-_]+)/_ssgManifest.js', resp.text)
     if match:
         build_id = match.group(1)
         print(f"✅ 成功提取 buildId: {build_id}")
