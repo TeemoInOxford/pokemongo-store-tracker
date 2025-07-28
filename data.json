@@ -526,6 +526,82 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-s19-august-ticket-box",
+                "localizationNameKey": "sku.name.web-s19-august-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1754888400000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 100,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 500,
+                    "fiatBonus": 0
+                  }
+                ],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1753721043334,
+                "linkedSkuId": ""
+              },
+              {
                 "skuId": "web-adventure-week-2025-ticket-box",
                 "localizationNameKey": "sku.name.web-adventure-week-2025-ticket-box",
                 "description": " ",
@@ -4178,6 +4254,82 @@
             "category": "TICKETS",
             "metadataList": [],
             "itemsList": [
+              {
+                "skuId": "web-s19-august-ticket-box",
+                "localizationNameKey": "sku.name.web-s19-august-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1754888400000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 100,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 500,
+                    "fiatBonus": 0
+                  }
+                ],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1753721043334,
+                "linkedSkuId": ""
+              },
               {
                 "skuId": "web-adventure-week-2025-ticket-box",
                 "localizationNameKey": "sku.name.web-adventure-week-2025-ticket-box",
