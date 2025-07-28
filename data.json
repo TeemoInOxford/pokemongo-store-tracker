@@ -705,7 +705,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -776,7 +776,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891046308,
+                "lastUpdateTimeMs": 1753742585990,
                 "linkedSkuId": ""
               },
               {
@@ -800,7 +800,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -877,7 +877,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891131569,
+                "lastUpdateTimeMs": 1753742612113,
                 "linkedSkuId": ""
               },
               {
@@ -901,7 +901,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -990,7 +990,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891212745,
+                "lastUpdateTimeMs": 1753742642915,
                 "linkedSkuId": ""
               }
             ]
@@ -3524,7 +3524,11 @@
                   "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box",
                   "web-adventure-week-2025-ticket-box": "Adventure Week Ultra Ticket Box",
                   "web-s19-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
-                  "web-max-latios-latias-bundle": "Dynamax Eon Max Battle Weekend Ultra Box"
+                  "web-max-latios-latias-bundle": "Dynamax Eon Max Battle Weekend Ultra Box",
+                  "web-event-pass-base-august": "Go Pass Deluxe: August",
+                  "web-event-pass-plusrank-august": "Go Pass Deluxe: August + 10 Rank",
+                  "web-event-pass-plusrank-august-ultra": "Go Pass Deluxe: August + 10 Rank Ultra Ticket Box",
+                  "BADGE_EVENT_0130": "Go Pass Deluxe: August"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -4434,7 +4438,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -4505,7 +4509,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891046308,
+                "lastUpdateTimeMs": 1753742585990,
                 "linkedSkuId": ""
               },
               {
@@ -4529,7 +4533,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -4606,7 +4610,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891131569,
+                "lastUpdateTimeMs": 1753742612113,
                 "linkedSkuId": ""
               },
               {
@@ -4630,7 +4634,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 0,
-                  "endTimeMs": 1754017200000
+                  "endTimeMs": 1753808340000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -4719,7 +4723,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1750891212745,
+                "lastUpdateTimeMs": 1753742642915,
                 "linkedSkuId": ""
               }
             ]
@@ -7253,7 +7257,11 @@
                   "web-lapras-max-battle-ticket-box": "拉普拉斯極巨對戰日究極入場券禮盒",
                   "web-adventure-week-2025-ticket-box": "驚奇冒險週究極入場券禮盒",
                   "web-s19-august-ticket-box": "孵蛋證究極入場券禮盒",
-                  "web-max-latios-latias-bundle": "極巨化無限極巨對戰週末高級禮盒"
+                  "web-max-latios-latias-bundle": "極巨化無限極巨對戰週末高級禮盒",
+                  "web-event-pass-base-august": "GO Pass豪華版：8月",
+                  "web-event-pass-plusrank-august": "GO Pass豪華版：8月 +10 級",
+                  "web-event-pass-plusrank-august-ultra": "GO Pass豪華版：8月 +10 級 究極入場券禮盒",
+                  "BADGE_EVENT_0130": "GO Pass豪華版：8月"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8125,7 +8133,11 @@
                   "web-lapras-max-battle-ticket-box": "G-MAX Lapras Max Battle Day Ultra Ticket Box",
                   "web-adventure-week-2025-ticket-box": "Adventure Week Ultra Ticket Box",
                   "web-s19-august-ticket-box": "Eggs-pedition Access Ultra Ticket Box",
-                  "web-max-latios-latias-bundle": "Dynamax Eon Max Battle Weekend Ultra Box"
+                  "web-max-latios-latias-bundle": "Dynamax Eon Max Battle Weekend Ultra Box",
+                  "web-event-pass-base-august": "Go Pass Deluxe: August",
+                  "web-event-pass-plusrank-august": "Go Pass Deluxe: August + 10 Rank",
+                  "web-event-pass-plusrank-august-ultra": "Go Pass Deluxe: August + 10 Rank Ultra Ticket Box",
+                  "BADGE_EVENT_0130": "Go Pass Deluxe: August"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
