@@ -363,58 +363,6 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Go Pass Deluxe: August + 10 Rank\nGO Pass豪华版：8月 +10 级",
-    "endTimeMs":"2025-09-01 11:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Go Pass Deluxe: August\nGO Pass豪华版：8月",
-        "rawId":"badge_event_0130",
-        "quantity":1
-      },
-      {
-        "itemId":" + 10 Ranks\n +10 级\/级别",
-        "rawId":"item_event_pass_point_live_ops_03",
-        "quantity":1000
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"33.33 CNY 人民币",
-    "price":[
-      {
-        "priceE6":50000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":50000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
-    "localImage":"images\/main_web-event-pass-plusrank-august.png"
-  },
-  {
-    "DLC":2,
-    "category":"LIMITED_TIME\n限时礼盒",
     "name":"Go Pass Deluxe: August\nGO Pass豪华版：8月",
     "endTimeMs":"2025-09-01 11:00:00",
     "bundledItems":[
@@ -460,7 +408,7 @@
     "localImage":"images\/main_web-event-pass-base-august.png"
   },
   {
-    "DLC":3,
+    "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"Go Pass Deluxe: August + 10 Rank Ultra Ticket Box\nGO Pass豪华版：8月 +10 级 究极入场券礼盒",
     "endTimeMs":"2025-09-01 11:00:00",
@@ -522,7 +470,138 @@
     "localImage":"images\/main_web-event-pass-plusrank-august-ultra.png"
   },
   {
+    "DLC":3,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Go Pass Deluxe: August + 10 Rank\nGO Pass豪华版：8月 +10 级",
+    "endTimeMs":"2025-09-01 11:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Go Pass Deluxe: August\nGO Pass豪华版：8月",
+        "rawId":"badge_event_0130",
+        "quantity":1
+      },
+      {
+        "itemId":" + 10 Ranks\n +10 级\/级别",
+        "rawId":"item_event_pass_point_live_ops_03",
+        "quantity":1000
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"33.33 CNY 人民币",
+    "price":[
+      {
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
+    "localImage":"images\/main_web-event-pass-plusrank-august.png"
+  },
+  {
     "DLC":4,
+    "category":"TICKETS\n门票礼盒",
+    "name":"Adventure Week Ultra Ticket Box\n惊奇冒险周究极入场券礼盒",
+    "endTimeMs":"2025-08-04 13:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_evergreen_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":3
+      }
+    ],
+    "sellingPrice":"9.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general4.medium.1.png",
+    "localImage":"images\/main_web-adventure-week-2025-ticket-box.png"
+  },
+  {
+    "DLC":5,
+    "category":"TICKETS\n门票礼盒",
+    "name":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
+    "endTimeMs":"2025-08-05 00:59:00",
+    "bundledItems":[
+      {
+        "itemId":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
+        "rawId":"badge_event_0129",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
+    "localImage":"images\/main_web-event-pass-base-july.png"
+  },
+  {
+    "DLC":6,
     "category":"TICKETS\n门票礼盒",
     "name":"Go Pass Deluxe: July + 10 Rank\nGO Pass豪华版：7月 +10 级",
     "endTimeMs":"2025-08-05 00:59:00",
@@ -574,39 +653,7 @@
     "localImage":"images\/main_web-event-pass-plusrank-july.png"
   },
   {
-    "DLC":5,
-    "category":"TICKETS\n门票礼盒",
-    "name":"Adventure Week Ultra Ticket Box\n惊奇冒险周究极入场券礼盒",
-    "endTimeMs":"2025-08-04 13:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_evergreen_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":3
-      }
-    ],
-    "sellingPrice":"9.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general4.medium.1.png",
-    "localImage":"images\/main_web-adventure-week-2025-ticket-box.png"
-  },
-  {
-    "DLC":6,
+    "DLC":7,
     "category":"TICKETS\n门票礼盒",
     "name":"Eggs-pedition Access Ultra Ticket Box\n孵蛋证究极入场券礼盒",
     "endTimeMs":"2025-08-11 13:00:00",
@@ -636,53 +683,6 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general.adventure.1.png",
     "localImage":"images\/main_web-s19-august-ticket-box.png"
-  },
-  {
-    "DLC":7,
-    "category":"TICKETS\n门票礼盒",
-    "name":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
-    "endTimeMs":"2025-08-05 00:59:00",
-    "bundledItems":[
-      {
-        "itemId":"Go Pass Deluxe: July\nGO Pass豪华版：7月",
-        "rawId":"badge_event_0129",
-        "quantity":1
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"29.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":41000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":41000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
-    "localImage":"images\/main_web-event-pass-base-july.png"
   },
   {
     "DLC":8,
