@@ -185,7 +185,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1740700159682,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -238,7 +240,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1753305335554,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -297,7 +301,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1751062118393,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -341,7 +347,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1740198424286,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -385,7 +393,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1745617265591,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -429,7 +439,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1738276376447,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -473,7 +485,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1743011156550,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -517,7 +531,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1746578094014,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -636,7 +652,9 @@
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743484743,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-base-august",
@@ -731,7 +749,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743361580,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-august",
@@ -832,7 +852,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743468893,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -915,7 +937,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753828248191,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-s19-august-ticket-box",
@@ -995,7 +1019,9 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753809584989,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-adventure-week-2025-ticket-box",
@@ -1072,7 +1098,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753403596489,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-base-july",
@@ -1167,7 +1195,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824642818,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-july",
@@ -1268,7 +1298,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824676926,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-july-webonly",
@@ -1381,7 +1413,9 @@
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824702524,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -1446,7 +1480,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747432470014,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -1505,7 +1541,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747432447899,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -1554,7 +1592,9 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747350697768,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -1603,7 +1643,9 @@
                 "rewardedSpendPoints": 72,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747350775734,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -1656,7 +1698,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383552137,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -1709,7 +1753,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383596314,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -1762,7 +1808,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383479469,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -1811,7 +1859,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748385491753,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -1860,7 +1910,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748385504683,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-max-revive-6",
@@ -1909,7 +1961,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383497940,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -1958,7 +2012,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383565241,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -2007,7 +2063,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747260879683,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -2056,7 +2114,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747260892552,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -2096,10 +2156,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2112,8 +2168,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 10,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256331002,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906865857,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -2147,10 +2205,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2160,8 +2214,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256337859,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906891399,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -2195,10 +2251,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2208,8 +2260,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256372995,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753907004358,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -2243,10 +2297,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2256,8 +2306,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256378484,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906952150,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -2291,10 +2343,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2304,8 +2352,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256383772,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906968448,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -2339,10 +2389,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -2352,8 +2398,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256401547,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906982894,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           }
@@ -2377,7 +2425,8 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
-          "enableFirstLoginBonus": false
+          "enableFirstLoginBonus": false,
+          "enableSubscription": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -4310,7 +4359,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1740700159682,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -4363,7 +4414,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1753305335554,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -4422,7 +4475,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1751062118393,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -4466,7 +4521,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1740198424286,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -4510,7 +4567,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1745617265591,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -4554,7 +4613,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1738276376447,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -4598,7 +4659,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1743011156550,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -4642,7 +4705,9 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1746578094014,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -4761,7 +4826,9 @@
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743484743,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-base-august",
@@ -4856,7 +4923,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743361580,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-august",
@@ -4957,7 +5026,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743468893,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -5040,7 +5111,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753828248191,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-s19-august-ticket-box",
@@ -5120,7 +5193,9 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753809584989,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-adventure-week-2025-ticket-box",
@@ -5197,7 +5272,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753403596489,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-base-july",
@@ -5292,7 +5369,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824642818,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-july",
@@ -5393,7 +5472,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824676926,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-event-pass-plusrank-july-webonly",
@@ -5506,7 +5587,9 @@
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753824702524,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -5571,7 +5654,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747432470014,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -5630,7 +5715,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747432447899,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -5679,7 +5766,9 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747350697768,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -5728,7 +5817,9 @@
                 "rewardedSpendPoints": 72,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747350775734,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -5781,7 +5872,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383552137,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -5834,7 +5927,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383596314,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -5887,7 +5982,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383479469,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -5936,7 +6033,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748385491753,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -5985,7 +6084,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748385504683,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-max-revive-6",
@@ -6034,7 +6135,9 @@
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383497940,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -6083,7 +6186,9 @@
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1748383565241,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -6132,7 +6237,9 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747260879683,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -6181,7 +6288,9 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1747260892552,
-                "linkedSkuId": ""
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -6221,10 +6330,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6237,8 +6342,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 10,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256331002,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906865857,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -6272,10 +6379,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6285,8 +6388,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256337859,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906891399,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -6320,10 +6425,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6333,8 +6434,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256372995,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753907004358,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -6368,10 +6471,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6381,8 +6480,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256378484,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906952150,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -6416,10 +6517,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6429,8 +6526,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256383772,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906968448,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -6464,10 +6563,6 @@
                   {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"BONUS_FLAT\",\"filename\":\"badge__bonus.png\"}"
                   }
                 ],
                 "category": "POKECOINS",
@@ -6477,8 +6572,10 @@
                 "catalogType": 1,
                 "rewardedSpendPoints": 1200,
                 "skuTemplateId": "",
-                "lastUpdateTimeMs": 1747256401547,
-                "linkedSkuId": ""
+                "lastUpdateTimeMs": 1753906982894,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           }
@@ -6502,7 +6599,8 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
-          "enableFirstLoginBonus": false
+          "enableFirstLoginBonus": false,
+          "enableSubscription": false
         },
         "layoutConfig": {
           "backgroundImage": {
