@@ -4048,7 +4048,9 @@
                   "web-event-pass-plusrank-august-ultra": "GO Pass Deluxe: August + 10 Rank Ultra Ticket Box",
                   "BADGE_EVENT_0130": "GO Pass Deluxe: August",
                   "web-fossil-research-ticket-box": "Fossil Research Day Ultra Ticket Box",
-                  "web-gmax-butterfree-ticket-box": "G-MAX Butterfree Max Battle Day Ultra Ticket Box"
+                  "web-gmax-butterfree-ticket-box": "G-MAX Butterfree Max Battle Day Ultra Ticket Box",
+                  "web-origin-raid-day-ticket-box": "Origin Raid Day Ultra Ticket Box",
+                  "web-encounter-2025-ticket-box": "Cozy Companions Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8301,7 +8303,9 @@
                   "web-event-pass-plusrank-august-ultra": "GO Pass豪華版：8月 +10 級 究極入場券禮盒",
                   "BADGE_EVENT_0130": "GO Pass豪華版：8月",
                   "web-fossil-research-ticket-box": "化石調查日究極入場券禮盒",
-                  "web-gmax-butterfree-ticket-box": "G-Max 巴大蝶極巨對戰日究極入場券禮盒"
+                  "web-gmax-butterfree-ticket-box": "G-Max 巴大蝶極巨對戰日究極入場券禮盒",
+                  "web-origin-raid-day-ticket-box": "起源團體戰日究極入場券禮盒",
+                  "web-encounter-2025-ticket-box": "和樂絨絨究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9179,7 +9183,9 @@
                   "web-event-pass-plusrank-august-ultra": "GO Pass Deluxe: August + 10 Rank Ultra Ticket Box",
                   "BADGE_EVENT_0130": "GO Pass Deluxe: August",
                   "web-fossil-research-ticket-box": "Fossil Research Day Ultra Ticket Box",
-                  "web-gmax-butterfree-ticket-box": "G-MAX Butterfree Max Battle Day Ultra Ticket Box"
+                  "web-gmax-butterfree-ticket-box": "G-MAX Butterfree Max Battle Day Ultra Ticket Box",
+                  "web-origin-raid-day-ticket-box": "Origin Raid Day Ultra Ticket Box",
+                  "web-encounter-2025-ticket-box": "Cozy Companions Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
