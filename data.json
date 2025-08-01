@@ -2504,7 +2504,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
-          "enableFirstLoginBonus": false,
+          "enableFirstLoginBonus": true,
           "enableSubscription": false
         },
         "layoutConfig": {
@@ -3354,8 +3354,8 @@
               ]
             }
           ],
-          "startTimeMs": 1751328000000,
-          "endTimeMs": 1754006399000
+          "startTimeMs": 1754006400000,
+          "endTimeMs": 1756684799000
         }
       },
       "webstoreAuthenticationProps": {
@@ -6759,7 +6759,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": false,
-          "enableFirstLoginBonus": false,
+          "enableFirstLoginBonus": true,
           "enableSubscription": false
         },
         "layoutConfig": {
@@ -7609,8 +7609,8 @@
               ]
             }
           ],
-          "startTimeMs": 1751328000000,
-          "endTimeMs": 1754006399000
+          "startTimeMs": 1754006400000,
+          "endTimeMs": 1756684799000
         }
       },
       "webstoreAuthenticationProps": {
