@@ -784,10 +784,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_ENABLE_TIMER",
                     "value": "true"
                   },
@@ -806,19 +802,23 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
                 "sortOrder": 0,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1753743484743,
+                "lastUpdateTimeMs": 1754338249394,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4566,10 +4566,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.web_exclusive\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_ENABLE_TIMER",
                     "value": "true"
                   },
@@ -4588,19 +4584,23 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
                 "sortOrder": 0,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1753743484743,
+                "lastUpdateTimeMs": 1754338249394,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
