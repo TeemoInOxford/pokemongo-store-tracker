@@ -668,6 +668,10 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -690,7 +694,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754501057182,
+                "lastUpdateTimeMs": 1754514509224,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4605,6 +4609,10 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -4627,7 +4635,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754501057182,
+                "lastUpdateTimeMs": 1754514509224,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
