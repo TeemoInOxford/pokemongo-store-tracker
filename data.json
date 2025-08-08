@@ -1188,6 +1188,178 @@
             ]
           },
           {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "go-rocket-box-0623",
+                "localizationNameKey": "sku.name.go-rocket-box-0623",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.rocket.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_LEADER_MAP",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_GOLDEN_PINAP_BERRY",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 2,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1754521378167,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.c.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1754521369362,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              }
+            ]
+          },
+          {
             "category": "ITEMS",
             "metadataList": [],
             "itemsList": [
@@ -5126,6 +5298,178 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1753743468893,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              }
+            ]
+          },
+          {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "go-rocket-box-0623",
+                "localizationNameKey": "sku.name.go-rocket-box-0623",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.rocket.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_LEADER_MAP",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_GOLDEN_PINAP_BERRY",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 2,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1754521378167,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-tm-elite-master-box",
+                "localizationNameKey": "sku.name.web-tm-elite-master-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.c.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+                    "quantity": 6,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1754521369362,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
