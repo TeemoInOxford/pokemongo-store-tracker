@@ -964,6 +964,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -976,7 +980,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754603982245,
+                "lastUpdateTimeMs": 1754604099821,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4905,6 +4909,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -4917,7 +4925,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754603982245,
+                "lastUpdateTimeMs": 1754604099821,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
