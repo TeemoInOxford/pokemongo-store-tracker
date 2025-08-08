@@ -1257,6 +1257,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -1269,7 +1273,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754521378167,
+                "lastUpdateTimeMs": 1754674940968,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1340,6 +1344,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -1352,7 +1360,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754521369362,
+                "lastUpdateTimeMs": 1754674975248,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5374,6 +5382,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -5386,7 +5398,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754521378167,
+                "lastUpdateTimeMs": 1754674940968,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5457,6 +5469,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -5469,7 +5485,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754521369362,
+                "lastUpdateTimeMs": 1754674975248,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
