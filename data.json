@@ -1106,13 +1106,13 @@
                 "sortOrder": 2,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754674940968,
+                "lastUpdateTimeMs": 1755017432234,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5071,13 +5071,13 @@
                 "sortOrder": 2,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754674940968,
+                "lastUpdateTimeMs": 1755017432234,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
