@@ -3474,7 +3474,7 @@
                   "web-ultra-beast-ticket-box": "Ultra Space Wonders",
                   "web-celebi-ticket-box-0724": "Whispers in the Woods Masterwork Research Ticket",
                   "web-ultra-raid-box-0724": "GO Fest Ultra Raid Box",
-                  "web-ultra-hatch-box-0724": "Ultra Hatch Box",
+                  "web-ultra-hatch-box-0524": "Ultra Hatch Box",
                   "web-ultra-storage-box-0724": "GO Fest Storage Box",
                   "item_leader_map_fragment": "Mysterious Component",
                   "web-raid-box-1223-anniversary": "Anniversary Box",
@@ -3681,7 +3681,12 @@
                   "web-origin-raid-day-ticket-box": "Origin Raid Day Ultra Ticket Box",
                   "web-encounter-2025-ticket-box": "Cozy Companions Ultra Ticket Box",
                   "web-hatch-day-2025-ticket-box": "Munchlax Hatch Day Ultra Ticket Box",
-                  "web-wcs-2025-ticket-box": "GO Battle Weekend Ultra Ticket Box"
+                  "web-wcs-2025-ticket-box": "GO Battle Weekend Ultra Ticket Box",
+                  "web-event-pass-max-finale": "GO Pass Deluxe: Max Finale",
+                  "web-event-pass-max-finale-plus-10rank": "GO Pass Deluxe: Max Finale +10 Ranks",
+                  "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass Deluxe: Max Finale +10 Ranks Ultra Box",
+                  "BADGE_EVENT_0138": "GO Pass Deluxe: Max Finale",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7360,7 +7365,7 @@
                   "web-ultra-beast-ticket-box": "究極空間驚奇",
                   "web-celebi-ticket-box-0724": "森林細語長期調查入場券",
                   "web-ultra-raid-box-0724": "GO Fest高級團體戰禮盒",
-                  "web-ultra-hatch-box-0724": "高級孵蛋禮盒",
+                  "web-ultra-hatch-box-0524": "高級孵蛋禮盒",
                   "web-ultra-storage-box-0724": "GO Fest擴充禮盒",
                   "item_leader_map_fragment": "神秘零件",
                   "web-raid-box-1223-anniversary": "週年慶禮盒",
@@ -7567,7 +7572,12 @@
                   "web-origin-raid-day-ticket-box": "起源團體戰日究極入場券禮盒",
                   "web-encounter-2025-ticket-box": "和樂絨絨究極入場券禮盒",
                   "web-hatch-day-2025-ticket-box": "小卡比獸孵化日究極入場券禮盒",
-                  "web-wcs-2025-ticket-box": "GO對戰週末究極入場券禮盒"
+                  "web-wcs-2025-ticket-box": "GO對戰週末究極入場券禮盒",
+                  "web-event-pass-max-finale": "GO Pass豪華版：最後一極",
+                  "web-event-pass-max-finale-plus-10rank": "GO Pass豪華版：最後一極 + 10級",
+                  "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass豪華版：最後一極 + 10級 究極入場券禮盒",
+                  "BADGE_EVENT_0138": "GO Pass豪華版：最後一極",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " +10 級"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8242,7 +8252,7 @@
                   "web-ultra-beast-ticket-box": "Ultra Space Wonders",
                   "web-celebi-ticket-box-0724": "Whispers in the Woods Masterwork Research Ticket",
                   "web-ultra-raid-box-0724": "GO Fest Ultra Raid Box",
-                  "web-ultra-hatch-box-0724": "Ultra Hatch Box",
+                  "web-ultra-hatch-box-0524": "Ultra Hatch Box",
                   "web-ultra-storage-box-0724": "GO Fest Storage Box",
                   "item_leader_map_fragment": "Mysterious Component",
                   "web-raid-box-1223-anniversary": "Anniversary Box",
@@ -8449,7 +8459,12 @@
                   "web-origin-raid-day-ticket-box": "Origin Raid Day Ultra Ticket Box",
                   "web-encounter-2025-ticket-box": "Cozy Companions Ultra Ticket Box",
                   "web-hatch-day-2025-ticket-box": "Munchlax Hatch Day Ultra Ticket Box",
-                  "web-wcs-2025-ticket-box": "GO Battle Weekend Ultra Ticket Box"
+                  "web-wcs-2025-ticket-box": "GO Battle Weekend Ultra Ticket Box",
+                  "web-event-pass-max-finale": "GO Pass Deluxe: Max Finale",
+                  "web-event-pass-max-finale-plus-10rank": "GO Pass Deluxe: Max Finale +10 Ranks",
+                  "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass Deluxe: Max Finale +10 Ranks Ultra Box",
+                  "BADGE_EVENT_0138": "GO Pass Deluxe: Max Finale",
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
