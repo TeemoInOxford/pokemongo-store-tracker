@@ -542,91 +542,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-wcs-2025-ticket-box",
-                "localizationNameKey": "sku.name.web-wcs-2025-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1755493200000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_07",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/post/world-championships-event-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754695092318,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              }
-            ]
-          },
-          {
-            "category": "LIMITED_TIME",
-            "metadataList": [],
-            "itemsList": [
-              {
                 "skuId": "web-event-pass-plusrank-august-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-august-ultra",
                 "description": " ",
@@ -730,7 +645,7 @@
                     "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 0,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -740,7 +655,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754604099821,
+                "lastUpdateTimeMs": 1755288916377,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -827,7 +742,7 @@
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -837,7 +752,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755287954383,
+                "lastUpdateTimeMs": 1755288886606,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -930,7 +845,7 @@
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -940,7 +855,86 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1753743468893,
+                "lastUpdateTimeMs": 1755288904094,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-wcs-2025-ticket-box",
+                "localizationNameKey": "sku.name.web-wcs-2025-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_07",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/post/world-championships-event-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1755288837764,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4433,91 +4427,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-wcs-2025-ticket-box",
-                "localizationNameKey": "sku.name.web-wcs-2025-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 0,
-                  "endTimeMs": 1755493200000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_07",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/post/world-championships-event-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754695092318,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              }
-            ]
-          },
-          {
-            "category": "LIMITED_TIME",
-            "metadataList": [],
-            "itemsList": [
-              {
                 "skuId": "web-event-pass-plusrank-august-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-august-ultra",
                 "description": " ",
@@ -4621,7 +4530,7 @@
                     "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 0,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -4631,7 +4540,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1754604099821,
+                "lastUpdateTimeMs": 1755288916377,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4718,7 +4627,7 @@
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -4728,7 +4637,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755287954383,
+                "lastUpdateTimeMs": 1755288886606,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4821,7 +4730,7 @@
                     "value": "{\"eventLink\":\"https://pokemongo.com/post/monthly-rewards-august-2025\",\"associatedItemId\":\"BADGE_EVENT_0130\"}"
                   }
                 ],
-                "category": "LIMITED_TIME",
+                "category": "TICKETS",
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
@@ -4831,7 +4740,86 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1753743468893,
+                "lastUpdateTimeMs": 1755288904094,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-wcs-2025-ticket-box",
+                "localizationNameKey": "sku.name.web-wcs-2025-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1755493200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_07",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/post/world-championships-event-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 4,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1755288837764,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
