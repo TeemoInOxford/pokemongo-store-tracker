@@ -1330,6 +1330,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -1342,7 +1346,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755551466746,
+                "lastUpdateTimeMs": 1755561621035,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5443,6 +5447,10 @@
                   {
                     "key": "FRONTEND_BG_TAG_COLOR",
                     "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "BUNDLE",
@@ -5455,7 +5463,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755551466746,
+                "lastUpdateTimeMs": 1755561621035,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
