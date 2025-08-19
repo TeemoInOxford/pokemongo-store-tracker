@@ -3912,7 +3912,8 @@
                   "web-event-pass-max-finale-plus-10rank": "GO Pass Deluxe: Max Finale +10 Ranks",
                   "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass Deluxe: Max Finale +10 Ranks Ultra Box",
                   "BADGE_EVENT_0138": "GO Pass Deluxe: Max Finale",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks",
+                  "coin-bundle-medium": "2,650 PokéCoins"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -3979,14 +3980,16 @@
                 "section_title": {
                   "tickets": "Ticket Bundles",
                   "items": "Items",
-                  "item_bundles": "Item Bundles"
+                  "item_bundles": "Item Bundles",
+                  "personalized_bundles": "Your Trainer Bundles"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
                   "webstore_bonus_colored": "<0>{{webstoreBonus}}</0> Web Store Bonus Coins"
                 },
                 "section_subtitle": {
-                  "daily_bundles": "Personalized bundles for you! Resets everyday at midnight"
+                  "daily_bundles": "Personalized bundles for you! Resets everyday at midnight",
+                  "personalized_bundles": "Personalized bundles created just for you! Resets daily at midnight."
                 },
                 "section_title_bundles": "Bundles"
               },
@@ -7495,7 +7498,7 @@
                 "web_only": "網路限定",
                 "available_only_webstore": "Pokémon GO Web Store限定",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}",
-                "payment_vendor": "Payment Vendor"
+                "payment_vendor": "付款服務供應商"
               },
               "confirmation": {
                 "failed": {
@@ -8029,7 +8032,8 @@
                   "web-event-pass-max-finale-plus-10rank": "GO Pass豪華版：最後一極 + 10級",
                   "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass豪華版：最後一極 + 10級 究極入場券禮盒",
                   "BADGE_EVENT_0138": "GO Pass豪華版：最後一極",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " +10 級"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " +10 級",
+                  "coin-bundle-medium": "2,650 PokéCoins"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8096,14 +8100,16 @@
                 "section_title": {
                   "tickets": "套票",
                   "items": "道具",
-                  "item_bundles": "道具套組"
+                  "item_bundles": "道具套組",
+                  "personalized_bundles": "Your Trainer Bundles"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store獎勵",
                   "webstore_bonus_colored": "<0>{{webstoreBonus}}</0> Web Store獎勵寶可幣"
                 },
                 "section_subtitle": {
-                  "daily_bundles": "為您量身設計的個人化套組！每日午夜重設"
+                  "daily_bundles": "為您量身設計的個人化套組！每日午夜重設",
+                  "personalized_bundles": "Personalized bundles created just for you! Resets daily at midnight."
                 },
                 "section_title_bundles": "套組"
               },
@@ -8916,7 +8922,8 @@
                   "web-event-pass-max-finale-plus-10rank": "GO Pass Deluxe: Max Finale +10 Ranks",
                   "web-event-pass-max-finale-plus-10rank-webonly": "GO Pass Deluxe: Max Finale +10 Ranks Ultra Box",
                   "BADGE_EVENT_0138": "GO Pass Deluxe: Max Finale",
-                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_GO_FEST_02": " + 10 Ranks",
+                  "coin-bundle-medium": "2,650 PokéCoins"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8983,14 +8990,16 @@
                 "section_title": {
                   "tickets": "Ticket Bundles",
                   "items": "Items",
-                  "item_bundles": "Item Bundles"
+                  "item_bundles": "Item Bundles",
+                  "personalized_bundles": "Your Trainer Bundles"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
                   "webstore_bonus_colored": "<0>{{webstoreBonus}}</0> Web Store Bonus Coins"
                 },
                 "section_subtitle": {
-                  "daily_bundles": "Personalized bundles for you! Resets everyday at midnight"
+                  "daily_bundles": "Personalized bundles for you! Resets everyday at midnight",
+                  "personalized_bundles": "Personalized bundles created just for you! Resets daily at midnight."
                 },
                 "section_title_bundles": "Bundles"
               },
