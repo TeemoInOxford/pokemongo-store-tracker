@@ -2437,7 +2437,7 @@
           "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
           "enableHeroVideo": true,
-          "enableWebfusionFooter": false,
+          "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
           "enableSubscription": false
         },
@@ -6649,7 +6649,7 @@
           "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
           "enableHeroVideo": true,
-          "enableWebfusionFooter": false,
+          "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
           "enableSubscription": false
         },
