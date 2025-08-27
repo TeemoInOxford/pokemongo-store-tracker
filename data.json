@@ -1077,6 +1077,105 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-2025-gowa-ticket-box",
+                "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 61000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 61000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1763359200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_10",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "N_AVATAR_n_hat_flowercrown_0",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_RARE_CANDY",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/gowildarea\",\"associatedItemId\":\"ITEM_EVENT_TICKET_10\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 144,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1755725658031,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-base-august",
                 "localizationNameKey": "sku.name.web-event-pass-base-august",
                 "description": " ",
@@ -3269,6 +3368,28 @@
             "startTimeMs": 0,
             "endTimeMs": 0,
             "id": "2798736e-5160-4600-8057-ee7640aa2ee7"
+          },
+          {
+            "heroImage": {
+              "fileName": "hero_GOWA2025_webstore_1334x600.png",
+              "widthPx": 1344,
+              "heightPx": 600,
+              "altLabelKey": "",
+              "url": ""
+            },
+            "heroLocalizationNameKey": "hero.message_default",
+            "cssClassName": "",
+            "heroType": 2,
+            "highlightSku": {
+              "skuId": "web-2025-gowa-ticket-box",
+              "tag": {
+                "key": "Limited-Time Only",
+                "value": "sku.tag.limited_time_only"
+              }
+            },
+            "startTimeMs": 1756335600000,
+            "endTimeMs": 1763359200000,
+            "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
         "bannerConfig": {
@@ -5452,6 +5573,105 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-2025-gowa-ticket-box",
+                "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 61000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 61000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1763359200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_10",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "N_AVATAR_n_hat_flowercrown_0",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_RARE_CANDY",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/gowildarea\",\"associatedItemId\":\"ITEM_EVENT_TICKET_10\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 144,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1755725658031,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-base-august",
                 "localizationNameKey": "sku.name.web-event-pass-base-august",
                 "description": " ",
@@ -7644,6 +7864,28 @@
             "startTimeMs": 0,
             "endTimeMs": 0,
             "id": "2798736e-5160-4600-8057-ee7640aa2ee7"
+          },
+          {
+            "heroImage": {
+              "fileName": "hero_GOWA2025_webstore_1334x600.png",
+              "widthPx": 1344,
+              "heightPx": 600,
+              "altLabelKey": "",
+              "url": ""
+            },
+            "heroLocalizationNameKey": "hero.message_default",
+            "cssClassName": "",
+            "heroType": 2,
+            "highlightSku": {
+              "skuId": "web-2025-gowa-ticket-box",
+              "tag": {
+                "key": "Limited-Time Only",
+                "value": "sku.tag.limited_time_only"
+              }
+            },
+            "startTimeMs": 1756335600000,
+            "endTimeMs": 1763359200000,
+            "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
         "bannerConfig": {
