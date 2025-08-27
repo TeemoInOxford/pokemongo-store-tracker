@@ -2601,7 +2601,8 @@
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
-          "enableSubscription": false
+          "enableSubscription": false,
+          "enableRootCmsNavbar": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -6975,7 +6976,8 @@
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
-          "enableSubscription": false
+          "enableSubscription": false,
+          "enableRootCmsNavbar": false
         },
         "layoutConfig": {
           "backgroundImage": {
