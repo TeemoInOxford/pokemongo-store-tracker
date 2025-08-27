@@ -77,3 +77,27 @@ GO Pass豪华版：8月 +10 级",2025-09-01 11:00:00,"[{'itemId': 'GO Pass Delux
 ,"POKECOINS
 宝可币","15,500 PokéCoins
 15,500宝可币",,"[{'itemId': 'POKECOIN\n宝可币', 'rawId': 'pokecoin', 'quantity': 15500}]",249.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png,images/main_coin-bundle-xlarge.png
+,"DEFAULT
+DEFAULT","1x Premium Battle Passes, 1x Egg Incubator
+特级对战入场券 x 1, 孵化器 x 1",,"[{'itemId': 'Premium Battle Pass\n特级对战入场券', 'rawId': 'item_paid_raid_ticket', 'quantity': 1}, {'itemId': 'Egg Incubator\n孵化器', 'rawId': 'item_incubator_basic', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png,images/main_web-go-fest-bonus-bundle-2025.png
+,"DEFAULT
+DEFAULT","Premium Battle Pass
+特级对战入场券",,"[{'itemId': 'Premium Battle Pass\n特级对战入场券', 'rawId': 'item_paid_raid_ticket', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png,images/main_web-bonus-2025-twitch-steam.png
+,"DEFAULT
+DEFAULT","1x Premium Battle Passes, 1x Egg Incubator
+特级对战入场券 x 1, 孵化器 x 1",,"[{'itemId': 'Premium Battle Pass\n特级对战入场券', 'rawId': 'item_paid_raid_ticket', 'quantity': 1}, {'itemId': 'Egg Incubator\n孵化器', 'rawId': 'item_incubator_basic', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png,images/main_web-go-fest-bonus-bundle-2025-2.png
+,"DEFAULT
+DEFAULT","1x Star Piece
+1x 星星碎片",,"[{'itemId': 'Star Piece\n星星碎片', 'rawId': 'item_star_piece', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png,images/main_web-bonus-star-piece-2025.png
+,"DEFAULT
+DEFAULT","2x Incense
+2x 薰香",,"[{'itemId': 'Incense\n薰香', 'rawId': 'item_incense_ordinary', 'quantity': 2}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/2x_incense.png,images/main_web-bonus-incense-2025.png
+,"DEFAULT
+DEFAULT","3x Rare Candies
+3x Rare Candies",,"[{'itemId': 'Rare Candy\n神奇糖果', 'rawId': 'item_rare_candy', 'quantity': 3}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3x_rare_candy.png,images/main_web-bonus-rare-candy-2025.png
+,"DEFAULT
+DEFAULT","1x Lure Module
+1x 诱饵模组",,"[{'itemId': 'Lure Module\n诱饵模组', 'rawId': 'item_troy_disk', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png,images/main_web-bonus-lure-module-2025.png
+,"DEFAULT
+DEFAULT","1x Star Piece
+1x 星星碎片",,"[{'itemId': 'Star Piece\n星星碎片', 'rawId': 'item_star_piece', 'quantity': 1}]",219.99 CNY 人民币,"[{'priceE6': 505000000000, 'currency': 'IDR', 'type': 2, 'priceMetaData': {'originalPriceE6': 505000000000, 'discountPercentage': 0}}]",https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png,images/main_web-bonus-star-piece-2025-2.png
