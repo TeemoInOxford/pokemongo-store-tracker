@@ -141,11 +141,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
+                    "priceE6": 14990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 14990000,
                       "discountPercentage": 0
                     }
                   }
@@ -256,11 +256,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -353,11 +353,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -462,11 +462,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -518,11 +518,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -573,11 +573,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -634,11 +634,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -680,11 +680,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -726,11 +726,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -772,11 +772,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -818,11 +818,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -870,11 +870,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -965,11 +965,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
+                    "priceE6": 14990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 14990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1084,11 +1084,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 61000000000,
-                    "currency": "IDR",
+                    "priceE6": 11990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 61000000000,
+                      "originalPriceE6": 11990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1183,11 +1183,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1280,11 +1280,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1383,11 +1383,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1462,11 +1462,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1541,11 +1541,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1620,11 +1620,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1705,11 +1705,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1766,11 +1766,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1827,11 +1827,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1878,11 +1878,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 30500000000,
-                    "currency": "IDR",
+                    "priceE6": 5990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 30500000000,
+                      "originalPriceE6": 5990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1929,11 +1929,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -1984,11 +1984,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2039,11 +2039,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2094,11 +2094,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2145,11 +2145,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2196,11 +2196,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2247,11 +2247,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2298,11 +2298,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2349,11 +2349,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2406,11 +2406,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
-                    "currency": "IDR",
+                    "priceE6": 990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 5000000000,
+                      "originalPriceE6": 990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2455,11 +2455,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2470,8 +2470,8 @@
                     "quantity": 600,
                     "webstoreBonus": 50,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 500,
-                    "fiatBonus": 50
+                    "fiatBaseAmount": 504,
+                    "fiatBonus": 46
                   }
                 ],
                 "bundledItemList": [],
@@ -2501,11 +2501,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2516,8 +2516,8 @@
                     "quantity": 1300,
                     "webstoreBonus": 100,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 1000,
-                    "fiatBonus": 200
+                    "fiatBaseAmount": 1009,
+                    "fiatBonus": 191
                   }
                 ],
                 "bundledItemList": [],
@@ -2547,11 +2547,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
+                    "priceE6": 19990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 101000000000,
+                      "originalPriceE6": 19990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2562,8 +2562,8 @@
                     "quantity": 2700,
                     "webstoreBonus": 200,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 2020,
-                    "fiatBonus": 480
+                    "fiatBaseAmount": 2019,
+                    "fiatBonus": 481
                   }
                 ],
                 "bundledItemList": [],
@@ -2593,11 +2593,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 200000000000,
-                    "currency": "IDR",
+                    "priceE6": 39990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 200000000000,
+                      "originalPriceE6": 39990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2608,8 +2608,8 @@
                     "quantity": 5600,
                     "webstoreBonus": 400,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 4000,
-                    "fiatBonus": 1200
+                    "fiatBaseAmount": 4039,
+                    "fiatBonus": 1161
                   }
                 ],
                 "bundledItemList": [],
@@ -2639,11 +2639,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -2681,7 +2681,7 @@
           }
         ]
       },
-      "userCountryByIp": "ID",
+      "userCountryByIp": "US",
       "isNianticKidsUser": false,
       "commonClientConfig": {
         "gameVariant": 0,
@@ -4637,11 +4637,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
+                    "priceE6": 14990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 14990000,
                       "discountPercentage": 0
                     }
                   }
@@ -4752,11 +4752,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -4849,11 +4849,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -4958,11 +4958,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5014,11 +5014,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5069,11 +5069,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5130,11 +5130,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5176,11 +5176,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5222,11 +5222,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5268,11 +5268,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5314,11 +5314,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5366,11 +5366,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5461,11 +5461,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
+                    "priceE6": 14990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 14990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5580,11 +5580,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 61000000000,
-                    "currency": "IDR",
+                    "priceE6": 11990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 61000000000,
+                      "originalPriceE6": 11990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5679,11 +5679,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5776,11 +5776,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5879,11 +5879,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -5958,11 +5958,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6037,11 +6037,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6116,11 +6116,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6201,11 +6201,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6262,11 +6262,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6323,11 +6323,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6374,11 +6374,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 30500000000,
-                    "currency": "IDR",
+                    "priceE6": 5990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 30500000000,
+                      "originalPriceE6": 5990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6425,11 +6425,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6480,11 +6480,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6535,11 +6535,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6590,11 +6590,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6641,11 +6641,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6692,11 +6692,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
+                    "priceE6": 1990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 10000000000,
+                      "originalPriceE6": 1990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6743,11 +6743,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
+                    "priceE6": 2990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 15000000000,
+                      "originalPriceE6": 2990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6794,11 +6794,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
+                    "priceE6": 7990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 41000000000,
+                      "originalPriceE6": 7990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6845,11 +6845,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6902,11 +6902,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
-                    "currency": "IDR",
+                    "priceE6": 990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 5000000000,
+                      "originalPriceE6": 990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6951,11 +6951,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
+                    "priceE6": 4990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 25000000000,
+                      "originalPriceE6": 4990000,
                       "discountPercentage": 0
                     }
                   }
@@ -6966,8 +6966,8 @@
                     "quantity": 600,
                     "webstoreBonus": 50,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 500,
-                    "fiatBonus": 50
+                    "fiatBaseAmount": 504,
+                    "fiatBonus": 46
                   }
                 ],
                 "bundledItemList": [],
@@ -6997,11 +6997,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
+                    "priceE6": 9990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 50000000000,
+                      "originalPriceE6": 9990000,
                       "discountPercentage": 0
                     }
                   }
@@ -7012,8 +7012,8 @@
                     "quantity": 1300,
                     "webstoreBonus": 100,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 1000,
-                    "fiatBonus": 200
+                    "fiatBaseAmount": 1009,
+                    "fiatBonus": 191
                   }
                 ],
                 "bundledItemList": [],
@@ -7043,11 +7043,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
+                    "priceE6": 19990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 101000000000,
+                      "originalPriceE6": 19990000,
                       "discountPercentage": 0
                     }
                   }
@@ -7058,8 +7058,8 @@
                     "quantity": 2700,
                     "webstoreBonus": 200,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 2020,
-                    "fiatBonus": 480
+                    "fiatBaseAmount": 2019,
+                    "fiatBonus": 481
                   }
                 ],
                 "bundledItemList": [],
@@ -7089,11 +7089,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 200000000000,
-                    "currency": "IDR",
+                    "priceE6": 39990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 200000000000,
+                      "originalPriceE6": 39990000,
                       "discountPercentage": 0
                     }
                   }
@@ -7104,8 +7104,8 @@
                     "quantity": 5600,
                     "webstoreBonus": 400,
                     "contentTagsList": [],
-                    "fiatBaseAmount": 4000,
-                    "fiatBonus": 1200
+                    "fiatBaseAmount": 4039,
+                    "fiatBonus": 1161
                   }
                 ],
                 "bundledItemList": [],
@@ -7135,11 +7135,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
+                    "priceE6": 99990000,
+                    "currency": "USD",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 505000000000,
+                      "originalPriceE6": 99990000,
                       "discountPercentage": 0
                     }
                   }
@@ -7177,7 +7177,7 @@
           }
         ]
       },
-      "userCountryByIp": "ID",
+      "userCountryByIp": "US",
       "isNianticKidsUser": false,
       "commonClientConfig": {
         "gameVariant": 0,
