@@ -116,7 +116,7 @@ def suggest_price(idr, premium=0.15):
     bundle_price = base * (1 + premium)
     return round(bundle_price) - 0.01 if bundle_price > 10 else round(bundle_price, 2)
 
-for category in categories[1:]:
+for category in categories:
     raw_cat = category["category"]
     cat_cn = category_map.get(raw_cat, raw_cat)
     cat_name = f"{raw_cat}\n{cat_cn}"
