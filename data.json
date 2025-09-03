@@ -231,6 +231,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-september-2025\",\"associatedItemId\":\"BADGE_EVENT_0140\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -243,7 +247,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1756777162375,
+                "lastUpdateTimeMs": 1756861176046,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4171,6 +4175,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-september-2025\",\"associatedItemId\":\"BADGE_EVENT_0140\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -4183,7 +4191,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1756777162375,
+                "lastUpdateTimeMs": 1756861176046,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
