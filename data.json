@@ -136,18 +136,14 @@
               {
                 "skuId": "web-event-pass-plusrank-september-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-september-ultra",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 16640000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -255,18 +251,14 @@
               {
                 "skuId": "web-event-pass-base-september",
                 "localizationNameKey": "sku.name.web-event-pass-base-september",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -352,18 +344,14 @@
               {
                 "skuId": "web-event-pass-plusrank-september",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-september",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -459,76 +447,16 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-go-fest-bonus-bundle-2025",
-                "localizationNameKey": "sku.name.web-go-fest-bonus-bundle-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "false"
-                  },
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-max-revive-6,web-premium-battle-pass-3,web-max-mushroom-3,web-mp-pack.6,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-hoopa-raid-day-ticket,web-gotour-2025-box-5,web-avatar-feb-2025-ticket,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-go-tour-25-bundle-ticket-box,web-master-work-25-ticket-box,web-gotour-2025-box-4,web-raid-box-1223"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 0,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740700159682,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
                 "skuId": "web-bonus-2025-twitch-steam",
                 "localizationNameKey": "sku.name.web-bonus-2025-twitch-steam",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -572,18 +500,14 @@
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
                 "localizationNameKey": "sku.name.web-go-fest-bonus-bundle-2025-2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -629,236 +553,6 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-star-piece-2025",
-                "localizationNameKey": "sku.name.web-bonus-star-piece-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_STAR_PIECE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-routes-box-1223,web-new-years-2025-ticket-box,web-eggspedition-jan-feb-2025,pokecoin.23500,web-gotour-2025-box-5,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-go-tour-25-bundle-ticket-box"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740198424286,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-incense-2025",
-                "localizationNameKey": "sku.name.web-bonus-incense-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/2x_incense.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_INCENSE_ORDINARY",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box,web-routes-box-1223,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-raid-box-1223,ultra-community-day-box-0723,web-event-pass-softlaunch-plusrank-may,web-dmax-entei-bundle"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1745617265591,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-rare-candy-2025",
-                "localizationNameKey": "sku.name.web-bonus-rare-candy-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3x_rare_candy.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_RARE_CANDY",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-routes-box-1223,web-new-years-2025-ticket-box,web-eggspedition-jan-feb-2025,pokecoin.23500"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1738276376447,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-lure-module-2025",
-                "localizationNameKey": "sku.name.web-bonus-lure-module-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_TROY_DISK",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,pokecoin.23500,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-gotour-2025-box-5,web-gotour-2025-box-6,web-s18-all-monthly-ticket-box,ultra-community-day-box-0723,web-go-tour-25-bundle-ticket-box,BADGE_EVENT_0105,web-dmax-raikou-bundle,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1743011156550,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-star-piece-2025-2",
-                "localizationNameKey": "sku.name.web-bonus-star-piece-2025-2",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_STAR_PIECE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box,web-routes-box-1223,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-raid-box-1223,ultra-community-day-box-0723,web-event-pass-softlaunch-plusrank-may,web-dmax-entei-bundle,web-dmax-suicune-bundle"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1746578094014,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -869,18 +563,14 @@
               {
                 "skuId": "web-smores-leadup-bundle",
                 "localizationNameKey": "sku.name.web-smores-leadup-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.freebox.small.1.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -964,18 +654,14 @@
               {
                 "skuId": "web-2025-gowa-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 61000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 61000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 13310000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -1063,18 +749,14 @@
               {
                 "skuId": "web-2025-kanto-birds-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-kanto-birds-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -1142,18 +824,14 @@
               {
                 "skuId": "web-mega-sharpedo-ticket-box",
                 "localizationNameKey": "sku.name.web-mega-sharpedo-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -1223,18 +901,14 @@
               {
                 "skuId": "web-1mp-1rrp-bundle",
                 "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1284,18 +958,14 @@
               {
                 "skuId": "web-3mp-3rrp-bundle",
                 "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1345,18 +1015,14 @@
               {
                 "skuId": "web-luckyegg-bundle-8",
                 "localizationNameKey": "sku.name.web-luckyegg-bundle-8",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/luckyegg.5.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1396,18 +1062,14 @@
               {
                 "skuId": "web-starpiece-bundle",
                 "localizationNameKey": "sku.name.web-starpiece-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/08_ x3.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 30500000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 30500000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 6650000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1447,18 +1109,14 @@
               {
                 "skuId": "web-remote-raidpass-bundle",
                 "localizationNameKey": "sku.name.web-remote-raidpass-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/raid_pass_blue (1).png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1502,18 +1160,14 @@
               {
                 "skuId": "web-pokemon-storage-bundle",
                 "localizationNameKey": "sku.name.web-pokemon-storage-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_pokemon_storage_upgrade.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1557,18 +1211,14 @@
               {
                 "skuId": "web-item-storage-bundle",
                 "localizationNameKey": "sku.name.web-item-storage-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_item_storage_upgrade.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1612,18 +1262,14 @@
               {
                 "skuId": "web-basic-incubator-3pack",
                 "localizationNameKey": "sku.name.web-basic-incubator-3pack",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1663,18 +1309,14 @@
               {
                 "skuId": "web-super-incubator-2pack",
                 "localizationNameKey": "sku.name.web-super-incubator-2pack",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/Incubator_Super.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1714,18 +1356,14 @@
               {
                 "skuId": "web-max-revive-6",
                 "localizationNameKey": "sku.name.web-max-revive-6",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_revive.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1765,18 +1403,14 @@
               {
                 "skuId": "web-premium-battle-pass-3",
                 "localizationNameKey": "sku.name.web-premium-battle-pass-3",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1816,18 +1450,14 @@
               {
                 "skuId": "web-mp-pack.6",
                 "localizationNameKey": "sku.name.web-mp-pack.6",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_mp_replenish.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1867,18 +1497,14 @@
               {
                 "skuId": "web-max-mushroom-3",
                 "localizationNameKey": "sku.name.web-max-mushroom-3",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_boost.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -1924,18 +1550,14 @@
               {
                 "skuId": "coin-bundle-xxsmall",
                 "localizationNameKey": "sku.name.coin-bundle-xxsmall",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 5000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 1100000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -1973,18 +1595,14 @@
               {
                 "skuId": "coin-bundle-xsmall",
                 "localizationNameKey": "sku.name.coin-bundle-xsmall",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -2019,18 +1637,14 @@
               {
                 "skuId": "coin-bundle-small_v2",
                 "localizationNameKey": "sku.name.coin-bundle-small_v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -2065,18 +1679,14 @@
               {
                 "skuId": "coin-bundle-medium_v2",
                 "localizationNameKey": "sku.name.coin-bundle-medium_v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 101000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 22190000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -2111,18 +1721,14 @@
               {
                 "skuId": "coin-bundle-large-v2",
                 "localizationNameKey": "sku.name.coin-bundle-large-v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 200000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 200000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 44390000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -2157,18 +1763,14 @@
               {
                 "skuId": "coin-bundle-xlarge",
                 "localizationNameKey": "sku.name.coin-bundle-xlarge",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -2705,7 +2307,7 @@
         "gcsAssetBucket": "platform-webstore-rel-assets",
         "supportedPaymentVendors": {
           "vendorsList": [
-            1
+            5
           ]
         },
         "fastSpringConfig": {
@@ -4155,18 +3757,14 @@
               {
                 "skuId": "web-event-pass-plusrank-september-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-september-ultra",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 16640000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -4274,18 +3872,14 @@
               {
                 "skuId": "web-event-pass-base-september",
                 "localizationNameKey": "sku.name.web-event-pass-base-september",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -4371,18 +3965,14 @@
               {
                 "skuId": "web-event-pass-plusrank-september",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-september",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -4478,76 +4068,16 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-go-fest-bonus-bundle-2025",
-                "localizationNameKey": "sku.name.web-go-fest-bonus-bundle-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "false"
-                  },
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "web-max-revive-6,web-premium-battle-pass-3,web-max-mushroom-3,web-mp-pack.6,coin-bundle-xsmall,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-hoopa-raid-day-ticket,web-gotour-2025-box-5,web-avatar-feb-2025-ticket,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-go-tour-25-bundle-ticket-box,web-master-work-25-ticket-box,web-gotour-2025-box-4,web-raid-box-1223"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 0,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740700159682,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
                 "skuId": "web-bonus-2025-twitch-steam",
                 "localizationNameKey": "sku.name.web-bonus-2025-twitch-steam",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -4591,18 +4121,14 @@
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
                 "localizationNameKey": "sku.name.web-go-fest-bonus-bundle-2025-2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-go-fest-bonus-bundle-2024.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -4648,236 +4174,6 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-star-piece-2025",
-                "localizationNameKey": "sku.name.web-bonus-star-piece-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_STAR_PIECE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-routes-box-1223,web-new-years-2025-ticket-box,web-eggspedition-jan-feb-2025,pokecoin.23500,web-gotour-2025-box-5,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-go-tour-25-bundle-ticket-box"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1740198424286,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-incense-2025",
-                "localizationNameKey": "sku.name.web-bonus-incense-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/2x_incense.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_INCENSE_ORDINARY",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box,web-routes-box-1223,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-raid-box-1223,ultra-community-day-box-0723,web-event-pass-softlaunch-plusrank-may,web-dmax-entei-bundle"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1745617265591,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-rare-candy-2025",
-                "localizationNameKey": "sku.name.web-bonus-rare-candy-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3x_rare_candy.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_RARE_CANDY",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-routes-box-1223,web-new-years-2025-ticket-box,web-eggspedition-jan-feb-2025,pokecoin.23500"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1738276376447,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-lure-module-2025",
-                "localizationNameKey": "sku.name.web-bonus-lure-module-2025",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_TROY_DISK",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,pokecoin.23500,web-gotour-2025-box-1,web-gotour-2025-box-2,web-gotour-2025-box-3,web-gotour-2025-box-5,web-gotour-2025-box-6,web-s18-all-monthly-ticket-box,ultra-community-day-box-0723,web-go-tour-25-bundle-ticket-box,BADGE_EVENT_0105,web-dmax-raikou-bundle,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1743011156550,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-bonus-star-piece-2025-2",
-                "localizationNameKey": "sku.name.web-bonus-star-piece-2025-2",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_STAR_PIECE",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_BONUS_ITEM_PROMOCODE_TARGET_SKUS",
-                    "value": "go-rocket-box-0623,coin-bundle-small_v2,coin-bundle-medium_v2,coin-bundle-large-v2,coin-bundle-xlarge,web-max-mushroom-3,web-event-pass-softlaunch-plusrank,web-apr-may-25-monthly-ticket-box,web-routes-box-1223,web-go-fest-2025-ticket,web-go-fest-2025-ticket-b,web-raid-box-1223,ultra-community-day-box-0723,web-event-pass-softlaunch-plusrank-may,web-dmax-entei-bundle,web-dmax-suicune-bundle"
-                  }
-                ],
-                "category": "DEFAULT",
-                "sortOrder": 1000,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 0,
-                "skuTemplateId": "",
-                "lastUpdateTimeMs": 1746578094014,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -4888,18 +4184,14 @@
               {
                 "skuId": "web-smores-leadup-bundle",
                 "localizationNameKey": "sku.name.web-smores-leadup-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.freebox.small.1.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -4983,18 +4275,14 @@
               {
                 "skuId": "web-2025-gowa-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 61000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 61000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 13310000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -5082,18 +4370,14 @@
               {
                 "skuId": "web-2025-kanto-birds-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-kanto-birds-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/web-boost-box-1223.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -5161,18 +4445,14 @@
               {
                 "skuId": "web-mega-sharpedo-ticket-box",
                 "localizationNameKey": "sku.name.web-mega-sharpedo-ticket-box",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.d.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "webstoreLimitInfo": {
@@ -5242,18 +4522,14 @@
               {
                 "skuId": "web-1mp-1rrp-bundle",
                 "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5303,18 +4579,14 @@
               {
                 "skuId": "web-3mp-3rrp-bundle",
                 "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5364,18 +4636,14 @@
               {
                 "skuId": "web-luckyegg-bundle-8",
                 "localizationNameKey": "sku.name.web-luckyegg-bundle-8",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/luckyegg.5.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5415,18 +4683,14 @@
               {
                 "skuId": "web-starpiece-bundle",
                 "localizationNameKey": "sku.name.web-starpiece-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/08_ x3.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 30500000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 30500000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 6650000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5466,18 +4730,14 @@
               {
                 "skuId": "web-remote-raidpass-bundle",
                 "localizationNameKey": "sku.name.web-remote-raidpass-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/raid_pass_blue (1).png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5521,18 +4781,14 @@
               {
                 "skuId": "web-pokemon-storage-bundle",
                 "localizationNameKey": "sku.name.web-pokemon-storage-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_pokemon_storage_upgrade.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5576,18 +4832,14 @@
               {
                 "skuId": "web-item-storage-bundle",
                 "localizationNameKey": "sku.name.web-item-storage-bundle",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_item_storage_upgrade.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5631,18 +4883,14 @@
               {
                 "skuId": "web-basic-incubator-3pack",
                 "localizationNameKey": "sku.name.web-basic-incubator-3pack",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5682,18 +4930,14 @@
               {
                 "skuId": "web-super-incubator-2pack",
                 "localizationNameKey": "sku.name.web-super-incubator-2pack",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/Incubator_Super.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5733,18 +4977,14 @@
               {
                 "skuId": "web-max-revive-6",
                 "localizationNameKey": "sku.name.web-max-revive-6",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_revive.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 2210000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5784,18 +5024,14 @@
               {
                 "skuId": "web-premium-battle-pass-3",
                 "localizationNameKey": "sku.name.web-premium-battle-pass-3",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 3320000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5835,18 +5071,14 @@
               {
                 "skuId": "web-mp-pack.6",
                 "localizationNameKey": "sku.name.web-mp-pack.6",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_mp_replenish.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 8870000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5886,18 +5118,14 @@
               {
                 "skuId": "web-max-mushroom-3",
                 "localizationNameKey": "sku.name.web-max-mushroom-3",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_boost.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [],
@@ -5943,18 +5171,14 @@
               {
                 "skuId": "coin-bundle-xxsmall",
                 "localizationNameKey": "sku.name.coin-bundle-xxsmall",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xxsmall.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 5000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 5000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 1100000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -5992,18 +5216,14 @@
               {
                 "skuId": "coin-bundle-xsmall",
                 "localizationNameKey": "sku.name.coin-bundle-xsmall",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xsmall.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 5540000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -6038,18 +5258,14 @@
               {
                 "skuId": "coin-bundle-small_v2",
                 "localizationNameKey": "sku.name.coin-bundle-small_v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-small_v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 11090000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -6084,18 +5300,14 @@
               {
                 "skuId": "coin-bundle-medium_v2",
                 "localizationNameKey": "sku.name.coin-bundle-medium_v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 101000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 101000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 22190000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -6130,18 +5342,14 @@
               {
                 "skuId": "coin-bundle-large-v2",
                 "localizationNameKey": "sku.name.coin-bundle-large-v2",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large-v2.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 200000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 200000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 44390000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -6176,18 +5384,14 @@
               {
                 "skuId": "coin-bundle-xlarge",
                 "localizationNameKey": "sku.name.coin-bundle-xlarge",
-                "description": " ",
+                "description": "",
                 "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge.png",
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 505000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 505000000000,
-                      "discountPercentage": 0
-                    }
+                    "priceE6": 110990000,
+                    "currency": "USD",
+                    "type": 2
                   }
                 ],
                 "bundledCurrencyList": [
@@ -6724,7 +5928,7 @@
         "gcsAssetBucket": "platform-webstore-rel-assets",
         "supportedPaymentVendors": {
           "vendorsList": [
-            1
+            5
           ]
         },
         "fastSpringConfig": {
