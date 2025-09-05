@@ -2303,8 +2303,8 @@
                 "labelKey": "label.general",
                 "linksList": [
                   {
-                    "url": "https://pokemongolive.com/",
-                    "labelKey": "common.pokemon_go",
+                    "url": "https://pokemongo.com/news",
+                    "labelKey": "common.news",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -2313,8 +2313,8 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/leaderboard",
-                    "labelKey": "common.leaderboard",
+                    "url": "https://pokemongo.com/seasons",
+                    "labelKey": "common.seasons",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -2323,7 +2323,7 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/events  ",
+                    "url": "https://pokemongo.com/events",
                     "labelKey": "common.events",
                     "iconName": "",
                     "isInternal": false,
@@ -2333,8 +2333,18 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/news",
-                    "labelKey": "common.news",
+                    "url": "https://pokemongo.com/find-your-community",
+                    "labelKey": "common.community",
+                    "iconName": "",
+                    "isInternal": false,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
+                    "url": "https://pokemongo.com/leaderboard",
+                    "labelKey": "common.leaderboard",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -2348,8 +2358,8 @@
                 "labelKey": "common.support",
                 "linksList": [
                   {
-                    "url": "/support",
-                    "labelKey": "common.support",
+                    "url": "/",
+                    "labelKey": "common.web_store",
                     "iconName": "",
                     "isInternal": true,
                     "useLanguageCode": false,
@@ -2358,20 +2368,30 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://store.pokemongolive.com/offer-redemption",
-                    "labelKey": "common.offer_redemption",
+                    "url": "/api/redirect/event-ticketing",
+                    "labelKey": "common.event_ticketing",
                     "iconName": "",
-                    "isInternal": false,
+                    "isInternal": true,
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongo.com/find-your-community",
-                    "labelKey": "common.community",
+                    "url": "/offer-redemption",
+                    "labelKey": "common.offer_redemption",
                     "iconName": "",
-                    "isInternal": false,
+                    "isInternal": true,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
+                    "url": "/support",
+                    "labelKey": "common.support",
+                    "iconName": "",
+                    "isInternal": true,
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
@@ -6324,8 +6344,8 @@
                 "labelKey": "label.general",
                 "linksList": [
                   {
-                    "url": "https://pokemongolive.com/",
-                    "labelKey": "common.pokemon_go",
+                    "url": "https://pokemongo.com/news",
+                    "labelKey": "common.news",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -6334,8 +6354,8 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/leaderboard",
-                    "labelKey": "common.leaderboard",
+                    "url": "https://pokemongo.com/seasons",
+                    "labelKey": "common.seasons",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -6344,7 +6364,7 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/events  ",
+                    "url": "https://pokemongo.com/events",
                     "labelKey": "common.events",
                     "iconName": "",
                     "isInternal": false,
@@ -6354,8 +6374,18 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongolive.com/news",
-                    "labelKey": "common.news",
+                    "url": "https://pokemongo.com/find-your-community",
+                    "labelKey": "common.community",
+                    "iconName": "",
+                    "isInternal": false,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
+                    "url": "https://pokemongo.com/leaderboard",
+                    "labelKey": "common.leaderboard",
                     "iconName": "",
                     "isInternal": false,
                     "useLanguageCode": false,
@@ -6369,8 +6399,8 @@
                 "labelKey": "common.support",
                 "linksList": [
                   {
-                    "url": "/support",
-                    "labelKey": "common.support",
+                    "url": "/",
+                    "labelKey": "common.web_store",
                     "iconName": "",
                     "isInternal": true,
                     "useLanguageCode": false,
@@ -6379,20 +6409,30 @@
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://store.pokemongolive.com/offer-redemption",
-                    "labelKey": "common.offer_redemption",
+                    "url": "/api/redirect/event-ticketing",
+                    "labelKey": "common.event_ticketing",
                     "iconName": "",
-                    "isInternal": false,
+                    "isInternal": true,
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
                     "localesToIgnoreList": []
                   },
                   {
-                    "url": "https://pokemongo.com/find-your-community",
-                    "labelKey": "common.community",
+                    "url": "/offer-redemption",
+                    "labelKey": "common.offer_redemption",
                     "iconName": "",
-                    "isInternal": false,
+                    "isInternal": true,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
+                    "url": "/support",
+                    "labelKey": "common.support",
+                    "iconName": "",
+                    "isInternal": true,
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
