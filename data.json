@@ -3912,7 +3912,8 @@
                   "web-event-pass-plusrank-september-ultra": "Go Pass Deluxe: September + 10 Rank Ultra Ticket Box",
                   "N_AVATAR_n_hat_flowercrown_0": "Flower Crown",
                   "BADGE_EVENT_0140": "Go Pass Deluxe: September",
-                  "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box"
+                  "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
+                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8032,7 +8033,8 @@
                   "web-event-pass-plusrank-september-ultra": "GO Pass豪華版：9月 +10 級 究極入場券禮盒",
                   "N_AVATAR_n_hat_flowercrown_0": "花冠",
                   "BADGE_EVENT_0140": "GO Pass豪華版：9月",
-                  "web-avatar-ticket-2025-box": "慶典究極入場券禮盒"
+                  "web-avatar-ticket-2025-box": "慶典究極入場券禮盒",
+                  "web-flabebe-cd-ticket-box": "高級社群日禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8937,7 +8939,8 @@
                   "web-event-pass-plusrank-september-ultra": "Go Pass Deluxe: September + 10 Rank Ultra Ticket Box",
                   "N_AVATAR_n_hat_flowercrown_0": "Flower Crown",
                   "BADGE_EVENT_0140": "Go Pass Deluxe: September",
-                  "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box"
+                  "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
+                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
