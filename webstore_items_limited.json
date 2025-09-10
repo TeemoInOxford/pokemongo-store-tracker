@@ -410,11 +410,11 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Go Pass Deluxe: September + 10 Rank Ultra Ticket Box\nGO Pass豪华版：9月 +10 级 究极入场券礼盒",
+    "name":"GO Pass Deluxe: September + 10 Rank Ultra Ticket Box\nGO Pass豪华版：9月 +10 级 究极入场券礼盒",
     "endTimeMs":"2025-10-08 11:00:00",
     "bundledItems":[
       {
-        "itemId":"Go Pass Deluxe: September\nGO Pass豪华版：9月",
+        "itemId":"GO Pass Deluxe: September\nGO Pass豪华版：9月",
         "rawId":"badge_event_0140",
         "quantity":1
       },
@@ -472,11 +472,11 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Go Pass Deluxe: September\nGO Pass豪华版：9月",
+    "name":"GO Pass Deluxe: September\nGO Pass豪华版：9月",
     "endTimeMs":"2025-10-08 11:00:00",
     "bundledItems":[
       {
-        "itemId":"Go Pass Deluxe: September\nGO Pass豪华版：9月",
+        "itemId":"GO Pass Deluxe: September\nGO Pass豪华版：9月",
         "rawId":"badge_event_0140",
         "quantity":1
       },
@@ -519,11 +519,11 @@
   {
     "DLC":3,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Go Pass Deluxe: September + 10 Rank\nGO Pass豪华版：9月 +10 级",
+    "name":"GO Pass Deluxe: September + 10 Rank\nGO Pass豪华版：9月 +10 级",
     "endTimeMs":"2025-10-08 11:00:00",
     "bundledItems":[
       {
-        "itemId":"Go Pass Deluxe: September\nGO Pass豪华版：9月",
+        "itemId":"GO Pass Deluxe: September\nGO Pass豪华版：9月",
         "rawId":"badge_event_0140",
         "quantity":1
       },
