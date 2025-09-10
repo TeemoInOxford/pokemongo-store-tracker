@@ -2228,7 +2228,8 @@
           "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
           "enableSubscription": false,
-          "enableRootCmsNavbar": false
+          "enableRootCmsNavbar": false,
+          "enablePersonalizedBundle": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -3127,6 +3128,9 @@
         "user": null,
         "nianticUserToken": null
       },
+      "navbarDoc": null,
+      "navbarTranslations": null,
+      "disabledFeatures": [],
       "_nextI18Next": {
         "initialI18nStore": {
           "en": {
@@ -6274,7 +6278,8 @@
           "enableWebfusionFooter": true,
           "enableFirstLoginBonus": true,
           "enableSubscription": false,
-          "enableRootCmsNavbar": false
+          "enableRootCmsNavbar": false,
+          "enablePersonalizedBundle": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -7173,6 +7178,9 @@
         "user": null,
         "nianticUserToken": null
       },
+      "navbarDoc": null,
+      "navbarTranslations": null,
+      "disabledFeatures": [],
       "_nextI18Next": {
         "initialI18nStore": {
           "zh-Hant": {
