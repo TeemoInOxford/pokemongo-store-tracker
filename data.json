@@ -3604,7 +3604,7 @@
                   "ml_bundle_legend_box_title": "Legend Box",
                   "ml_bundle_voyager_box_title": "Voyager Box",
                   "ml_bundle_remote_raid_pass_box": "Remote Raid Box",
-                  "ITEM_EVENT_TICKET_09": "Eggs-pedition Access: August",
+                  "ITEM_EVENT_TICKET_09": "Ticket",
                   "ml_bundle_great_raid_box_title": "Great Raid Box",
                   "web-atlantica-box-2023-1": "Great Hatch Box",
                   "web-atlantica-box-2023-2": "Great Hatch Box",
@@ -3842,7 +3842,9 @@
                   "N_AVATAR_n_hat_flowercrown_0": "Flower Crown",
                   "BADGE_EVENT_0140": "GO Pass Deluxe: September",
                   "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
-                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box"
+                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box",
+                  "web-super-rocket-radar-ticket-box": "Psychic Spectacular: Taken Over Ultra Ticket Box",
+                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7654,7 +7656,7 @@
                   "ml_bundle_legend_box_title": "傳說禮盒",
                   "ml_bundle_voyager_box_title": "旅行者禮盒",
                   "ml_bundle_remote_raid_pass_box": "遠距團體戰禮盒",
-                  "ITEM_EVENT_TICKET_09": "8月孵蛋證",
+                  "ITEM_EVENT_TICKET_09": "入場券",
                   "ml_bundle_great_raid_box_title": "超級團體戰禮盒",
                   "web-atlantica-box-2023-1": "超級孵蛋禮盒",
                   "web-atlantica-box-2023-2": "超級孵蛋禮盒",
@@ -7892,7 +7894,9 @@
                   "N_AVATAR_n_hat_flowercrown_0": "花冠",
                   "BADGE_EVENT_0140": "GO Pass豪華版：9月",
                   "web-avatar-ticket-2025-box": "慶典究極入場券禮盒",
-                  "web-flabebe-cd-ticket-box": "高級社群日禮盒"
+                  "web-flabebe-cd-ticket-box": "高級社群日禮盒",
+                  "web-super-rocket-radar-ticket-box": "超能力週：佔領究極入場券禮盒",
+                  "web-shadow-raidday-sep-2025-ticket-box": "暗影團體戰週末：固拉多究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8560,7 +8564,7 @@
                   "ml_bundle_legend_box_title": "Legend Box",
                   "ml_bundle_voyager_box_title": "Voyager Box",
                   "ml_bundle_remote_raid_pass_box": "Remote Raid Box",
-                  "ITEM_EVENT_TICKET_09": "Eggs-pedition Access: August",
+                  "ITEM_EVENT_TICKET_09": "Ticket",
                   "ml_bundle_great_raid_box_title": "Great Raid Box",
                   "web-atlantica-box-2023-1": "Great Hatch Box",
                   "web-atlantica-box-2023-2": "Great Hatch Box",
@@ -8798,7 +8802,9 @@
                   "N_AVATAR_n_hat_flowercrown_0": "Flower Crown",
                   "BADGE_EVENT_0140": "GO Pass Deluxe: September",
                   "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
-                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box"
+                  "web-flabebe-cd-ticket-box": "Ultra Community Day Box",
+                  "web-super-rocket-radar-ticket-box": "Psychic Spectacular: Taken Over Ultra Ticket Box",
+                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
