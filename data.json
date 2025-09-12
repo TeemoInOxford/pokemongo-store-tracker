@@ -1143,7 +1143,7 @@
                 "skuId": "web-super-rocket-radar-ticket-box",
                 "localizationNameKey": "sku.name.web-super-rocket-radar-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/go-rocket-box-0623.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general5.small.1.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -1213,7 +1213,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1757545558053,
+                "lastUpdateTimeMs": 1757700620194,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5274,7 +5274,7 @@
                 "skuId": "web-super-rocket-radar-ticket-box",
                 "localizationNameKey": "sku.name.web-super-rocket-radar-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/go-rocket-box-0623.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general5.small.1.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -5344,7 +5344,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1757545558053,
+                "lastUpdateTimeMs": 1757700620194,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
