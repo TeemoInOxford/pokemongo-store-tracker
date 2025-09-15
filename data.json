@@ -1138,6 +1138,85 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-shadow-raidday-sep-2025-ticket-box",
+                "localizationNameKey": "sku.name.web-shadow-raidday-sep-2025-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1758517200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/shadow-groudon-raid-weekend-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_09\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1757546863838,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
               }
             ]
           },
@@ -5108,6 +5187,85 @@
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1757700620194,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-shadow-raidday-sep-2025-ticket-box",
+                "localizationNameKey": "sku.name.web-shadow-raidday-sep-2025-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general1.small.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 0,
+                  "endTimeMs": 1758517200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/shadow-groudon-raid-weekend-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_09\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1757546863838,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
