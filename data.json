@@ -3844,7 +3844,8 @@
                   "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
                   "web-flabebe-cd-ticket-box": "Ultra Community Day Box",
                   "web-super-rocket-radar-ticket-box": "Psychic Spectacular: Taken Over Ultra Ticket Box",
-                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box"
+                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box",
+                  "web-dunsparce-ticket-box": "Completely Normal Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7896,7 +7897,8 @@
                   "web-avatar-ticket-2025-box": "慶典究極入場券禮盒",
                   "web-flabebe-cd-ticket-box": "高級社群日禮盒",
                   "web-super-rocket-radar-ticket-box": "超能力週：佔領究極入場券禮盒",
-                  "web-shadow-raidday-sep-2025-ticket-box": "暗影團體戰週末：固拉多究極入場券禮盒"
+                  "web-shadow-raidday-sep-2025-ticket-box": "暗影團體戰週末：固拉多究極入場券禮盒",
+                  "web-dunsparce-ticket-box": "一般獨秀究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8804,7 +8806,8 @@
                   "web-avatar-ticket-2025-box": "Celebration Event Ultra Ticket Box",
                   "web-flabebe-cd-ticket-box": "Ultra Community Day Box",
                   "web-super-rocket-radar-ticket-box": "Psychic Spectacular: Taken Over Ultra Ticket Box",
-                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box"
+                  "web-shadow-raidday-sep-2025-ticket-box": "Shadow Groudon Raid Weekend Ultra Ticket Box",
+                  "web-dunsparce-ticket-box": "Completely Normal Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
