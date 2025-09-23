@@ -3849,7 +3849,8 @@
                   "web-mega-camerupt-ticket-box": "Mega Camerupt Raid Day Ultra Ticket Box",
                   "web-bundle-midautumn-raid": "Dancing in the Moonlight Raid Box",
                   "web-bundle-midautumn-maxparticle": "Dancing in the Moonlight Max Particle Box",
-                  "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box"
+                  "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box",
+                  "web-city-safari-bundle": "City Safari Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7906,7 +7907,8 @@
                   "web-mega-camerupt-ticket-box": "超級噴火駝團體戰日究極入場券禮盒",
                   "web-bundle-midautumn-raid": "賞月舞團體戰禮盒",
                   "web-bundle-midautumn-maxparticle": "賞月舞極巨粒子禮盒",
-                  "web-bundle-midautumn-incubator": "賞月舞孵化器禮盒"
+                  "web-bundle-midautumn-incubator": "賞月舞孵化器禮盒",
+                  "web-city-safari-bundle": "狩獵禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8819,7 +8821,8 @@
                   "web-mega-camerupt-ticket-box": "Mega Camerupt Raid Day Ultra Ticket Box",
                   "web-bundle-midautumn-raid": "Dancing in the Moonlight Raid Box",
                   "web-bundle-midautumn-maxparticle": "Dancing in the Moonlight Max Particle Box",
-                  "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box"
+                  "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box",
+                  "web-city-safari-bundle": "City Safari Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
