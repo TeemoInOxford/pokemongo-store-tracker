@@ -2703,7 +2703,22 @@
             "preferredLocalesList": [],
             "localesToIgnoreList": []
           }
-        ]
+        ],
+        "helpshiftConfig": {
+          "defaultHelpshiftLinks": {
+            "subscriptionFaqLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            }
+          },
+          "countryHelpshiftLinksMap": []
+        }
       },
       "envSpecificClientConfig": {
         "xsollaConfig": {
@@ -6761,7 +6776,22 @@
             "preferredLocalesList": [],
             "localesToIgnoreList": []
           }
-        ]
+        ],
+        "helpshiftConfig": {
+          "defaultHelpshiftLinks": {
+            "subscriptionFaqLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            }
+          },
+          "countryHelpshiftLinksMap": []
+        }
       },
       "envSpecificClientConfig": {
         "xsollaConfig": {
