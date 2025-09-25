@@ -2226,7 +2226,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
-          "enableFirstLoginBonus": true,
+          "enableFirstLoginBonus": false,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false
@@ -2954,16 +2954,7 @@
             "endTimeMs": 1763359200000,
             "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
-        ],
-        "bannerConfig": {
-          "defaultBannerLocalizationKey": "banner.message",
-          "countryBannerLocalizationKeyMap": [
-            [
-              "JP",
-              "banner.message_jp"
-            ]
-          ]
-        }
+        ]
       },
       "rewardTiers": {
         "status": 1,
@@ -6299,7 +6290,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
-          "enableFirstLoginBonus": true,
+          "enableFirstLoginBonus": false,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false
@@ -7027,16 +7018,7 @@
             "endTimeMs": 1763359200000,
             "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
-        ],
-        "bannerConfig": {
-          "defaultBannerLocalizationKey": "banner.message",
-          "countryBannerLocalizationKeyMap": [
-            [
-              "JP",
-              "banner.message_jp"
-            ]
-          ]
-        }
+        ]
       },
       "rewardTiers": {
         "status": 1,
