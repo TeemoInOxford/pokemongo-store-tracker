@@ -3298,7 +3298,8 @@
                 "web_only": "Web Only",
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
-                "payment_vendor": "Payment Vendor"
+                "payment_vendor": "Payment Vendor",
+                "info": "info"
               },
               "confirmation": {
                 "failed": {
@@ -3856,7 +3857,8 @@
                   "web-bundle-midautumn-raid": "Dancing in the Moonlight Raid Box",
                   "web-bundle-midautumn-maxparticle": "Dancing in the Moonlight Max Particle Box",
                   "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box",
-                  "web-city-safari-bundle": "City Safari Box"
+                  "web-city-safari-bundle": "City Safari Box",
+                  "web-2025-steel-skyline-ticket-box": "Steel Skyline Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7362,7 +7364,8 @@
                 "web_only": "網路限定",
                 "available_only_webstore": "Pokémon GO Web Store限定",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}",
-                "payment_vendor": "付款服務供應商"
+                "payment_vendor": "付款服務供應商",
+                "info": "info"
               },
               "confirmation": {
                 "failed": {
@@ -7920,7 +7923,8 @@
                   "web-bundle-midautumn-raid": "賞月舞團體戰禮盒",
                   "web-bundle-midautumn-maxparticle": "賞月舞極巨粒子禮盒",
                   "web-bundle-midautumn-incubator": "賞月舞孵化器禮盒",
-                  "web-city-safari-bundle": "狩獵禮盒"
+                  "web-city-safari-bundle": "狩獵禮盒",
+                  "web-2025-steel-skyline-ticket-box": "鋼鐵天際線究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8276,7 +8280,8 @@
                 "web_only": "Web Only",
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
-                "payment_vendor": "Payment Vendor"
+                "payment_vendor": "Payment Vendor",
+                "info": "info"
               },
               "confirmation": {
                 "failed": {
@@ -8834,7 +8839,8 @@
                   "web-bundle-midautumn-raid": "Dancing in the Moonlight Raid Box",
                   "web-bundle-midautumn-maxparticle": "Dancing in the Moonlight Max Particle Box",
                   "web-bundle-midautumn-incubator": "Dancing in the Moonlight Incubator Box",
-                  "web-city-safari-bundle": "City Safari Box"
+                  "web-city-safari-bundle": "City Safari Box",
+                  "web-2025-steel-skyline-ticket-box": "Steel Skyline Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
