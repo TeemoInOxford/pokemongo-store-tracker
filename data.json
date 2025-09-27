@@ -3856,7 +3856,8 @@
                   "web-event-pass-base-october": "GO Pass Deluxe: October",
                   "web-event-pass-plusrank-october": "GO Pass Deluxe: October + 10 Rank",
                   "web-event-pass-plusrank-october-ultra": "GO Pass Deluxe: October + 10 Rank Ultra Ticket Box",
-                  "BADGE_EVENT_0141": "GO Pass Deluxe: October"
+                  "BADGE_EVENT_0141": "GO Pass Deluxe: October",
+                  "web-metagross-raid-ticket-box": "Mega Metagross Raid Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -7920,7 +7921,8 @@
                   "web-event-pass-base-october": "GO Pass豪華版：10月",
                   "web-event-pass-plusrank-october": "GO Pass豪華版：10月 +10 級",
                   "web-event-pass-plusrank-october-ultra": "GO Pass豪華版：10月 +10 級 究極入場券禮盒",
-                  "BADGE_EVENT_0141": "GO Pass豪華版：10月"
+                  "BADGE_EVENT_0141": "GO Pass豪華版：10月",
+                  "web-metagross-raid-ticket-box": "超級巨金怪團體戰日究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -8840,7 +8842,8 @@
                   "web-event-pass-base-october": "GO Pass Deluxe: October",
                   "web-event-pass-plusrank-october": "GO Pass Deluxe: October + 10 Rank",
                   "web-event-pass-plusrank-october-ultra": "GO Pass Deluxe: October + 10 Rank Ultra Ticket Box",
-                  "BADGE_EVENT_0141": "GO Pass Deluxe: October"
+                  "BADGE_EVENT_0141": "GO Pass Deluxe: October",
+                  "web-metagross-raid-ticket-box": "Mega Metagross Raid Day Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
