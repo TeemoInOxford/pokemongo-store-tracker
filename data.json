@@ -2065,7 +2065,8 @@
           "enableFirstLoginBonus": false,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
-          "enablePersonalizedBundle": false
+          "enablePersonalizedBundle": false,
+          "enableGlobalTicketSkuCarousel": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -5972,7 +5973,8 @@
           "enableFirstLoginBonus": false,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
-          "enablePersonalizedBundle": false
+          "enablePersonalizedBundle": false,
+          "enableGlobalTicketSkuCarousel": false
         },
         "layoutConfig": {
           "backgroundImage": {
