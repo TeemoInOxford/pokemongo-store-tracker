@@ -1058,7 +1058,7 @@
                 "skuId": "web-solosis-cd-ticket-box",
                 "localizationNameKey": "sku.name.web-solosis-cd-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.b.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general4.medium.1.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -1122,13 +1122,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441191107,
+                "lastUpdateTimeMs": 1759792808654,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5771,7 +5771,7 @@
                 "skuId": "web-solosis-cd-ticket-box",
                 "localizationNameKey": "sku.name.web-solosis-cd-ticket-box",
                 "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.b.png",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general4.medium.1.png",
                 "state": 2,
                 "priceList": [
                   {
@@ -5835,13 +5835,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441191107,
+                "lastUpdateTimeMs": 1759792808654,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
