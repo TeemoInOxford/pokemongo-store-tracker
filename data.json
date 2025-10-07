@@ -607,6 +607,10 @@
                     "value": "3"
                   },
                   {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -625,7 +629,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755729875116,
+                "lastUpdateTimeMs": 1759859186988,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1714,6 +1718,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-halloween-2025\",\"associatedItemId\":\"BADGE_EVENT_0154\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -1726,7 +1734,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759816626663,
+                "lastUpdateTimeMs": 1759857115517,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5399,6 +5407,10 @@
                     "value": "3"
                   },
                   {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -5417,7 +5429,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1755729875116,
+                "lastUpdateTimeMs": 1759859186988,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6506,6 +6518,10 @@
                   {
                     "key": "FRONTEND_EVENT_LINK",
                     "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-halloween-2025\",\"associatedItemId\":\"BADGE_EVENT_0154\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   }
                 ],
                 "category": "LIMITED_TIME",
@@ -6518,7 +6534,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759816626663,
+                "lastUpdateTimeMs": 1759857115517,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
