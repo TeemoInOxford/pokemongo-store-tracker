@@ -1641,13 +1641,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441079481,
+                "lastUpdateTimeMs": 1759816626663,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1744,13 +1744,13 @@
                 "sortOrder": 5,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441004375,
+                "lastUpdateTimeMs": 1759816600394,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1841,13 +1841,13 @@
                 "sortOrder": 6,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759440938615,
+                "lastUpdateTimeMs": 1759816613109,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6354,13 +6354,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441079481,
+                "lastUpdateTimeMs": 1759816626663,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6457,13 +6457,13 @@
                 "sortOrder": 5,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759441004375,
+                "lastUpdateTimeMs": 1759816600394,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6554,13 +6554,13 @@
                 "sortOrder": 6,
                 "localizationEventKey": "",
                 "vendorList": [
-                  1,
-                  5
+                  5,
+                  1
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1759440938615,
+                "lastUpdateTimeMs": 1759816613109,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
