@@ -3039,6 +3039,16 @@
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
               "localesToIgnoreList": []
+            },
+            "mainSupportLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
             }
           },
           "countryHelpshiftLinksMap": []
@@ -7433,6 +7443,16 @@
         "helpshiftConfig": {
           "defaultHelpshiftLinks": {
             "subscriptionFaqLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            },
+            "mainSupportLink": {
               "url": "",
               "labelKey": "",
               "iconName": "",
