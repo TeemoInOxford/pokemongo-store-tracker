@@ -95,7 +95,7 @@
                 "gridType": 1,
                 "sortOrder": 6,
                 "subtitle": {
-                  "locKey": "",
+                  "locKey": "sku.section_subtitle.daily_bundles",
                   "valuesList": []
                 }
               }
@@ -4411,7 +4411,7 @@
                 "gridType": 1,
                 "sortOrder": 6,
                 "subtitle": {
-                  "locKey": "",
+                  "locKey": "sku.section_subtitle.daily_bundles",
                   "valuesList": []
                 }
               }
