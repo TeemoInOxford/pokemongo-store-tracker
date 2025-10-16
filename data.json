@@ -1482,10 +1482,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.featured\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -1498,13 +1494,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432470014,
+                "lastUpdateTimeMs": 1760637290851,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1543,10 +1539,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.featured\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -1559,13 +1551,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432447899,
+                "lastUpdateTimeMs": 1760637306364,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5798,10 +5790,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.featured\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -5814,13 +5802,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 36,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432470014,
+                "lastUpdateTimeMs": 1760637290851,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5859,10 +5847,6 @@
                 ],
                 "metadataList": [
                   {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.featured\",\"values\":{}}"
-                  },
-                  {
                     "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
                     "value": "{\"backgroundColor\": \"#DAEBE9\"}"
                   },
@@ -5875,13 +5859,13 @@
                 "sortOrder": 4,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1747432447899,
+                "lastUpdateTimeMs": 1760637306364,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
