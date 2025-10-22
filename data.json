@@ -57,7 +57,19 @@
               {
                 "labelKey": "sku.section_title.item_bundles",
                 "gridType": 0,
-                "sortOrder": 3,
+                "sortOrder": 6,
+                "subtitle": {
+                  "locKey": "",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "FEATURED",
+              {
+                "labelKey": "featured.section_title",
+                "gridType": 0,
+                "sortOrder": 1,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -69,7 +81,7 @@
               {
                 "labelKey": "sku.section_title.items",
                 "gridType": 0,
-                "sortOrder": 4,
+                "sortOrder": 7,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -81,7 +93,7 @@
               {
                 "labelKey": "sku.section.limited_time_title_case",
                 "gridType": 0,
-                "sortOrder": 1,
+                "sortOrder": 4,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -93,9 +105,21 @@
               {
                 "labelKey": "common.daily_bundles",
                 "gridType": 1,
-                "sortOrder": 6,
+                "sortOrder": 9,
                 "subtitle": {
                   "locKey": "sku.section_subtitle.daily_bundles",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "ML_FIAT_BUNDLE",
+              {
+                "labelKey": "sku.section_title.personalized_bundles",
+                "gridType": 0,
+                "sortOrder": 2,
+                "subtitle": {
+                  "locKey": "sku.section_subtitle.personalized_bundles",
                   "valuesList": []
                 }
               }
@@ -105,7 +129,19 @@
               {
                 "labelKey": "common.virtual_currency_name",
                 "gridType": 0,
-                "sortOrder": 5,
+                "sortOrder": 8,
+                "subtitle": {
+                  "locKey": "",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "REWARDEDSPEND",
+              {
+                "labelKey": "rewarded_spend.section_title_no_month",
+                "gridType": 0,
+                "sortOrder": 3,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -117,7 +153,7 @@
               {
                 "labelKey": "sku.section_title.tickets",
                 "gridType": 0,
-                "sortOrder": 2,
+                "sortOrder": 5,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -2538,7 +2574,10 @@
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false,
           "enableGlobalTicketSkuCarousel": false,
-          "enableOfferPromotionBanner": false
+          "enableOfferPromotionBanner": false,
+          "enableAndroidDeviceDenialSplashRedirect": false,
+          "enableIosDeviceDenialSplashRedirect": false,
+          "enableSamsungDeviceDenialSplashRedirect": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -3026,6 +3065,16 @@
               "localesToIgnoreList": []
             },
             "mainSupportLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            },
+            "termsAndConditionsLink": {
               "url": "",
               "labelKey": "",
               "iconName": "",
@@ -4456,7 +4505,19 @@
               {
                 "labelKey": "sku.section_title.item_bundles",
                 "gridType": 0,
-                "sortOrder": 3,
+                "sortOrder": 6,
+                "subtitle": {
+                  "locKey": "",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "FEATURED",
+              {
+                "labelKey": "featured.section_title",
+                "gridType": 0,
+                "sortOrder": 1,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -4468,7 +4529,7 @@
               {
                 "labelKey": "sku.section_title.items",
                 "gridType": 0,
-                "sortOrder": 4,
+                "sortOrder": 7,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -4480,7 +4541,7 @@
               {
                 "labelKey": "sku.section.limited_time_title_case",
                 "gridType": 0,
-                "sortOrder": 1,
+                "sortOrder": 4,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -4492,9 +4553,21 @@
               {
                 "labelKey": "common.daily_bundles",
                 "gridType": 1,
-                "sortOrder": 6,
+                "sortOrder": 9,
                 "subtitle": {
                   "locKey": "sku.section_subtitle.daily_bundles",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "ML_FIAT_BUNDLE",
+              {
+                "labelKey": "sku.section_title.personalized_bundles",
+                "gridType": 0,
+                "sortOrder": 2,
+                "subtitle": {
+                  "locKey": "sku.section_subtitle.personalized_bundles",
                   "valuesList": []
                 }
               }
@@ -4504,7 +4577,19 @@
               {
                 "labelKey": "common.virtual_currency_name",
                 "gridType": 0,
-                "sortOrder": 5,
+                "sortOrder": 8,
+                "subtitle": {
+                  "locKey": "",
+                  "valuesList": []
+                }
+              }
+            ],
+            [
+              "REWARDEDSPEND",
+              {
+                "labelKey": "rewarded_spend.section_title_no_month",
+                "gridType": 0,
+                "sortOrder": 3,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -4516,7 +4601,7 @@
               {
                 "labelKey": "sku.section_title.tickets",
                 "gridType": 0,
-                "sortOrder": 2,
+                "sortOrder": 5,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
@@ -6937,7 +7022,10 @@
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false,
           "enableGlobalTicketSkuCarousel": false,
-          "enableOfferPromotionBanner": false
+          "enableOfferPromotionBanner": false,
+          "enableAndroidDeviceDenialSplashRedirect": false,
+          "enableIosDeviceDenialSplashRedirect": false,
+          "enableSamsungDeviceDenialSplashRedirect": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -7425,6 +7513,16 @@
               "localesToIgnoreList": []
             },
             "mainSupportLink": {
+              "url": "",
+              "labelKey": "",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            },
+            "termsAndConditionsLink": {
               "url": "",
               "labelKey": "",
               "iconName": "",
