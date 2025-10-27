@@ -65,18 +65,6 @@
               }
             ],
             [
-              "FEATURED",
-              {
-                "labelKey": "featured.section_title",
-                "gridType": 0,
-                "sortOrder": 1,
-                "subtitle": {
-                  "locKey": "",
-                  "valuesList": []
-                }
-              }
-            ],
-            [
               "ITEMS",
               {
                 "labelKey": "sku.section_title.items",
@@ -4506,18 +4494,6 @@
                 "labelKey": "sku.section_title.item_bundles",
                 "gridType": 0,
                 "sortOrder": 6,
-                "subtitle": {
-                  "locKey": "",
-                  "valuesList": []
-                }
-              }
-            ],
-            [
-              "FEATURED",
-              {
-                "labelKey": "featured.section_title",
-                "gridType": 0,
-                "sortOrder": 1,
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
