@@ -4693,7 +4693,8 @@
                   "web-garbodor-maxbattle-ticket-box": "Garbodor Max Battle Day Ultra Ticket Box",
                   "web-enchanted-ticket-box": "Enchanted Hollow Ultra Ticket Box",
                   "web-gowa-lead-up-25-ticket-box": "Ready for the Wild Ultra Ticket Box",
-                  "web-eevee-max-battle-25-bundle": "Max Battle Boost Box"
+                  "web-eevee-max-battle-25-bundle": "Max Battle Boost Box",
+                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -9594,7 +9595,8 @@
                   "web-garbodor-maxbattle-ticket-box": "灰塵山極巨對戰日究極入場券禮盒",
                   "web-enchanted-ticket-box": "魅惑之森究極入場券禮盒",
                   "web-gowa-lead-up-25-ticket-box": "曠野週指南究極入場券禮盒",
-                  "web-eevee-max-battle-25-bundle": "極巨對戰加成禮盒"
+                  "web-eevee-max-battle-25-bundle": "極巨對戰加成禮盒",
+                  "web-high-voltage-ticket-box": "鼠定高壓電究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10669,7 +10671,8 @@
                   "web-garbodor-maxbattle-ticket-box": "Garbodor Max Battle Day Ultra Ticket Box",
                   "web-enchanted-ticket-box": "Enchanted Hollow Ultra Ticket Box",
                   "web-gowa-lead-up-25-ticket-box": "Ready for the Wild Ultra Ticket Box",
-                  "web-eevee-max-battle-25-bundle": "Max Battle Boost Box"
+                  "web-eevee-max-battle-25-bundle": "Max Battle Boost Box",
+                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
