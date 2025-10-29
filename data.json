@@ -177,7 +177,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -296,7 +296,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -393,7 +393,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -496,7 +496,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -615,7 +615,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -718,7 +718,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -1229,7 +1229,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -1348,7 +1348,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1756335600000,
                   "endTimeMs": 1763359200000
                 },
                 "bundledCurrencyList": [],
@@ -1447,7 +1447,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -1550,7 +1550,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -1650,6 +1650,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1707,6 +1713,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1764,6 +1776,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1746644400000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1815,6 +1833,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1746644400000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1866,6 +1890,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743614160000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1921,6 +1951,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743696000000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -1976,6 +2012,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743696000000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2031,6 +2073,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1741737600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2082,6 +2130,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1741737600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2133,6 +2187,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2184,6 +2244,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2235,6 +2301,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1725843600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2286,6 +2358,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1733680800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -2346,7 +2424,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -2423,7 +2501,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -2500,7 +2578,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -2592,6 +2670,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [
                   {
                     "currency": "POKECOIN",
@@ -2884,7 +2968,8 @@
           "enableOfferPromotionBanner": false,
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
-          "enableSamsungDeviceDenialSplashRedirect": true
+          "enableSamsungDeviceDenialSplashRedirect": true,
+          "enableStoreRefreshFlagFromIap": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -3813,6 +3898,9 @@
       "navbarDoc": null,
       "navbarTranslations": null,
       "disabledFeatures": [],
+      "gameData": {
+        "storeRefreshFeatureGate": null
+      },
       "_nextI18Next": {
         "initialI18nStore": {
           "en": {
@@ -5079,7 +5167,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -5198,7 +5286,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -5295,7 +5383,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761670800000,
                   "endTimeMs": 1764561600000
                 },
                 "bundledCurrencyList": [],
@@ -5398,7 +5486,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -5517,7 +5605,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -5620,7 +5708,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759780800000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -6131,7 +6219,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -6250,7 +6338,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1756335600000,
                   "endTimeMs": 1763359200000
                 },
                 "bundledCurrencyList": [],
@@ -6349,7 +6437,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -6452,7 +6540,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1759338000000,
                   "endTimeMs": 1761966000000
                 },
                 "bundledCurrencyList": [],
@@ -6552,6 +6640,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6609,6 +6703,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6666,6 +6766,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1746644400000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6717,6 +6823,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1746644400000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6768,6 +6880,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743614160000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6823,6 +6941,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743696000000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6878,6 +7002,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1743696000000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6933,6 +7063,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1741737600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -6984,6 +7120,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1741737600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -7035,6 +7177,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -7086,6 +7234,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -7137,6 +7291,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1725843600000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -7188,6 +7348,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1733680800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
@@ -7248,7 +7414,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -7325,7 +7491,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -7402,7 +7568,7 @@
                 "webstoreLimitInfo": {
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
-                  "startTimeMs": 0,
+                  "startTimeMs": 1761066000000,
                   "endTimeMs": 1762142400000
                 },
                 "bundledCurrencyList": [],
@@ -7494,6 +7660,12 @@
                     }
                   }
                 ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1739296800000,
+                  "endTimeMs": 0
+                },
                 "bundledCurrencyList": [
                   {
                     "currency": "POKECOIN",
@@ -7786,7 +7958,8 @@
           "enableOfferPromotionBanner": false,
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
-          "enableSamsungDeviceDenialSplashRedirect": true
+          "enableSamsungDeviceDenialSplashRedirect": true,
+          "enableStoreRefreshFlagFromIap": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -8715,6 +8888,9 @@
       "navbarDoc": null,
       "navbarTranslations": null,
       "disabledFeatures": [],
+      "gameData": {
+        "storeRefreshFeatureGate": null
+      },
       "_nextI18Next": {
         "initialI18nStore": {
           "zh-Hant": {
