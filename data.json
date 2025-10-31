@@ -3118,7 +3118,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
-          "enableFirstLoginBonus": false,
+          "enableFirstLoginBonus": true,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false,
@@ -3126,7 +3126,7 @@
           "enableOfferPromotionBanner": false,
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
-          "enableSamsungDeviceDenialSplashRedirect": true,
+          "enableSamsungDeviceDenialSplashRedirect": false,
           "enableStoreRefreshFlagFromIap": false
         },
         "layoutConfig": {
@@ -8270,7 +8270,7 @@
           "featureFlagsList": [],
           "enableHeroVideo": true,
           "enableWebfusionFooter": true,
-          "enableFirstLoginBonus": false,
+          "enableFirstLoginBonus": true,
           "enableSubscription": false,
           "enableRootCmsNavbar": false,
           "enablePersonalizedBundle": false,
@@ -8278,7 +8278,7 @@
           "enableOfferPromotionBanner": false,
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
-          "enableSamsungDeviceDenialSplashRedirect": true,
+          "enableSamsungDeviceDenialSplashRedirect": false,
           "enableStoreRefreshFlagFromIap": false
         },
         "layoutConfig": {
