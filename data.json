@@ -3873,6 +3873,10 @@
             "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
+        "bannerConfig": {
+          "defaultBannerLocalizationKey": "banner.message",
+          "countryBannerLocalizationKeyMap": []
+        },
         "offerPromotionConfigList": []
       },
       "rewardTiers": {
@@ -9021,6 +9025,10 @@
             "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
+        "bannerConfig": {
+          "defaultBannerLocalizationKey": "banner.message",
+          "countryBannerLocalizationKeyMap": []
+        },
         "offerPromotionConfigList": []
       },
       "rewardTiers": {
