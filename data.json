@@ -1610,6 +1610,85 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-enchanted-ticket-box",
+                "localizationNameKey": "sku.name.web-enchanted-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general3.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761930000000,
+                  "endTimeMs": 1762754400000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/enchanted-hollow-2025\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761690829906,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-base-october",
                 "localizationNameKey": "sku.name.web-event-pass-base-october",
                 "description": " ",
@@ -6757,6 +6836,85 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1761604943831,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-enchanted-ticket-box",
+                "localizationNameKey": "sku.name.web-enchanted-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general3.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761930000000,
+                  "endTimeMs": 1762754400000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/enchanted-hollow-2025\",\"associatedItemId\":\"ITEM_EVERGREEN_TICKET\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761690829906,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
