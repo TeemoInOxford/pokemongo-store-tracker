@@ -3655,6 +3655,16 @@
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
                   "localesToIgnoreList": []
+                },
+                {
+                  "url": "https://pokemongo.com/reward-road",
+                  "labelKey": "reward_road",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": []
                 }
               ]
             }
@@ -8880,6 +8890,16 @@
                 {
                   "url": "/offer-redemption",
                   "labelKey": "offer_redemption",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": []
+                },
+                {
+                  "url": "https://pokemongo.com/reward-road",
+                  "labelKey": "reward_road",
                   "iconName": "",
                   "isInternal": false,
                   "useLanguageCode": false,
