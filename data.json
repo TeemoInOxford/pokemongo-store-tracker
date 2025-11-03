@@ -277,6 +277,231 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-coin-bundle-xlarge-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-xlarge-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 505000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 505000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 16500,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 10100,
+                    "fiatBonus": 6400
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 1200,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761692559626,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-coin-bundle-medium-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-medium-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 2900,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 2020,
+                    "fiatBonus": 880
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761692413432,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-coin-bundle-large-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-large-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 200000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 200000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 6000,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 4000,
+                    "fiatBonus": 2000
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 480,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761693172952,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-base-november",
                 "localizationNameKey": "sku.name.web-event-pass-base-november",
                 "description": " ",
@@ -880,6 +1105,94 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1746578094014,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              }
+            ]
+          },
+          {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "web-seasonal-delights-2024-box",
+                "localizationNameKey": "sku.name.web-seasonal-delights-2024-box",
+                "description": "",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 6095000000,
+                    "currency": "POKECOIN",
+                    "type": 1
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 40,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 40,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_TAG_LIMITED_TIME",
+                    "value": "sku.tag.limited_time_only"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "false"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [],
+                "catalogType": 2,
+                "rewardedSpendPoints": 0,
+                "skuTemplateId": "",
+                "lastUpdateTimeMs": 1761756953801,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4473,6 +4786,231 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-coin-bundle-xlarge-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-xlarge-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-xlarge_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 505000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 505000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 16500,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 10100,
+                    "fiatBonus": 6400
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 1200,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761692559626,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-coin-bundle-medium-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-medium-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-medium_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 101000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 101000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 2900,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 2020,
+                    "fiatBonus": 880
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 240,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761692413432,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-coin-bundle-large-thanksgiving-25",
+                "localizationNameKey": "sku.name.web-coin-bundle-large-thanksgiving-25",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/coin-bundle-large_thanksgiving.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 200000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 200000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [
+                  {
+                    "currency": "POKECOIN",
+                    "quantity": 6000,
+                    "webstoreBonus": 0,
+                    "contentTagsList": [],
+                    "fiatBaseAmount": 4000,
+                    "fiatBonus": 2000
+                  }
+                ],
+                "bundledItemList": [],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 1,
+                "rewardedSpendPoints": 480,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761693172952,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-base-november",
                 "localizationNameKey": "sku.name.web-event-pass-base-november",
                 "description": " ",
@@ -5076,6 +5614,94 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1746578094014,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              }
+            ]
+          },
+          {
+            "category": "BUNDLE",
+            "metadataList": [],
+            "itemsList": [
+              {
+                "skuId": "web-seasonal-delights-2024-box",
+                "localizationNameKey": "sku.name.web-seasonal-delights-2024-box",
+                "description": "",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 6095000000,
+                    "currency": "POKECOIN",
+                    "type": 1
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1762192800000,
+                  "endTimeMs": 1764475200000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 40,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 40,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_TAG_LIMITED_TIME",
+                    "value": "sku.tag.limited_time_only"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "false"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [],
+                "catalogType": 2,
+                "rewardedSpendPoints": 0,
+                "skuTemplateId": "",
+                "lastUpdateTimeMs": 1761756953801,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
