@@ -406,6 +406,60 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"6,000 PokéCoins\n6,000宝可币",
+    "endTimeMs":"2025-11-30 12:00:00",
+    "bundledItems":[
+      {
+        "itemId":"POKECOIN\n宝可币",
+        "rawId":"pokecoin",
+        "quantity":6000
+      }
+    ],
+    "sellingPrice":"99.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":200000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":200000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large_thanksgiving.png",
+    "localImage":"images\/main_web-coin-bundle-large-thanksgiving-25.png"
+  },
+  {
+    "DLC":2,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"2,900 PokéCoins\n2,900宝可币",
+    "endTimeMs":"2025-11-30 12:00:00",
+    "bundledItems":[
+      {
+        "itemId":"POKECOIN\n宝可币",
+        "rawId":"pokecoin",
+        "quantity":2900
+      }
+    ],
+    "sellingPrice":"59.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":101000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":101000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_thanksgiving.png",
+    "localImage":"images\/main_web-coin-bundle-medium-thanksgiving-25.png"
+  },
+  {
+    "DLC":3,
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"16,500 PokéCoins\n16,500宝可币",
     "endTimeMs":"2025-11-30 12:00:00",
     "bundledItems":[
@@ -431,8 +485,87 @@
     "localImage":"images\/main_web-coin-bundle-xlarge-thanksgiving-25.png"
   },
   {
-    "DLC":2,
-    "category":"LIMITED_TIME\n限时礼盒",
+    "DLC":4,
+    "category":"TICKETS\n门票礼盒",
+    "name":"Enchanted Hollow Ultra Ticket Box\n魅惑之森究极入场券礼盒",
+    "endTimeMs":"2025-11-10 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_evergreen_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"9.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.medium.1.png",
+    "localImage":"images\/main_web-enchanted-ticket-box.png"
+  },
+  {
+    "DLC":5,
+    "category":"TICKETS\n门票礼盒",
+    "name":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
+    "endTimeMs":"2025-12-01 12:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
+        "rawId":"badge_event_0142",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
+    "localImage":"images\/main_web-event-pass-base-november.png"
+  },
+  {
+    "DLC":6,
+    "category":"TICKETS\n门票礼盒",
     "name":"GO Pass Deluxe: November + 10 Rank\nGO Pass豪华版：11月 +10 级",
     "endTimeMs":"2025-12-01 12:00:00",
     "bundledItems":[
@@ -483,109 +616,8 @@
     "localImage":"images\/main_web-event-pass-plusrank-november.png"
   },
   {
-    "DLC":3,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"6,000 PokéCoins\n6,000宝可币",
-    "endTimeMs":"2025-11-30 12:00:00",
-    "bundledItems":[
-      {
-        "itemId":"POKECOIN\n宝可币",
-        "rawId":"pokecoin",
-        "quantity":6000
-      }
-    ],
-    "sellingPrice":"99.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":200000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":200000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large_thanksgiving.png",
-    "localImage":"images\/main_web-coin-bundle-large-thanksgiving-25.png"
-  },
-  {
-    "DLC":4,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
-    "endTimeMs":"2025-12-01 12:00:00",
-    "bundledItems":[
-      {
-        "itemId":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
-        "rawId":"badge_event_0142",
-        "quantity":1
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"29.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":41000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":41000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
-    "localImage":"images\/main_web-event-pass-base-november.png"
-  },
-  {
-    "DLC":5,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"2,900 PokéCoins\n2,900宝可币",
-    "endTimeMs":"2025-11-30 12:00:00",
-    "bundledItems":[
-      {
-        "itemId":"POKECOIN\n宝可币",
-        "rawId":"pokecoin",
-        "quantity":2900
-      }
-    ],
-    "sellingPrice":"59.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":101000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":101000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_thanksgiving.png",
-    "localImage":"images\/main_web-coin-bundle-medium-thanksgiving-25.png"
-  },
-  {
-    "DLC":6,
-    "category":"LIMITED_TIME\n限时礼盒",
+    "DLC":7,
+    "category":"TICKETS\n门票礼盒",
     "name":"GO Pass Deluxe: November + 10 Rank Ultra Ticket Box\nGO Pass豪华版：11月 +10 级 究极入场券礼盒",
     "endTimeMs":"2025-12-01 12:00:00",
     "bundledItems":[
@@ -644,38 +676,6 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png",
     "localImage":"images\/main_web-event-pass-plusrank-november-ultra.png"
-  },
-  {
-    "DLC":7,
-    "category":"TICKETS\n门票礼盒",
-    "name":"Enchanted Hollow Ultra Ticket Box\n魅惑之森究极入场券礼盒",
-    "endTimeMs":"2025-11-10 14:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_evergreen_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":5
-      }
-    ],
-    "sellingPrice":"9.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.medium.1.png",
-    "localImage":"images\/main_web-enchanted-ticket-box.png"
   },
   {
     "DLC":8,

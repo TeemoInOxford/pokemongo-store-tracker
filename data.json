@@ -158,125 +158,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-event-pass-plusrank-november-ultra",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-november-ultra",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 20,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 0,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 180,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761674737145,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
                 "skuId": "web-coin-bundle-xlarge-thanksgiving-25",
                 "localizationNameKey": "sku.name.web-coin-bundle-xlarge-thanksgiving-25",
                 "description": " ",
@@ -497,206 +378,6 @@
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1761693172952,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-event-pass-base-november",
-                "localizationNameKey": "sku.name.web-event-pass-base-november",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761605177587,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-event-pass-plusrank-november",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761605204735,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1204,6 +885,125 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-event-pass-plusrank-november-ultra",
+                "localizationNameKey": "sku.name.web-event-pass-plusrank-november-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 76000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 76000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
+                    "quantity": 1000,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 20,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 180,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209943350,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-2025-gowa-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
                 "description": " ",
@@ -1298,6 +1098,206 @@
                 "rewardedSpendPoints": 144,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1755725658031,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-event-pass-base-november",
+                "localizationNameKey": "sku.name.web-event-pass-base-november",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209912275,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-event-pass-plusrank-november",
+                "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
+                    "quantity": 1000,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209928001,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4301,7 +4301,12 @@
                   "web-enchanted-ticket-box": "Enchanted Hollow Ultra Ticket Box",
                   "web-gowa-lead-up-25-ticket-box": "Ready for the Wild Ultra Ticket Box",
                   "web-eevee-max-battle-25-bundle": "Max Battle Boost Box",
-                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box"
+                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box",
+                  "web-event-pass-gowa-25": "GO Pass Deluxe: Into the Wild",
+                  "web-event-pass-gowa-25-plus-10rank": "GO Pass Deluxe: Into the Wild + 10 Ranks",
+                  "web-event-pass-gowa-25-plus-10rank-webonly": "GO Pass Deluxe: Into the Wild + 10 Ranks Ultra Ticket Box",
+                  "BADGE_EVENT_0170": "GO Pass Deluxe: Into the Wild",
+                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -4667,125 +4672,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-event-pass-plusrank-november-ultra",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-november-ultra",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 20,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 0,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 180,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761674737145,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
                 "skuId": "web-coin-bundle-xlarge-thanksgiving-25",
                 "localizationNameKey": "sku.name.web-coin-bundle-xlarge-thanksgiving-25",
                 "description": " ",
@@ -5006,206 +4892,6 @@
                 "rewardedSpendPoints": 480,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1761693172952,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-event-pass-base-november",
-                "localizationNameKey": "sku.name.web-event-pass-base-november",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761605177587,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-event-pass-plusrank-november",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1761670800000,
-                  "endTimeMs": 1764561600000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0142",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761605204735,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -5713,6 +5399,125 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-event-pass-plusrank-november-ultra",
+                "localizationNameKey": "sku.name.web-event-pass-plusrank-november-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.large.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 76000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 76000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
+                    "quantity": 1000,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 20,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 180,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209943350,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-2025-gowa-ticket-box",
                 "localizationNameKey": "sku.name.web-2025-gowa-ticket-box",
                 "description": " ",
@@ -5807,6 +5612,206 @@
                 "rewardedSpendPoints": 144,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1755725658031,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-event-pass-base-november",
+                "localizationNameKey": "sku.name.web-event-pass-base-november",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/red_bundle_box.webp",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209912275,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-event-pass-plusrank-november",
+                "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.medium.2.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1761670800000,
+                  "endTimeMs": 1764561600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0142",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
+                    "quantity": 1000,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-november-2025\",\"associatedItemId\":\"BADGE_EVENT_0142\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762209928001,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -8810,7 +8815,12 @@
                   "web-enchanted-ticket-box": "魅惑之森究極入場券禮盒",
                   "web-gowa-lead-up-25-ticket-box": "曠野週指南究極入場券禮盒",
                   "web-eevee-max-battle-25-bundle": "極巨對戰加成禮盒",
-                  "web-high-voltage-ticket-box": "鼠定高壓電究極入場券禮盒"
+                  "web-high-voltage-ticket-box": "鼠定高壓電究極入場券禮盒",
+                  "web-event-pass-gowa-25": "GO Pass豪華版：曠野週",
+                  "web-event-pass-gowa-25-plus-10rank": "GO Pass豪華版：曠野週＋10級",
+                  "web-event-pass-gowa-25-plus-10rank-webonly": "GO Pass豪華版：曠野週＋10級究極入場券禮盒",
+                  "BADGE_EVENT_0170": "GO Pass豪華版：曠野週",
+                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " +10 級"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9886,7 +9896,12 @@
                   "web-enchanted-ticket-box": "Enchanted Hollow Ultra Ticket Box",
                   "web-gowa-lead-up-25-ticket-box": "Ready for the Wild Ultra Ticket Box",
                   "web-eevee-max-battle-25-bundle": "Max Battle Boost Box",
-                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box"
+                  "web-high-voltage-ticket-box": "High Voltage Ultra Ticket Box",
+                  "web-event-pass-gowa-25": "GO Pass Deluxe: Into the Wild",
+                  "web-event-pass-gowa-25-plus-10rank": "GO Pass Deluxe: Into the Wild + 10 Ranks",
+                  "web-event-pass-gowa-25-plus-10rank-webonly": "GO Pass Deluxe: Into the Wild + 10 Ranks Ultra Ticket Box",
+                  "BADGE_EVENT_0170": "GO Pass Deluxe: Into the Wild",
+                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
