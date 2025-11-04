@@ -2478,7 +2478,9 @@
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
           "enableSamsungDeviceDenialSplashRedirect": false,
-          "enableStoreRefreshFlagFromIap": false
+          "enableStoreRefreshFlagFromIap": false,
+          "enableStoreRefreshPhaseOnePointOne": false,
+          "enableStoreRedirectToSplashPage": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -2997,6 +2999,11 @@
             }
           },
           "countryHelpshiftLinksMap": []
+        },
+        "miscConfig": {
+          "ignoreStoreRedirectCountryList": [
+            "US"
+          ]
         }
       },
       "envSpecificClientConfig": {
@@ -6996,7 +7003,9 @@
           "enableAndroidDeviceDenialSplashRedirect": true,
           "enableIosDeviceDenialSplashRedirect": false,
           "enableSamsungDeviceDenialSplashRedirect": false,
-          "enableStoreRefreshFlagFromIap": false
+          "enableStoreRefreshFlagFromIap": false,
+          "enableStoreRefreshPhaseOnePointOne": false,
+          "enableStoreRedirectToSplashPage": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -7515,6 +7524,11 @@
             }
           },
           "countryHelpshiftLinksMap": []
+        },
+        "miscConfig": {
+          "ignoreStoreRedirectCountryList": [
+            "US"
+          ]
         }
       },
       "envSpecificClientConfig": {
