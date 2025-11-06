@@ -4323,9 +4323,10 @@
                 "section": {
                   "exclusive_item_boxes": "Web Store Exclusive Item Boxes",
                   "item_boxes": "Item Boxes",
-                  "limited_time": "LIMITED TIME",
+                  "limited_time": "Limited Time",
                   "limited_time_title_case": "Limited Time",
-                  "limited_time_upper_case": "LIMITED TIME"
+                  "limited_time_upper_case": "LIMITED TIME",
+                  "limited_time_uppercase": "LIMITED TIME"
                 },
                 "tag": {
                   "additional_item_storage": "{{amount}} ITEM STORAGE",
@@ -4386,7 +4387,9 @@
                   "items": "Items",
                   "item_bundles": "Item Bundles",
                   "personalized_bundles": "Recommended For You",
-                  "personalized_bundles_uppercase": "RECOMMENDED FOR YOU"
+                  "personalized_bundles_uppercase": "RECOMMENDED FOR YOU",
+                  "passes": "Passes",
+                  "passes_uppercase": "PASSES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
@@ -8850,7 +8853,8 @@
                   "item_boxes": "道具禮盒",
                   "limited_time": "限時",
                   "limited_time_title_case": "限時",
-                  "limited_time_upper_case": "限時"
+                  "limited_time_upper_case": "限時",
+                  "limited_time_uppercase": "限時"
                 },
                 "tag": {
                   "additional_item_storage": "{{amount}}道具包包容量",
@@ -8911,7 +8915,9 @@
                   "items": "道具",
                   "item_bundles": "道具套組",
                   "personalized_bundles": "為你推薦",
-                  "personalized_bundles_uppercase": "為你推薦"
+                  "personalized_bundles_uppercase": "為你推薦",
+                  "passes": "Passes",
+                  "passes_uppercase": "PASSES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store獎勵",
@@ -9929,9 +9935,10 @@
                 "section": {
                   "exclusive_item_boxes": "Web Store Exclusive Item Boxes",
                   "item_boxes": "Item Boxes",
-                  "limited_time": "LIMITED TIME",
+                  "limited_time": "Limited Time",
                   "limited_time_title_case": "Limited Time",
-                  "limited_time_upper_case": "LIMITED TIME"
+                  "limited_time_upper_case": "LIMITED TIME",
+                  "limited_time_uppercase": "LIMITED TIME"
                 },
                 "tag": {
                   "additional_item_storage": "{{amount}} ITEM STORAGE",
@@ -9992,7 +9999,9 @@
                   "items": "Items",
                   "item_bundles": "Item Bundles",
                   "personalized_bundles": "Recommended For You",
-                  "personalized_bundles_uppercase": "RECOMMENDED FOR YOU"
+                  "personalized_bundles_uppercase": "RECOMMENDED FOR YOU",
+                  "passes": "Passes",
+                  "passes_uppercase": "PASSES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
