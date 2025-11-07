@@ -8845,7 +8845,8 @@
                   "web-event-pass-gowa-25-plus-10rank": "GO Pass豪華版：曠野週＋10級",
                   "web-event-pass-gowa-25-plus-10rank-webonly": "GO Pass豪華版：曠野週＋10級究極入場券禮盒",
                   "BADGE_EVENT_0170": "GO Pass豪華版：曠野週",
-                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " +10 級"
+                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " +10 級",
+                  "web-2025-safariball-999-bundle": "250 GO Safari Ball"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9929,7 +9930,8 @@
                   "web-event-pass-gowa-25-plus-10rank": "GO Pass Deluxe: Into the Wild + 10 Ranks",
                   "web-event-pass-gowa-25-plus-10rank-webonly": "GO Pass Deluxe: Into the Wild + 10 Ranks Ultra Ticket Box",
                   "BADGE_EVENT_0170": "GO Pass Deluxe: Into the Wild",
-                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks",
+                  "web-2025-safariball-999-bundle": "250 GO Safari Ball"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
