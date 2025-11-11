@@ -4848,8 +4848,7 @@
                 "signout_paypay_fail": "Failed to sign out of PayPay.",
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
-              },
-              "sku-name-item_wild_ball": "GO Safari Ball"
+              }
             }
           }
         },
@@ -9711,8 +9710,7 @@
                 "signout_paypay_fail": "登出PayPay失敗。",
                 "signout_paypay_success": "已成功登出PayPay。",
                 "terms_of_service": "若要前往下個步驟，請先確認您已成年並同意<1>Niantic的使用條款</1>與<3>隱私權策略</3>。"
-              },
-              "sku-name-item_wild_ball": "GO狩獵球"
+              }
             }
           },
           "en": {
@@ -10799,8 +10797,7 @@
                 "signout_paypay_fail": "Failed to sign out of PayPay.",
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
-              },
-              "sku-name-item_wild_ball": "GO Safari Ball"
+              }
             }
           }
         },
