@@ -5015,7 +5015,8 @@
                   "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks",
                   "web-2025-safariball-999-bundle": "250 GO Safari Ball",
                   "web-2025-safariball-1499-bundle": "500 GO Safari Ball",
-                  "ITEM_WILD_BALL": "GO Safari Ball"
+                  "ITEM_WILD_BALL": "GO Safari Ball",
+                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -10241,7 +10242,8 @@
                   "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " +10 級",
                   "web-2025-safariball-999-bundle": "250顆GO狩獵球",
                   "web-2025-safariball-1499-bundle": "500顆GO狩獵球",
-                  "ITEM_WILD_BALL": "GO狩獵球"
+                  "ITEM_WILD_BALL": "GO狩獵球",
+                  "ITEM_LEADER_MAP_FRAGMENT": "神秘零件"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -11328,7 +11330,8 @@
                   "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01": " + 10 Ranks",
                   "web-2025-safariball-999-bundle": "250 GO Safari Ball",
                   "web-2025-safariball-1499-bundle": "500 GO Safari Ball",
-                  "ITEM_WILD_BALL": "GO Safari Ball"
+                  "ITEM_WILD_BALL": "GO Safari Ball",
+                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
