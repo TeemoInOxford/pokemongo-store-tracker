@@ -5016,7 +5016,12 @@
                   "web-2025-safariball-999-bundle": "250 GO Safari Ball",
                   "web-2025-safariball-1499-bundle": "500 GO Safari Ball",
                   "ITEM_WILD_BALL": "GO Safari Ball",
-                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component"
+                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component",
+                  "web-s20-finale-ticket-box": "Masterwork Research: Pony Tales Ultra Ticket Box",
+                  "web-pikipek-cd-ticket-box": "Pikipek Community Day Ultra Ticket Box",
+                  "web-masterball-25-ticket-box": "Masterwork Research: Master Ball Ultra Ticket Box",
+                  "web-gotour-26-ticket-box": "Pokémon GO Tour 2026 Ultra Ticket Box",
+                  "web-paldea-journey-ticket-box": "Journey to Paldea Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -10243,7 +10248,12 @@
                   "web-2025-safariball-999-bundle": "250顆GO狩獵球",
                   "web-2025-safariball-1499-bundle": "500顆GO狩獵球",
                   "ITEM_WILD_BALL": "GO狩獵球",
-                  "ITEM_LEADER_MAP_FRAGMENT": "神秘零件"
+                  "ITEM_LEADER_MAP_FRAGMENT": "神秘零件",
+                  "web-s20-finale-ticket-box": "正義的故事 究極入場券禮盒",
+                  "web-pikipek-cd-ticket-box": "社群日：小篤兒究極入場券禮盒",
+                  "web-masterball-25-ticket-box": "大師球究極入場券禮盒",
+                  "web-gotour-26-ticket-box": "GO Tour 2026究極入場券禮盒",
+                  "web-paldea-journey-ticket-box": "帕底亞地區之旅究極入場券禮盒"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -11331,7 +11341,12 @@
                   "web-2025-safariball-999-bundle": "250 GO Safari Ball",
                   "web-2025-safariball-1499-bundle": "500 GO Safari Ball",
                   "ITEM_WILD_BALL": "GO Safari Ball",
-                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component"
+                  "ITEM_LEADER_MAP_FRAGMENT": "Mysterious Component",
+                  "web-s20-finale-ticket-box": "Masterwork Research: Pony Tales Ultra Ticket Box",
+                  "web-pikipek-cd-ticket-box": "Pikipek Community Day Ultra Ticket Box",
+                  "web-masterball-25-ticket-box": "Masterwork Research: Master Ball Ultra Ticket Box",
+                  "web-gotour-26-ticket-box": "Pokémon GO Tour 2026 Ultra Ticket Box",
+                  "web-paldea-journey-ticket-box": "Journey to Paldea Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
