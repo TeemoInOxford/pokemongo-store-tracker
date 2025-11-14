@@ -1128,6 +1128,83 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-2025-safariball-999-bundle",
+                "localizationNameKey": "sku.name.web-2025-safariball-999-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/safari_box.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763150400000,
+                  "endTimeMs": 1763265600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_WILD_BALL",
+                    "quantity": 250,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://niantic.helpshift.com/hc/faq/3580-types-of-items-and-their-effects/#items-to-assist-with-catching-wild-pokémon\",\"associatedItemId\":\"ITEM_WILD_BALL\"}"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1763064729114,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-routes-box-1223",
                 "localizationNameKey": "sku.name.web-routes-box-1223",
                 "description": " ",
@@ -1389,6 +1466,83 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1761756953801,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-2025-safariball-1499-bundle",
+                "localizationNameKey": "sku.name.web-2025-safariball-1499-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/safari_box.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 76000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 76000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763150400000,
+                  "endTimeMs": 1763265600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_WILD_BALL",
+                    "quantity": 500,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://niantic.helpshift.com/hc/faq/3580-types-of-items-and-their-effects/#items-to-assist-with-catching-wild-pokémon\",\"associatedItemId\":\"ITEM_WILD_BALL\"}"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 180,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1763064850257,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -1890,85 +2044,6 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1762209912275,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-gowa-lead-up-25-ticket-box",
-                "localizationNameKey": "sku.name.web-gowa-lead-up-25-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1762711200000,
-                  "endTimeMs": 1763186400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_06",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/into-the-wild-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761691599267,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6360,6 +6435,83 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-2025-safariball-999-bundle",
+                "localizationNameKey": "sku.name.web-2025-safariball-999-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/safari_box.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763150400000,
+                  "endTimeMs": 1763265600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_WILD_BALL",
+                    "quantity": 250,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://niantic.helpshift.com/hc/faq/3580-types-of-items-and-their-effects/#items-to-assist-with-catching-wild-pokémon\",\"associatedItemId\":\"ITEM_WILD_BALL\"}"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1763064729114,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-routes-box-1223",
                 "localizationNameKey": "sku.name.web-routes-box-1223",
                 "description": " ",
@@ -6621,6 +6773,83 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1761756953801,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-2025-safariball-1499-bundle",
+                "localizationNameKey": "sku.name.web-2025-safariball-1499-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/safari_box.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 76000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 76000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763150400000,
+                  "endTimeMs": 1763265600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_WILD_BALL",
+                    "quantity": 500,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "3"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://niantic.helpshift.com/hc/faq/3580-types-of-items-and-their-effects/#items-to-assist-with-catching-wild-pokémon\",\"associatedItemId\":\"ITEM_WILD_BALL\"}"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 180,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1763064850257,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -7122,85 +7351,6 @@
                 "rewardedSpendPoints": 96,
                 "skuTemplateId": "default",
                 "lastUpdateTimeMs": 1762209912275,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-gowa-lead-up-25-ticket-box",
-                "localizationNameKey": "sku.name.web-gowa-lead-up-25-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general.adventure.1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 25000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 25000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1762711200000,
-                  "endTimeMs": 1763186400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVENT_TICKET_06",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongolive.com/post/into-the-wild-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
-                  }
-                ],
-                "category": "TICKETS",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 60,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1761691599267,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
