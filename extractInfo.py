@@ -118,6 +118,9 @@ def suggest_price(idr, premium=0.15):
 
 for category in categories:
     raw_cat = category["category"]
+    if raw_cat == "DEFAULT":
+        print(f"⏭️  跳过DEFAULT分类")
+        continue
     cat_cn = category_map.get(raw_cat, raw_cat)
     cat_name = f"{raw_cat}\n{cat_cn}"
     for item in category.get("itemsList", []):
