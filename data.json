@@ -3039,28 +3039,6 @@
             "startTimeMs": 0,
             "endTimeMs": 0,
             "id": "2798736e-5160-4600-8057-ee7640aa2ee7"
-          },
-          {
-            "heroImage": {
-              "fileName": "hero_GOWA2025_webstore_1334x600.png",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-2025-gowa-ticket-box",
-              "tag": {
-                "key": "Limited-Time Only",
-                "value": "sku.tag.limited_time_only"
-              }
-            },
-            "startTimeMs": 1756335600000,
-            "endTimeMs": 1763359200000,
-            "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
         "bannerConfig": {
@@ -7399,28 +7377,6 @@
             "startTimeMs": 0,
             "endTimeMs": 0,
             "id": "2798736e-5160-4600-8057-ee7640aa2ee7"
-          },
-          {
-            "heroImage": {
-              "fileName": "hero_GOWA2025_webstore_1334x600.png",
-              "widthPx": 1344,
-              "heightPx": 600,
-              "altLabelKey": "",
-              "url": ""
-            },
-            "heroLocalizationNameKey": "hero.message_default",
-            "cssClassName": "",
-            "heroType": 2,
-            "highlightSku": {
-              "skuId": "web-2025-gowa-ticket-box",
-              "tag": {
-                "key": "Limited-Time Only",
-                "value": "sku.tag.limited_time_only"
-              }
-            },
-            "startTimeMs": 1756335600000,
-            "endTimeMs": 1763359200000,
-            "id": "378778b7-815e-46f7-b023-556cb9fce612"
           }
         ],
         "bannerConfig": {
