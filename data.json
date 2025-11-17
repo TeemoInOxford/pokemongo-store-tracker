@@ -374,6 +374,85 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-high-voltage-ticket-box",
+                "localizationNameKey": "sku.name.web-high-voltage-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.large.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763402400000,
+                  "endTimeMs": 1763877600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/high-voltage-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_09\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761696586961,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-plusrank-november",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
                 "description": " ",
@@ -1199,6 +1278,81 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1761756953801,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-eevee-max-battle-25-bundle",
+                "localizationNameKey": "sku.name.web-eevee-max-battle-25-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.b.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763402400000,
+                  "endTimeMs": 1764532800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MAX_BOOST",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762800447660,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -4712,6 +4866,85 @@
                 "subscriptionContentCategoriesList": []
               },
               {
+                "skuId": "web-high-voltage-ticket-box",
+                "localizationNameKey": "sku.name.web-high-voltage-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.large.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763402400000,
+                  "endTimeMs": 1763877600000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_09",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/high-voltage-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_09\"}"
+                  }
+                ],
+                "category": "TICKETS",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1761696586961,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
                 "skuId": "web-event-pass-plusrank-november",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-november",
                 "description": " ",
@@ -5537,6 +5770,81 @@
                 "rewardedSpendPoints": 0,
                 "skuTemplateId": "",
                 "lastUpdateTimeMs": 1761756953801,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": []
+              },
+              {
+                "skuId": "web-eevee-max-battle-25-bundle",
+                "localizationNameKey": "sku.name.web-eevee-max-battle-25-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.b.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 50000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 50000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1763402400000,
+                  "endTimeMs": 1764532800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MAX_BOOST",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  },
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 7,
+                    "imageUrl": "",
+                    "contentTagsList": []
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 120,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1762800447660,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
