@@ -59,14 +59,14 @@
         "quantity":7
       }
     ],
-    "sellingPrice":"33.33 CNY 人民币",
+    "sellingPrice":"9.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":50000000000,
-        "currency":"IDR",
+        "priceE6":9990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":50000000000,
+          "originalPriceE6":9990000,
           "discountPercentage":0
         }
       }
@@ -86,14 +86,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"9.99 CNY 人民币",
+    "sellingPrice":"1.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":10000000000,
-        "currency":"IDR",
+        "priceE6":1990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":10000000000,
+          "originalPriceE6":1990000,
           "discountPercentage":0
         }
       }
@@ -113,14 +113,14 @@
         "quantity":2
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"2.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
-        "currency":"IDR",
+        "priceE6":2990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":2990000,
           "discountPercentage":0
         }
       }
@@ -140,14 +140,14 @@
         "quantity":8
       }
     ],
-    "sellingPrice":"22.22 CNY 人民币",
+    "sellingPrice":"4.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":25000000000,
-        "currency":"IDR",
+        "priceE6":4990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":25000000000,
+          "originalPriceE6":4990000,
           "discountPercentage":0
         }
       }
@@ -167,14 +167,14 @@
         "quantity":8
       }
     ],
-    "sellingPrice":"25.55 CNY 人民币",
+    "sellingPrice":"5.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":30500000000,
-        "currency":"IDR",
+        "priceE6":5990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":30500000000,
+          "originalPriceE6":5990000,
           "discountPercentage":0
         }
       }
@@ -199,14 +199,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"2.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
-        "currency":"IDR",
+        "priceE6":2990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":2990000,
           "discountPercentage":0
         }
       }
@@ -231,14 +231,14 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"7.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
-        "currency":"IDR",
+        "priceE6":7990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":7990000,
           "discountPercentage":0
         }
       }
@@ -258,14 +258,14 @@
         "quantity":6
       }
     ],
-    "sellingPrice":"9.99 CNY 人民币",
+    "sellingPrice":"1.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":10000000000,
-        "currency":"IDR",
+        "priceE6":1990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":10000000000,
+          "originalPriceE6":1990000,
           "discountPercentage":0
         }
       }
@@ -285,14 +285,14 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"33.33 CNY 人民币",
+    "sellingPrice":"9.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":50000000000,
-        "currency":"IDR",
+        "priceE6":9990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":50000000000,
+          "originalPriceE6":9990000,
           "discountPercentage":0
         }
       }
@@ -312,14 +312,14 @@
         "quantity":6
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"7.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
-        "currency":"IDR",
+        "priceE6":7990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":7990000,
           "discountPercentage":0
         }
       }
@@ -339,14 +339,14 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"2.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
-        "currency":"IDR",
+        "priceE6":2990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":2990000,
           "discountPercentage":0
         }
       }
@@ -366,14 +366,14 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"2.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
-        "currency":"IDR",
+        "priceE6":2990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":2990000,
           "discountPercentage":0
         }
       }
@@ -393,14 +393,14 @@
         "quantity":2
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"2.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
-        "currency":"IDR",
+        "priceE6":2990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":2990000,
           "discountPercentage":0
         }
       }
@@ -420,14 +420,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"9.99 CNY 人民币",
+    "sellingPrice":"1.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":10000000000,
-        "currency":"IDR",
+        "priceE6":1990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":10000000000,
+          "originalPriceE6":1990000,
           "discountPercentage":0
         }
       }
@@ -447,14 +447,14 @@
         "quantity":2900
       }
     ],
-    "sellingPrice":"59.99 CNY 人民币",
+    "sellingPrice":"19.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":101000000000,
-        "currency":"IDR",
+        "priceE6":19990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":101000000000,
+          "originalPriceE6":19990000,
           "discountPercentage":0
         }
       }
@@ -474,14 +474,14 @@
         "quantity":6000
       }
     ],
-    "sellingPrice":"99.99 CNY 人民币",
+    "sellingPrice":"39.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":200000000000,
-        "currency":"IDR",
+        "priceE6":39990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":200000000000,
+          "originalPriceE6":39990000,
           "discountPercentage":0
         }
       }
@@ -511,14 +511,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"7.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
-        "currency":"IDR",
+        "priceE6":7990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":7990000,
           "discountPercentage":0
         }
       }
@@ -538,14 +538,14 @@
         "quantity":16500
       }
     ],
-    "sellingPrice":"219.99 CNY 人民币",
+    "sellingPrice":"99.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":505000000000,
-        "currency":"IDR",
+        "priceE6":99990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":505000000000,
+          "originalPriceE6":99990000,
           "discountPercentage":0
         }
       }
@@ -570,14 +570,14 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"9.99 CNY 人民币",
+    "sellingPrice":"1.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":10000000000,
-        "currency":"IDR",
+        "priceE6":1990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":10000000000,
+          "originalPriceE6":1990000,
           "discountPercentage":0
         }
       }
@@ -632,14 +632,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"55.55 CNY 人民币",
+    "sellingPrice":"14.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":76000000000,
-        "currency":"IDR",
+        "priceE6":14990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":76000000000,
+          "originalPriceE6":14990000,
           "discountPercentage":0
         }
       }
@@ -684,14 +684,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"33.33 CNY 人民币",
+    "sellingPrice":"9.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":50000000000,
-        "currency":"IDR",
+        "priceE6":9990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":50000000000,
+          "originalPriceE6":9990000,
           "discountPercentage":0
         }
       }
@@ -731,14 +731,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"7.99（未定价） CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
-        "currency":"IDR",
+        "priceE6":7990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":7990000,
           "discountPercentage":0
         }
       }
@@ -761,11 +761,11 @@
     "sellingPrice":"18.99 CNY 人民币",
     "price":[
       {
-        "priceE6":25000000000,
-        "currency":"IDR",
+        "priceE6":4990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":25000000000,
+          "originalPriceE6":4990000,
           "discountPercentage":0
         }
       }
@@ -788,11 +788,11 @@
     "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":50000000000,
-        "currency":"IDR",
+        "priceE6":9990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":50000000000,
+          "originalPriceE6":9990000,
           "discountPercentage":0
         }
       }
@@ -815,11 +815,11 @@
     "sellingPrice":"54.99 CNY 人民币",
     "price":[
       {
-        "priceE6":101000000000,
-        "currency":"IDR",
+        "priceE6":19990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":101000000000,
+          "originalPriceE6":19990000,
           "discountPercentage":0
         }
       }
@@ -842,11 +842,11 @@
     "sellingPrice":"104.99 CNY 人民币",
     "price":[
       {
-        "priceE6":200000000000,
-        "currency":"IDR",
+        "priceE6":39990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":200000000000,
+          "originalPriceE6":39990000,
           "discountPercentage":0
         }
       }
@@ -869,11 +869,11 @@
     "sellingPrice":"249.99 CNY 人民币",
     "price":[
       {
-        "priceE6":505000000000,
-        "currency":"IDR",
+        "priceE6":99990000,
+        "currency":"USD",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":505000000000,
+          "originalPriceE6":99990000,
           "discountPercentage":0
         }
       }
