@@ -3634,7 +3634,9 @@
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
                 "payment_vendor": "Payment Vendor",
-                "info": "info"
+                "info": "info",
+                "virtual_currency_name_uppercase": "POKÉCOINS",
+                "daily_bundles_uppercase": "DAILY BUNDLES"
               },
               "confirmation": {
                 "failed": {
@@ -4366,7 +4368,25 @@
                   "web-masterball-25-ticket-box": "Masterwork Research: Master Ball Ultra Ticket Box",
                   "web-gotour-26-ticket-box": "Pokémon GO Tour 2026 Ultra Ticket Box",
                   "web-paldea-journey-ticket-box": "Journey to Paldea Ultra Ticket Box",
-                  "09423923391bfc355924a19316fc9bfd": "Marathon Box"
+                  "09423923391bfc355924a19316fc9bfd": "Marathon Box",
+                  "web-fight-clobb-ticket-box": "Well Armed Ultra Ticket Box",
+                  "web-gmax-snorlax-dec-25-ticket-box": "GMAX Snorlax Ultra Ticket Box",
+                  "web-research-day-dec-25-ticket-box": "Celestial Research Day Ultra Ticket Box",
+                  "web-new-years-2026-ticket-box": "New Year, New Me Ultra Ticket Box",
+                  "web-piplup-cd-26-ticket-box": "Piplup Community Day Ultra Ticket Box",
+                  "web-surf-and-turf-ticket-box": "Pinch Perfect Ultra Ticket Box",
+                  "web-kyurem-raid-day-ticket-box": "Kyurem Fusion Raid Day Ultra Ticket Box",
+                  "web-watts-up-ticket-box": "High Zaptitude Ultra Ticket Box",
+                  "web-grookey-cd-ticket-box": "Grookey Community Day Ultra Ticket Box",
+                  "web-buddy-avatar-ticket-box": "Precious Pals Ultra Ticket Box",
+                  "web-vulpix-cd-26-ticket-box": "Vulpix Community Day Ultra Ticket Box",
+                  "web-dmax-ho-oh-26-ticket-box": "DMax Ho-oh Weekend Ultra Ticket Box",
+                  "web-carnival-flamigo-ticket-box": "Carnival of Flamigo Ultra Ticket Box",
+                  "web-cd-recap-dec-25-ticket-box": "Community Day Recap Ultra Ticket Box",
+                  "web-event-pass-base-december-25": "GO Pass Deluxe: December",
+                  "web-event-pass-plusrank-december-25": "GO Pass Deluxe: December + 10 Rank",
+                  "web-event-pass-plusrank-december-25-ultra": "GO Pass Deluxe: December Ultra Ticket Box",
+                  "BADGE_EVENT_0151": "GO Pass Deluxe: December"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -4438,7 +4458,12 @@
                   "personalized_bundles": "Recommended For You",
                   "personalized_bundles_uppercase": "RECOMMENDED FOR YOU",
                   "passes": "Passes",
-                  "passes_uppercase": "PASSES"
+                  "passes_uppercase": "PASSES",
+                  "upgrades": "Upgrades",
+                  "tickets_uppercase": "TICKET BUNDLES",
+                  "item_bundles_uppercase": "ITEM BUNDLES",
+                  "items_uppercase": "ITEMS",
+                  "upgrades_uppercase": "UPGRADES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
@@ -4448,7 +4473,8 @@
                   "daily_bundles": "Personalized bundles for you! Resets everyday at midnight",
                   "personalized_bundles": "Personalized bundles created just for you! Resets daily at midnight."
                 },
-                "section_title_bundles": "Bundles"
+                "section_title_bundles": "Bundles",
+                "section_title_bundles_uppercase": "BUNDLES"
               },
               "": "GO Fest 2024 Tee (Gray)",
               "support": {
@@ -4531,7 +4557,8 @@
                 "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
                 "only_first_time_sign_in": "*Only applies to first-time sign ins",
                 "reward_unlocked": "You've unlocked a bonus reward!",
-                "only_once_per_account": "*This bonus reward can only be claimed once per account"
+                "only_once_per_account": "*This bonus reward can only be claimed once per account",
+                "section_title_no_month_uppercase": "REWARD ROAD"
               },
               "ITEM_EVENT_TICKET_07": "Ticket",
               "test": "Boo Bundle",
@@ -8211,7 +8238,9 @@
                 "available_only_webstore": "Pokémon GO Web Store限定",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}}/{{TotalRecords}}",
                 "payment_vendor": "付款服務供應商",
-                "info": "相關資訊"
+                "info": "相關資訊",
+                "virtual_currency_name_uppercase": "POKÉCOINS",
+                "daily_bundles_uppercase": "DAILY BUNDLES"
               },
               "confirmation": {
                 "failed": {
@@ -8943,7 +8972,25 @@
                   "web-masterball-25-ticket-box": "大師球究極入場券禮盒",
                   "web-gotour-26-ticket-box": "GO Tour 2026究極入場券禮盒",
                   "web-paldea-journey-ticket-box": "帕底亞地區之旅究極入場券禮盒",
-                  "09423923391bfc355924a19316fc9bfd": "長距離禮盒"
+                  "09423923391bfc355924a19316fc9bfd": "長距離禮盒",
+                  "web-fight-clobb-ticket-box": "Well Armed Ultra Ticket Box",
+                  "web-gmax-snorlax-dec-25-ticket-box": "GMAX Snorlax Ultra Ticket Box",
+                  "web-research-day-dec-25-ticket-box": "Celestial Research Day Ultra Ticket Box",
+                  "web-new-years-2026-ticket-box": "New Year, New Me Ultra Ticket Box",
+                  "web-piplup-cd-26-ticket-box": "Piplup Community Day Ultra Ticket Box",
+                  "web-surf-and-turf-ticket-box": "Pinch Perfect Ultra Ticket Box",
+                  "web-kyurem-raid-day-ticket-box": "Kyurem Fusion Raid Day Ultra Ticket Box",
+                  "web-watts-up-ticket-box": "High Zaptitude Ultra Ticket Box",
+                  "web-grookey-cd-ticket-box": "Grookey Community Day Ultra Ticket Box",
+                  "web-buddy-avatar-ticket-box": "Precious Pals Ultra Ticket Box",
+                  "web-vulpix-cd-26-ticket-box": "Vulpix Community Day Ultra Ticket Box",
+                  "web-dmax-ho-oh-26-ticket-box": "DMax Ho-oh Weekend Ultra Ticket Box",
+                  "web-carnival-flamigo-ticket-box": "Carnival of Flamigo Ultra Ticket Box",
+                  "web-cd-recap-dec-25-ticket-box": "Community Day Recap Ultra Ticket Box",
+                  "web-event-pass-base-december-25": "GO Pass Deluxe: December",
+                  "web-event-pass-plusrank-december-25": "GO Pass Deluxe: December + 10 Rank",
+                  "web-event-pass-plusrank-december-25-ultra": "GO Pass Deluxe: December Ultra Ticket Box",
+                  "BADGE_EVENT_0151": "GO Pass Deluxe: December"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9015,7 +9062,12 @@
                   "personalized_bundles": "為你推薦",
                   "personalized_bundles_uppercase": "為你推薦",
                   "passes": "Passes",
-                  "passes_uppercase": "PASSES"
+                  "passes_uppercase": "PASSES",
+                  "upgrades": "Upgrades",
+                  "tickets_uppercase": "TICKET BUNDLES",
+                  "item_bundles_uppercase": "ITEM BUNDLES",
+                  "items_uppercase": "ITEMS",
+                  "upgrades_uppercase": "UPGRADES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store獎勵",
@@ -9025,7 +9077,8 @@
                   "daily_bundles": "為您量身設計的個人化套組！每日午夜重設",
                   "personalized_bundles": "為你量身設計的個人化套組！每日午夜重設。"
                 },
-                "section_title_bundles": "套組"
+                "section_title_bundles": "套組",
+                "section_title_bundles_uppercase": "BUNDLES"
               },
               "": "GO Fest\n2024 T恤\n灰",
               "support": {
@@ -9108,7 +9161,8 @@
                 "sign_in_for_first_time": "初次登入可領取紅利獎勵！",
                 "only_first_time_sign_in": "*只適用於首次登入",
                 "reward_unlocked": "您已解鎖紅利獎勵！",
-                "only_once_per_account": "*每個帳號只能領取一次此紅利獎勵"
+                "only_once_per_account": "*每個帳號只能領取一次此紅利獎勵",
+                "section_title_no_month_uppercase": "REWARD ROAD"
               },
               "ITEM_EVENT_TICKET_07": "入場券",
               "test": "嚇一跳禮盒",
@@ -9305,7 +9359,9 @@
                 "available_only_webstore": "Available only on the Pokémon GO Web Store",
                 "paginated_pages": "{{FirstRecord}} - {{LastRecord}} of {{TotalRecords}}",
                 "payment_vendor": "Payment Vendor",
-                "info": "info"
+                "info": "info",
+                "virtual_currency_name_uppercase": "POKÉCOINS",
+                "daily_bundles_uppercase": "DAILY BUNDLES"
               },
               "confirmation": {
                 "failed": {
@@ -10037,7 +10093,25 @@
                   "web-masterball-25-ticket-box": "Masterwork Research: Master Ball Ultra Ticket Box",
                   "web-gotour-26-ticket-box": "Pokémon GO Tour 2026 Ultra Ticket Box",
                   "web-paldea-journey-ticket-box": "Journey to Paldea Ultra Ticket Box",
-                  "09423923391bfc355924a19316fc9bfd": "Marathon Box"
+                  "09423923391bfc355924a19316fc9bfd": "Marathon Box",
+                  "web-fight-clobb-ticket-box": "Well Armed Ultra Ticket Box",
+                  "web-gmax-snorlax-dec-25-ticket-box": "GMAX Snorlax Ultra Ticket Box",
+                  "web-research-day-dec-25-ticket-box": "Celestial Research Day Ultra Ticket Box",
+                  "web-new-years-2026-ticket-box": "New Year, New Me Ultra Ticket Box",
+                  "web-piplup-cd-26-ticket-box": "Piplup Community Day Ultra Ticket Box",
+                  "web-surf-and-turf-ticket-box": "Pinch Perfect Ultra Ticket Box",
+                  "web-kyurem-raid-day-ticket-box": "Kyurem Fusion Raid Day Ultra Ticket Box",
+                  "web-watts-up-ticket-box": "High Zaptitude Ultra Ticket Box",
+                  "web-grookey-cd-ticket-box": "Grookey Community Day Ultra Ticket Box",
+                  "web-buddy-avatar-ticket-box": "Precious Pals Ultra Ticket Box",
+                  "web-vulpix-cd-26-ticket-box": "Vulpix Community Day Ultra Ticket Box",
+                  "web-dmax-ho-oh-26-ticket-box": "DMax Ho-oh Weekend Ultra Ticket Box",
+                  "web-carnival-flamigo-ticket-box": "Carnival of Flamigo Ultra Ticket Box",
+                  "web-cd-recap-dec-25-ticket-box": "Community Day Recap Ultra Ticket Box",
+                  "web-event-pass-base-december-25": "GO Pass Deluxe: December",
+                  "web-event-pass-plusrank-december-25": "GO Pass Deluxe: December + 10 Rank",
+                  "web-event-pass-plusrank-december-25-ultra": "GO Pass Deluxe: December Ultra Ticket Box",
+                  "BADGE_EVENT_0151": "GO Pass Deluxe: December"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -10109,7 +10183,12 @@
                   "personalized_bundles": "Recommended For You",
                   "personalized_bundles_uppercase": "RECOMMENDED FOR YOU",
                   "passes": "Passes",
-                  "passes_uppercase": "PASSES"
+                  "passes_uppercase": "PASSES",
+                  "upgrades": "Upgrades",
+                  "tickets_uppercase": "TICKET BUNDLES",
+                  "item_bundles_uppercase": "ITEM BUNDLES",
+                  "items_uppercase": "ITEMS",
+                  "upgrades_uppercase": "UPGRADES"
                 },
                 "tag_subtitle": {
                   "bonus_breakdown": "<0>fiatBaseAmount</0> + <2>webstoreBonus</2> Web Store Bonus",
@@ -10119,7 +10198,8 @@
                   "daily_bundles": "Personalized bundles for you! Resets everyday at midnight",
                   "personalized_bundles": "Personalized bundles created just for you! Resets daily at midnight."
                 },
-                "section_title_bundles": "Bundles"
+                "section_title_bundles": "Bundles",
+                "section_title_bundles_uppercase": "BUNDLES"
               },
               "": "GO Fest 2024 Tee (Gray)",
               "support": {
@@ -10202,7 +10282,8 @@
                 "sign_in_for_first_time": "Sign in for the first time to claim bonus rewards!",
                 "only_first_time_sign_in": "*Only applies to first-time sign ins",
                 "reward_unlocked": "You've unlocked a bonus reward!",
-                "only_once_per_account": "*This bonus reward can only be claimed once per account"
+                "only_once_per_account": "*This bonus reward can only be claimed once per account",
+                "section_title_no_month_uppercase": "REWARD ROAD"
               },
               "ITEM_EVENT_TICKET_07": "Ticket",
               "test": "Boo Bundle",
