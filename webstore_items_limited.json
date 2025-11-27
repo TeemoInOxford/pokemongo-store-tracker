@@ -465,6 +465,53 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+    "endTimeMs":"2026-01-07 12:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+        "rawId":"badge_event_0151",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
+    "localImage":"images\/main_web-event-pass-base-december-25.png"
+  },
+  {
+    "DLC":3,
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass Deluxe: December + 10 Rank",
     "endTimeMs":"2026-01-07 12:00:00",
     "bundledItems":[
@@ -515,7 +562,7 @@
     "localImage":"images\/main_web-event-pass-plusrank-december-25.png"
   },
   {
-    "DLC":3,
+    "DLC":4,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass Deluxe: December Ultra Ticket Box",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -575,38 +622,6 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png",
     "localImage":"images\/main_web-event-pass-plusrank-december-25-ultra.png"
-  },
-  {
-    "DLC":4,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Pikipek Community Day Ultra Ticket Box\n社群日：小笃儿究极入场券礼盒",
-    "endTimeMs":"2025-12-01 14:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_03",
-        "quantity":1
-      },
-      {
-        "itemId":"Rare Candy\n神奇糖果",
-        "rawId":"item_rare_candy",
-        "quantity":3
-      }
-    ],
-    "sellingPrice":"9.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/ultra-community-day-box-0723.png",
-    "localImage":"images\/main_web-pikipek-cd-ticket-box.png"
   },
   {
     "DLC":5,
@@ -702,96 +717,81 @@
   {
     "DLC":8,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
-    "endTimeMs":"2026-01-07 12:00:00",
+    "name":"Pokémon GO Tour 2026 Ultra Ticket Box\nGO Tour 2026究极入场券礼盒",
+    "endTimeMs":"2026-03-02 14:00:00",
     "bundledItems":[
       {
-        "itemId":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
-        "rawId":"badge_event_0151",
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_10",
         "quantity":1
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":3
+      },
+      {
+        "itemId":"Rare Candy\n神奇糖果",
+        "rawId":"item_rare_candy",
+        "quantity":5
+      },
+      {
+        "itemId":"Silver Pinap Berry\n银色凰梨果",
+        "rawId":"item_golden_pinap_berry",
+        "quantity":5
       },
       {
         "itemId":"Ultra Ball\n高级球",
         "rawId":"item_ultra_ball",
         "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"33.33 CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
+        "priceE6":50000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":50000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
-    "localImage":"images\/main_web-event-pass-base-december-25.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.medium.1.png",
+    "localImage":"images\/main_web-gotour-26-ticket-box.png"
   },
   {
     "DLC":9,
-    "category":"TICKETS\n门票礼盒",
-    "name":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
-    "endTimeMs":"2025-12-01 12:00:00",
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Pikipek Community Day Ultra Ticket Box\n社群日：小笃儿究极入场券礼盒",
+    "endTimeMs":"2025-12-01 14:00:00",
     "bundledItems":[
       {
-        "itemId":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
-        "rawId":"badge_event_0142",
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_03",
         "quantity":1
       },
       {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"Max Revive\n活力块",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"Max Potion\n全满药",
-        "rawId":"item_max_potion",
-        "quantity":5
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
+        "itemId":"Rare Candy\n神奇糖果",
+        "rawId":"item_rare_candy",
+        "quantity":3
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
+        "priceE6":10000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":10000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
-    "localImage":"images\/main_web-event-pass-base-november.png"
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/ultra-community-day-box-0723.png",
+    "localImage":"images\/main_web-pikipek-cd-ticket-box.png"
   },
   {
     "DLC":10,
@@ -906,6 +906,53 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
     "localImage":"images\/main_web-event-pass-plusrank-november.png"
+  },
+  {
+    "DLC":12,
+    "category":"TICKETS\n门票礼盒",
+    "name":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
+    "endTimeMs":"2025-12-01 12:00:00",
+    "bundledItems":[
+      {
+        "itemId":"GO Pass Deluxe: November\nGO Pass豪华版：11月",
+        "rawId":"badge_event_0142",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      },
+      {
+        "itemId":"Max Revive\n活力块",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"Max Potion\n全满药",
+        "rawId":"item_max_potion",
+        "quantity":5
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
+    "localImage":"images\/main_web-event-pass-base-november.png"
   },
   {
     "DLC":"",
