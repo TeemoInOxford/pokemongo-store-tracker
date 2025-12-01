@@ -3320,8 +3320,8 @@
               ]
             }
           ],
-          "startTimeMs": 1761955200000,
-          "endTimeMs": 1764547199000
+          "startTimeMs": 1764547210000,
+          "endTimeMs": 1767225599000
         }
       },
       "webstoreAuthenticationProps": {
@@ -7788,8 +7788,8 @@
               ]
             }
           ],
-          "startTimeMs": 1761955200000,
-          "endTimeMs": 1764547199000
+          "startTimeMs": 1764547210000,
+          "endTimeMs": 1767225599000
         }
       },
       "webstoreAuthenticationProps": {
