@@ -447,7 +447,7 @@
     "bundledItems":[
       {
         "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_05",
+        "rawId":"item_evergreen_ticket",
         "quantity":1
       },
       {

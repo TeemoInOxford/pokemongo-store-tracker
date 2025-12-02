@@ -1538,7 +1538,7 @@
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_05",
+                    "itemId": "ITEM_EVERGREEN_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": []
@@ -5920,7 +5920,7 @@
                 "bundledCurrencyList": [],
                 "bundledItemList": [
                   {
-                    "itemId": "ITEM_EVENT_TICKET_05",
+                    "itemId": "ITEM_EVERGREEN_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": []
