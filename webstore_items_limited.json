@@ -410,6 +410,107 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Community Day Recap Ultra Ticket Box\nCommunity Day Recap Ultra Ticket Box",
+    "endTimeMs":"2025-12-08 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_05",
+        "quantity":1
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"22.22 CNY 人民币",
+    "price":[
+      {
+        "priceE6":25000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":25000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general5.small.1.png",
+    "localImage":"images\/main_web-cd-recap-dec-25-ticket-box.png"
+  },
+  {
+    "DLC":3,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Journey to Paldea Ultra Ticket Box\n帕底亚地区之旅究极入场券礼盒",
+    "endTimeMs":"2025-12-10 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_05",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"9.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_b1.png",
+    "localImage":"images\/main_web-paldea-journey-ticket-box.png"
+  },
+  {
+    "DLC":4,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Masterwork Research: Master Ball Ultra Ticket Box\n大师球究极入场券礼盒",
+    "endTimeMs":"2026-02-23 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_07",
+        "quantity":1
+      },
+      {
+        "itemId":"Rare Candy\n神奇糖果",
+        "rawId":"item_rare_candy",
+        "quantity":5
+      },
+      {
+        "itemId":"Golden Razz Berry\n金色蔓莓果",
+        "rawId":"item_golden_razz_berry",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.d.png",
+    "localImage":"images\/main_web-masterball-25-ticket-box.png"
+  },
+  {
+    "DLC":5,
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
     "endTimeMs":"2026-01-07 12:00:00",
     "bundledItems":[
@@ -455,7 +556,7 @@
     "localImage":"images\/main_web-event-pass-base-december-25.png"
   },
   {
-    "DLC":3,
+    "DLC":6,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass Deluxe: December + 10 Rank",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -507,7 +608,7 @@
     "localImage":"images\/main_web-event-pass-plusrank-december-25.png"
   },
   {
-    "DLC":4,
+    "DLC":7,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass Deluxe: December Ultra Ticket Box",
     "endTimeMs":"2026-01-07 12:00:00",
