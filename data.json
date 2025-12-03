@@ -61,6 +61,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -73,6 +81,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -85,6 +101,18 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner",
+                      "value": "true"
+                    },
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -97,6 +125,14 @@
                 "subtitle": {
                   "locKey": "sku.section_subtitle.daily_bundles",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -109,6 +145,18 @@
                 "subtitle": {
                   "locKey": "sku.section_subtitle.personalized_bundles",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner",
+                      "value": "true"
+                    },
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -121,6 +169,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -133,6 +189,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -145,6 +209,18 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    },
+                    {
+                      "key": "carousel.enableStoreRefreshPhaseOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ]
@@ -2319,7 +2395,8 @@
           "enableSamsungDeviceDenialSplashRedirect": false,
           "enableStoreRefreshFlagFromIap": false,
           "enableStoreRefreshPhaseOnePointOne": false,
-          "enableStoreRedirectToSplashPage": false
+          "enableStoreRedirectToSplashPage": false,
+          "enablePremiumQuestSkuCardDetails": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -4443,6 +4520,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4455,6 +4540,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4467,6 +4560,18 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner",
+                      "value": "true"
+                    },
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4479,6 +4584,14 @@
                 "subtitle": {
                   "locKey": "sku.section_subtitle.daily_bundles",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4491,6 +4604,18 @@
                 "subtitle": {
                   "locKey": "sku.section_subtitle.personalized_bundles",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner",
+                      "value": "true"
+                    },
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4503,6 +4628,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4515,6 +4648,14 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ],
@@ -4527,6 +4668,18 @@
                 "subtitle": {
                   "locKey": "",
                   "valuesList": []
+                },
+                "display": {
+                  "valuesList": [
+                    {
+                      "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    },
+                    {
+                      "key": "carousel.enableStoreRefreshPhaseOne",
+                      "value": "true"
+                    }
+                  ]
                 }
               }
             ]
@@ -6701,7 +6854,8 @@
           "enableSamsungDeviceDenialSplashRedirect": false,
           "enableStoreRefreshFlagFromIap": false,
           "enableStoreRefreshPhaseOnePointOne": false,
-          "enableStoreRedirectToSplashPage": false
+          "enableStoreRedirectToSplashPage": false,
+          "enablePremiumQuestSkuCardDetails": false
         },
         "layoutConfig": {
           "backgroundImage": {
