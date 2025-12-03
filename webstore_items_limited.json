@@ -410,7 +410,7 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Community Day Recap Ultra Ticket Box\nCommunity Day Recap Ultra Ticket Box",
+    "name":"Community Day Recap Ultra Ticket Box\nCommunity Day Recap究极入场券礼盒",
     "endTimeMs":"2025-12-08 14:00:00",
     "bundledItems":[
       {
@@ -511,11 +511,11 @@
   {
     "DLC":5,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+    "name":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
     "endTimeMs":"2026-01-07 12:00:00",
     "bundledItems":[
       {
-        "itemId":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+        "itemId":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
         "rawId":"badge_event_0151",
         "quantity":1
       },
@@ -558,11 +558,11 @@
   {
     "DLC":6,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass Deluxe: December + 10 Rank",
+    "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass豪华版：12月＋10级",
     "endTimeMs":"2026-01-07 12:00:00",
     "bundledItems":[
       {
-        "itemId":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+        "itemId":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
         "rawId":"badge_event_0151",
         "quantity":1
       },
@@ -610,11 +610,11 @@
   {
     "DLC":7,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass Deluxe: December Ultra Ticket Box",
+    "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass豪华版：12月究极入场券礼盒",
     "endTimeMs":"2026-01-07 12:00:00",
     "bundledItems":[
       {
-        "itemId":"GO Pass Deluxe: December\nGO Pass Deluxe: December",
+        "itemId":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
         "rawId":"badge_event_0151",
         "quantity":1
       },
