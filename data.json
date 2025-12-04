@@ -2742,8 +2742,8 @@
         "webFusionConfig": {
           "navbarLinksList": [
             {
-              "url": "https://pokemongo.com/gowildarea",
-              "labelKey": "go_wild_area",
+              "url": "https://pokemongo.com/gotour",
+              "labelKey": "gotour",
               "iconName": "",
               "isInternal": true,
               "useLanguageCode": false,
@@ -7201,8 +7201,8 @@
         "webFusionConfig": {
           "navbarLinksList": [
             {
-              "url": "https://pokemongo.com/gowildarea",
-              "labelKey": "go_wild_area",
+              "url": "https://pokemongo.com/gotour",
+              "labelKey": "gotour",
               "iconName": "",
               "isInternal": true,
               "useLanguageCode": false,
