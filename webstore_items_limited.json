@@ -410,38 +410,6 @@
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Community Day Recap Ultra Ticket Box\nCommunity Day Recap究极入场券礼盒",
-    "endTimeMs":"2025-12-08 14:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_05",
-        "quantity":1
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general5.small.1.png",
-    "localImage":"images\/main_web-cd-recap-dec-25-ticket-box.png"
-  },
-  {
-    "DLC":3,
-    "category":"LIMITED_TIME\n限时礼盒",
     "name":"Journey to Paldea Ultra Ticket Box\n帕底亚地区之旅究极入场券礼盒",
     "endTimeMs":"2025-12-10 14:00:00",
     "bundledItems":[
@@ -472,7 +440,7 @@
     "localImage":"images\/main_web-paldea-journey-ticket-box.png"
   },
   {
-    "DLC":4,
+    "DLC":3,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"Masterwork Research: Master Ball Ultra Ticket Box\n大师球究极入场券礼盒",
     "endTimeMs":"2026-02-23 14:00:00",
@@ -509,7 +477,7 @@
     "localImage":"images\/main_web-masterball-25-ticket-box.png"
   },
   {
-    "DLC":5,
+    "DLC":4,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -556,7 +524,7 @@
     "localImage":"images\/main_web-event-pass-base-december-25.png"
   },
   {
-    "DLC":6,
+    "DLC":5,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass豪华版：12月＋10级",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -608,7 +576,7 @@
     "localImage":"images\/main_web-event-pass-plusrank-december-25.png"
   },
   {
-    "DLC":7,
+    "DLC":6,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass豪华版：12月究极入场券礼盒",
     "endTimeMs":"2026-01-07 12:00:00",
