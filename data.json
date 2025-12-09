@@ -1514,85 +1514,6 @@
                 "subscriptionContentCategoriesList": []
               },
               {
-                "skuId": "web-paldea-journey-ticket-box",
-                "localizationNameKey": "sku.name.web-paldea-journey-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/genericbox_b1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1764612000000,
-                  "endTimeMs": 1765346400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVERGREEN_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/journey-to-paldea-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_05\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 24,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1764662355497,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
                 "skuId": "web-fight-clobb-ticket-box",
                 "localizationNameKey": "sku.name.web-fight-clobb-ticket-box",
                 "description": " ",
@@ -4251,7 +4172,11 @@
                   "web-event-pass-base-december-25": "GO Pass Deluxe: December",
                   "web-event-pass-plusrank-december-25": "GO Pass Deluxe: December + 10 Rank",
                   "web-event-pass-plusrank-december-25-ultra": "GO Pass Deluxe: December Ultra Ticket Box",
-                  "BADGE_EVENT_0151": "GO Pass Deluxe: December"
+                  "BADGE_EVENT_0151": "GO Pass Deluxe: December",
+                  "web-winter-go-pass-box": "GO Pass Deluxe: Winter Holiday",
+                  "web-winter-go-pass-box-plus-10rank-webonly": "GO Pass Deluxe: Winter Holiday Ultra Ticket Box",
+                  "web-winter-go-pass-box-plus-10rank": "GO Pass Deluxe: Winter Holiday + 10 Ranks",
+                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -5978,85 +5903,6 @@
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "pgo_Template1",
                 "lastUpdateTimeMs": 1763755550733,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
-              },
-              {
-                "skuId": "web-paldea-journey-ticket-box",
-                "localizationNameKey": "sku.name.web-paldea-journey-ticket-box",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/genericbox_b1.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 10000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 10000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1764612000000,
-                  "endTimeMs": 1765346400000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_EVERGREEN_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": []
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/journey-to-paldea-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_05\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  5,
-                  1
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 24,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1764662355497,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -8720,7 +8566,11 @@
                   "web-event-pass-base-december-25": "GO Pass豪華版：12月",
                   "web-event-pass-plusrank-december-25": "GO Pass豪華版：12月＋10級",
                   "web-event-pass-plusrank-december-25-ultra": "GO Pass豪華版：12月究極入場券禮盒",
-                  "BADGE_EVENT_0151": "GO Pass豪華版：12月"
+                  "BADGE_EVENT_0151": "GO Pass豪華版：12月",
+                  "web-winter-go-pass-box": "GO入場券豪華版：冬季假期",
+                  "web-winter-go-pass-box-plus-10rank-webonly": "GO入場券豪華版：冬季假期究極入場券禮盒",
+                  "web-winter-go-pass-box-plus-10rank": "GO入場券豪華版：冬季假期+10級",
+                  "BADGE_EVENT_0172": "GO入場券豪華版：冬季假期"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9841,7 +9691,11 @@
                   "web-event-pass-base-december-25": "GO Pass Deluxe: December",
                   "web-event-pass-plusrank-december-25": "GO Pass Deluxe: December + 10 Rank",
                   "web-event-pass-plusrank-december-25-ultra": "GO Pass Deluxe: December Ultra Ticket Box",
-                  "BADGE_EVENT_0151": "GO Pass Deluxe: December"
+                  "BADGE_EVENT_0151": "GO Pass Deluxe: December",
+                  "web-winter-go-pass-box": "GO Pass Deluxe: Winter Holiday",
+                  "web-winter-go-pass-box-plus-10rank-webonly": "GO Pass Deluxe: Winter Holiday Ultra Ticket Box",
+                  "web-winter-go-pass-box-plus-10rank": "GO Pass Deluxe: Winter Holiday + 10 Ranks",
+                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
