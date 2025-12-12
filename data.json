@@ -1591,7 +1591,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1765410290161,
+                "lastUpdateTimeMs": 1765508342538,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
@@ -6383,7 +6383,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 60,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1765410290161,
+                "lastUpdateTimeMs": 1765508342538,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": []
