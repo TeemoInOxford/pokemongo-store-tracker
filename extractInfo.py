@@ -185,6 +185,9 @@ for category in categories:
             icon_filename = f"icon_{rid}.png"
             download_image(icon_url, icon_filename)
 
+        # 提取元数据列表（metadataList）
+        metadata_list = item.get("metadataList", [])
+
         items_info.append({
             "raw_category": raw_cat,  # 添加原始类别用于排序
             "category": cat_name,
@@ -194,7 +197,8 @@ for category in categories:
             "sellingPrice": f"{selling_price} CNY 人民币",
             "price": price,
             "imageUrl": imageUrl,
-            "localImage": local_main_image_path
+            "localImage": local_main_image_path,
+            "metadataList": metadata_list  # 添加元数据列表
         })
 
 # 创建DataFrame
