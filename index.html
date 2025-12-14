@@ -78,6 +78,16 @@
       margin-right: 8px;
       display: inline-block;
     }
+    /* 链接样式 */
+    .event-link {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .event-link:hover {
+      text-decoration: underline;
+      color: #0056b3;
+    }
   </style>
 </head>
 <body>
@@ -93,6 +103,7 @@
         <th>我们的售价</th>
         <th>包含物品</th>
         <th>官方价格</th>
+        <th>活动对应详情链接</th>
       </tr>
     </thead>
     <tbody></tbody>
@@ -104,7 +115,7 @@
         const tbody = document.querySelector("#storeTable tbody");
         data.forEach(item => {
           const tr = document.createElement("tr");
-          
+
           // 根据分类判断DLC组别和颜色
           let dlcClass = 'dlc';
           if (item.category.includes('道具礼盒') || item.category.includes('道具')) {
@@ -112,7 +123,7 @@
           } else if (item.category.includes('限时礼盒') || item.category.includes('门票礼盒')) {
             dlcClass += ' dlc-group2';
           }
-          
+
           // 处理包含物品的显示
           const bundled = (item.bundledItems || []).map(b => {
             const imgUrl = `https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/${b.rawId}.png`;
@@ -121,15 +132,37 @@
               <span>${b.itemId} × ${b.quantity}</span>
             </div>`;
           }).join("");
-          
+
           // 处理价格显示
           const price = item.price?.[0]?.priceE6
             ? (item.price[0].priceE6 / 1_000_000).toFixed(2) + ' ' + item.price[0].currency
             : '';
-          
+
           // 处理主图片路径
           const mainImage = item.localImage || item.imageUrl || '';
-          
+
+          // 提取活动链接
+          let eventLinkHtml = '';
+          if (item.metadataList && Array.isArray(item.metadataList)) {
+            const eventLinkMeta = item.metadataList.find(meta => meta.key === 'FRONTEND_EVENT_LINK');
+            if (eventLinkMeta) {
+              try {
+                const linkData = JSON.parse(eventLinkMeta.value);
+                if (linkData.eventLink) {
+                  // 自动添加 zh_Hant 语言路径
+                  let finalLink = linkData.eventLink;
+                  // 如果链接是 pokemongo.com 且没有语言路径，添加 zh_Hant
+                  if (finalLink.includes('pokemongo.com/') && !finalLink.match(/pokemongo\.com\/[a-z]{2}_[A-Z][a-z]{3}\//)) {
+                    finalLink = finalLink.replace('pokemongo.com/', 'pokemongo.com/zh_Hant/');
+                  }
+                  eventLinkHtml = `<a href="${finalLink}" target="_blank" rel="noopener noreferrer" class="event-link">查看活动详情 ↗</a>`;
+                }
+              } catch (e) {
+                console.error('解析活动链接失败:', e);
+              }
+            }
+          }
+
           tr.innerHTML = `
             <td class="${dlcClass}">${item.DLC || ''}</td>
             <td class="category">${item.category}</td>
@@ -139,6 +172,7 @@
             <td>${item.sellingPrice}</td>
             <td class="bundled">${bundled}</td>
             <td>${price}</td>
+            <td>${eventLinkHtml}</td>
           `;
           tbody.appendChild(tr);
         });
