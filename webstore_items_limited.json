@@ -29,7 +29,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
-    "localImage":"images\/main_web-1mp-1rrp-bundle.png"
+    "localImage":"images\/main_web-1mp-1rrp-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":2,
@@ -61,7 +71,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
-    "localImage":"images\/main_web-3mp-3rrp-bundle.png"
+    "localImage":"images\/main_web-3mp-3rrp-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":3,
@@ -88,7 +108,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
-    "localImage":"images\/main_web-luckyegg-bundle-8.png"
+    "localImage":"images\/main_web-luckyegg-bundle-8.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":4,
@@ -115,7 +145,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
-    "localImage":"images\/main_web-starpiece-bundle.png"
+    "localImage":"images\/main_web-starpiece-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":5,
@@ -142,7 +182,21 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/raid_pass_blue (1).png",
-    "localImage":"images\/main_web-remote-raidpass-bundle.png"
+    "localImage":"images\/main_web-remote-raidpass-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.popular\",\"values\":{\"\":\"\"}}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":6,
@@ -169,7 +223,21 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png",
-    "localImage":"images\/main_web-pokemon-storage-bundle.png"
+    "localImage":"images\/main_web-pokemon-storage-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.popular\",\"values\":{\"\":\"\"}}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":7,
@@ -196,7 +264,21 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_item_storage_upgrade.png",
-    "localImage":"images\/main_web-item-storage-bundle.png"
+    "localImage":"images\/main_web-item-storage-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.popular\",\"values\":{\"\":\"\"}}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":8,
@@ -223,7 +305,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_incubator_basic.png",
-    "localImage":"images\/main_web-basic-incubator-3pack.png"
+    "localImage":"images\/main_web-basic-incubator-3pack.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":9,
@@ -250,7 +342,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/Incubator_Super.png",
-    "localImage":"images\/main_web-super-incubator-2pack.png"
+    "localImage":"images\/main_web-super-incubator-2pack.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":10,
@@ -277,7 +379,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
-    "localImage":"images\/main_web-max-revive-6.png"
+    "localImage":"images\/main_web-max-revive-6.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":11,
@@ -304,7 +416,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
-    "localImage":"images\/main_web-premium-battle-pass-3.png"
+    "localImage":"images\/main_web-premium-battle-pass-3.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":12,
@@ -331,7 +453,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
-    "localImage":"images\/main_web-mp-pack.png"
+    "localImage":"images\/main_web-mp-pack.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":13,
@@ -358,7 +490,17 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_boost.png",
-    "localImage":"images\/main_web-max-mushroom-3.png"
+    "localImage":"images\/main_web-max-mushroom-3.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":1,
@@ -405,7 +547,37 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.medium.1.png",
-    "localImage":"images\/main_web-gotour-26-ticket-box.png"
+    "localImage":"images\/main_web-gotour-26-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/gotour\/global\/\",\"associatedItemId\":\"ITEM_EVENT_TICKET_10\"}"
+      }
+    ]
   },
   {
     "DLC":2,
@@ -437,7 +609,37 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle2.sprite.d.png",
-    "localImage":"images\/main_web-gmax-snorlax-dec-25-ticket-box.png"
+    "localImage":"images\/main_web-gmax-snorlax-dec-25-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/news\/gigantamax-snorlax-max-battle-day-2025\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
+      }
+    ]
   },
   {
     "DLC":3,
@@ -474,7 +676,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.c.png",
-    "localImage":"images\/main_web-fight-clobb-ticket-box.png"
+    "localImage":"images\/main_web-fight-clobb-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongolive.com\/post\/well-armed-2025\",\"associatedItemId\":\"ITEM_GLOBAL_EVENT_TICKET\"}"
+      }
+    ]
   },
   {
     "DLC":4,
@@ -526,7 +754,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.small.1.png",
-    "localImage":"images\/main_web-winter-go-pass-box-plus-10rank.png"
+    "localImage":"images\/main_web-winter-go-pass-box-plus-10rank.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":5,
@@ -573,7 +827,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.1.png",
-    "localImage":"images\/main_web-winter-go-pass-box.png"
+    "localImage":"images\/main_web-winter-go-pass-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":6,
@@ -610,7 +890,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.d.png",
-    "localImage":"images\/main_web-masterball-25-ticket-box.png"
+    "localImage":"images\/main_web-masterball-25-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/seasons\/precious-paths\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
+      }
+    ]
   },
   {
     "DLC":7,
@@ -672,7 +978,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general3.medium.1.png",
-    "localImage":"images\/main_web-winter-go-pass-box-plus-10rank-webonly.png"
+    "localImage":"images\/main_web-winter-go-pass-box-plus-10rank-webonly.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":8,
@@ -719,7 +1051,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/red_bundle_box.webp",
-    "localImage":"images\/main_web-event-pass-base-december-25.png"
+    "localImage":"images\/main_web-event-pass-base-december-25.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":9,
@@ -771,7 +1129,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.medium.2.png",
-    "localImage":"images\/main_web-event-pass-plusrank-december-25.png"
+    "localImage":"images\/main_web-event-pass-plusrank-december-25.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":10,
@@ -833,7 +1217,33 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general2.large.2.png",
-    "localImage":"images\/main_web-event-pass-plusrank-december-25-ultra.png"
+    "localImage":"images\/main_web-event-pass-plusrank-december-25-ultra.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
   },
   {
     "DLC":"",
@@ -860,7 +1270,13 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xsmall.png",
-    "localImage":"images\/main_coin-bundle-xsmall.png"
+    "localImage":"images\/main_coin-bundle-xsmall.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      }
+    ]
   },
   {
     "DLC":"",
@@ -887,7 +1303,13 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-small_v2.png",
-    "localImage":"images\/main_coin-bundle-small_v2.png"
+    "localImage":"images\/main_coin-bundle-small_v2.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      }
+    ]
   },
   {
     "DLC":"",
@@ -914,7 +1336,13 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_v2.png",
-    "localImage":"images\/main_coin-bundle-medium_v2.png"
+    "localImage":"images\/main_coin-bundle-medium_v2.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      }
+    ]
   },
   {
     "DLC":"",
@@ -941,7 +1369,13 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large-v2.png",
-    "localImage":"images\/main_coin-bundle-large-v2.png"
+    "localImage":"images\/main_coin-bundle-large-v2.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      }
+    ]
   },
   {
     "DLC":"",
@@ -968,6 +1402,12 @@
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xlarge.png",
-    "localImage":"images\/main_coin-bundle-xlarge.png"
+    "localImage":"images\/main_coin-bundle-xlarge.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      }
+    ]
   }
 ]
