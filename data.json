@@ -4406,7 +4406,11 @@
                   "web-winter-go-pass-box": "GO Pass Deluxe: Winter Holiday",
                   "web-winter-go-pass-box-plus-10rank-webonly": "GO Pass Deluxe: Winter Holiday Ultra Ticket Box",
                   "web-winter-go-pass-box-plus-10rank": "GO Pass Deluxe: Winter Holiday + 10 Ranks",
-                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday"
+                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday",
+                  "web-event-pass-base-jan-26": "GO Pass Deluxe: January",
+                  "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
+                  "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
+                  "BADGE_EVENT_0152": "GO Pass Deluxe: January"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8678,7 +8682,7 @@
                   "web-go-fest-bonus-bundle-2025": "特級對戰入場券 x 1, 孵化器 x 1",
                   "web-hoopa-raid-day-ticket": "解放胡帕團體戰日究極入場券禮盒",
                   "web-avatar-feb-2025-ticket": "乘風傳遞的心意究極入場券禮盒",
-                  "kazuki-test": "sku.name.kazuki-test",
+                  "kazuki-test": "テスト",
                   "web-gotour-2025-box-1": "GO Tour對戰者禮盒",
                   "web-gotour-2025-box-2": "GO Tour孵蛋禮盒",
                   "web-gotour-2025-box-3": "GO Tour究極禮盒",
@@ -9030,7 +9034,11 @@
                   "web-winter-go-pass-box": "GO入場券豪華版：冬季假期",
                   "web-winter-go-pass-box-plus-10rank-webonly": "GO入場券豪華版：冬季假期究極入場券禮盒",
                   "web-winter-go-pass-box-plus-10rank": "GO入場券豪華版：冬季假期+10級",
-                  "BADGE_EVENT_0172": "GO入場券豪華版：冬季假期"
+                  "BADGE_EVENT_0172": "GO入場券豪華版：冬季假期",
+                  "web-event-pass-base-jan-26": "GO Pass豪華版：1月",
+                  "web-event-pass-plusrank-jan-26": "GO Pass豪華版：12月＋10級",
+                  "web-event-pass-plusrank-jan-25-ultra": "GO Pass豪華版：12月究極入場券禮盒",
+                  "BADGE_EVENT_0152": "GO Pass豪華版：1月"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10155,7 +10163,11 @@
                   "web-winter-go-pass-box": "GO Pass Deluxe: Winter Holiday",
                   "web-winter-go-pass-box-plus-10rank-webonly": "GO Pass Deluxe: Winter Holiday Ultra Ticket Box",
                   "web-winter-go-pass-box-plus-10rank": "GO Pass Deluxe: Winter Holiday + 10 Ranks",
-                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday"
+                  "BADGE_EVENT_0172": "GO Pass Deluxe: Winter Holiday",
+                  "web-event-pass-base-jan-26": "GO Pass Deluxe: January",
+                  "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
+                  "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
+                  "BADGE_EVENT_0152": "GO Pass Deluxe: January"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
