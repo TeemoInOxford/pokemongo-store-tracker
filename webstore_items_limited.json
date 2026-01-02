@@ -644,6 +644,68 @@
   {
     "DLC":3,
     "category":"LIMITED_TIME\n限时礼盒",
+    "name":"Pinch Perfect Ultra Ticket Box\n海边断崖究极入场券礼盒",
+    "endTimeMs":"2026-01-12 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"Ticket\n入场券",
+        "rawId":"item_event_ticket_02",
+        "quantity":1
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":5
+      }
+    ],
+    "sellingPrice":"9.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle.general1.small.1.png",
+    "localImage":"images\/main_web-surf-and-turf-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/news\/pinch-perfect-2026\",\"associatedItemId\":\"ITEM_EVENT_TICKET_02\"}"
+      }
+    ]
+  },
+  {
+    "DLC":4,
+    "category":"LIMITED_TIME\n限时礼盒",
     "name":"Masterwork Research: Master Ball Ultra Ticket Box\n大师球究极入场券礼盒",
     "endTimeMs":"2026-02-23 14:00:00",
     "bundledItems":[
@@ -705,7 +767,7 @@
     ]
   },
   {
-    "DLC":4,
+    "DLC":5,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"Piplup Community Day Ultra Ticket Box\n波加曼社群日究极入场券礼盒",
     "endTimeMs":"2026-01-05 09:00:00",
@@ -767,7 +829,7 @@
     ]
   },
   {
-    "DLC":5,
+    "DLC":6,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December\nGO Pass豪华版：12月",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -840,7 +902,7 @@
     ]
   },
   {
-    "DLC":6,
+    "DLC":7,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December + 10 Rank\nGO Pass豪华版：12月＋10级",
     "endTimeMs":"2026-01-07 12:00:00",
@@ -918,7 +980,7 @@
     ]
   },
   {
-    "DLC":7,
+    "DLC":8,
     "category":"LIMITED_TIME\n限时礼盒",
     "name":"GO Pass Deluxe: December Ultra Ticket Box\nGO Pass豪华版：12月究极入场券礼盒",
     "endTimeMs":"2026-01-07 12:00:00",
