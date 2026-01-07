@@ -256,13 +256,15 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -287,7 +289,8 @@
                 "lastUpdateTimeMs": 1740700159682,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -312,7 +315,8 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -342,7 +346,8 @@
                 "lastUpdateTimeMs": 1762372676262,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Premium Battle Pass"
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -367,13 +372,15 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -403,7 +410,8 @@
                 "lastUpdateTimeMs": 1751062118393,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -428,7 +436,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -449,7 +458,8 @@
                 "lastUpdateTimeMs": 1740198424286,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Star Piece"
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -474,7 +484,8 @@
                     "itemId": "ITEM_INCENSE_ORDINARY",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Incense"
                   }
                 ],
                 "metadataList": [
@@ -495,7 +506,8 @@
                 "lastUpdateTimeMs": 1745617265591,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "2x Incense"
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -520,7 +532,8 @@
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   }
                 ],
                 "metadataList": [
@@ -541,7 +554,8 @@
                 "lastUpdateTimeMs": 1738276376447,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3x Rare Candies"
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -566,7 +580,8 @@
                     "itemId": "ITEM_TROY_DISK",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Lure Module"
                   }
                 ],
                 "metadataList": [
@@ -587,7 +602,8 @@
                 "lastUpdateTimeMs": 1743011156550,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Lure Module"
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -612,7 +628,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -633,7 +650,8 @@
                 "lastUpdateTimeMs": 1746578094014,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Star Piece"
               }
             ]
           },
@@ -670,31 +688,36 @@
                     "itemId": "ITEM_EVENT_TICKET_10",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Silver Pinap Berry"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   }
                 ],
                 "metadataList": [
@@ -740,7 +763,8 @@
                 "lastUpdateTimeMs": 1763755550733,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pokémon GO Tour 2026 Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-base-jan-26",
@@ -771,31 +795,36 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -841,7 +870,8 @@
                 "lastUpdateTimeMs": 1766191241719,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January"
               },
               {
                 "skuId": "web-kyurem-raid-day-ticket-box",
@@ -872,13 +902,15 @@
                     "itemId": "ITEM_EVENT_TICKET_09",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -924,7 +956,8 @@
                 "lastUpdateTimeMs": 1766171409787,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Kyurem Fusion Raid Day Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-plusrank-jan-25-ultra",
@@ -955,49 +988,57 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
                     "quantity": 1000,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": " + 10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 20,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Super Incubator"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -1043,7 +1084,8 @@
                 "lastUpdateTimeMs": 1766191258775,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-plusrank-jan-26",
@@ -1074,37 +1116,43 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
                     "quantity": 1000,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": " + 10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -1150,7 +1198,8 @@
                 "lastUpdateTimeMs": 1766191279205,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January + 10 Rank"
               },
               {
                 "skuId": "web-surf-and-turf-ticket-box",
@@ -1181,13 +1230,15 @@
                     "itemId": "ITEM_EVENT_TICKET_02",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   }
                 ],
                 "metadataList": [
@@ -1233,7 +1284,8 @@
                 "lastUpdateTimeMs": 1765832061808,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pinch Perfect Ultra Ticket Box"
               },
               {
                 "skuId": "web-masterball-25-ticket-box",
@@ -1264,19 +1316,22 @@
                     "itemId": "ITEM_EVENT_TICKET_07",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   },
                   {
                     "itemId": "ITEM_GOLDEN_RAZZ_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Golden Razz Berry"
                   }
                 ],
                 "metadataList": [
@@ -1318,7 +1373,8 @@
                 "lastUpdateTimeMs": 1764662419792,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Masterwork Research: Master Ball Ultra Ticket Box"
               }
             ]
           },
@@ -1355,13 +1411,15 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -1387,7 +1445,8 @@
                 "lastUpdateTimeMs": 1760637290851,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Particle Pack + Remote Raid Pass"
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -1418,13 +1477,15 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -1450,7 +1511,8 @@
                 "lastUpdateTimeMs": 1760637306364,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3 Max Particle Pack + 3 Remote Raid Pass"
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -1481,7 +1543,8 @@
                     "itemId": "ITEM_LUCKY_EGG",
                     "quantity": 8,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Lucky Egg"
                   }
                 ],
                 "metadataList": [
@@ -1507,7 +1570,8 @@
                 "lastUpdateTimeMs": 1747350697768,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Lucky Egg"
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -1538,7 +1602,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 8,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -1564,7 +1629,8 @@
                 "lastUpdateTimeMs": 1747350775734,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Star Piece"
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -1595,7 +1661,8 @@
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -1625,7 +1692,8 @@
                 "lastUpdateTimeMs": 1748383552137,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Remote Raid Pass"
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -1656,7 +1724,8 @@
                     "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Pokémon Storage"
                   }
                 ],
                 "metadataList": [
@@ -1686,7 +1755,8 @@
                 "lastUpdateTimeMs": 1748383596314,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pokémon Storage"
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -1717,7 +1787,8 @@
                     "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Item Bag"
                   }
                 ],
                 "metadataList": [
@@ -1747,7 +1818,8 @@
                 "lastUpdateTimeMs": 1748383479469,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Item Bag"
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -1778,7 +1850,8 @@
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -1804,7 +1877,8 @@
                 "lastUpdateTimeMs": 1748385491753,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Egg Incubator"
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -1835,7 +1909,8 @@
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Super Incubator"
                   }
                 ],
                 "metadataList": [
@@ -1861,7 +1936,8 @@
                 "lastUpdateTimeMs": 1748385504683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Super Incubator"
               },
               {
                 "skuId": "web-max-revive-6",
@@ -1892,7 +1968,8 @@
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 6,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   }
                 ],
                 "metadataList": [
@@ -1918,7 +1995,8 @@
                 "lastUpdateTimeMs": 1748383497940,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Revive"
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -1949,7 +2027,8 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -1975,7 +2054,8 @@
                 "lastUpdateTimeMs": 1748383565241,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Premium Battle Pass"
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -2006,7 +2086,8 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 6,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   }
                 ],
                 "metadataList": [
@@ -2032,7 +2113,8 @@
                 "lastUpdateTimeMs": 1747260879683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Particle Pack"
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -2063,7 +2145,8 @@
                     "itemId": "ITEM_MAX_BOOST",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Mushroom"
                   }
                 ],
                 "metadataList": [
@@ -2089,7 +2172,8 @@
                 "lastUpdateTimeMs": 1747260892552,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Mushroom"
               }
             ]
           },
@@ -2154,7 +2238,8 @@
                 "lastUpdateTimeMs": 1762283955240,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "110 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -2200,7 +2285,8 @@
                 "lastUpdateTimeMs": 1753906891399,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -2246,7 +2332,8 @@
                 "lastUpdateTimeMs": 1753907004358,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1,300 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -2292,7 +2379,8 @@
                 "lastUpdateTimeMs": 1753906952150,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "2,700 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -2338,7 +2426,8 @@
                 "lastUpdateTimeMs": 1753906968448,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "5,600 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -2384,7 +2473,8 @@
                 "lastUpdateTimeMs": 1753906982894,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "15,500 PokéCoins"
               }
             ]
           }
@@ -2420,7 +2510,8 @@
           "enableStoreRefreshFlagFromIap": false,
           "enableStoreRefreshPhaseOnePointOne": false,
           "enableStoreRedirectToSplashPage": false,
-          "enablePremiumQuestSkuCardDetails": false
+          "enablePremiumQuestSkuCardDetails": false,
+          "enableServerLocalizedName": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -4747,13 +4838,15 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -4778,7 +4871,8 @@
                 "lastUpdateTimeMs": 1740700159682,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -4803,7 +4897,8 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -4833,7 +4928,8 @@
                 "lastUpdateTimeMs": 1762372676262,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Premium Battle Pass"
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -4858,13 +4954,15 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -4894,7 +4992,8 @@
                 "lastUpdateTimeMs": 1751062118393,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -4919,7 +5018,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -4940,7 +5040,8 @@
                 "lastUpdateTimeMs": 1740198424286,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Star Piece"
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -4965,7 +5066,8 @@
                     "itemId": "ITEM_INCENSE_ORDINARY",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Incense"
                   }
                 ],
                 "metadataList": [
@@ -4986,7 +5088,8 @@
                 "lastUpdateTimeMs": 1745617265591,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "2x Incense"
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -5011,7 +5114,8 @@
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   }
                 ],
                 "metadataList": [
@@ -5032,7 +5136,8 @@
                 "lastUpdateTimeMs": 1738276376447,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3x Rare Candies"
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -5057,7 +5162,8 @@
                     "itemId": "ITEM_TROY_DISK",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Lure Module"
                   }
                 ],
                 "metadataList": [
@@ -5078,7 +5184,8 @@
                 "lastUpdateTimeMs": 1743011156550,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Lure Module"
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -5103,7 +5210,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -5124,7 +5232,8 @@
                 "lastUpdateTimeMs": 1746578094014,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1x Star Piece"
               }
             ]
           },
@@ -5161,31 +5270,36 @@
                     "itemId": "ITEM_EVENT_TICKET_10",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Silver Pinap Berry"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   }
                 ],
                 "metadataList": [
@@ -5231,7 +5345,8 @@
                 "lastUpdateTimeMs": 1763755550733,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pokémon GO Tour 2026 Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-base-jan-26",
@@ -5262,31 +5377,36 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -5332,7 +5452,8 @@
                 "lastUpdateTimeMs": 1766191241719,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January"
               },
               {
                 "skuId": "web-kyurem-raid-day-ticket-box",
@@ -5363,13 +5484,15 @@
                     "itemId": "ITEM_EVENT_TICKET_09",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -5415,7 +5538,8 @@
                 "lastUpdateTimeMs": 1766171409787,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Kyurem Fusion Raid Day Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-plusrank-jan-25-ultra",
@@ -5446,49 +5570,57 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
                     "quantity": 1000,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": " + 10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 20,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Super Incubator"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -5534,7 +5666,8 @@
                 "lastUpdateTimeMs": 1766191258775,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January Ultra Ticket Box"
               },
               {
                 "skuId": "web-event-pass-plusrank-jan-26",
@@ -5565,37 +5698,43 @@
                     "itemId": "BADGE_EVENT_0152",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: January"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
                     "quantity": 1000,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": " + 10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
                   }
                 ],
                 "metadataList": [
@@ -5641,7 +5780,8 @@
                 "lastUpdateTimeMs": 1766191279205,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: January + 10 Rank"
               },
               {
                 "skuId": "web-surf-and-turf-ticket-box",
@@ -5672,13 +5812,15 @@
                     "itemId": "ITEM_EVENT_TICKET_02",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
                   }
                 ],
                 "metadataList": [
@@ -5724,7 +5866,8 @@
                 "lastUpdateTimeMs": 1765832061808,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pinch Perfect Ultra Ticket Box"
               },
               {
                 "skuId": "web-masterball-25-ticket-box",
@@ -5755,19 +5898,22 @@
                     "itemId": "ITEM_EVENT_TICKET_07",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Rare Candy"
                   },
                   {
                     "itemId": "ITEM_GOLDEN_RAZZ_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Golden Razz Berry"
                   }
                 ],
                 "metadataList": [
@@ -5809,7 +5955,8 @@
                 "lastUpdateTimeMs": 1764662419792,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Masterwork Research: Master Ball Ultra Ticket Box"
               }
             ]
           },
@@ -5846,13 +5993,15 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -5878,7 +6027,8 @@
                 "lastUpdateTimeMs": 1760637290851,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Particle Pack + Remote Raid Pass"
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -5909,13 +6059,15 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -5941,7 +6093,8 @@
                 "lastUpdateTimeMs": 1760637306364,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3 Max Particle Pack + 3 Remote Raid Pass"
               },
               {
                 "skuId": "web-luckyegg-bundle-8",
@@ -5972,7 +6125,8 @@
                     "itemId": "ITEM_LUCKY_EGG",
                     "quantity": 8,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Lucky Egg"
                   }
                 ],
                 "metadataList": [
@@ -5998,7 +6152,8 @@
                 "lastUpdateTimeMs": 1747350697768,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Lucky Egg"
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -6029,7 +6184,8 @@
                     "itemId": "ITEM_STAR_PIECE",
                     "quantity": 8,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Star Piece"
                   }
                 ],
                 "metadataList": [
@@ -6055,7 +6211,8 @@
                 "lastUpdateTimeMs": 1747350775734,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Star Piece"
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -6086,7 +6243,8 @@
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
                   }
                 ],
                 "metadataList": [
@@ -6116,7 +6274,8 @@
                 "lastUpdateTimeMs": 1748383552137,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Remote Raid Pass"
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -6147,7 +6306,8 @@
                     "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Pokémon Storage"
                   }
                 ],
                 "metadataList": [
@@ -6177,7 +6337,8 @@
                 "lastUpdateTimeMs": 1748383596314,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Pokémon Storage"
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -6208,7 +6369,8 @@
                     "itemId": "ITEM_ITEM_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Item Bag"
                   }
                 ],
                 "metadataList": [
@@ -6238,7 +6400,8 @@
                 "lastUpdateTimeMs": 1748383479469,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Item Bag"
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -6269,7 +6432,8 @@
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
                   }
                 ],
                 "metadataList": [
@@ -6295,7 +6459,8 @@
                 "lastUpdateTimeMs": 1748385491753,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Egg Incubator"
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -6326,7 +6491,8 @@
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 2,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Super Incubator"
                   }
                 ],
                 "metadataList": [
@@ -6352,7 +6518,8 @@
                 "lastUpdateTimeMs": 1748385504683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Super Incubator"
               },
               {
                 "skuId": "web-max-revive-6",
@@ -6383,7 +6550,8 @@
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 6,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
                   }
                 ],
                 "metadataList": [
@@ -6409,7 +6577,8 @@
                 "lastUpdateTimeMs": 1748383497940,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Revive"
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -6440,7 +6609,8 @@
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -6466,7 +6636,8 @@
                 "lastUpdateTimeMs": 1748383565241,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Premium Battle Pass"
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -6497,7 +6668,8 @@
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 6,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
                   }
                 ],
                 "metadataList": [
@@ -6523,7 +6695,8 @@
                 "lastUpdateTimeMs": 1747260879683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Particle Pack"
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -6554,7 +6727,8 @@
                     "itemId": "ITEM_MAX_BOOST",
                     "quantity": 3,
                     "imageUrl": "",
-                    "contentTagsList": []
+                    "contentTagsList": [],
+                    "localizedName": "Max Mushroom"
                   }
                 ],
                 "metadataList": [
@@ -6580,7 +6754,8 @@
                 "lastUpdateTimeMs": 1747260892552,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Mushroom"
               }
             ]
           },
@@ -6645,7 +6820,8 @@
                 "lastUpdateTimeMs": 1762283955240,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "110 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -6691,7 +6867,8 @@
                 "lastUpdateTimeMs": 1753906891399,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -6737,7 +6914,8 @@
                 "lastUpdateTimeMs": 1753907004358,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "1,300 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -6783,7 +6961,8 @@
                 "lastUpdateTimeMs": 1753906952150,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "2,700 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -6829,7 +7008,8 @@
                 "lastUpdateTimeMs": 1753906968448,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "5,600 PokéCoins"
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -6875,7 +7055,8 @@
                 "lastUpdateTimeMs": 1753906982894,
                 "linkedSkuId": "",
                 "isSubscribable": false,
-                "subscriptionContentCategoriesList": []
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "15,500 PokéCoins"
               }
             ]
           }
@@ -6911,7 +7092,8 @@
           "enableStoreRefreshFlagFromIap": false,
           "enableStoreRefreshPhaseOnePointOne": false,
           "enableStoreRedirectToSplashPage": false,
-          "enablePremiumQuestSkuCardDetails": false
+          "enablePremiumQuestSkuCardDetails": false,
+          "enableServerLocalizedName": false
         },
         "layoutConfig": {
           "backgroundImage": {
