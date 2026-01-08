@@ -680,7 +680,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 1764201600000,
-                  "endTimeMs": 1772431200000
+                  "endTimeMs": 1772416800000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -760,7 +760,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1763755550733,
+                "lastUpdateTimeMs": 1767910924505,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -5262,7 +5262,7 @@
                   "purchaseLimit": 0,
                   "purchasesRemaining": 0,
                   "startTimeMs": 1764201600000,
-                  "endTimeMs": 1772431200000
+                  "endTimeMs": 1772416800000
                 },
                 "bundledCurrencyList": [],
                 "bundledItemList": [
@@ -5342,7 +5342,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 120,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1763755550733,
+                "lastUpdateTimeMs": 1767910924505,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
