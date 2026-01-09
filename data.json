@@ -3606,7 +3606,8 @@
                 "payment_vendor": "Payment Vendor",
                 "info": "info",
                 "virtual_currency_name_uppercase": "POKÉCOINS",
-                "daily_bundles_uppercase": "DAILY BUNDLES"
+                "daily_bundles_uppercase": "DAILY BUNDLES",
+                "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion."
               },
               "confirmation": {
                 "failed": {
@@ -4364,7 +4365,8 @@
                   "web-event-pass-base-jan-26": "GO Pass Deluxe: January",
                   "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
-                  "BADGE_EVENT_0152": "GO Pass Deluxe: January"
+                  "BADGE_EVENT_0152": "GO Pass Deluxe: January",
+                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8188,7 +8190,8 @@
                 "payment_vendor": "付款服務供應商",
                 "info": "相關資訊",
                 "virtual_currency_name_uppercase": "寶可幣",
-                "daily_bundles_uppercase": "每日禮盒"
+                "daily_bundles_uppercase": "每日禮盒",
+                "promo_failure": "此為無效的促銷代碼，或者您不符合促銷活動資格。"
               },
               "confirmation": {
                 "failed": {
@@ -8946,7 +8949,8 @@
                   "web-event-pass-base-jan-26": "GO Pass豪華版：1月",
                   "web-event-pass-plusrank-jan-26": "GO Pass豪華版：1月＋10級",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass豪華版：1月究極入場券禮盒",
-                  "BADGE_EVENT_0152": "GO Pass豪華版：1月"
+                  "BADGE_EVENT_0152": "GO Pass豪華版：1月",
+                  "item_event_ticket_05": "拉普拉斯（超極巨化）極巨對戰日入場券"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9317,7 +9321,8 @@
                 "payment_vendor": "Payment Vendor",
                 "info": "info",
                 "virtual_currency_name_uppercase": "POKÉCOINS",
-                "daily_bundles_uppercase": "DAILY BUNDLES"
+                "daily_bundles_uppercase": "DAILY BUNDLES",
+                "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion."
               },
               "confirmation": {
                 "failed": {
@@ -10075,7 +10080,8 @@
                   "web-event-pass-base-jan-26": "GO Pass Deluxe: January",
                   "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
-                  "BADGE_EVENT_0152": "GO Pass Deluxe: January"
+                  "BADGE_EVENT_0152": "GO Pass Deluxe: January",
+                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
