@@ -4365,7 +4365,9 @@
                   "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
                   "BADGE_EVENT_0152": "GO Pass Deluxe: January",
-                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket"
+                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket",
+                  "web-shadow-raikou-raid-day-ticket-box": "Raikou Shadow Raid Day Ultra Ticket Box",
+                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8948,7 +8950,9 @@
                   "web-event-pass-plusrank-jan-26": "GO Pass豪華版：1月＋10級",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass豪華版：1月究極入場券禮盒",
                   "BADGE_EVENT_0152": "GO Pass豪華版：1月",
-                  "item_event_ticket_05": "拉普拉斯（超極巨化）極巨對戰日入場券"
+                  "item_event_ticket_05": "拉普拉斯（超極巨化）極巨對戰日入場券",
+                  "web-shadow-raikou-raid-day-ticket-box": "Raikou Shadow Raid Day Ultra Ticket Box",
+                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10079,7 +10083,9 @@
                   "web-event-pass-plusrank-jan-26": "GO Pass Deluxe: January + 10 Rank",
                   "web-event-pass-plusrank-jan-25-ultra": "GO Pass Deluxe: January Ultra Ticket Box",
                   "BADGE_EVENT_0152": "GO Pass Deluxe: January",
-                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket"
+                  "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket",
+                  "web-shadow-raikou-raid-day-ticket-box": "Raikou Shadow Raid Day Ultra Ticket Box",
+                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
