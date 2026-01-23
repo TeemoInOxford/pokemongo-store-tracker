@@ -874,6 +874,84 @@
                 "localizedName": "GO Pass Deluxe: January"
               },
               {
+                "skuId": "web-encounter-jan-26-ticket-box",
+                "localizationNameKey": "sku.name.web-encounter-jan-26-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/genericbox_a1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1769191200000,
+                  "endTimeMs": 1770012000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1768415483131,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Into the Depths Ultra Ticket Box"
+              },
+              {
                 "skuId": "web-buddy-avatar-ticket-box",
                 "localizationNameKey": "sku.name.web-buddy-avatar-ticket-box",
                 "description": " ",
@@ -5454,6 +5532,84 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "GO Pass Deluxe: January"
+              },
+              {
+                "skuId": "web-encounter-jan-26-ticket-box",
+                "localizationNameKey": "sku.name.web-encounter-jan-26-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/genericbox_a1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1769191200000,
+                  "endTimeMs": 1770012000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVERGREEN_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1768415483131,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Into the Depths Ultra Ticket Box"
               },
               {
                 "skuId": "web-buddy-avatar-ticket-box",
