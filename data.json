@@ -3456,7 +3456,7 @@
                 "footer": {
                   "game_disclaimer": "Pokémon GO is playable in English, French, German, Italian, Russian, Japanese, Spanish, Traditional Chinese, Korean, Thai, Brazillian Portuguese, Turkish, and Indonesian.",
                   "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely.",
-                  "legal_disclaimer_dynamic_year": "©{{year}} Niantic, Inc. ©{{year}} Pokémon. ©1995–{{year}} Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely."
+                  "legal_disclaimer_dynamic_year": "©Niantic ©Pokémon/Nintendo/Creatures/GAME FREAK\nTM, ®, and character names are trademarks of Nintendo.\nApple, the Apple logo, and App Store are trademarks of Apple Inc.\nGoogle Play is a trademark of Google LLC.\nBasic gameplay is available at no cost. (Optional in-game purchases available.)\nMessage to minors: Please get the permission of your parent or guardian before purchasing paid items."
                 },
                 "free_next_purchase": "GET A FREE {{item}} WITH YOUR NEXT PURCHASE!",
                 "google_pay": "Google Pay",
@@ -3592,7 +3592,9 @@
                 "virtual_currency_name_uppercase": "POKÉCOINS",
                 "daily_bundles_uppercase": "DAILY BUNDLES",
                 "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion.",
-                "mystery_boxes": "Mystery Boxes"
+                "mystery_boxes": "Mystery Boxes",
+                "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
+                "promo_code_v2_applied": "<0>{{code}}</0> applied:"
               },
               "confirmation": {
                 "failed": {
@@ -4353,7 +4355,16 @@
                   "BADGE_EVENT_0152": "GO Pass Deluxe: January",
                   "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket",
                   "web-shadow-raikou-raid-day-ticket-box": "Raikou Shadow Raid Day Ultra Ticket Box",
-                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box"
+                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box",
+                  "web-event-pass-base-feb-26": "GO Pass Deluxe: February",
+                  "web-event-pass-plusrank-feb-26": "GO Pass Deluxe: February + 10 Ranks",
+                  "web-event-pass-plusrank-feb-25-ultra": "GO Pass Deluxe: February Ultra Ticket Box",
+                  "web-nc-600": "600 Link Charge",
+                  "web-nc-50-rrp-1": "50 Link Charge + 1 Remote Raid Pass",
+                  "web-nc-600-rrp-3": "600 Link Charge + 3 Remote Raid Pass",
+                  "web-15-gold-razz": "Golden Razz Berries",
+                  "web-10-silver-pinap": "Silver Pinap Berries",
+                  "web-10-max-potions": "Max Potions"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -8027,7 +8038,7 @@
                 "footer": {
                   "game_disclaimer": "可使用英文、法文、德文、義大利文、俄文、日文、西班牙文、繁體中文、韓文、泰文、巴西葡萄牙文、土耳其文及印尼文遊玩Pokémon GO。",
                   "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。",
-                  "legal_disclaimer_dynamic_year": "©{{year}} Niantic, Inc. ©{{year}} Pokémon. ©1995–{{year}} Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。"
+                  "legal_disclaimer_dynamic_year": "©Niantic ©Pokémon/Nintendo/Creatures/GAME FREAK\nTM, ®, and character names are trademarks of Nintendo.\nApp Store是Apple Inc.的服務商標。\nGoogle Play是 Google LLC 的商標。\n基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。"
                 },
                 "free_next_purchase": "SONRAKİ ALIŞVERİŞİNİZLE BİRLİKTE ÜCRETSİZ BİR {{item}} ALIN!",
                 "google_pay": "Google Play",
@@ -8163,7 +8174,9 @@
                 "virtual_currency_name_uppercase": "寶可幣",
                 "daily_bundles_uppercase": "每日禮盒",
                 "promo_failure": "此為無效的促銷代碼，或者您不符合促銷活動資格。",
-                "mystery_boxes": "神秘盒子"
+                "mystery_boxes": "神秘盒子",
+                "promo_code_v2_percent_off": "已套用<0>{{code}}</0>（{{percentOff}}%折扣）",
+                "promo_code_v2_applied": "已套用<0>{{code}}</0>："
               },
               "confirmation": {
                 "failed": {
@@ -8924,7 +8937,16 @@
                   "BADGE_EVENT_0152": "GO Pass豪華版：1月",
                   "item_event_ticket_05": "拉普拉斯（超極巨化）極巨對戰日入場券",
                   "web-shadow-raikou-raid-day-ticket-box": "暗影雷公團體戰日究極入場券禮盒",
-                  "web-encounter-jan-26-ticket-box": "洞窟深處究極入場券禮盒"
+                  "web-encounter-jan-26-ticket-box": "洞窟深處究極入場券禮盒",
+                  "web-event-pass-base-feb-26": "GO Pass豪華版：2月",
+                  "web-event-pass-plusrank-feb-26": "GO Pass豪華版：2月+10級",
+                  "web-event-pass-plusrank-feb-25-ultra": "GO Pass豪華版：2月究極入場券禮盒",
+                  "web-nc-600": "600 連結費用",
+                  "web-nc-50-rrp-1": "50 連結費用 + 1 遠距團體戰入場券",
+                  "web-nc-600-rrp-3": "600 連結費用 + 3 遠距團體戰入場券",
+                  "web-15-gold-razz": "金色蔓莓果",
+                  "web-10-silver-pinap": "銀色凰梨果",
+                  "web-10-max-potions": "全滿藥"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -9161,7 +9183,7 @@
                 "footer": {
                   "game_disclaimer": "Pokémon GO is playable in English, French, German, Italian, Russian, Japanese, Spanish, Traditional Chinese, Korean, Thai, Brazillian Portuguese, Turkish, and Indonesian.",
                   "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely.",
-                  "legal_disclaimer_dynamic_year": "©{{year}} Niantic, Inc. ©{{year}} Pokémon. ©1995–{{year}} Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon and Pokémon character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. During gameplay, please be aware of your surroundings and play safely."
+                  "legal_disclaimer_dynamic_year": "©Niantic ©Pokémon/Nintendo/Creatures/GAME FREAK\nTM, ®, and character names are trademarks of Nintendo.\nApple, the Apple logo, and App Store are trademarks of Apple Inc.\nGoogle Play is a trademark of Google LLC.\nBasic gameplay is available at no cost. (Optional in-game purchases available.)\nMessage to minors: Please get the permission of your parent or guardian before purchasing paid items."
                 },
                 "free_next_purchase": "GET A FREE {{item}} WITH YOUR NEXT PURCHASE!",
                 "google_pay": "Google Pay",
@@ -9297,7 +9319,9 @@
                 "virtual_currency_name_uppercase": "POKÉCOINS",
                 "daily_bundles_uppercase": "DAILY BUNDLES",
                 "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion.",
-                "mystery_boxes": "Mystery Boxes"
+                "mystery_boxes": "Mystery Boxes",
+                "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
+                "promo_code_v2_applied": "<0>{{code}}</0> applied:"
               },
               "confirmation": {
                 "failed": {
@@ -10058,7 +10082,16 @@
                   "BADGE_EVENT_0152": "GO Pass Deluxe: January",
                   "item_event_ticket_05": "Gigantamax Lapras Max Battle Day Ticket",
                   "web-shadow-raikou-raid-day-ticket-box": "Raikou Shadow Raid Day Ultra Ticket Box",
-                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box"
+                  "web-encounter-jan-26-ticket-box": "Into the Depths Ultra Ticket Box",
+                  "web-event-pass-base-feb-26": "GO Pass Deluxe: February",
+                  "web-event-pass-plusrank-feb-26": "GO Pass Deluxe: February + 10 Ranks",
+                  "web-event-pass-plusrank-feb-25-ultra": "GO Pass Deluxe: February Ultra Ticket Box",
+                  "web-nc-600": "600 Link Charge",
+                  "web-nc-50-rrp-1": "50 Link Charge + 1 Remote Raid Pass",
+                  "web-nc-600-rrp-3": "600 Link Charge + 3 Remote Raid Pass",
+                  "web-15-gold-razz": "Golden Razz Berries",
+                  "web-10-silver-pinap": "Silver Pinap Berries",
+                  "web-10-max-potions": "Max Potions"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
