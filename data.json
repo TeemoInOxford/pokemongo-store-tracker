@@ -981,7 +981,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass Deluxe: February"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
@@ -1183,7 +1183,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass Deluxe: February"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
@@ -1293,7 +1293,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass Deluxe: February"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
@@ -4818,7 +4818,9 @@
                   "web-nc-600-rrp-3": "600 Link Charge + 3 Remote Raid Pass",
                   "web-15-gold-razz": "Golden Razz Berries",
                   "web-10-silver-pinap": "Silver Pinap Berries",
-                  "web-10-max-potions": "Max Potions"
+                  "web-10-max-potions": "Max Potions",
+                  "web-catch-mastery-feb-26-ticket-box": "Oricorio Catch Mastery Ultra Ticket Box",
+                  "BADGE_EVENT_0153": "GO Pass Deluxe: February"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -6017,7 +6019,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass豪華版：2月"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
@@ -6219,7 +6221,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass豪華版：2月"
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
@@ -6329,7 +6331,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "BADGE_EVENT_0153"
+                    "localizedName": "GO Pass豪華版：2月"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
@@ -8946,7 +8948,7 @@
                 "footer": {
                   "game_disclaimer": "可使用英文、法文、德文、義大利文、俄文、日文、西班牙文、繁體中文、韓文、泰文、巴西葡萄牙文、土耳其文及印尼文遊玩Pokémon GO。",
                   "legal_disclaimer": "©2023 Niantic, Inc. ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. 「寶可夢」、「Pokémon」是任天堂的商標。 Apple 和 Apple 標誌是 Apple Inc. 在美國和其他國家或地區註冊的商標。App Store 是Apple Inc. 的服務商標。Google Play 和 Google Play 標誌均為 Google LLC 的商標。 基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。玩遊戲時請注意周遭環境，小心安全。",
-                  "legal_disclaimer_dynamic_year": "©Niantic ©Pokémon/Nintendo/Creatures/GAME FREAK\nTM, ®, and character names are trademarks of Nintendo.\nApp Store是Apple Inc.的服務商標。\nGoogle Play是 Google LLC 的商標。\n基本遊戲免費，部分道具需付費購買。致未成年者：購買付費道具時請務必先取得父母或監護人的同意，或是和他們一起購買。"
+                  "legal_disclaimer_dynamic_year": "©Niantic ©Pokémon / Nintendo / Creatures / GAME FREAK TM、® 以及角色名稱均為任天堂的商標。\nApple、Apple標誌及App Store均為Apple Inc.的商標。\nGoogle Play是Google LLC的商標。\n基本遊戲免費，部分道具需付費購買。\n致未成年者：購買付費道具前，請務必先取得父母或監護人的同意。"
                 },
                 "free_next_purchase": "SONRAKİ ALIŞVERİŞİNİZLE BİRLİKTE ÜCRETSİZ BİR {{item}} ALIN!",
                 "google_pay": "Google Play",
@@ -9854,7 +9856,9 @@
                   "web-nc-600-rrp-3": "600 連結費用 + 3 遠距團體戰入場券",
                   "web-15-gold-razz": "金色蔓莓果",
                   "web-10-silver-pinap": "銀色凰梨果",
-                  "web-10-max-potions": "全滿藥"
+                  "web-10-max-potions": "全滿藥",
+                  "web-catch-mastery-feb-26-ticket-box": "Oricorio Catch Mastery Ultra Ticket Box",
+                  "BADGE_EVENT_0153": "GO Pass豪華版：2月"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10999,7 +11003,9 @@
                   "web-nc-600-rrp-3": "600 Link Charge + 3 Remote Raid Pass",
                   "web-15-gold-razz": "Golden Razz Berries",
                   "web-10-silver-pinap": "Silver Pinap Berries",
-                  "web-10-max-potions": "Max Potions"
+                  "web-10-max-potions": "Max Potions",
+                  "web-catch-mastery-feb-26-ticket-box": "Oricorio Catch Mastery Ultra Ticket Box",
+                  "BADGE_EVENT_0153": "GO Pass Deluxe: February"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
