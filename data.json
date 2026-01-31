@@ -845,113 +845,6 @@
                 "localizedName": "Pokémon GO Tour 2026 Ultra Ticket Box"
               },
               {
-                "skuId": "web-event-pass-base-jan-26",
-                "localizationNameKey": "sku.name.web-event-pass-base-jan-26",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: January"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Revive"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Potion"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191241719,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: January"
-              },
-              {
                 "skuId": "web-event-pass-plusrank-feb-25-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-feb-25-ultra",
                 "description": " ",
@@ -1453,134 +1346,6 @@
                 "localizedName": "Carnival of Flamigo Ultra Ticket Box"
               },
               {
-                "skuId": "web-event-pass-plusrank-jan-25-ultra",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-jan-25-ultra",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: January"
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 20,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Revive"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Super Incubator"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Potion"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 180,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191258775,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: January Ultra Ticket Box"
-              },
-              {
                 "skuId": "web-vulpix-cd-26-ticket-box",
                 "localizationNameKey": "sku.name.web-vulpix-cd-26-ticket-box",
                 "description": " ",
@@ -1665,120 +1430,6 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "Vulpix Community Day Ultra Ticket Box"
-              },
-              {
-                "skuId": "web-event-pass-plusrank-jan-26",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-jan-26",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: January"
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Revive"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Potion"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191279205,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: January + 10 Rank"
               },
               {
                 "skuId": "web-masterball-25-ticket-box",
@@ -3767,14 +3418,12 @@
                 {
                   "item": "ITEM_RAZZ_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png",
-                  "localizedName": "Razz Berry"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png"
                 },
                 {
                   "item": "ITEM_NANAB_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png",
-                  "localizedName": "Nanab Berry"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png"
                 }
               ]
             },
@@ -3784,8 +3433,7 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
-                  "localizedName": "Premium Battle Pass"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
                 }
               ]
             },
@@ -3795,14 +3443,12 @@
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
-                  "localizedName": "Incense"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
                 },
                 {
                   "item": "ITEM_SUPER_POTION",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png",
-                  "localizedName": "Super Potion"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png"
                 }
               ]
             },
@@ -3812,14 +3458,12 @@
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                  "localizedName": "Star Piece"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
                 },
                 {
                   "item": "ITEM_LUCKY_EGG",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png",
-                  "localizedName": "Lucky Egg"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png"
                 }
               ]
             },
@@ -3829,20 +3473,17 @@
                 {
                   "item": "ITEM_TROY_DISK",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png",
-                  "localizedName": "Lure Module"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png"
                 },
                 {
                   "item": "ITEM_HYPER_POTION",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png",
-                  "localizedName": "Hyper Potion"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png"
                 },
                 {
                   "item": "ITEM_ULTRA_BALL",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png",
-                  "localizedName": "Ultra Ball"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png"
                 }
               ]
             },
@@ -3852,20 +3493,17 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
-                  "localizedName": "Egg Incubator"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
                 },
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
-                  "localizedName": "Incense"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
                 },
                 {
                   "item": "STICKER_TR_SIERRA",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png",
-                  "localizedName": "STICKER_TR_SIERRA"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png"
                 }
               ]
             },
@@ -3875,14 +3513,12 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
-                  "localizedName": "Premium Battle Pass"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
                 },
                 {
                   "item": "ITEM_MAX_POTION",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png",
-                  "localizedName": "Max Potion"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png"
                 }
               ]
             },
@@ -3892,20 +3528,17 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
-                  "localizedName": "Egg Incubator"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
                 },
                 {
                   "item": "ITEM_GOLDEN_PINAP_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png",
-                  "localizedName": "Silver Pinap Berry"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png"
                 },
                 {
                   "item": "ITEM_GOLDEN_RAZZ_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png",
-                  "localizedName": "Golden Razz Berry"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png"
                 }
               ]
             },
@@ -3915,14 +3548,12 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
-                  "localizedName": "Premium Battle Pass"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
-                  "localizedName": "Egg Incubator"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
                 }
               ]
             },
@@ -3932,20 +3563,17 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
-                  "localizedName": "Premium Battle Pass"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
-                  "localizedName": "Egg Incubator"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
                 },
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
-                  "localizedName": "Star Piece"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
                 }
               ]
             }
@@ -5969,113 +5597,6 @@
                 "localizedName": "GO Tour 2026究極入場券禮盒"
               },
               {
-                "skuId": "web-event-pass-base-jan-26",
-                "localizationNameKey": "sku.name.web-event-pass-base-jan-26",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：1月"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "高級球"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "活力塊"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "全滿藥"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191241719,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：1月"
-              },
-              {
                 "skuId": "web-event-pass-plusrank-feb-25-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-feb-25-ultra",
                 "description": " ",
@@ -6577,134 +6098,6 @@
                 "localizedName": "Carnival of Flamigo究極入場券禮盒"
               },
               {
-                "skuId": "web-event-pass-plusrank-jan-25-ultra",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-jan-25-ultra",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle3.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 76000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 76000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：1月"
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": " +10 級/級別"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 20,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "高級球"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "活力塊"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 2,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_BASIC",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "孵化器"
-                  },
-                  {
-                    "itemId": "ITEM_INCUBATOR_SUPER",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "超級孵化器"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "全滿藥"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 180,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191258775,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：1月究極入場券禮盒"
-              },
-              {
                 "skuId": "web-vulpix-cd-26-ticket-box",
                 "localizationNameKey": "sku.name.web-vulpix-cd-26-ticket-box",
                 "description": " ",
@@ -6789,120 +6182,6 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "六尾社群日究極入場券禮盒"
-              },
-              {
-                "skuId": "web-event-pass-plusrank-jan-26",
-                "localizationNameKey": "sku.name.web-event-pass-plusrank-jan-26",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.c.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 50000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 50000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1767387600000,
-                  "endTimeMs": 1769832000000
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "BADGE_EVENT_0152",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：1月"
-                  },
-                  {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
-                    "quantity": 1000,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": " +10 級/級別"
-                  },
-                  {
-                    "itemId": "ITEM_ULTRA_BALL",
-                    "quantity": 10,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "高級球"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_REVIVE",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "活力塊"
-                  },
-                  {
-                    "itemId": "ITEM_PAID_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
-                  },
-                  {
-                    "itemId": "ITEM_MAX_POTION",
-                    "quantity": 5,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "全滿藥"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_PRIMARY_TAG",
-                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-                  },
-                  {
-                    "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "true"
-                  },
-                  {
-                    "key": "FRONTEND_PURCHASE_LIMIT",
-                    "value": "1"
-                  },
-                  {
-                    "key": "FRONTEND_BADGE",
-                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-                  },
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  },
-                  {
-                    "key": "FRONTEND_EVENT_LINK",
-                    "value": "{\"eventLink\":\"https://pokemongo.com/news/go-pass-january-2026\",\"associatedItemId\":\"BADGE_EVENT_0152\"}"
-                  }
-                ],
-                "category": "LIMITED_TIME",
-                "sortOrder": 1,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 120,
-                "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1766191279205,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：1月＋10級"
               },
               {
                 "skuId": "web-masterball-25-ticket-box",
