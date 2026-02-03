@@ -2934,9 +2934,7 @@
           "countryHelpshiftLinksMap": []
         },
         "miscConfig": {
-          "ignoreStoreRedirectCountryList": [
-            "US"
-          ]
+          "ignoreStoreRedirectCountryList": []
         }
       },
       "envSpecificClientConfig": {
@@ -7467,9 +7465,7 @@
           "countryHelpshiftLinksMap": []
         },
         "miscConfig": {
-          "ignoreStoreRedirectCountryList": [
-            "US"
-          ]
+          "ignoreStoreRedirectCountryList": []
         }
       },
       "envSpecificClientConfig": {
