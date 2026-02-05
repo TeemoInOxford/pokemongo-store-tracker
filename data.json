@@ -7905,12 +7905,14 @@
                 {
                   "item": "ITEM_RAZZ_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png",
+                  "localizedName": "蔓莓果"
                 },
                 {
                   "item": "ITEM_NANAB_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png",
+                  "localizedName": "蕉香果"
                 }
               ]
             },
@@ -7920,7 +7922,8 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "特級對戰入場券"
                 }
               ]
             },
@@ -7930,12 +7933,14 @@
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
+                  "localizedName": "薰香"
                 },
                 {
                   "item": "ITEM_SUPER_POTION",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png",
+                  "localizedName": "好傷藥"
                 }
               ]
             },
@@ -7945,12 +7950,14 @@
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
+                  "localizedName": "星星碎片"
                 },
                 {
                   "item": "ITEM_LUCKY_EGG",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png",
+                  "localizedName": "幸運蛋"
                 }
               ]
             },
@@ -7960,17 +7967,20 @@
                 {
                   "item": "ITEM_TROY_DISK",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png",
+                  "localizedName": "誘餌模組"
                 },
                 {
                   "item": "ITEM_HYPER_POTION",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png",
+                  "localizedName": "厲害傷藥"
                 },
                 {
                   "item": "ITEM_ULTRA_BALL",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png",
+                  "localizedName": "高級球"
                 }
               ]
             },
@@ -7980,17 +7990,20 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "孵化器"
                 },
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
+                  "localizedName": "薰香"
                 },
                 {
                   "item": "STICKER_TR_SIERRA",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png",
+                  "localizedName": "STICKER_TR_SIERRA"
                 }
               ]
             },
@@ -8000,12 +8013,14 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "特級對戰入場券"
                 },
                 {
                   "item": "ITEM_MAX_POTION",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png",
+                  "localizedName": "全滿藥"
                 }
               ]
             },
@@ -8015,17 +8030,20 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "孵化器"
                 },
                 {
                   "item": "ITEM_GOLDEN_PINAP_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png",
+                  "localizedName": "銀色凰梨果"
                 },
                 {
                   "item": "ITEM_GOLDEN_RAZZ_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png",
+                  "localizedName": "金色蔓莓果"
                 }
               ]
             },
@@ -8035,12 +8053,14 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "特級對戰入場券"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "孵化器"
                 }
               ]
             },
@@ -8050,17 +8070,20 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "特級對戰入場券"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "孵化器"
                 },
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
+                  "localizedName": "星星碎片"
                 }
               ]
             }
