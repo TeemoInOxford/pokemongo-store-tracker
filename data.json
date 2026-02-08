@@ -3187,12 +3187,14 @@
                 {
                   "item": "ITEM_RAZZ_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_razz_berry.png",
+                  "localizedName": "Razz Berry"
                 },
                 {
                   "item": "ITEM_NANAB_BERRY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_nanab_berry.png",
+                  "localizedName": "Nanab Berry"
                 }
               ]
             },
@@ -3202,7 +3204,8 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "Premium Battle Pass"
                 }
               ]
             },
@@ -3212,12 +3215,14 @@
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
+                  "localizedName": "Incense"
                 },
                 {
                   "item": "ITEM_SUPER_POTION",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_super_potion.png",
+                  "localizedName": "Super Potion"
                 }
               ]
             },
@@ -3227,12 +3232,14 @@
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
+                  "localizedName": "Star Piece"
                 },
                 {
                   "item": "ITEM_LUCKY_EGG",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_lucky_egg.png",
+                  "localizedName": "Lucky Egg"
                 }
               ]
             },
@@ -3242,17 +3249,20 @@
                 {
                   "item": "ITEM_TROY_DISK",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_troy_disk.png",
+                  "localizedName": "Lure Module"
                 },
                 {
                   "item": "ITEM_HYPER_POTION",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_hyper_potion.png",
+                  "localizedName": "Hyper Potion"
                 },
                 {
                   "item": "ITEM_ULTRA_BALL",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_ultra_ball.png",
+                  "localizedName": "Ultra Ball"
                 }
               ]
             },
@@ -3262,17 +3272,20 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "Egg Incubator"
                 },
                 {
                   "item": "ITEM_INCENSE_ORDINARY",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incense_ordinary.png",
+                  "localizedName": "Incense"
                 },
                 {
                   "item": "STICKER_TR_SIERRA",
                   "quantity": 2,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/sticker_tr_sierra.png",
+                  "localizedName": "STICKER_TR_SIERRA"
                 }
               ]
             },
@@ -3282,12 +3295,14 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "Premium Battle Pass"
                 },
                 {
                   "item": "ITEM_MAX_POTION",
                   "quantity": 5,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_max_potion.png",
+                  "localizedName": "Max Potion"
                 }
               ]
             },
@@ -3297,17 +3312,20 @@
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "Egg Incubator"
                 },
                 {
                   "item": "ITEM_GOLDEN_PINAP_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_pinap_berry.png",
+                  "localizedName": "Silver Pinap Berry"
                 },
                 {
                   "item": "ITEM_GOLDEN_RAZZ_BERRY",
                   "quantity": 3,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_golden_razz_berry.png",
+                  "localizedName": "Golden Razz Berry"
                 }
               ]
             },
@@ -3317,12 +3335,14 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "Premium Battle Pass"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 4,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "Egg Incubator"
                 }
               ]
             },
@@ -3332,17 +3352,20 @@
                 {
                   "item": "ITEM_PAID_RAID_TICKET",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_paid_raid_ticket.png",
+                  "localizedName": "Premium Battle Pass"
                 },
                 {
                   "item": "ITEM_INCUBATOR_BASIC",
                   "quantity": 6,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_incubator_basic.png",
+                  "localizedName": "Egg Incubator"
                 },
                 {
                   "item": "ITEM_STAR_PIECE",
                   "quantity": 1,
-                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png"
+                  "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/item_star_piece.png",
+                  "localizedName": "Star Piece"
                 }
               ]
             }
