@@ -2,85 +2,6 @@
   {
     "DLC":1,
     "category":"ITEMS\n道具",
-    "name":"web-3mp-3rrp-bundle\n",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"ITEM_MP_REPLENISH\n",
-        "rawId":"item_mp_replenish",
-        "quantity":3
-      },
-      {
-        "itemId":"ITEM_REMOTE_RAID_TICKET\n",
-        "rawId":"item_remote_raid_ticket",
-        "quantity":3
-      }
-    ],
-    "sellingPrice":"29.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":41000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":41000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
-    "localImage":"images\/main_web-3mp-3rrp-bundle.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":2,
-    "category":"ITEMS\n道具",
-    "name":"web-luckyegg-bundle-8\n",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"ITEM_LUCKY_EGG\n",
-        "rawId":"item_lucky_egg",
-        "quantity":8
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
-    "localImage":"images\/main_web-luckyegg-bundle-8.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":3,
-    "category":"ITEMS\n道具",
     "name":"web-1mp-1rrp-bundle\n",
     "endTimeMs":null,
     "bundledItems":[
@@ -121,7 +42,49 @@
     ]
   },
   {
-    "DLC":4,
+    "DLC":2,
+    "category":"ITEMS\n道具",
+    "name":"web-3mp-3rrp-bundle\n",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"ITEM_MP_REPLENISH\n",
+        "rawId":"item_mp_replenish",
+        "quantity":3
+      },
+      {
+        "itemId":"ITEM_REMOTE_RAID_TICKET\n",
+        "rawId":"item_remote_raid_ticket",
+        "quantity":3
+      }
+    ],
+    "sellingPrice":"29.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
+    "localImage":"images\/main_web-3mp-3rrp-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":3,
     "category":"ITEMS\n道具",
     "name":"web-basic-incubator-3pack\n",
     "endTimeMs":null,
@@ -158,7 +121,7 @@
     ]
   },
   {
-    "DLC":5,
+    "DLC":4,
     "category":"ITEMS\n道具",
     "name":"web-item-storage-bundle\n",
     "endTimeMs":null,
@@ -199,7 +162,7 @@
     ]
   },
   {
-    "DLC":6,
+    "DLC":5,
     "category":"ITEMS\n道具",
     "name":"web-pokemon-storage-bundle\n",
     "endTimeMs":null,
@@ -240,7 +203,7 @@
     ]
   },
   {
-    "DLC":7,
+    "DLC":6,
     "category":"ITEMS\n道具",
     "name":"web-remote-raidpass-bundle\n",
     "endTimeMs":null,
@@ -281,7 +244,7 @@
     ]
   },
   {
-    "DLC":8,
+    "DLC":7,
     "category":"ITEMS\n道具",
     "name":"web-starpiece-bundle\n",
     "endTimeMs":null,
@@ -318,31 +281,31 @@
     ]
   },
   {
-    "DLC":9,
+    "DLC":8,
     "category":"ITEMS\n道具",
-    "name":"web-max-revive-6\n",
+    "name":"web-luckyegg-bundle-8\n",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_MAX_REVIVE\n",
-        "rawId":"item_max_revive",
-        "quantity":6
+        "itemId":"ITEM_LUCKY_EGG\n",
+        "rawId":"item_lucky_egg",
+        "quantity":8
       }
     ],
-    "sellingPrice":"9.99 CNY 人民币",
+    "sellingPrice":"22.22 CNY 人民币",
     "price":[
       {
-        "priceE6":10000000000,
+        "priceE6":25000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":10000000000,
+          "originalPriceE6":25000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
-    "localImage":"images\/main_web-max-revive-6.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
+    "localImage":"images\/main_web-luckyegg-bundle-8.png",
     "metadataList":[
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -355,7 +318,7 @@
     ]
   },
   {
-    "DLC":10,
+    "DLC":9,
     "category":"ITEMS\n道具",
     "name":"web-super-incubator-2pack\n",
     "endTimeMs":null,
@@ -392,31 +355,31 @@
     ]
   },
   {
-    "DLC":11,
+    "DLC":10,
     "category":"ITEMS\n道具",
-    "name":"web-premium-battle-pass-3\n",
+    "name":"web-max-revive-6\n",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"ITEM_PAID_RAID_TICKET\n",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":3
+        "itemId":"ITEM_MAX_REVIVE\n",
+        "rawId":"item_max_revive",
+        "quantity":6
       }
     ],
-    "sellingPrice":"12.99 CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":15000000000,
+        "priceE6":10000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":15000000000,
+          "originalPriceE6":10000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
-    "localImage":"images\/main_web-premium-battle-pass-3.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
+    "localImage":"images\/main_web-max-revive-6.png",
     "metadataList":[
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -429,7 +392,7 @@
     ]
   },
   {
-    "DLC":12,
+    "DLC":11,
     "category":"ITEMS\n道具",
     "name":"web-mp-pack\n",
     "endTimeMs":null,
@@ -454,6 +417,43 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
     "localImage":"images\/main_web-mp-pack.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":12,
+    "category":"ITEMS\n道具",
+    "name":"web-premium-battle-pass-3\n",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"ITEM_PAID_RAID_TICKET\n",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":3
+      }
+    ],
+    "sellingPrice":"12.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
+    "localImage":"images\/main_web-premium-battle-pass-3.png",
     "metadataList":[
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -505,64 +505,34 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-event-pass-plusrank-feb-25-ultra\n",
-    "endTimeMs":"2026-03-01 05:00:00",
+    "name":"web-enamorus-raid-ticket-box\n",
+    "endTimeMs":"2026-02-15 14:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_EVENT_0153\n",
-        "rawId":"badge_event_0153",
+        "itemId":"ITEM_EVENT_TICKET_06\n",
+        "rawId":"item_event_ticket_06",
         "quantity":1
-      },
-      {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_03\n",
-        "rawId":"item_event_pass_point_live_ops_03",
-        "quantity":1000
-      },
-      {
-        "itemId":"ITEM_ULTRA_BALL\n",
-        "rawId":"item_ultra_ball",
-        "quantity":20
-      },
-      {
-        "itemId":"ITEM_MAX_REVIVE\n",
-        "rawId":"item_max_revive",
-        "quantity":10
       },
       {
         "itemId":"ITEM_PAID_RAID_TICKET\n",
         "rawId":"item_paid_raid_ticket",
-        "quantity":2
-      },
-      {
-        "itemId":"ITEM_INCUBATOR_BASIC\n",
-        "rawId":"item_incubator_basic",
         "quantity":1
-      },
-      {
-        "itemId":"ITEM_INCUBATOR_SUPER\n",
-        "rawId":"item_incubator_super",
-        "quantity":1
-      },
-      {
-        "itemId":"ITEM_MAX_POTION\n",
-        "rawId":"item_max_potion",
-        "quantity":10
       }
     ],
-    "sellingPrice":"55.55 CNY 人民币",
+    "sellingPrice":"22.22 CNY 人民币",
     "price":[
       {
-        "priceE6":76000000000,
+        "priceE6":25000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":76000000000,
+          "originalPriceE6":25000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle3.sprite.d.png",
-    "localImage":"images\/main_web-event-pass-plusrank-feb-25-ultra.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_c2.png",
+    "localImage":"images\/main_web-enamorus-raid-ticket-box.png",
     "metadataList":[
       {
         "key":"FRONTEND_PRIMARY_TAG",
@@ -587,63 +557,63 @@
       {
         "key":"FRONTEND_BG_TAG_COLOR",
         "value":"#608183"
+      },
+      {
+        "key":"FRONTEND_EVENT_LINK",
+        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/news\/enamorus-therian-raid-day-2026\",\"associatedItemId\":\"ITEM_EVENT_TICKET_06\"}"
       }
     ]
   },
   {
     "DLC":2,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-gotour-26-ticket-box\n",
-    "endTimeMs":"2026-03-02 14:00:00",
+    "name":"web-event-pass-base-feb-26\n",
+    "endTimeMs":"2026-03-01 05:00:00",
     "bundledItems":[
       {
-        "itemId":"ITEM_EVENT_TICKET_10\n",
-        "rawId":"item_event_ticket_10",
+        "itemId":"BADGE_EVENT_0153\n",
+        "rawId":"badge_event_0153",
         "quantity":1
-      },
-      {
-        "itemId":"ITEM_PAID_RAID_TICKET\n",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":3
-      },
-      {
-        "itemId":"ITEM_RARE_CANDY\n",
-        "rawId":"item_rare_candy",
-        "quantity":5
-      },
-      {
-        "itemId":"ITEM_GOLDEN_PINAP_BERRY\n",
-        "rawId":"item_golden_pinap_berry",
-        "quantity":5
       },
       {
         "itemId":"ITEM_ULTRA_BALL\n",
         "rawId":"item_ultra_ball",
         "quantity":10
+      },
+      {
+        "itemId":"ITEM_MAX_REVIVE\n",
+        "rawId":"item_max_revive",
+        "quantity":5
+      },
+      {
+        "itemId":"ITEM_PAID_RAID_TICKET\n",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
+      },
+      {
+        "itemId":"ITEM_MAX_POTION\n",
+        "rawId":"item_max_potion",
+        "quantity":5
       }
     ],
-    "sellingPrice":"33.33 CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":50000000000,
+        "priceE6":41000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":50000000000,
+          "originalPriceE6":41000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-go-tour-hatch-box-2024.png",
-    "localImage":"images\/main_web-gotour-26-ticket-box.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.d.png",
+    "localImage":"images\/main_web-event-pass-base-feb-26.png",
     "metadataList":[
       {
         "key":"FRONTEND_PRIMARY_TAG",
         "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-      },
-      {
-        "key":"FRONTEND_STICKER_TAG",
-        "value":"{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
       },
       {
         "key":"FRONTEND_ENABLE_TIMER",
@@ -733,79 +703,6 @@
   {
     "DLC":4,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"web-event-pass-base-feb-26\n",
-    "endTimeMs":"2026-03-01 05:00:00",
-    "bundledItems":[
-      {
-        "itemId":"BADGE_EVENT_0153\n",
-        "rawId":"badge_event_0153",
-        "quantity":1
-      },
-      {
-        "itemId":"ITEM_ULTRA_BALL\n",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"ITEM_MAX_REVIVE\n",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"ITEM_PAID_RAID_TICKET\n",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"ITEM_MAX_POTION\n",
-        "rawId":"item_max_potion",
-        "quantity":5
-      }
-    ],
-    "sellingPrice":"29.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":41000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":41000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.d.png",
-    "localImage":"images\/main_web-event-pass-base-feb-26.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_PRIMARY_TAG",
-        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-      },
-      {
-        "key":"FRONTEND_ENABLE_TIMER",
-        "value":"true"
-      },
-      {
-        "key":"FRONTEND_PURCHASE_LIMIT",
-        "value":"1"
-      },
-      {
-        "key":"FRONTEND_BADGE",
-        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-      },
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":5,
-    "category":"LIMITED_TIME\n限时礼盒",
     "name":"web-event-pass-plusrank-feb-26\n",
     "endTimeMs":"2026-03-01 05:00:00",
     "bundledItems":[
@@ -858,6 +755,171 @@
       {
         "key":"FRONTEND_PRIMARY_TAG",
         "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":5,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"web-event-pass-plusrank-feb-25-ultra\n",
+    "endTimeMs":"2026-03-01 05:00:00",
+    "bundledItems":[
+      {
+        "itemId":"BADGE_EVENT_0153\n",
+        "rawId":"badge_event_0153",
+        "quantity":1
+      },
+      {
+        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_03\n",
+        "rawId":"item_event_pass_point_live_ops_03",
+        "quantity":1000
+      },
+      {
+        "itemId":"ITEM_ULTRA_BALL\n",
+        "rawId":"item_ultra_ball",
+        "quantity":20
+      },
+      {
+        "itemId":"ITEM_MAX_REVIVE\n",
+        "rawId":"item_max_revive",
+        "quantity":10
+      },
+      {
+        "itemId":"ITEM_PAID_RAID_TICKET\n",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":2
+      },
+      {
+        "itemId":"ITEM_INCUBATOR_BASIC\n",
+        "rawId":"item_incubator_basic",
+        "quantity":1
+      },
+      {
+        "itemId":"ITEM_INCUBATOR_SUPER\n",
+        "rawId":"item_incubator_super",
+        "quantity":1
+      },
+      {
+        "itemId":"ITEM_MAX_POTION\n",
+        "rawId":"item_max_potion",
+        "quantity":10
+      }
+    ],
+    "sellingPrice":"55.55 CNY 人民币",
+    "price":[
+      {
+        "priceE6":76000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":76000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle3.sprite.d.png",
+    "localImage":"images\/main_web-event-pass-plusrank-feb-25-ultra.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_ENABLE_TIMER",
+        "value":"true"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"1"
+      },
+      {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":6,
+    "category":"LIMITED_TIME\n限时礼盒",
+    "name":"web-gotour-26-ticket-box\n",
+    "endTimeMs":"2026-03-02 14:00:00",
+    "bundledItems":[
+      {
+        "itemId":"ITEM_EVENT_TICKET_10\n",
+        "rawId":"item_event_ticket_10",
+        "quantity":1
+      },
+      {
+        "itemId":"ITEM_PAID_RAID_TICKET\n",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":3
+      },
+      {
+        "itemId":"ITEM_RARE_CANDY\n",
+        "rawId":"item_rare_candy",
+        "quantity":5
+      },
+      {
+        "itemId":"ITEM_GOLDEN_PINAP_BERRY\n",
+        "rawId":"item_golden_pinap_berry",
+        "quantity":5
+      },
+      {
+        "itemId":"ITEM_ULTRA_BALL\n",
+        "rawId":"item_ultra_ball",
+        "quantity":10
+      }
+    ],
+    "sellingPrice":"33.33 CNY 人民币",
+    "price":[
+      {
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-go-tour-hatch-box-2024.png",
+    "localImage":"images\/main_web-gotour-26-ticket-box.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_STICKER_TAG",
+        "value":"{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
       },
       {
         "key":"FRONTEND_ENABLE_TIMER",
