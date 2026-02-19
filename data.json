@@ -1285,138 +1285,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-1mp-1rrp-bundle",
-                "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1747677600000,
-                  "endTimeMs": 0
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MP_REPLENISH",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "ITEMS",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 36,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1760637290851,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "Max Particle Pack + Remote Raid Pass"
-              },
-              {
-                "skuId": "web-3mp-3rrp-bundle",
-                "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1747677600000,
-                  "endTimeMs": 0
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MP_REPLENISH",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "ITEMS",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1760637306364,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "3 Max Particle Pack + 3 Remote Raid Pass"
-              },
-              {
                 "skuId": "web-luckyegg-bundle-8",
                 "localizationNameKey": "sku.name.web-luckyegg-bundle-8",
                 "description": " ",
@@ -1783,6 +1651,66 @@
                 "localizedName": "Egg Incubator"
               },
               {
+                "skuId": "web-nc-600-rrp-3",
+                "localizationNameKey": "sku.name.web-nc-600-rrp-3",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/xEnergyStack3RRP.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ENHANCED_CURRENCY",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Link Charge"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 7,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536733593,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 Link Charge + 3 Remote Raid Pass"
+              },
+              {
                 "skuId": "web-super-incubator-2pack",
                 "localizationNameKey": "sku.name.web-super-incubator-2pack",
                 "description": " ",
@@ -1899,6 +1827,59 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "Max Revive"
+              },
+              {
+                "skuId": "web-nc-600",
+                "localizationNameKey": "sku.name.web-nc-600",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/xEnergyStack.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 15000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 15000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ENHANCED_CURRENCY",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Link Charge"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 8,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 36,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1771536603517,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 Link Charge"
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -2076,6 +2057,138 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "Max Mushroom"
+              },
+              {
+                "skuId": "web-3mp-3rrp-bundle",
+                "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 12,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536857461,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3 Max Particle Pack + 3 Remote Raid Pass"
+              },
+              {
+                "skuId": "web-1mp-1rrp-bundle",
+                "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 15000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 15000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Particle Pack"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Remote Raid Pass"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 13,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 36,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536895987,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Max Particle Pack + Remote Raid Pass"
               }
             ]
           },
@@ -5848,138 +5961,6 @@
             "metadataList": [],
             "itemsList": [
               {
-                "skuId": "web-1mp-1rrp-bundle",
-                "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 15000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 15000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1747677600000,
-                  "endTimeMs": 0
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MP_REPLENISH",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 1,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "ITEMS",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 36,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1760637290851,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "極巨粒子組合 + 遠距團體戰入場券"
-              },
-              {
-                "skuId": "web-3mp-3rrp-bundle",
-                "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
-                "description": " ",
-                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
-                "state": 2,
-                "priceList": [
-                  {
-                    "priceE6": 41000000000,
-                    "currency": "IDR",
-                    "type": 2,
-                    "priceMetaData": {
-                      "originalPriceE6": 41000000000,
-                      "discountPercentage": 0
-                    }
-                  }
-                ],
-                "webstoreLimitInfo": {
-                  "purchaseLimit": 0,
-                  "purchasesRemaining": 0,
-                  "startTimeMs": 1747677600000,
-                  "endTimeMs": 0
-                },
-                "bundledCurrencyList": [],
-                "bundledItemList": [
-                  {
-                    "itemId": "ITEM_MP_REPLENISH",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
-                  },
-                  {
-                    "itemId": "ITEM_REMOTE_RAID_TICKET",
-                    "quantity": 3,
-                    "imageUrl": "",
-                    "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
-                  }
-                ],
-                "metadataList": [
-                  {
-                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
-                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
-                  },
-                  {
-                    "key": "FRONTEND_BG_TAG_COLOR",
-                    "value": "#608183"
-                  }
-                ],
-                "category": "ITEMS",
-                "sortOrder": 4,
-                "localizationEventKey": "",
-                "vendorList": [
-                  1,
-                  5
-                ],
-                "catalogType": 2,
-                "rewardedSpendPoints": 96,
-                "skuTemplateId": "default",
-                "lastUpdateTimeMs": 1760637306364,
-                "linkedSkuId": "",
-                "isSubscribable": false,
-                "subscriptionContentCategoriesList": [],
-                "localizedName": "3 極巨粒子組合 + 3 遠距團體戰入場券"
-              },
-              {
                 "skuId": "web-luckyegg-bundle-8",
                 "localizationNameKey": "sku.name.web-luckyegg-bundle-8",
                 "description": " ",
@@ -6346,6 +6327,66 @@
                 "localizedName": "孵化器"
               },
               {
+                "skuId": "web-nc-600-rrp-3",
+                "localizationNameKey": "sku.name.web-nc-600-rrp-3",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/xEnergyStack3RRP.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ENHANCED_CURRENCY",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "連結費用"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "遠距團體戰入場券"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 7,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536733593,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 連結費用 + 3 遠距團體戰入場券"
+              },
+              {
                 "skuId": "web-super-incubator-2pack",
                 "localizationNameKey": "sku.name.web-super-incubator-2pack",
                 "description": " ",
@@ -6462,6 +6503,59 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "活力塊"
+              },
+              {
+                "skuId": "web-nc-600",
+                "localizationNameKey": "sku.name.web-nc-600",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/xEnergyStack.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 15000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 15000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_ENHANCED_CURRENCY",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "連結費用"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 8,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 36,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1771536603517,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "600 連結費用"
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -6639,6 +6733,138 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "極巨菇菇"
+              },
+              {
+                "skuId": "web-3mp-3rrp-bundle",
+                "localizationNameKey": "sku.name.web-3mp-3rrp-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/3_mp_rrp.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 41000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 41000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "極巨粒子組合"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 3,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "遠距團體戰入場券"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 12,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 96,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536857461,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "3 極巨粒子組合 + 3 遠距團體戰入場券"
+              },
+              {
+                "skuId": "web-1mp-1rrp-bundle",
+                "localizationNameKey": "sku.name.web-1mp-1rrp-bundle",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/1_mp_rrp.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 15000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 15000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1747677600000,
+                  "endTimeMs": 0
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_MP_REPLENISH",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "極巨粒子組合"
+                  },
+                  {
+                    "itemId": "ITEM_REMOTE_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "遠距團體戰入場券"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "ITEMS",
+                "sortOrder": 13,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 36,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1771536895987,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "極巨粒子組合 + 遠距團體戰入場券"
               }
             ]
           },
