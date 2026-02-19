@@ -155,6 +155,10 @@
                     {
                       "key": "banner.enableStoreRefreshPhaseOnePointOne",
                       "value": "true"
+                    },
+                    {
+                      "key": "background",
+                      "value": "true"
                     }
                   ]
                 }
@@ -4830,6 +4834,10 @@
                     },
                     {
                       "key": "banner.enableStoreRefreshPhaseOnePointOne",
+                      "value": "true"
+                    },
+                    {
+                      "key": "background",
                       "value": "true"
                     }
                   ]
