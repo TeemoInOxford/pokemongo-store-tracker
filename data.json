@@ -159,6 +159,10 @@
                     {
                       "key": "background",
                       "value": "true"
+                    },
+                    {
+                      "key": "carousel.enableStoreRefreshPhaseOne",
+                      "value": "true"
                     }
                   ]
                 }
@@ -4838,6 +4842,10 @@
                     },
                     {
                       "key": "background",
+                      "value": "true"
+                    },
+                    {
+                      "key": "carousel.enableStoreRefreshPhaseOne",
                       "value": "true"
                     }
                   ]
