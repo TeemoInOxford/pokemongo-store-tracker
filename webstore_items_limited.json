@@ -2,30 +2,34 @@
   {
     "DLC":1,
     "category":"ITEMS\n道具",
-    "name":"Star Piece\n星星碎片",
+    "name":"Pokémon Storage\n宝可梦盒",
     "endTimeMs":null,
     "bundledItems":[
       {
-        "itemId":"Star Piece\n星星碎片",
-        "rawId":"item_star_piece",
-        "quantity":8
+        "itemId":"Pokémon Storage\n宝可梦盒",
+        "rawId":"item_pokemon_storage_upgrade",
+        "quantity":1
       }
     ],
-    "sellingPrice":"25.55 CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":30500000000,
+        "priceE6":10000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":30500000000,
+          "originalPriceE6":10000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
-    "localImage":"images\/main_web-starpiece-bundle.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png",
+    "localImage":"images\/main_web-pokemon-storage-bundle.png",
     "metadataList":[
+      {
+        "key":"FRONTEND_PRIMARY_TAG",
+        "value":"{\"locKey\":\"sku.tag.popular\",\"values\":{\"\":\"\"}}"
+      },
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
         "value":"{\"backgroundColor\": \"#DAEBE9\"}"
@@ -80,6 +84,43 @@
   {
     "DLC":3,
     "category":"ITEMS\n道具",
+    "name":"Star Piece\n星星碎片",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Star Piece\n星星碎片",
+        "rawId":"item_star_piece",
+        "quantity":8
+      }
+    ],
+    "sellingPrice":"25.55 CNY 人民币",
+    "price":[
+      {
+        "priceE6":30500000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":30500000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
+    "localImage":"images\/main_web-starpiece-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":4,
+    "category":"ITEMS\n道具",
     "name":"Lucky Egg\n幸运蛋",
     "endTimeMs":null,
     "bundledItems":[
@@ -115,7 +156,7 @@
     ]
   },
   {
-    "DLC":4,
+    "DLC":5,
     "category":"ITEMS\n道具",
     "name":"Super Incubator\n超级孵化器",
     "endTimeMs":null,
@@ -152,7 +193,7 @@
     ]
   },
   {
-    "DLC":5,
+    "DLC":6,
     "category":"ITEMS\n道具",
     "name":"600 Link Charge + 3 Remote Raid Pass\n600 连结费用 + 3 远距团体战入场券",
     "endTimeMs":null,
@@ -194,7 +235,7 @@
     ]
   },
   {
-    "DLC":6,
+    "DLC":7,
     "category":"ITEMS\n道具",
     "name":"Egg Incubator\n孵化器",
     "endTimeMs":null,
@@ -231,7 +272,7 @@
     ]
   },
   {
-    "DLC":7,
+    "DLC":8,
     "category":"ITEMS\n道具",
     "name":"Item Bag\n升级包包",
     "endTimeMs":null,
@@ -272,85 +313,7 @@
     ]
   },
   {
-    "DLC":8,
-    "category":"ITEMS\n道具",
-    "name":"Pokémon Storage\n宝可梦盒",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Pokémon Storage\n宝可梦盒",
-        "rawId":"item_pokemon_storage_upgrade",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"9.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":10000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":10000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png",
-    "localImage":"images\/main_web-pokemon-storage-bundle.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_PRIMARY_TAG",
-        "value":"{\"locKey\":\"sku.tag.popular\",\"values\":{\"\":\"\"}}"
-      },
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
     "DLC":9,
-    "category":"ITEMS\n道具",
-    "name":"600 Link Charge\n600 连结费用",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Link Charge\n连结费用",
-        "rawId":"item_enhanced_currency",
-        "quantity":600
-      }
-    ],
-    "sellingPrice":"12.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":15000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":15000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/xEnergyStack.png",
-    "localImage":"images\/main_web-nc-600.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":10,
     "category":"ITEMS\n道具",
     "name":"Max Revive\n活力块",
     "endTimeMs":null,
@@ -375,6 +338,43 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
     "localImage":"images\/main_web-max-revive-6.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":10,
+    "category":"ITEMS\n道具",
+    "name":"600 Link Charge\n600 连结费用",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Link Charge\n连结费用",
+        "rawId":"item_enhanced_currency",
+        "quantity":600
+      }
+    ],
+    "sellingPrice":"12.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/xEnergyStack.png",
+    "localImage":"images\/main_web-nc-600.png",
     "metadataList":[
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -463,48 +463,6 @@
   {
     "DLC":13,
     "category":"ITEMS\n道具",
-    "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
-    "endTimeMs":null,
-    "bundledItems":[
-      {
-        "itemId":"Max Particle Pack\n极巨粒子组合",
-        "rawId":"item_mp_replenish",
-        "quantity":1
-      },
-      {
-        "itemId":"Remote Raid Pass\n远距团体战入场券",
-        "rawId":"item_remote_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"12.99 CNY 人民币",
-    "price":[
-      {
-        "priceE6":15000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":15000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
-    "localImage":"images\/main_web-1mp-1rrp-bundle.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":14,
-    "category":"ITEMS\n道具",
     "name":"3 Max Particle Pack + 3 Remote Raid Pass\n3 极巨粒子组合 + 3 远距团体战入场券",
     "endTimeMs":null,
     "bundledItems":[
@@ -533,6 +491,48 @@
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
     "localImage":"images\/main_web-3mp-3rrp-bundle.png",
+    "metadataList":[
+      {
+        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
+        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
+      },
+      {
+        "key":"FRONTEND_BG_TAG_COLOR",
+        "value":"#608183"
+      }
+    ]
+  },
+  {
+    "DLC":14,
+    "category":"ITEMS\n道具",
+    "name":"Max Particle Pack + Remote Raid Pass\n极巨粒子组合 + 远距团体战入场券",
+    "endTimeMs":null,
+    "bundledItems":[
+      {
+        "itemId":"Max Particle Pack\n极巨粒子组合",
+        "rawId":"item_mp_replenish",
+        "quantity":1
+      },
+      {
+        "itemId":"Remote Raid Pass\n远距团体战入场券",
+        "rawId":"item_remote_raid_ticket",
+        "quantity":1
+      }
+    ],
+    "sellingPrice":"12.99 CNY 人民币",
+    "price":[
+      {
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
+      }
+    ],
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
+    "localImage":"images\/main_web-1mp-1rrp-bundle.png",
     "metadataList":[
       {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
@@ -584,13 +584,18 @@
   {
     "DLC":1,
     "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Masterwork Research: Master Ball Ultra Ticket Box\n大师球究极入场券礼盒",
-    "endTimeMs":"2026-02-23 14:00:00",
+    "name":"Pokémon GO Tour 2026 Ultra Ticket Box\nGO Tour 2026究极入场券礼盒",
+    "endTimeMs":"2026-03-02 14:00:00",
     "bundledItems":[
       {
         "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_07",
+        "rawId":"item_event_ticket_10",
         "quantity":1
+      },
+      {
+        "itemId":"Premium Battle Pass\n特级对战入场券",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":3
       },
       {
         "itemId":"Rare Candy\n神奇糖果",
@@ -598,29 +603,38 @@
         "quantity":5
       },
       {
-        "itemId":"Golden Razz Berry\n金色蔓莓果",
-        "rawId":"item_golden_razz_berry",
+        "itemId":"Silver Pinap Berry\n银色凰梨果",
+        "rawId":"item_golden_pinap_berry",
         "quantity":5
+      },
+      {
+        "itemId":"Ultra Ball\n高级球",
+        "rawId":"item_ultra_ball",
+        "quantity":10
       }
     ],
-    "sellingPrice":"29.99 CNY 人民币",
+    "sellingPrice":"33.33 CNY 人民币",
     "price":[
       {
-        "priceE6":41000000000,
+        "priceE6":50000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":41000000000,
+          "originalPriceE6":50000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/bundle1.sprite.d.png",
-    "localImage":"images\/main_web-masterball-25-ticket-box.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-go-tour-hatch-box-2024.png",
+    "localImage":"images\/main_web-gotour-26-ticket-box.png",
     "metadataList":[
       {
         "key":"FRONTEND_PRIMARY_TAG",
         "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+      },
+      {
+        "key":"FRONTEND_STICKER_TAG",
+        "value":"{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
       },
       {
         "key":"FRONTEND_ENABLE_TIMER",
@@ -631,16 +645,16 @@
         "value":"1"
       },
       {
+        "key":"FRONTEND_BADGE",
+        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+      },
+      {
         "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
         "value":"{\"backgroundColor\": \"#DAEBE9\"}"
       },
       {
         "key":"FRONTEND_BG_TAG_COLOR",
         "value":"#608183"
-      },
-      {
-        "key":"FRONTEND_EVENT_LINK",
-        "value":"{\"eventLink\":\"https:\/\/pokemongo.com\/seasons\/precious-paths\",\"associatedItemId\":\"ITEM_EVENT_TICKET_07\"}"
       }
     ]
   },
@@ -860,83 +874,6 @@
       {
         "key":"FRONTEND_PRIMARY_TAG",
         "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-      },
-      {
-        "key":"FRONTEND_ENABLE_TIMER",
-        "value":"true"
-      },
-      {
-        "key":"FRONTEND_PURCHASE_LIMIT",
-        "value":"1"
-      },
-      {
-        "key":"FRONTEND_BADGE",
-        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-      },
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":5,
-    "category":"LIMITED_TIME\n限时礼盒",
-    "name":"Pokémon GO Tour 2026 Ultra Ticket Box\nGO Tour 2026究极入场券礼盒",
-    "endTimeMs":"2026-03-02 14:00:00",
-    "bundledItems":[
-      {
-        "itemId":"Ticket\n入场券",
-        "rawId":"item_event_ticket_10",
-        "quantity":1
-      },
-      {
-        "itemId":"Premium Battle Pass\n特级对战入场券",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":3
-      },
-      {
-        "itemId":"Rare Candy\n神奇糖果",
-        "rawId":"item_rare_candy",
-        "quantity":5
-      },
-      {
-        "itemId":"Silver Pinap Berry\n银色凰梨果",
-        "rawId":"item_golden_pinap_berry",
-        "quantity":5
-      },
-      {
-        "itemId":"Ultra Ball\n高级球",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      }
-    ],
-    "sellingPrice":"33.33 CNY 人民币",
-    "price":[
-      {
-        "priceE6":50000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":50000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/web-go-tour-hatch-box-2024.png",
-    "localImage":"images\/main_web-gotour-26-ticket-box.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_PRIMARY_TAG",
-        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-      },
-      {
-        "key":"FRONTEND_STICKER_TAG",
-        "value":"{\"locKey\":\"sku.tag.best_value\",\"values\":{}}"
       },
       {
         "key":"FRONTEND_ENABLE_TIMER",
