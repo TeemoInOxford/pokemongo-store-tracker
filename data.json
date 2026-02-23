@@ -675,11 +675,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 101000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 101000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -738,6 +738,18 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
                     "key": "FRONTEND_BADGE",
                     "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   },
@@ -754,13 +766,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1771487051761,
+                "lastUpdateTimeMs": 1771808413501,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -966,11 +978,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 126000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 126000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -1036,6 +1048,14 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
                     "key": "FRONTEND_PURCHASE_LIMIT",
                     "value": "1"
                   },
@@ -1056,13 +1076,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 300,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1771738561556,
+                "lastUpdateTimeMs": 1771808434683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -5747,11 +5767,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 101000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 101000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -5810,6 +5830,18 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
                     "key": "FRONTEND_BADGE",
                     "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
                   },
@@ -5826,13 +5858,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 240,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1771487051761,
+                "lastUpdateTimeMs": 1771808413501,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -6038,11 +6070,11 @@
                 "state": 2,
                 "priceList": [
                   {
-                    "priceE6": 76000000000,
+                    "priceE6": 126000000000,
                     "currency": "IDR",
                     "type": 2,
                     "priceMetaData": {
-                      "originalPriceE6": 76000000000,
+                      "originalPriceE6": 126000000000,
                       "discountPercentage": 0
                     }
                   }
@@ -6108,6 +6140,14 @@
                     "value": "true"
                   },
                   {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
                     "key": "FRONTEND_PURCHASE_LIMIT",
                     "value": "1"
                   },
@@ -6128,13 +6168,13 @@
                 "sortOrder": 1,
                 "localizationEventKey": "",
                 "vendorList": [
-                  5,
-                  1
+                  1,
+                  5
                 ],
                 "catalogType": 2,
                 "rewardedSpendPoints": 300,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1771738561556,
+                "lastUpdateTimeMs": 1771808434683,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],

@@ -613,14 +613,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"55.55 CNY 人民币",
+    "sellingPrice":"59.99 CNY 人民币",
     "price":[
       {
-        "priceE6":76000000000,
+        "priceE6":101000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":76000000000,
+          "originalPriceE6":101000000000,
           "discountPercentage":0
         }
       }
@@ -635,6 +635,18 @@
       {
         "key":"FRONTEND_ENABLE_TIMER",
         "value":"true"
+      },
+      {
+        "key":"FRONTEND_DISPLAY_END_DATE",
+        "value":"false"
+      },
+      {
+        "key":"FRONTEND_AUTO_APPLY_NEW_TAG",
+        "value":"false"
+      },
+      {
+        "key":"FRONTEND_PURCHASE_LIMIT",
+        "value":"0"
       },
       {
         "key":"FRONTEND_BADGE",
@@ -873,14 +885,14 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"55.55 CNY 人民币",
+    "sellingPrice":"66.66 CNY 人民币",
     "price":[
       {
-        "priceE6":76000000000,
+        "priceE6":126000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":76000000000,
+          "originalPriceE6":126000000000,
           "discountPercentage":0
         }
       }
@@ -895,6 +907,14 @@
       {
         "key":"FRONTEND_ENABLE_TIMER",
         "value":"true"
+      },
+      {
+        "key":"FRONTEND_DISPLAY_END_DATE",
+        "value":"false"
+      },
+      {
+        "key":"FRONTEND_AUTO_APPLY_NEW_TAG",
+        "value":"false"
       },
       {
         "key":"FRONTEND_PURCHASE_LIMIT",
