@@ -3102,6 +3102,16 @@
               "localesToIgnoreList": []
             },
             {
+              "url": "https://pokemongo.com/map",
+              "labelKey": "map",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            },
+            {
               "url": "https://pokemongo.com/find-your-community",
               "labelKey": "community",
               "iconName": "",
@@ -3854,7 +3864,8 @@
                 "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion.",
                 "mystery_boxes": "Mystery Boxes",
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
-                "promo_code_v2_applied": "<0>{{code}}</0> applied:"
+                "promo_code_v2_applied": "<0>{{code}}</0> applied:",
+                "map": "Map"
               },
               "confirmation": {
                 "failed": {
@@ -7965,6 +7976,16 @@
               "localesToIgnoreList": []
             },
             {
+              "url": "https://pokemongo.com/map",
+              "labelKey": "map",
+              "iconName": "",
+              "isInternal": false,
+              "useLanguageCode": false,
+              "useLanguageCodeExceptionsList": [],
+              "preferredLocalesList": [],
+              "localesToIgnoreList": []
+            },
+            {
               "url": "https://pokemongo.com/find-your-community",
               "labelKey": "community",
               "iconName": "",
@@ -8717,7 +8738,8 @@
                 "promo_failure": "此為無效的促銷代碼，或者您不符合促銷活動資格。",
                 "mystery_boxes": "神秘盒子",
                 "promo_code_v2_percent_off": "已套用<0>{{code}}</0>（{{percentOff}}%折扣）",
-                "promo_code_v2_applied": "已套用<0>{{code}}</0>："
+                "promo_code_v2_applied": "已套用<0>{{code}}</0>：",
+                "map": "地圖"
               },
               "confirmation": {
                 "failed": {
@@ -9883,7 +9905,8 @@
                 "promo_failure": "This promotional code is invalid, or you do not qualify for the promotion.",
                 "mystery_boxes": "Mystery Boxes",
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
-                "promo_code_v2_applied": "<0>{{code}}</0> applied:"
+                "promo_code_v2_applied": "<0>{{code}}</0> applied:",
+                "map": "Map"
               },
               "confirmation": {
                 "failed": {
