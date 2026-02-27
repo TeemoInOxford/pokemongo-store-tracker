@@ -265,14 +265,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -298,7 +298,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -324,7 +324,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -355,7 +355,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Premium Battle Pass"
+                "localizedName": ""
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -381,14 +381,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -419,7 +419,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x Premium Battle Passes, 1x Egg Incubator"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -445,7 +445,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Star Piece"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -467,7 +467,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x Star Piece"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -493,7 +493,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Incense"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -515,7 +515,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "2x Incense"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -541,7 +541,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Rare Candy"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -563,7 +563,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "3x Rare Candies"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -589,7 +589,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Lure Module"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -611,7 +611,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x Lure Module"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -637,7 +637,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Star Piece"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -659,7 +659,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x Star Piece"
+                "localizedName": ""
               }
             ]
           },
@@ -697,21 +697,21 @@
                     "quantity": 25,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 30,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Super Incubator"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_POFFIN",
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Poffin"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -750,7 +750,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Ultra Hatch Box"
+                "localizedName": ""
               },
               {
                 "skuId": "web-gotour-26-ticket-box",
@@ -782,35 +782,35 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Ticket"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Rare Candy"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Silver Pinap Berry"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -857,7 +857,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Pokémon GO Tour 2026 Ultra Ticket Box"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-plusrank-feb-25-ultra",
@@ -889,56 +889,56 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: February"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 20,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Revive"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Super Incubator"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Potion"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -981,7 +981,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: February Ultra Ticket Box"
+                "localizedName": ""
               },
               {
                 "skuId": "web-ultra-storage-box-gotour-26",
@@ -1013,42 +1013,42 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Item Bag"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Pokémon Storage"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Super Incubator"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1091,7 +1091,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Ultra Storage Box"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-plusrank-feb-26",
@@ -1123,42 +1123,42 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: February"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Revive"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Potion"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1201,7 +1201,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: February + 10 Ranks"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-base-feb-26",
@@ -1233,35 +1233,35 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass Deluxe: February"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Ultra Ball"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Revive"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Potion"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1304,7 +1304,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass Deluxe: February"
+                "localizedName": ""
               },
               {
                 "skuId": "web-gotour-2026-deluxe",
@@ -1336,7 +1336,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Tour Pass Deluxe"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1371,7 +1371,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Tour Pass Deluxe"
+                "localizedName": ""
               },
               {
                 "skuId": "web-ultra-battler-box-gotour-26",
@@ -1403,28 +1403,28 @@
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Silver Pinap Berry"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1463,7 +1463,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Master Raid Box"
+                "localizedName": ""
               }
             ]
           },
@@ -1501,7 +1501,7 @@
                     "quantity": 8,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Lucky Egg"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1528,7 +1528,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Lucky Egg"
+                "localizedName": ""
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -1560,7 +1560,7 @@
                     "quantity": 8,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Star Piece"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1587,7 +1587,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Star Piece"
+                "localizedName": ""
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -1619,7 +1619,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1650,7 +1650,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Remote Raid Pass"
+                "localizedName": ""
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -1682,7 +1682,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Pokémon Storage"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1713,7 +1713,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Pokémon Storage"
+                "localizedName": ""
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -1745,7 +1745,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Item Bag"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1776,7 +1776,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Item Bag"
+                "localizedName": ""
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -1808,7 +1808,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Egg Incubator"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1835,7 +1835,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Egg Incubator"
+                "localizedName": ""
               },
               {
                 "skuId": "web-nc-600-rrp-3",
@@ -1861,14 +1861,14 @@
                     "quantity": 600,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Link Charge"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1895,7 +1895,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600 Link Charge + 3 Remote Raid Pass"
+                "localizedName": ""
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -1927,7 +1927,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Super Incubator"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -1954,7 +1954,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Super Incubator"
+                "localizedName": ""
               },
               {
                 "skuId": "web-max-revive-6",
@@ -1986,7 +1986,7 @@
                     "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Revive"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2013,7 +2013,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Max Revive"
+                "localizedName": ""
               },
               {
                 "skuId": "web-nc-600",
@@ -2039,7 +2039,7 @@
                     "quantity": 600,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Link Charge"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2066,7 +2066,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600 Link Charge"
+                "localizedName": ""
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -2098,7 +2098,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Premium Battle Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2125,7 +2125,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Premium Battle Pass"
+                "localizedName": ""
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -2157,7 +2157,7 @@
                     "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2184,7 +2184,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Max Particle Pack"
+                "localizedName": ""
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -2216,7 +2216,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Mushroom"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2243,7 +2243,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Max Mushroom"
+                "localizedName": ""
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -2275,14 +2275,14 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2309,7 +2309,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "3 Max Particle Pack + 3 Remote Raid Pass"
+                "localizedName": ""
               },
               {
                 "skuId": "web-1mp-1rrp-bundle",
@@ -2341,14 +2341,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Particle Pack"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Remote Raid Pass"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -2375,7 +2375,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Max Particle Pack + Remote Raid Pass"
+                "localizedName": ""
               }
             ]
           },
@@ -2441,7 +2441,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "110 PokéCoins"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -2488,7 +2488,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600 PokéCoins"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -2535,7 +2535,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1,300 PokéCoins"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -2582,7 +2582,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "2,700 PokéCoins"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -2629,7 +2629,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "5,600 PokéCoins"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -2676,7 +2676,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "15,500 PokéCoins"
+                "localizedName": ""
               }
             ]
           }
@@ -2716,7 +2716,8 @@
           "enableServerLocalizedSkuName": false,
           "enablePlatformizedPromoCode": true,
           "enablePaypaySubscription": false,
-          "enableGemSkuCardImprovement": false
+          "enableGemSkuCardImprovement": false,
+          "enableHeroPasscode": false
         },
         "layoutConfig": {
           "backgroundImage": {
@@ -5139,14 +5140,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5172,7 +5173,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "特級對戰入場券 x 1, 孵化器 x 1"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-2025-twitch-steam",
@@ -5198,7 +5199,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5229,7 +5230,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "特級對戰入場券"
+                "localizedName": ""
               },
               {
                 "skuId": "web-go-fest-bonus-bundle-2025-2",
@@ -5255,14 +5256,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5293,7 +5294,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "特級對戰入場券 x 1, 孵化器 x 1"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025",
@@ -5319,7 +5320,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "星星碎片"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5341,7 +5342,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x 星星碎片"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-incense-2025",
@@ -5367,7 +5368,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "薰香"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5389,7 +5390,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "2x 薰香"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-rare-candy-2025",
@@ -5415,7 +5416,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "神奇糖果"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5437,7 +5438,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "3顆神奇糖果"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-lure-module-2025",
@@ -5463,7 +5464,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "誘餌模組"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5485,7 +5486,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x 誘餌模組"
+                "localizedName": ""
               },
               {
                 "skuId": "web-bonus-star-piece-2025-2",
@@ -5511,7 +5512,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "星星碎片"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5533,7 +5534,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1x 星星碎片"
+                "localizedName": ""
               }
             ]
           },
@@ -5571,21 +5572,21 @@
                     "quantity": 25,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 30,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "超級孵化器"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_POFFIN",
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "寶芬"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5624,7 +5625,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "高級孵蛋禮盒"
+                "localizedName": ""
               },
               {
                 "skuId": "web-gotour-26-ticket-box",
@@ -5656,35 +5657,35 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_RARE_CANDY",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "神奇糖果"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "銀色凰梨果"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "高級球"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5731,7 +5732,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Tour 2026究極入場券禮盒"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-plusrank-feb-25-ultra",
@@ -5763,56 +5764,56 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：2月"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " +10 級/級別"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 20,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "高級球"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "活力塊"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "超級孵化器"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "全滿藥"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5855,7 +5856,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：2月究極入場券禮盒"
+                "localizedName": ""
               },
               {
                 "skuId": "web-ultra-storage-box-gotour-26",
@@ -5887,42 +5888,42 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "升級包包"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_POKEMON_STORAGE_UPGRADE",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "寶可夢盒"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_BASIC",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_INCUBATOR_SUPER",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "超級孵化器"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -5965,7 +5966,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "高級擴充禮盒"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-plusrank-feb-26",
@@ -5997,42 +5998,42 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：2月"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " +10 級/級別"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "高級球"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "活力塊"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "全滿藥"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6075,7 +6076,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：2月+10級"
+                "localizedName": ""
               },
               {
                 "skuId": "web-event-pass-base-feb-26",
@@ -6107,35 +6108,35 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "GO Pass豪華版：2月"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "高級球"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_REVIVE",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "活力塊"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_PAID_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MAX_POTION",
                     "quantity": 5,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "全滿藥"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6178,7 +6179,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "GO Pass豪華版：2月"
+                "localizedName": ""
               },
               {
                 "skuId": "web-gotour-2026-deluxe",
@@ -6210,7 +6211,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Tour入場券豪華版"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6245,7 +6246,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "Tour入場券豪華版"
+                "localizedName": ""
               },
               {
                 "skuId": "web-ultra-battler-box-gotour-26",
@@ -6277,28 +6278,28 @@
                     "quantity": 10,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_MP_REPLENISH",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_GOLDEN_PINAP_BERRY",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "銀色凰梨果"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6337,7 +6338,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "大師團體戰禮盒"
+                "localizedName": ""
               }
             ]
           },
@@ -6375,7 +6376,7 @@
                     "quantity": 8,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "幸運蛋"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6402,7 +6403,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "幸運蛋"
+                "localizedName": ""
               },
               {
                 "skuId": "web-starpiece-bundle",
@@ -6434,7 +6435,7 @@
                     "quantity": 8,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "星星碎片"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6461,7 +6462,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "星星碎片"
+                "localizedName": ""
               },
               {
                 "skuId": "web-remote-raidpass-bundle",
@@ -6493,7 +6494,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6524,7 +6525,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "遠距團體戰入場券"
+                "localizedName": ""
               },
               {
                 "skuId": "web-pokemon-storage-bundle",
@@ -6556,7 +6557,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "寶可夢盒"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6587,7 +6588,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "寶可夢盒"
+                "localizedName": ""
               },
               {
                 "skuId": "web-item-storage-bundle",
@@ -6619,7 +6620,7 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "升級包包"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6650,7 +6651,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "升級包包"
+                "localizedName": ""
               },
               {
                 "skuId": "web-basic-incubator-3pack",
@@ -6682,7 +6683,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "孵化器"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6709,7 +6710,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "孵化器"
+                "localizedName": ""
               },
               {
                 "skuId": "web-nc-600-rrp-3",
@@ -6735,14 +6736,14 @@
                     "quantity": 600,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "連結費用"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6769,7 +6770,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600 連結費用 + 3 遠距團體戰入場券"
+                "localizedName": ""
               },
               {
                 "skuId": "web-super-incubator-2pack",
@@ -6801,7 +6802,7 @@
                     "quantity": 2,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "超級孵化器"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6828,7 +6829,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "超級孵化器"
+                "localizedName": ""
               },
               {
                 "skuId": "web-max-revive-6",
@@ -6860,7 +6861,7 @@
                     "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "活力塊"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6887,7 +6888,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "活力塊"
+                "localizedName": ""
               },
               {
                 "skuId": "web-nc-600",
@@ -6913,7 +6914,7 @@
                     "quantity": 600,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "連結費用"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6940,7 +6941,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600 連結費用"
+                "localizedName": ""
               },
               {
                 "skuId": "web-premium-battle-pass-3",
@@ -6972,7 +6973,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "特級對戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -6999,7 +7000,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "特級對戰入場券"
+                "localizedName": ""
               },
               {
                 "skuId": "web-mp-pack.6",
@@ -7031,7 +7032,7 @@
                     "quantity": 6,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -7058,7 +7059,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "極巨粒子組合"
+                "localizedName": ""
               },
               {
                 "skuId": "web-max-mushroom-3",
@@ -7090,7 +7091,7 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨菇菇"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -7117,7 +7118,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "極巨菇菇"
+                "localizedName": ""
               },
               {
                 "skuId": "web-3mp-3rrp-bundle",
@@ -7149,14 +7150,14 @@
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 3,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -7183,7 +7184,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "3 極巨粒子組合 + 3 遠距團體戰入場券"
+                "localizedName": ""
               },
               {
                 "skuId": "web-1mp-1rrp-bundle",
@@ -7215,14 +7216,14 @@
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨粒子組合"
+                    "localizedName": ""
                   },
                   {
                     "itemId": "ITEM_REMOTE_RAID_TICKET",
                     "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "遠距團體戰入場券"
+                    "localizedName": ""
                   }
                 ],
                 "metadataList": [
@@ -7249,7 +7250,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "極巨粒子組合 + 遠距團體戰入場券"
+                "localizedName": ""
               }
             ]
           },
@@ -7315,7 +7316,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "110寶可幣"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-xsmall",
@@ -7362,7 +7363,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "600寶可幣"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-small_v2",
@@ -7409,7 +7410,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "1,300寶可幣"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-medium_v2",
@@ -7456,7 +7457,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "2,700寶可幣"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-large-v2",
@@ -7503,7 +7504,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "5,600寶可幣"
+                "localizedName": ""
               },
               {
                 "skuId": "coin-bundle-xlarge",
@@ -7550,7 +7551,7 @@
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
-                "localizedName": "15,500寶可幣"
+                "localizedName": ""
               }
             ]
           }
@@ -7590,7 +7591,8 @@
           "enableServerLocalizedSkuName": false,
           "enablePlatformizedPromoCode": true,
           "enablePaypaySubscription": false,
-          "enableGemSkuCardImprovement": false
+          "enableGemSkuCardImprovement": false,
+          "enableHeroPasscode": false
         },
         "layoutConfig": {
           "backgroundImage": {
