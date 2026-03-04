@@ -11,7 +11,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "googleLink": {
             "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
@@ -21,7 +22,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "samsungLink": {
             "url": "https://galaxystore.samsung.com/detail/com.nianticlabs.pokemongo.ares",
@@ -31,7 +33,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "logoImage": {
             "fileName": "logo.png",
@@ -2821,7 +2824,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.facebook.com/PokemonGO/",
@@ -2831,7 +2835,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.instagram.com/pokemongoapp/",
@@ -2841,7 +2846,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.tiktok.com/@pokemongo",
@@ -2851,7 +2857,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               }
             ],
             "footerLinksList": [
@@ -2866,7 +2873,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/seasons",
@@ -2876,7 +2884,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/events",
@@ -2886,7 +2895,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/map",
@@ -2896,7 +2906,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/find-your-community",
@@ -2906,7 +2917,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/leaderboard",
@@ -2916,7 +2928,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ]
               },
@@ -2931,7 +2944,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/api/redirect/event-ticketing",
@@ -2941,7 +2955,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/offer-redemption",
@@ -2951,7 +2966,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/support",
@@ -2961,7 +2977,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ]
               }
@@ -2975,7 +2992,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/privacy",
@@ -2985,7 +3003,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/copyright",
@@ -2995,7 +3014,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/guidelines",
@@ -3005,7 +3025,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               }
             ],
             "complianceLinksList": [],
@@ -3037,7 +3058,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.facebook.com/PokemonGO/",
@@ -3047,7 +3069,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.instagram.com/pokemongoapp/",
@@ -3057,7 +3080,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.tiktok.com/@pokemongo",
@@ -3067,7 +3091,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ],
                 "footerLinksList": [],
@@ -3081,7 +3106,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?p=web&l=en",
@@ -3091,7 +3117,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ],
                 "vendorImage": {
@@ -3143,7 +3170,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/news",
@@ -3153,7 +3181,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/seasons",
@@ -3163,7 +3192,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/events",
@@ -3173,7 +3203,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/map",
@@ -3183,7 +3214,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/find-your-community",
@@ -3193,7 +3225,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/leaderboard",
@@ -3203,7 +3236,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "/",
@@ -3213,7 +3247,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             }
           ],
           "nestedLinksList": [
@@ -3228,7 +3263,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "/api/redirect/event-ticketing",
@@ -3238,7 +3274,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "/offer-redemption",
@@ -3248,7 +3285,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "https://pokemongo.com/reward-road",
@@ -3258,7 +3296,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 }
               ]
             }
@@ -3282,7 +3321,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           }
         ],
         "helpshiftConfig": {
@@ -3295,7 +3335,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "mainSupportLink": {
               "url": "",
@@ -3305,7 +3346,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "termsAndConditionsLink": {
               "url": "",
@@ -3315,7 +3357,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "promoCodeFaqLink": {
               "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/4772-how-do-i-redeem-a-promo-code-on-the-web-store/",
@@ -3325,7 +3368,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             }
           },
           "countryHelpshiftLinksMap": []
@@ -4959,7 +5003,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "googleLink": {
             "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
@@ -4969,7 +5014,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "samsungLink": {
             "url": "https://galaxystore.samsung.com/detail/com.nianticlabs.pokemongo.ares",
@@ -4979,7 +5025,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           },
           "logoImage": {
             "fileName": "logo.png",
@@ -7769,7 +7816,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.facebook.com/PokemonGO/",
@@ -7779,7 +7827,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.instagram.com/pokemongoapp/",
@@ -7789,7 +7838,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://www.tiktok.com/@pokemongo",
@@ -7799,7 +7849,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               }
             ],
             "footerLinksList": [
@@ -7814,7 +7865,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/seasons",
@@ -7824,7 +7876,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/events",
@@ -7834,7 +7887,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/map",
@@ -7844,7 +7898,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/find-your-community",
@@ -7854,7 +7909,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://pokemongo.com/leaderboard",
@@ -7864,7 +7920,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ]
               },
@@ -7879,7 +7936,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/api/redirect/event-ticketing",
@@ -7889,7 +7947,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/offer-redemption",
@@ -7899,7 +7958,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "/support",
@@ -7909,7 +7969,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ]
               }
@@ -7923,7 +7984,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/privacy",
@@ -7933,7 +7995,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/copyright",
@@ -7943,7 +8006,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               },
               {
                 "url": "https://nianticlabs.com/guidelines",
@@ -7953,7 +8017,8 @@
                 "useLanguageCode": false,
                 "useLanguageCodeExceptionsList": [],
                 "preferredLocalesList": [],
-                "localesToIgnoreList": []
+                "localesToIgnoreList": [],
+                "testId": ""
               }
             ],
             "complianceLinksList": [],
@@ -7985,7 +8050,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.facebook.com/PokemonGO/",
@@ -7995,7 +8061,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.instagram.com/pokemongoapp/",
@@ -8005,7 +8072,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://www.tiktok.com/@pokemongo",
@@ -8015,7 +8083,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ],
                 "footerLinksList": [],
@@ -8029,7 +8098,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   },
                   {
                     "url": "https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?p=web&l=en",
@@ -8039,7 +8109,8 @@
                     "useLanguageCode": false,
                     "useLanguageCodeExceptionsList": [],
                     "preferredLocalesList": [],
-                    "localesToIgnoreList": []
+                    "localesToIgnoreList": [],
+                    "testId": ""
                   }
                 ],
                 "vendorImage": {
@@ -8091,7 +8162,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/news",
@@ -8101,7 +8173,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/seasons",
@@ -8111,7 +8184,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/events",
@@ -8121,7 +8195,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/map",
@@ -8131,7 +8206,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/find-your-community",
@@ -8141,7 +8217,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "https://pokemongo.com/leaderboard",
@@ -8151,7 +8228,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             {
               "url": "/",
@@ -8161,7 +8239,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             }
           ],
           "nestedLinksList": [
@@ -8176,7 +8255,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "/api/redirect/event-ticketing",
@@ -8186,7 +8266,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "/offer-redemption",
@@ -8196,7 +8277,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 },
                 {
                   "url": "https://pokemongo.com/reward-road",
@@ -8206,7 +8288,8 @@
                   "useLanguageCode": false,
                   "useLanguageCodeExceptionsList": [],
                   "preferredLocalesList": [],
-                  "localesToIgnoreList": []
+                  "localesToIgnoreList": [],
+                  "testId": ""
                 }
               ]
             }
@@ -8230,7 +8313,8 @@
             "useLanguageCode": false,
             "useLanguageCodeExceptionsList": [],
             "preferredLocalesList": [],
-            "localesToIgnoreList": []
+            "localesToIgnoreList": [],
+            "testId": ""
           }
         ],
         "helpshiftConfig": {
@@ -8243,7 +8327,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "mainSupportLink": {
               "url": "",
@@ -8253,7 +8338,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "termsAndConditionsLink": {
               "url": "",
@@ -8263,7 +8349,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             },
             "promoCodeFaqLink": {
               "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/4772-how-do-i-redeem-a-promo-code-on-the-web-store/",
@@ -8273,7 +8360,8 @@
               "useLanguageCode": false,
               "useLanguageCodeExceptionsList": [],
               "preferredLocalesList": [],
-              "localesToIgnoreList": []
+              "localesToIgnoreList": [],
+              "testId": ""
             }
           },
           "countryHelpshiftLinksMap": []
