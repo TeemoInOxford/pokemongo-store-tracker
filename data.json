@@ -2889,6 +2889,16 @@
                     "localesToIgnoreList": []
                   },
                   {
+                    "url": "https://pokemongo.com/map",
+                    "labelKey": "common.map",
+                    "iconName": "",
+                    "isInternal": false,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
                     "url": "https://pokemongo.com/find-your-community",
                     "labelKey": "common.community",
                     "iconName": "",
@@ -2911,7 +2921,7 @@
                 ]
               },
               {
-                "labelKey": "common.support",
+                "labelKey": "",
                 "linksList": [
                   {
                     "url": "/",
@@ -7827,6 +7837,16 @@
                     "localesToIgnoreList": []
                   },
                   {
+                    "url": "https://pokemongo.com/map",
+                    "labelKey": "common.map",
+                    "iconName": "",
+                    "isInternal": false,
+                    "useLanguageCode": false,
+                    "useLanguageCodeExceptionsList": [],
+                    "preferredLocalesList": [],
+                    "localesToIgnoreList": []
+                  },
+                  {
                     "url": "https://pokemongo.com/find-your-community",
                     "labelKey": "common.community",
                     "iconName": "",
@@ -7849,7 +7869,7 @@
                 ]
               },
               {
-                "labelKey": "common.support",
+                "labelKey": "",
                 "linksList": [
                   {
                     "url": "/",
