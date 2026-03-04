@@ -4772,7 +4772,13 @@
                   "web-anni-pass-deluxe-10": "GO Pass Deluxe: Pokémon 30th Anniversary + 10 Ranks",
                   "web-anni-pass-deluxe-ultra": "GO Pass Deluxe: Pokémon 30th Anniversary Ultra Box",
                   "BADGE_EVENT_0186": "GO Pass Deluxe: Pokémon 30th Anniversary",
-                  "ITEM_EVENT_PASS_POINT_04": " +10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_04": " +10 Ranks",
+                  "web-scorbunny-cd-26-ticket-box": "Scorbunny Community Day Ultra Ticket Box",
+                  "web-bug-pass-deluxe": "GO Pass Deluxe: Bug Out",
+                  "web-bug-pass-deluxe-6": "GO Pass Deluxe: Bug Out + 6 Ranks",
+                  "web-bug-pass-deluxe-ultra": "GO Pass Deluxe: Bug Out + 6 Ranks Ultra Box",
+                  "BADGE_EVENT_0187": "GO Pass Deluxe: Bug Out",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_05": " +10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
@@ -9764,7 +9770,13 @@
                   "web-anni-pass-deluxe-10": "GO入場券豪華版：寶可夢30週年紀念＋10級",
                   "web-anni-pass-deluxe-ultra": "GO入場券豪華版：寶可夢30週年紀念高級禮盒",
                   "BADGE_EVENT_0186": "GO入場券豪華版：寶可夢30週年紀念",
-                  "ITEM_EVENT_PASS_POINT_04": " ＋10級"
+                  "ITEM_EVENT_PASS_POINT_04": " ＋10級",
+                  "web-scorbunny-cd-26-ticket-box": "炎兔兒社群日究極入場券禮盒",
+                  "web-bug-pass-deluxe": "GO Pass豪華版：蟲屬性寶可夢活動",
+                  "web-bug-pass-deluxe-6": "GO Pass豪華版：蟲屬性寶可夢活動+6級",
+                  "web-bug-pass-deluxe-ultra": "GO Pass豪華版：蟲屬性寶可夢活動+6級高級禮盒",
+                  "BADGE_EVENT_0187": "GO Pass豪華版：蟲屬性寶可夢活動",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_05": " +10級"
                 },
                 "percent_off": "{{percent}}%優惠",
                 "section": {
@@ -10931,7 +10943,13 @@
                   "web-anni-pass-deluxe-10": "GO Pass Deluxe: Pokémon 30th Anniversary + 10 Ranks",
                   "web-anni-pass-deluxe-ultra": "GO Pass Deluxe: Pokémon 30th Anniversary Ultra Box",
                   "BADGE_EVENT_0186": "GO Pass Deluxe: Pokémon 30th Anniversary",
-                  "ITEM_EVENT_PASS_POINT_04": " +10 Ranks"
+                  "ITEM_EVENT_PASS_POINT_04": " +10 Ranks",
+                  "web-scorbunny-cd-26-ticket-box": "Scorbunny Community Day Ultra Ticket Box",
+                  "web-bug-pass-deluxe": "GO Pass Deluxe: Bug Out",
+                  "web-bug-pass-deluxe-6": "GO Pass Deluxe: Bug Out + 6 Ranks",
+                  "web-bug-pass-deluxe-ultra": "GO Pass Deluxe: Bug Out + 6 Ranks Ultra Box",
+                  "BADGE_EVENT_0187": "GO Pass Deluxe: Bug Out",
+                  "ITEM_EVENT_PASS_POINT_LIVE_OPS_05": " +10 Ranks"
                 },
                 "percent_off": "{{percent}}% OFF",
                 "section": {
