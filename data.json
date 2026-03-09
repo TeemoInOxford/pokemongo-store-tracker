@@ -905,6 +905,96 @@
                 "localizedName": ""
               },
               {
+                "skuId": "web-scorbunny-cd-26-ticket-box",
+                "localizationNameKey": "sku.name.web-scorbunny-cd-26-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.free.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1773075600000,
+                  "endTimeMs": 1773532800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_03",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": ""
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": ""
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/communityday-march-2026-scorbunny\",\"associatedItemId\":\"ITEM_EVENT_TICKET_03\"}"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1772664800998,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": ""
+              },
+              {
                 "skuId": "web-event-pass-base-march-26",
                 "localizationNameKey": "sku.name.web-event-pass-base-march-26",
                 "description": " ",
@@ -5897,6 +5987,96 @@
                 "rewardedSpendPoints": 180,
                 "skuTemplateId": "pgo_Template1",
                 "lastUpdateTimeMs": 1772565852762,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": ""
+              },
+              {
+                "skuId": "web-scorbunny-cd-26-ticket-box",
+                "localizationNameKey": "sku.name.web-scorbunny-cd-26-ticket-box",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.general2.free.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1773075600000,
+                  "endTimeMs": 1773532800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_03",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": ""
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": ""
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  },
+                  {
+                    "key": "FRONTEND_EVENT_LINK",
+                    "value": "{\"eventLink\":\"https://pokemongo.com/news/communityday-march-2026-scorbunny\",\"associatedItemId\":\"ITEM_EVENT_TICKET_03\"}"
+                  }
+                ],
+                "category": "LIMITED_TIME",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1772664800998,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
