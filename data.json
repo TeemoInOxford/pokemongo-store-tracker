@@ -2924,8 +2924,8 @@
         "webFusionConfig": {
           "navbarLinksList": [
             {
-              "url": "https://pokemongo.com/gotour",
-              "labelKey": "gotour",
+              "url": "https://pokemongo.com/gofest",
+              "labelKey": "go_fest",
               "iconName": "",
               "isInternal": true,
               "useLanguageCode": false,
@@ -7010,8 +7010,8 @@
         "webFusionConfig": {
           "navbarLinksList": [
             {
-              "url": "https://pokemongo.com/gotour",
-              "labelKey": "gotour",
+              "url": "https://pokemongo.com/gofest",
+              "labelKey": "go_fest",
               "iconName": "",
               "isInternal": true,
               "useLanguageCode": false,
