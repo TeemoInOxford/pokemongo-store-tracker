@@ -3745,7 +3745,10 @@
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
                 "promo_code_v2_applied": "<0>{{code}}</0> applied:",
                 "map": "Map",
-                "ends": "Ends"
+                "ends": "Ends",
+                "all_events": "All Events",
+                "featured_in_person_events": "Featured In-Person Events",
+                "in_person_tickets": "In-Person Tickets"
               },
               "confirmation": {
                 "failed": {
@@ -7832,7 +7835,10 @@
                 "promo_code_v2_percent_off": "已套用<0>{{code}}</0>（{{percentOff}}%折扣）",
                 "promo_code_v2_applied": "已套用<0>{{code}}</0>：",
                 "map": "地圖",
-                "ends": "結束"
+                "ends": "結束",
+                "all_events": "所有活動",
+                "featured_in_person_events": "精選現場活動",
+                "in_person_tickets": "現場入場券"
               },
               "confirmation": {
                 "failed": {
@@ -8333,7 +8339,10 @@
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
                 "promo_code_v2_applied": "<0>{{code}}</0> applied:",
                 "map": "Map",
-                "ends": "Ends"
+                "ends": "Ends",
+                "all_events": "All Events",
+                "featured_in_person_events": "Featured In-Person Events",
+                "in_person_tickets": "In-Person Tickets"
               },
               "confirmation": {
                 "failed": {
