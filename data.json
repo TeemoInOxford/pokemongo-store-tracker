@@ -961,11 +961,11 @@
                   },
                   {
                     "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "false"
+                    "value": "true"
                   },
                   {
                     "key": "FRONTEND_DISPLAY_END_DATE",
-                    "value": "true"
+                    "value": "false"
                   },
                   {
                     "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
@@ -998,7 +998,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1772664800998,
+                "lastUpdateTimeMs": 1773272970613,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -3744,7 +3744,8 @@
                 "mystery_boxes": "Mystery Boxes",
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
                 "promo_code_v2_applied": "<0>{{code}}</0> applied:",
-                "map": "Map"
+                "map": "Map",
+                "ends": "Ends"
               },
               "confirmation": {
                 "failed": {
@@ -5047,11 +5048,11 @@
                   },
                   {
                     "key": "FRONTEND_ENABLE_TIMER",
-                    "value": "false"
+                    "value": "true"
                   },
                   {
                     "key": "FRONTEND_DISPLAY_END_DATE",
-                    "value": "true"
+                    "value": "false"
                   },
                   {
                     "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
@@ -5084,7 +5085,7 @@
                 "catalogType": 2,
                 "rewardedSpendPoints": 24,
                 "skuTemplateId": "pgo_Template1",
-                "lastUpdateTimeMs": 1772664800998,
+                "lastUpdateTimeMs": 1773272970613,
                 "linkedSkuId": "",
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
@@ -7830,7 +7831,8 @@
                 "mystery_boxes": "神秘盒子",
                 "promo_code_v2_percent_off": "已套用<0>{{code}}</0>（{{percentOff}}%折扣）",
                 "promo_code_v2_applied": "已套用<0>{{code}}</0>：",
-                "map": "地圖"
+                "map": "地圖",
+                "ends": "結束"
               },
               "confirmation": {
                 "failed": {
@@ -8330,7 +8332,8 @@
                 "mystery_boxes": "Mystery Boxes",
                 "promo_code_v2_percent_off": "<0>{{code}}</0> applied – {{percentOff}}% off",
                 "promo_code_v2_applied": "<0>{{code}}</0> applied:",
-                "map": "Map"
+                "map": "Map",
+                "ends": "Ends"
               },
               "confirmation": {
                 "failed": {

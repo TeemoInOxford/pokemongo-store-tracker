@@ -969,11 +969,11 @@
       },
       {
         "key":"FRONTEND_ENABLE_TIMER",
-        "value":"false"
+        "value":"true"
       },
       {
         "key":"FRONTEND_DISPLAY_END_DATE",
-        "value":"true"
+        "value":"false"
       },
       {
         "key":"FRONTEND_AUTO_APPLY_NEW_TAG",
