@@ -179,54 +179,34 @@
   {
     "DLC":3,
     "category":"BUNDLE\n道具礼盒",
-    "name":"web-bug-pass-deluxe-6\n",
-    "endTimeMs":"2026-03-24 01:00:00",
+    "name":"web-gmax-pika-ticket-box\n",
+    "endTimeMs":"2026-03-29 13:00:00",
     "bundledItems":[
       {
-        "itemId":"BADGE_EVENT_0187\n",
-        "rawId":"badge_event_0187",
+        "itemId":"ITEM_EVENT_TICKET_05\n",
+        "rawId":"item_event_ticket_05",
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_05\n",
-        "rawId":"item_event_pass_point_live_ops_05",
-        "quantity":600
-      },
-      {
-        "itemId":"ITEM_ULTRA_BALL\n",
-        "rawId":"item_ultra_ball",
-        "quantity":10
-      },
-      {
-        "itemId":"ITEM_MAX_REVIVE\n",
-        "rawId":"item_max_revive",
-        "quantity":5
-      },
-      {
-        "itemId":"ITEM_PAID_RAID_TICKET\n",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      },
-      {
-        "itemId":"ITEM_MAX_POTION\n",
-        "rawId":"item_max_potion",
-        "quantity":5
+        "itemId":"ITEM_MP\n",
+        "rawId":"item_mp",
+        "quantity":800
       }
     ],
-    "sellingPrice":"35000.00（未定价） CNY 人民币",
+    "sellingPrice":"22.22 CNY 人民币",
     "price":[
       {
-        "priceE6":35000000000,
+        "priceE6":25000000000,
         "currency":"IDR",
         "type":2,
         "priceMetaData":{
-          "originalPriceE6":35000000000,
+          "originalPriceE6":25000000000,
           "discountPercentage":0
         }
       }
     ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_d3.png",
-    "localImage":"images\/main_web-bug-pass-deluxe-6.png",
+    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_d1.png",
+    "localImage":"images\/main_web-gmax-pika-ticket-box.png",
     "metadataList":[
       {
         "key":"FRONTEND_PRIMARY_TAG",
