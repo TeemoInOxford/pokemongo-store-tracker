@@ -11,9 +11,9 @@
         "quantity":1
       },
       {
-        "itemId":"ITEM_MP\n",
-        "rawId":"item_mp",
-        "quantity":800
+        "itemId":"ITEM_PAID_RAID_TICKET\n",
+        "rawId":"item_paid_raid_ticket",
+        "quantity":1
       }
     ],
     "sellingPrice":"22.22 CNY 人民币",

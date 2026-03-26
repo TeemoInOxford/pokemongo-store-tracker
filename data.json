@@ -711,11 +711,11 @@
                     "localizedName": "Ticket"
                   },
                   {
-                    "itemId": "ITEM_MP",
-                    "quantity": 800,
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "Max Particles"
+                    "localizedName": "Premium Battle Pass"
                   }
                 ],
                 "metadataList": [
@@ -4807,11 +4807,11 @@
                     "localizedName": "入場券"
                   },
                   {
-                    "itemId": "ITEM_MP",
-                    "quantity": 800,
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": "極巨粒子"
+                    "localizedName": "特級對戰入場券"
                   }
                 ],
                 "metadataList": [
