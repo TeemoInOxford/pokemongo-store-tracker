@@ -4045,7 +4045,8 @@
                 "ends": "Ends",
                 "all_events": "All Events",
                 "featured_in_person_events": "Featured In-Person Events",
-                "in_person_tickets": "In-Person Tickets"
+                "in_person_tickets": "In-Person Tickets",
+                "shortcut_uppercase": "ADD SHORTCUT"
               },
               "confirmation": {
                 "failed": {
@@ -8432,7 +8433,8 @@
                 "ends": "結束",
                 "all_events": "所有活動",
                 "featured_in_person_events": "精選現場活動",
-                "in_person_tickets": "現場入場券"
+                "in_person_tickets": "現場入場券",
+                "shortcut_uppercase": "ADD SHORTCUT"
               },
               "confirmation": {
                 "failed": {
@@ -8936,7 +8938,8 @@
                 "ends": "Ends",
                 "all_events": "All Events",
                 "featured_in_person_events": "Featured In-Person Events",
-                "in_person_tickets": "In-Person Tickets"
+                "in_person_tickets": "In-Person Tickets",
+                "shortcut_uppercase": "ADD SHORTCUT"
               },
               "confirmation": {
                 "failed": {
