@@ -844,11 +844,11 @@
                     "localizedName": "GO Pass Deluxe: April"
                   },
                   {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "itemId": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
+                    "localizedName": " +10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
@@ -1415,11 +1415,11 @@
                     "localizedName": "GO Pass Deluxe: April"
                   },
                   {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "itemId": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " + 10 Ranks"
+                    "localizedName": " +10 Ranks"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
@@ -5327,11 +5327,11 @@
                     "localizedName": "GO Pass豪華版：4月"
                   },
                   {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "itemId": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " +10 級"
+                    "localizedName": " ＋10級"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",
@@ -5898,11 +5898,11 @@
                     "localizedName": "GO Pass豪華版：4月"
                   },
                   {
-                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "itemId": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
                     "quantity": 1000,
                     "imageUrl": "",
                     "contentTagsList": [],
-                    "localizedName": " +10 級"
+                    "localizedName": " ＋10級"
                   },
                   {
                     "itemId": "ITEM_ULTRA_BALL",

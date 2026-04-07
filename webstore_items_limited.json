@@ -107,8 +107,8 @@
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_01\n",
-        "rawId":"item_event_pass_point_live_ops_01",
+        "itemId":"ITEM_EVENT_PASS_POINT_MONTHLY_02\n",
+        "rawId":"item_event_pass_point_monthly_02",
         "quantity":1000
       },
       {
@@ -521,8 +521,8 @@
         "quantity":1
       },
       {
-        "itemId":"ITEM_EVENT_PASS_POINT_LIVE_OPS_01\n",
-        "rawId":"item_event_pass_point_live_ops_01",
+        "itemId":"ITEM_EVENT_PASS_POINT_MONTHLY_02\n",
+        "rawId":"item_event_pass_point_monthly_02",
         "quantity":1000
       },
       {
