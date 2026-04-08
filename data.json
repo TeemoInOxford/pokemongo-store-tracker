@@ -7892,11 +7892,11 @@
                 "promo_code_v2_percent_off": "已套用<0>{{code}}</0>（{{percentOff}}%折扣）",
                 "promo_code_v2_applied": "已套用<0>{{code}}</0>：",
                 "map": "地圖",
-                "ends": "結束",
+                "ends": "截止日期",
                 "all_events": "所有活動",
                 "featured_in_person_events": "精選現場活動",
                 "in_person_tickets": "現場入場券",
-                "shortcut_uppercase": "ADD SHORTCUT"
+                "shortcut_uppercase": "新增捷徑"
               },
               "confirmation": {
                 "failed": {
@@ -8072,7 +8072,8 @@
                   "x2_bonus_coins": "雙倍Web Store獎勵加碼內容",
                   "x2_bonus_coins_included": "內含雙倍Web Store獎勵寶可幣",
                   "popular": "熱門",
-                  "includes_bonus_rewards": "包括紅利獎勵"
+                  "includes_bonus_rewards": "包括紅利獎勵",
+                  "new": "新消息"
                 },
                 "section_nav": {
                   "limited_time_offers": "限時優惠"
@@ -8577,7 +8578,8 @@
                   "x2_bonus_coins": "x2 WEB STORE BONUS",
                   "x2_bonus_coins_included": "x2 WEB STORE BONUS COINS INCLUDED",
                   "popular": "POPULAR",
-                  "includes_bonus_rewards": "Includes Bonus Rewards"
+                  "includes_bonus_rewards": "Includes Bonus Rewards",
+                  "new": "NEW"
                 },
                 "section_nav": {
                   "limited_time_offers": "Limited-time Offers"
