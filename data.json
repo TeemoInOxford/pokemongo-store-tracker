@@ -3953,7 +3953,8 @@
                   "x2_bonus_coins": "x2 WEB STORE BONUS",
                   "x2_bonus_coins_included": "x2 WEB STORE BONUS COINS INCLUDED",
                   "popular": "POPULAR",
-                  "includes_bonus_rewards": "Includes Bonus Rewards"
+                  "includes_bonus_rewards": "Includes Bonus Rewards",
+                  "new": "NEW"
                 },
                 "section_nav": {
                   "limited_time_offers": "Limited-time Offers"
