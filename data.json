@@ -3510,7 +3510,7 @@
               "testId": ""
             },
             "promoCodeFaqLink": {
-              "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/4772-how-do-i-redeem-a-promo-code-on-the-web-store/",
+              "url": "https://niantic.helpshift.com/hc/{locale}/48-web-store/faq/5381-how-do-i-redeem-a-promo-code-on-the-pokemon-go-web-store/",
               "labelKey": "",
               "iconName": "",
               "isInternal": false,
@@ -7990,7 +7990,7 @@
               "testId": ""
             },
             "promoCodeFaqLink": {
-              "url": "https://niantic.helpshift.com/hc/{locale}/6-pokemon-go/faq/4772-how-do-i-redeem-a-promo-code-on-the-web-store/",
+              "url": "https://niantic.helpshift.com/hc/{locale}/48-web-store/faq/5381-how-do-i-redeem-a-promo-code-on-the-pokemon-go-web-store/",
               "labelKey": "",
               "iconName": "",
               "isInternal": false,
