@@ -2909,7 +2909,7 @@
           "enableRewardedSpend": true,
           "showGiftCardRedemptionUnavailableMessage": false,
           "enableEventTicketLink": true,
-          "enableWebfusionNavbar": false,
+          "enableWebfusionNavbar": true,
           "enablePwaShortcut": true,
           "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
@@ -3401,33 +3401,6 @@
             }
           ],
           "nestedLinksList": [
-            {
-              "labelKey": "events",
-              "linksList": [
-                {
-                  "url": "https://pokemongo.com/events",
-                  "labelKey": "events",
-                  "iconName": "",
-                  "isInternal": false,
-                  "useLanguageCode": false,
-                  "useLanguageCodeExceptionsList": [],
-                  "preferredLocalesList": [],
-                  "localesToIgnoreList": [],
-                  "testId": ""
-                },
-                {
-                  "url": "https://pokemongo.com/featured-in-person-events",
-                  "labelKey": "featured_in_person_events",
-                  "iconName": "",
-                  "isInternal": false,
-                  "useLanguageCode": false,
-                  "useLanguageCodeExceptionsList": [],
-                  "preferredLocalesList": [],
-                  "localesToIgnoreList": [],
-                  "testId": ""
-                }
-              ]
-            },
             {
               "labelKey": "shop",
               "linksList": [
@@ -7416,7 +7389,7 @@
           "enableRewardedSpend": true,
           "showGiftCardRedemptionUnavailableMessage": false,
           "enableEventTicketLink": true,
-          "enableWebfusionNavbar": false,
+          "enableWebfusionNavbar": true,
           "enablePwaShortcut": true,
           "enableOrderReviewRevamp": true,
           "featureFlagsList": [],
@@ -7908,33 +7881,6 @@
             }
           ],
           "nestedLinksList": [
-            {
-              "labelKey": "events",
-              "linksList": [
-                {
-                  "url": "https://pokemongo.com/events",
-                  "labelKey": "events",
-                  "iconName": "",
-                  "isInternal": false,
-                  "useLanguageCode": false,
-                  "useLanguageCodeExceptionsList": [],
-                  "preferredLocalesList": [],
-                  "localesToIgnoreList": [],
-                  "testId": ""
-                },
-                {
-                  "url": "https://pokemongo.com/featured-in-person-events",
-                  "labelKey": "featured_in_person_events",
-                  "iconName": "",
-                  "isInternal": false,
-                  "useLanguageCode": false,
-                  "useLanguageCodeExceptionsList": [],
-                  "preferredLocalesList": [],
-                  "localesToIgnoreList": [],
-                  "testId": ""
-                }
-              ]
-            },
             {
               "labelKey": "shop",
               "linksList": [
