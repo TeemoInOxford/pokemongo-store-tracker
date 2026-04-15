@@ -3098,7 +3098,7 @@
                   },
                   {
                     "url": "/api/redirect/event-ticketing",
-                    "labelKey": "common.event_ticketing",
+                    "labelKey": "common.in_person_tickets",
                     "iconName": "",
                     "isInternal": true,
                     "useLanguageCode": false,
@@ -7605,7 +7605,7 @@
                   },
                   {
                     "url": "/api/redirect/event-ticketing",
-                    "labelKey": "common.event_ticketing",
+                    "labelKey": "common.in_person_tickets",
                     "iconName": "",
                     "isInternal": true,
                     "useLanguageCode": false,
