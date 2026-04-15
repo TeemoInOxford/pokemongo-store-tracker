@@ -3402,6 +3402,33 @@
           ],
           "nestedLinksList": [
             {
+              "labelKey": "events",
+              "linksList": [
+                {
+                  "url": "https://pokemongo.com/events",
+                  "labelKey": "all_events",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": [],
+                  "testId": ""
+                },
+                {
+                  "url": "https://pokemongo.com/featured-in-person-events",
+                  "labelKey": "featured_in_person_events",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": [],
+                  "testId": ""
+                }
+              ]
+            },
+            {
               "labelKey": "shop",
               "linksList": [
                 {
@@ -7881,6 +7908,33 @@
             }
           ],
           "nestedLinksList": [
+            {
+              "labelKey": "events",
+              "linksList": [
+                {
+                  "url": "https://pokemongo.com/events",
+                  "labelKey": "all_events",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": [],
+                  "testId": ""
+                },
+                {
+                  "url": "https://pokemongo.com/featured-in-person-events",
+                  "labelKey": "featured_in_person_events",
+                  "iconName": "",
+                  "isInternal": false,
+                  "useLanguageCode": false,
+                  "useLanguageCodeExceptionsList": [],
+                  "preferredLocalesList": [],
+                  "localesToIgnoreList": [],
+                  "testId": ""
+                }
+              ]
+            },
             {
               "labelKey": "shop",
               "linksList": [
