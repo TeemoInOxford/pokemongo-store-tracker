@@ -2539,7 +2539,7 @@
         "gameVariant": 0,
         "pageConfig": {
           "enableOfferRedemption": true,
-          "enableSbps": false,
+          "enableSbps": true,
           "enablePromocode": true,
           "enableMlBundle": true,
           "enableRewardedSpend": true,
@@ -2940,7 +2940,7 @@
             2,
             3
           ],
-          "enablePaymentSettings": false
+          "enablePaymentSettings": true
         },
         "eventTicketingConfig": {
           "eventTicketingUrl": "https://tickets.nianticlabs.com/events/?appId=pgo&wst={webstoreToken}"
@@ -3196,16 +3196,16 @@
           "sandbox": false
         },
         "googlePayConfig": {
-          "merchantId": "",
-          "merchantName": "",
-          "gateway": "",
-          "environment": "",
-          "gatewayMerchantId": ""
+          "merchantId": "BCR2DN4TRLI7ZQJF",
+          "merchantName": "Pokemon GO Web Store",
+          "gateway": "sbps",
+          "environment": "PRODUCTION",
+          "gatewayMerchantId": "31631003"
         },
         "payPayConfig": {
-          "clientId": "",
-          "environment": "",
-          "merchantAlias": ""
+          "clientId": "a_zptWOQ5x0q",
+          "environment": "production",
+          "merchantAlias": "907832305500667904"
         },
         "nianticSignInConfig": {
           "nianticAuthUrl": "https://signin.nianticlabs.com/signin",
@@ -6682,7 +6682,7 @@
         "gameVariant": 0,
         "pageConfig": {
           "enableOfferRedemption": true,
-          "enableSbps": false,
+          "enableSbps": true,
           "enablePromocode": true,
           "enableMlBundle": true,
           "enableRewardedSpend": true,
@@ -7083,7 +7083,7 @@
             2,
             3
           ],
-          "enablePaymentSettings": false
+          "enablePaymentSettings": true
         },
         "eventTicketingConfig": {
           "eventTicketingUrl": "https://tickets.nianticlabs.com/events/?appId=pgo&wst={webstoreToken}"
@@ -7339,16 +7339,16 @@
           "sandbox": false
         },
         "googlePayConfig": {
-          "merchantId": "",
-          "merchantName": "",
-          "gateway": "",
-          "environment": "",
-          "gatewayMerchantId": ""
+          "merchantId": "BCR2DN4TRLI7ZQJF",
+          "merchantName": "Pokemon GO Web Store",
+          "gateway": "sbps",
+          "environment": "PRODUCTION",
+          "gatewayMerchantId": "31631003"
         },
         "payPayConfig": {
-          "clientId": "",
-          "environment": "",
-          "merchantAlias": ""
+          "clientId": "a_zptWOQ5x0q",
+          "environment": "production",
+          "merchantAlias": "907832305500667904"
         },
         "nianticSignInConfig": {
           "nianticAuthUrl": "https://signin.nianticlabs.com/signin",
