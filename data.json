@@ -2937,8 +2937,7 @@
           "enabledPaymentsList": [
             0,
             1,
-            2,
-            3
+            2
           ],
           "enablePaymentSettings": true
         },
@@ -7080,8 +7079,7 @@
           "enabledPaymentsList": [
             0,
             1,
-            2,
-            3
+            2
           ],
           "enablePaymentSettings": true
         },
