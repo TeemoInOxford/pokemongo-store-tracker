@@ -3455,7 +3455,7 @@
                 },
                 {
                   "url": "/api/redirect/event-ticketing",
-                  "labelKey": "event_ticketing",
+                  "labelKey": "in_person_tickets",
                   "iconName": "",
                   "isInternal": false,
                   "useLanguageCode": false,
@@ -7973,7 +7973,7 @@
                 },
                 {
                   "url": "/api/redirect/event-ticketing",
-                  "labelKey": "event_ticketing",
+                  "labelKey": "in_person_tickets",
                   "iconName": "",
                   "isInternal": false,
                   "useLanguageCode": false,
