@@ -277,72 +277,6 @@
   {
     "DLC":4,
     "category":"BUNDLE\n道具礼盒",
-    "name":"web-shadow-entei-raid-box-ultra\n",
-    "endTimeMs":"2026-05-03 13:00:00",
-    "bundledItems":[
-      {
-        "itemId":"ITEM_EVENT_TICKET_GRAY\n",
-        "rawId":"item_event_ticket_gray",
-        "quantity":1
-      },
-      {
-        "itemId":"ITEM_PAID_RAID_TICKET\n",
-        "rawId":"item_paid_raid_ticket",
-        "quantity":1
-      }
-    ],
-    "sellingPrice":"22.22 CNY 人民币",
-    "price":[
-      {
-        "priceE6":25000000000,
-        "currency":"IDR",
-        "type":2,
-        "priceMetaData":{
-          "originalPriceE6":25000000000,
-          "discountPercentage":0
-        }
-      }
-    ],
-    "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_a1.png",
-    "localImage":"images\/main_web-shadow-entei-raid-box-ultra.png",
-    "metadataList":[
-      {
-        "key":"FRONTEND_PRIMARY_TAG",
-        "value":"{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
-      },
-      {
-        "key":"FRONTEND_ENABLE_TIMER",
-        "value":"true"
-      },
-      {
-        "key":"FRONTEND_DISPLAY_END_DATE",
-        "value":"false"
-      },
-      {
-        "key":"FRONTEND_AUTO_APPLY_NEW_TAG",
-        "value":"false"
-      },
-      {
-        "key":"FRONTEND_PURCHASE_LIMIT",
-        "value":"1"
-      },
-      {
-        "key":"FRONTEND_BADGE",
-        "value":"{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
-      },
-      {
-        "key":"FRONTEND_MEDIA_BACKGROUND_COLOR",
-        "value":"{\"backgroundColor\": \"#DAEBE9\"}"
-      },
-      {
-        "key":"FRONTEND_BG_TAG_COLOR",
-        "value":"#608183"
-      }
-    ]
-  },
-  {
-    "DLC":5,
-    "category":"BUNDLE\n道具礼盒",
     "name":"web-steeledresolve2026-deluxe-ultra\n",
     "endTimeMs":"2026-05-05 13:00:00",
     "bundledItems":[
@@ -441,7 +375,7 @@
     ]
   },
   {
-    "DLC":6,
+    "DLC":5,
     "category":"BUNDLE\n道具礼盒",
     "name":"web-steeledresolve2026-deluxe-6\n",
     "endTimeMs":"2026-05-05 13:00:00",
@@ -531,7 +465,7 @@
     ]
   },
   {
-    "DLC":7,
+    "DLC":6,
     "category":"BUNDLE\n道具礼盒",
     "name":"web-steeledresolve2026-deluxe\n",
     "endTimeMs":"2026-05-05 13:00:00",
@@ -616,7 +550,7 @@
     ]
   },
   {
-    "DLC":8,
+    "DLC":7,
     "category":"ITEMS\n道具",
     "name":"web-luckyegg-bundle-8\n",
     "endTimeMs":null,
@@ -653,7 +587,7 @@
     ]
   },
   {
-    "DLC":9,
+    "DLC":8,
     "category":"ITEMS\n道具",
     "name":"web-starpiece-bundle\n",
     "endTimeMs":null,
@@ -690,7 +624,7 @@
     ]
   },
   {
-    "DLC":10,
+    "DLC":9,
     "category":"ITEMS\n道具",
     "name":"web-remote-raidpass-bundle\n",
     "endTimeMs":null,
@@ -731,7 +665,7 @@
     ]
   },
   {
-    "DLC":11,
+    "DLC":10,
     "category":"ITEMS\n道具",
     "name":"web-pokemon-storage-bundle\n",
     "endTimeMs":null,
@@ -772,7 +706,7 @@
     ]
   },
   {
-    "DLC":12,
+    "DLC":11,
     "category":"ITEMS\n道具",
     "name":"web-item-storage-bundle\n",
     "endTimeMs":null,
@@ -813,7 +747,7 @@
     ]
   },
   {
-    "DLC":13,
+    "DLC":12,
     "category":"ITEMS\n道具",
     "name":"web-basic-incubator-3pack\n",
     "endTimeMs":null,
@@ -850,7 +784,7 @@
     ]
   },
   {
-    "DLC":14,
+    "DLC":13,
     "category":"ITEMS\n道具",
     "name":"web-nc-600-rrp-3\n",
     "endTimeMs":null,
@@ -892,7 +826,7 @@
     ]
   },
   {
-    "DLC":15,
+    "DLC":14,
     "category":"ITEMS\n道具",
     "name":"web-super-incubator-2pack\n",
     "endTimeMs":null,
@@ -929,7 +863,7 @@
     ]
   },
   {
-    "DLC":16,
+    "DLC":15,
     "category":"ITEMS\n道具",
     "name":"web-max-revive-6\n",
     "endTimeMs":null,
@@ -966,7 +900,7 @@
     ]
   },
   {
-    "DLC":17,
+    "DLC":16,
     "category":"ITEMS\n道具",
     "name":"web-nc-600\n",
     "endTimeMs":null,
@@ -1003,7 +937,7 @@
     ]
   },
   {
-    "DLC":18,
+    "DLC":17,
     "category":"ITEMS\n道具",
     "name":"web-premium-battle-pass-3\n",
     "endTimeMs":null,
@@ -1040,7 +974,7 @@
     ]
   },
   {
-    "DLC":19,
+    "DLC":18,
     "category":"ITEMS\n道具",
     "name":"web-mp-pack\n",
     "endTimeMs":null,
@@ -1077,7 +1011,7 @@
     ]
   },
   {
-    "DLC":20,
+    "DLC":19,
     "category":"ITEMS\n道具",
     "name":"web-max-mushroom-3\n",
     "endTimeMs":null,
@@ -1114,7 +1048,7 @@
     ]
   },
   {
-    "DLC":21,
+    "DLC":20,
     "category":"ITEMS\n道具",
     "name":"web-3mp-3rrp-bundle\n",
     "endTimeMs":null,
@@ -1156,7 +1090,7 @@
     ]
   },
   {
-    "DLC":22,
+    "DLC":21,
     "category":"ITEMS\n道具",
     "name":"web-1mp-1rrp-bundle\n",
     "endTimeMs":null,
@@ -1198,7 +1132,7 @@
     ]
   },
   {
-    "DLC":23,
+    "DLC":22,
     "category":"ITEMS\n道具",
     "name":"web-10-silver-pinap\n",
     "endTimeMs":null,
@@ -1235,7 +1169,7 @@
     ]
   },
   {
-    "DLC":24,
+    "DLC":23,
     "category":"ITEMS\n道具",
     "name":"web-15-gold-razz\n",
     "endTimeMs":null,
@@ -1272,7 +1206,7 @@
     ]
   },
   {
-    "DLC":25,
+    "DLC":24,
     "category":"ITEMS\n道具",
     "name":"web-10-max-potions\n",
     "endTimeMs":null,
