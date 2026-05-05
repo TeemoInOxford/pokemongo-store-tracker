@@ -46,12 +46,16 @@
         "quantity":10
       }
     ],
-    "sellingPrice":"16.64（未定价） CNY 人民币",
+    "sellingPrice":"55.55 CNY 人民币",
     "price":[
       {
-        "priceE6":16640000,
-        "currency":"USD",
-        "type":2
+        "priceE6":76000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":76000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_d1.png",
@@ -132,12 +136,16 @@
         "quantity":5
       }
     ],
-    "sellingPrice":"11.09（未定价） CNY 人民币",
+    "sellingPrice":"33.33 CNY 人民币",
     "price":[
       {
-        "priceE6":11090000,
-        "currency":"USD",
-        "type":2
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_a2.png",
@@ -213,12 +221,16 @@
         "quantity":5
       }
     ],
-    "sellingPrice":"8.87（未定价） CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":8870000,
-        "currency":"USD",
-        "type":2
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/genericbox_a3.png",
@@ -279,12 +291,16 @@
         "quantity":5
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/ultra-community-day-box-0723.png",
@@ -336,12 +352,16 @@
         "quantity":8
       }
     ],
-    "sellingPrice":"5.54（未定价） CNY 人民币",
+    "sellingPrice":"22.22 CNY 人民币",
     "price":[
       {
-        "priceE6":5540000,
-        "currency":"USD",
-        "type":2
+        "priceE6":25000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":25000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/luckyegg.5.png",
@@ -369,12 +389,16 @@
         "quantity":8
       }
     ],
-    "sellingPrice":"6.65（未定价） CNY 人民币",
+    "sellingPrice":"25.55 CNY 人民币",
     "price":[
       {
-        "priceE6":6650000,
-        "currency":"USD",
-        "type":2
+        "priceE6":30500000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":30500000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/08_ x3.png",
@@ -402,12 +426,16 @@
         "quantity":2
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/raid_pass_blue (1).png",
@@ -439,12 +467,16 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_pokemon_storage_upgrade.png",
@@ -476,12 +508,16 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_item_storage_upgrade.png",
@@ -513,12 +549,16 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_incubator_basic.png",
@@ -551,12 +591,16 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"8.87（未定价） CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":8870000,
-        "currency":"USD",
-        "type":2
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/xEnergyStack3RRP.png",
@@ -584,12 +628,16 @@
         "quantity":2
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/Incubator_Super.png",
@@ -617,12 +665,16 @@
         "quantity":15
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_revive.png",
@@ -650,12 +702,16 @@
         "quantity":600
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/xEnergyStack.png",
@@ -683,12 +739,16 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_paid_raid_ticket.png",
@@ -716,12 +776,16 @@
         "quantity":6
       }
     ],
-    "sellingPrice":"8.87（未定价） CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":8870000,
-        "currency":"USD",
-        "type":2
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_mp_replenish.png",
@@ -749,12 +813,16 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"11.09（未定价） CNY 人民币",
+    "sellingPrice":"33.33 CNY 人民币",
     "price":[
       {
-        "priceE6":11090000,
-        "currency":"USD",
-        "type":2
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_max_boost.png",
@@ -787,12 +855,16 @@
         "quantity":3
       }
     ],
-    "sellingPrice":"8.87（未定价） CNY 人民币",
+    "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":8870000,
-        "currency":"USD",
-        "type":2
+        "priceE6":41000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":41000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/3_mp_rrp.png",
@@ -825,12 +897,16 @@
         "quantity":1
       }
     ],
-    "sellingPrice":"3.32（未定价） CNY 人民币",
+    "sellingPrice":"12.99 CNY 人民币",
     "price":[
       {
-        "priceE6":3320000,
-        "currency":"USD",
-        "type":2
+        "priceE6":15000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":15000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/1_mp_rrp.png",
@@ -858,12 +934,16 @@
         "quantity":10
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_golden_pinap_berry.png",
@@ -891,12 +971,16 @@
         "quantity":15
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/item_golden_razz_berry.png",
@@ -924,12 +1008,16 @@
         "quantity":10
       }
     ],
-    "sellingPrice":"2.21（未定价） CNY 人民币",
+    "sellingPrice":"9.99 CNY 人民币",
     "price":[
       {
-        "priceE6":2210000,
-        "currency":"USD",
-        "type":2
+        "priceE6":10000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":10000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/ITEM_MAX_POTION.png",
@@ -960,9 +1048,13 @@
     "sellingPrice":"未知定价 CNY 人民币",
     "price":[
       {
-        "priceE6":1100000,
-        "currency":"USD",
-        "type":2
+        "priceE6":5000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":5000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xxsmall.png",
@@ -993,9 +1085,13 @@
     "sellingPrice":"18.99 CNY 人民币",
     "price":[
       {
-        "priceE6":5540000,
-        "currency":"USD",
-        "type":2
+        "priceE6":25000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":25000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xsmall.png",
@@ -1022,9 +1118,13 @@
     "sellingPrice":"29.99 CNY 人民币",
     "price":[
       {
-        "priceE6":11090000,
-        "currency":"USD",
-        "type":2
+        "priceE6":50000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":50000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-small_v2.png",
@@ -1051,9 +1151,13 @@
     "sellingPrice":"54.99 CNY 人民币",
     "price":[
       {
-        "priceE6":22190000,
-        "currency":"USD",
-        "type":2
+        "priceE6":101000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":101000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-medium_v2.png",
@@ -1080,9 +1184,13 @@
     "sellingPrice":"104.99 CNY 人民币",
     "price":[
       {
-        "priceE6":44390000,
-        "currency":"USD",
-        "type":2
+        "priceE6":200000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":200000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-large-v2.png",
@@ -1109,9 +1217,13 @@
     "sellingPrice":"249.99 CNY 人民币",
     "price":[
       {
-        "priceE6":110990000,
-        "currency":"USD",
-        "type":2
+        "priceE6":505000000000,
+        "currency":"IDR",
+        "type":2,
+        "priceMetaData":{
+          "originalPriceE6":505000000000,
+          "discountPercentage":0
+        }
       }
     ],
     "imageUrl":"https:\/\/storage.googleapis.com\/platform-webstore-rel-assets\/pgo\/sku_assets\/coin-bundle-xlarge.png",
