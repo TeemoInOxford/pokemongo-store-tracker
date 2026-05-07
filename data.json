@@ -3862,7 +3862,10 @@
                 "all_events": "All Events",
                 "featured_in_person_events": "Featured In-Person Events",
                 "in_person_tickets": "In-Person Tickets",
-                "shortcut_uppercase": "ADD SHORTCUT"
+                "shortcut_uppercase": "ADD SHORTCUT",
+                "switch_card": "Switch Card",
+                "delete_stored_card_option": "Delete Stored Card Option",
+                "reward_road": "REWARD ROAD"
               },
               "confirmation": {
                 "failed": {
@@ -3947,7 +3950,8 @@
                 "promo_code_info": "{{code}} applied ({{sku}}).",
                 "promotion_detail": "<0>promo code</0> applied (<2>name</2>).",
                 "sign_in_to_purchase": "Sign in to Purchase",
-                "title": "Order Review"
+                "title": "Order Review",
+                "promo_code_applied": "<0>{{code}}</0> applied:"
               },
               "page_title": {
                 "default": "Pokémon GO Web Store",
@@ -3971,7 +3975,8 @@
                 "select_payment_method": "Select your payment method",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to Niantic's Terms of Service.",
                 "checkbox_error": "Please confirm your age and agree to Niantic’s Terms of Service before proceeding to payment.",
-                "settings": "Settings"
+                "settings": "Settings",
+                "vendor_change_notification": "Hi there! You are seeing this new Payment Method page because we are updating our payment vendor"
               },
               "sku": {
                 "description": {
@@ -4191,7 +4196,10 @@
                 "signout_paypay_fail": "Failed to sign out of PayPay.",
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
-              }
+              },
+              "settings": "Settings: Pokémon GO Web Store",
+              "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
+              "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled."
             }
           }
         },
@@ -8067,7 +8075,10 @@
                 "all_events": "所有活動",
                 "featured_in_person_events": "精選現場活動",
                 "in_person_tickets": "現場入場券",
-                "shortcut_uppercase": "新增捷徑"
+                "shortcut_uppercase": "新增捷徑",
+                "switch_card": "切換信用卡",
+                "delete_stored_card_option": "刪除已儲存的卡片選項",
+                "reward_road": "獎勵之路"
               },
               "confirmation": {
                 "failed": {
@@ -8152,7 +8163,8 @@
                 "promo_code_info": "已兌換{{code}}（{{sku}}）。",
                 "promotion_detail": "已兌換<0>促銷代碼</0>（<2>名稱</2>）。",
                 "sign_in_to_purchase": "登入以購買",
-                "title": "購買紀錄"
+                "title": "購買紀錄",
+                "promo_code_applied": "已套用<0>{{code}}</0>："
               },
               "page_title": {
                 "default": "Pokémon GO Web Store",
@@ -8176,7 +8188,8 @@
                 "select_payment_method": "選擇付款方式",
                 "terms_of_service": "我已年滿18歲，並已閱讀、了解且同意《Niantic服務條款》之所有內容。",
                 "checkbox_error": "請確認年齡並同意Niantic公司的使用條款後，再前往付款。",
-                "settings": "設定"
+                "settings": "設定",
+                "vendor_change_notification": "嗨！我們正在更新付款服務供應商，因此您會看到這個新的付款方式頁面"
               },
               "sku": {
                 "description": {
@@ -8396,7 +8409,10 @@
                 "signout_paypay_fail": "登出PayPay失敗。",
                 "signout_paypay_success": "已成功登出PayPay。",
                 "terms_of_service": "若要前往下個步驟，請先確認您已成年並同意<1>Niantic的使用條款</1>與<3>隱私權策略</3>。"
-              }
+              },
+              "settings": "設定：Pokémon GO Web Store",
+              "redirect_switch_card_1": "為了切換至已保存的其他信用卡/金融卡，將跳轉至下列網址：https://www.sbpayment.co.jp/",
+              "redirect_switch_card_2": "若欲刪除已保存的信用卡/金融卡，請使用<1>設定</1>。將刪除所有已保存為付款方式的信用卡/金融卡資訊，並會自動取消您的訂閱。"
             }
           },
           "en": {
@@ -8573,7 +8589,10 @@
                 "all_events": "All Events",
                 "featured_in_person_events": "Featured In-Person Events",
                 "in_person_tickets": "In-Person Tickets",
-                "shortcut_uppercase": "ADD SHORTCUT"
+                "shortcut_uppercase": "ADD SHORTCUT",
+                "switch_card": "Switch Card",
+                "delete_stored_card_option": "Delete Stored Card Option",
+                "reward_road": "REWARD ROAD"
               },
               "confirmation": {
                 "failed": {
@@ -8658,7 +8677,8 @@
                 "promo_code_info": "{{code}} applied ({{sku}}).",
                 "promotion_detail": "<0>promo code</0> applied (<2>name</2>).",
                 "sign_in_to_purchase": "Sign in to Purchase",
-                "title": "Order Review"
+                "title": "Order Review",
+                "promo_code_applied": "<0>{{code}}</0> applied:"
               },
               "page_title": {
                 "default": "Pokémon GO Web Store",
@@ -8682,7 +8702,8 @@
                 "select_payment_method": "Select your payment method",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to Niantic's Terms of Service.",
                 "checkbox_error": "Please confirm your age and agree to Niantic’s Terms of Service before proceeding to payment.",
-                "settings": "Settings"
+                "settings": "Settings",
+                "vendor_change_notification": "Hi there! You are seeing this new Payment Method page because we are updating our payment vendor"
               },
               "sku": {
                 "description": {
@@ -8902,7 +8923,10 @@
                 "signout_paypay_fail": "Failed to sign out of PayPay.",
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
-              }
+              },
+              "settings": "Settings: Pokémon GO Web Store",
+              "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
+              "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled."
             }
           }
         },
