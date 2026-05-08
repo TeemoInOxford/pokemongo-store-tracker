@@ -4232,6 +4232,8 @@
                 "shortcut_uppercase": "ADD SHORTCUT",
                 "switch_card": "Switch Card",
                 "delete_stored_card_option": "Delete Stored Card Option",
+                "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
+                "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled.",
                 "reward_road": "REWARD ROAD"
               },
               "confirmation": {
@@ -8812,6 +8814,8 @@
                 "shortcut_uppercase": "新增捷徑",
                 "switch_card": "切換信用卡",
                 "delete_stored_card_option": "刪除已儲存的卡片選項",
+                "redirect_switch_card_1": "為了切換至已保存的其他信用卡/金融卡，將跳轉至下列網址：https://www.sbpayment.co.jp/",
+                "redirect_switch_card_2": "若欲刪除已保存的信用卡/金融卡，請使用<1>設定</1>。將刪除所有已保存為付款方式的信用卡/金融卡資訊，並會自動取消您的訂閱。",
                 "reward_road": "獎勵之路"
               },
               "confirmation": {
@@ -9326,6 +9330,8 @@
                 "shortcut_uppercase": "ADD SHORTCUT",
                 "switch_card": "Switch Card",
                 "delete_stored_card_option": "Delete Stored Card Option",
+                "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
+                "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled.",
                 "reward_road": "REWARD ROAD"
               },
               "confirmation": {
