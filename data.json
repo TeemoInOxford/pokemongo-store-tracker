@@ -682,6 +682,119 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-spring-marathon-deluxe",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: Spring Marathon"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104644937,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: Spring Marathon",
+                "gameValues": ""
+              },
+              {
                 "skuId": "web-event-pass-plusrank-may-26-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-may-26-ultra",
                 "description": " ",
@@ -1061,6 +1174,126 @@
                 "gameValues": ""
               },
               {
+                "skuId": "web-spring-marathon-deluxe-6",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe-6",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.b.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 35000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 35000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: Spring Marathon"
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": " + 6 Ranks"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 84,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104679435,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: Spring Marathon + 6 Ranks",
+                "gameValues": ""
+              },
+              {
                 "skuId": "web-lechonk-cd-ticket-box-ultra",
                 "localizationNameKey": "sku.name.web-lechonk-cd-ticket-box-ultra",
                 "description": " ",
@@ -1150,6 +1383,140 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "Lechonk Community Day Ultra Ticket Box",
+                "gameValues": ""
+              },
+              {
+                "skuId": "web-spring-marathon-deluxe-ultra",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 45000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 45000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass Deluxe: Spring Marathon"
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": " + 6 Ranks"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 20,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Revive"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Premium Battle Pass"
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Egg Incubator"
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Super Incubator"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Max Potion"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 108,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104713244,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass Deluxe: Spring Marathon Ultra Box",
                 "gameValues": ""
               }
             ]
@@ -4895,6 +5262,119 @@
             "metadataList": [],
             "itemsList": [
               {
+                "skuId": "web-spring-marathon-deluxe",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.a.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 25000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 25000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass豪華版：春季遠足"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "高級球"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "活力塊"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "特級對戰入場券"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "全滿藥"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 0,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 60,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104644937,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass豪華版：春季遠足",
+                "gameValues": ""
+              },
+              {
                 "skuId": "web-event-pass-plusrank-may-26-ultra",
                 "localizationNameKey": "sku.name.web-event-pass-plusrank-may-26-ultra",
                 "description": " ",
@@ -5274,6 +5754,126 @@
                 "gameValues": ""
               },
               {
+                "skuId": "web-spring-marathon-deluxe-6",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe-6",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle1.sprite.b.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 35000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 35000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass豪華版：春季遠足"
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": " +6 級"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "高級球"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "活力塊"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "特級對戰入場券"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "全滿藥"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 84,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104679435,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass豪華版：春季遠足+6級",
+                "gameValues": ""
+              },
+              {
                 "skuId": "web-lechonk-cd-ticket-box-ultra",
                 "localizationNameKey": "sku.name.web-lechonk-cd-ticket-box-ultra",
                 "description": " ",
@@ -5363,6 +5963,140 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "愛吃豚社群日究極入場券禮盒",
+                "gameValues": ""
+              },
+              {
+                "skuId": "web-spring-marathon-deluxe-ultra",
+                "localizationNameKey": "sku.name.web-spring-marathon-deluxe-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle.xmas.medium.1.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 45000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 45000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778259600000,
+                  "endTimeMs": 1779166800000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "BADGE_EVENT_0193",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "GO Pass豪華版：春季遠足"
+                  },
+                  {
+                    "itemId": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+                    "quantity": 600,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": " +6 級"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 20,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "高級球"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_REVIVE",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "活力塊"
+                  },
+                  {
+                    "itemId": "ITEM_PAID_RAID_TICKET",
+                    "quantity": 2,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "特級對戰入場券"
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_BASIC",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "孵化器"
+                  },
+                  {
+                    "itemId": "ITEM_INCUBATOR_SUPER",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "超級孵化器"
+                  },
+                  {
+                    "itemId": "ITEM_MAX_POTION",
+                    "quantity": 10,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "全滿藥"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_PRIMARY_TAG",
+                    "value": "{\"locKey\":\"sku.tag.limited_time_only\",\"values\":{}}"
+                  },
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "1"
+                  },
+                  {
+                    "key": "FRONTEND_BADGE",
+                    "value": "{\"type\":\"WEB_ONLY\",\"filename\":\"badge__web_only.png\"}"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  5,
+                  2,
+                  1
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 108,
+                "skuTemplateId": "pgo_Template1",
+                "lastUpdateTimeMs": 1778104713244,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "GO Pass豪華版：春季遠足高級禮盒",
                 "gameValues": ""
               }
             ]
