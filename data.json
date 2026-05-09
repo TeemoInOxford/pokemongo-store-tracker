@@ -4566,9 +4566,7 @@
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
               },
-              "settings": "Settings: Pokémon GO Web Store",
-              "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
-              "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled."
+              "settings": "Settings: Pokémon GO Web Store"
             }
           }
         },
@@ -9148,9 +9146,7 @@
                 "signout_paypay_success": "已成功登出PayPay。",
                 "terms_of_service": "若要前往下個步驟，請先確認您已成年並同意<1>Niantic的使用條款</1>與<3>隱私權策略</3>。"
               },
-              "settings": "設定：Pokémon GO Web Store",
-              "redirect_switch_card_1": "為了切換至已保存的其他信用卡/金融卡，將跳轉至下列網址：https://www.sbpayment.co.jp/",
-              "redirect_switch_card_2": "若欲刪除已保存的信用卡/金融卡，請使用<1>設定</1>。將刪除所有已保存為付款方式的信用卡/金融卡資訊，並會自動取消您的訂閱。"
+              "settings": "設定：Pokémon GO Web Store"
             }
           },
           "en": {
@@ -9664,9 +9660,7 @@
                 "signout_paypay_success": "Successfully signed out of PayPay.",
                 "terms_of_service": "By proceeding, I confirm I am an adult and agree to <1>Niantic's Terms of Service</1> and <3>Privacy Policy</3>."
               },
-              "settings": "Settings: Pokémon GO Web Store",
-              "redirect_switch_card_1": "You are being redirected to https://www.sbpayment.co.jp/ to switch your stored card option.",
-              "redirect_switch_card_2": "If you would like to delete your stored card options, please visit <1>settings</1>. If you delete all stored card payment methods, your subscription will be automatically canceled."
+              "settings": "Settings: Pokémon GO Web Store"
             }
           }
         },
