@@ -1426,6 +1426,90 @@
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "GO Pass Deluxe: Spring Marathon Ultra Box",
                 "gameValues": ""
+              },
+              {
+                "skuId": "web-deino-cdc-box-ultra",
+                "localizationNameKey": "sku.name.web-deino-cdc-box-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778697900000,
+                  "endTimeMs": 1778976000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_03",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ticket"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "Ultra Ball"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  2,
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1778697037647,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "Deino Community Day Classic Ultra Ticket Box",
+                "gameValues": ""
               }
             ]
           },
@@ -4240,7 +4324,8 @@
                 "review_order": "Review Order : Pokémon GO Web Store",
                 "review_sbps_order": "Review Sbps Order : Pokémon GO Web Store",
                 "support": "Support : Pokémon GO Web Store",
-                "unsupported": "Unsupported : Pokémon GO Web Store"
+                "unsupported": "Unsupported : Pokémon GO Web Store",
+                "settings": "Settings: Pokémon GO Web Store"
               },
               "profile": {
                 "no_orders_yet": "No orders yet",
@@ -5913,6 +5998,90 @@
                 "isSubscribable": false,
                 "subscriptionContentCategoriesList": [],
                 "localizedName": "GO Pass豪華版：春季遠足高級禮盒",
+                "gameValues": ""
+              },
+              {
+                "skuId": "web-deino-cdc-box-ultra",
+                "localizationNameKey": "sku.name.web-deino-cdc-box-ultra",
+                "description": " ",
+                "imageUrl": "https://storage.googleapis.com/platform-webstore-rel-assets/pgo/sku_assets/bundle2.sprite.d.png",
+                "state": 2,
+                "priceList": [
+                  {
+                    "priceE6": 10000000000,
+                    "currency": "IDR",
+                    "type": 2,
+                    "priceMetaData": {
+                      "originalPriceE6": 10000000000,
+                      "discountPercentage": 0
+                    }
+                  }
+                ],
+                "webstoreLimitInfo": {
+                  "purchaseLimit": 0,
+                  "purchasesRemaining": 0,
+                  "startTimeMs": 1778697900000,
+                  "endTimeMs": 1778976000000
+                },
+                "bundledCurrencyList": [],
+                "bundledItemList": [
+                  {
+                    "itemId": "ITEM_EVENT_TICKET_03",
+                    "quantity": 1,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "入場券"
+                  },
+                  {
+                    "itemId": "ITEM_ULTRA_BALL",
+                    "quantity": 5,
+                    "imageUrl": "",
+                    "contentTagsList": [],
+                    "localizedName": "高級球"
+                  }
+                ],
+                "metadataList": [
+                  {
+                    "key": "FRONTEND_ENABLE_TIMER",
+                    "value": "true"
+                  },
+                  {
+                    "key": "FRONTEND_DISPLAY_END_DATE",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_AUTO_APPLY_NEW_TAG",
+                    "value": "false"
+                  },
+                  {
+                    "key": "FRONTEND_PURCHASE_LIMIT",
+                    "value": "0"
+                  },
+                  {
+                    "key": "FRONTEND_MEDIA_BACKGROUND_COLOR",
+                    "value": "{\"backgroundColor\": \"#DAEBE9\"}"
+                  },
+                  {
+                    "key": "FRONTEND_BG_TAG_COLOR",
+                    "value": "#608183"
+                  }
+                ],
+                "category": "BUNDLE",
+                "sortOrder": 1,
+                "localizationEventKey": "",
+                "vendorList": [
+                  2,
+                  1,
+                  5
+                ],
+                "catalogType": 2,
+                "rewardedSpendPoints": 24,
+                "skuTemplateId": "default",
+                "lastUpdateTimeMs": 1778697037647,
+                "linkedSkuId": "",
+                "isSubscribable": false,
+                "subscriptionContentCategoriesList": [],
+                "localizedName": "單首龍經典社群日究極入場券禮盒",
                 "gameValues": ""
               }
             ]
@@ -8728,7 +8897,8 @@
                 "review_order": "購買紀錄—Pokémon GO Web Store",
                 "review_sbps_order": "軟銀付款服務購買紀錄—Pokémon GO Web Store",
                 "support": "支援—Pokémon GO Web Store",
-                "unsupported": "不支援—Pokémon GO Web Store"
+                "unsupported": "不支援—Pokémon GO Web Store",
+                "settings": "設定：Pokémon GO Web Store"
               },
               "profile": {
                 "no_orders_yet": "沒有訂單",
@@ -9242,7 +9412,8 @@
                 "review_order": "Review Order : Pokémon GO Web Store",
                 "review_sbps_order": "Review Sbps Order : Pokémon GO Web Store",
                 "support": "Support : Pokémon GO Web Store",
-                "unsupported": "Unsupported : Pokémon GO Web Store"
+                "unsupported": "Unsupported : Pokémon GO Web Store",
+                "settings": "Settings: Pokémon GO Web Store"
               },
               "profile": {
                 "no_orders_yet": "No orders yet",
